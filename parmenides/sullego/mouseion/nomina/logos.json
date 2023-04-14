@@ -1,0 +1,1572 @@
+{
+  "logos": [
+    {
+      "greek": "ὁ δοῦλος",
+      "translation": "slaaf",
+      "chapter": 1
+    },
+    {
+      "greek": "ὁ θεός",
+      "translation": "god",
+      "chapter": 1
+    },
+    {
+      "greek": "ὁ ὅνος",
+      "translation": "ezel",
+      "chapter": 1
+    },
+    {
+      "greek": "ὁ ἀσκός",
+      "translation": "wijnzak",
+      "chapter": 1
+    },
+    {
+      "greek": "ὁ Bίοσ",
+      "translation": "leven",
+      "chapter": 2
+    },
+    {
+      "greek": "ὁ οἶνος",
+      "translation": "wijn",
+      "chapter": 2
+    },
+    {
+      "greek": "ὁ πυλωρός",
+      "translation": "poortwachter",
+      "chapter": 2
+    },
+    {
+      "greek": "ὁ ἄνθρωπος",
+      "translation": "mens, persoon",
+      "chapter": 3
+    },
+    {
+      "greek": "ὁ θάνατος",
+      "translation": "dood",
+      "chapter": 3
+    },
+    {
+      "greek": "ὁ νεκρός",
+      "translation": "lijk, dode",
+      "chapter": 3
+    },
+    {
+      "greek": "ὁ πόνος",
+      "translation": "inspanning, moeite, werk, pijn, nood",
+      "chapter": 3
+    },
+    {
+      "greek": "τὸ ἆθλον",
+      "translation": "(wedstrijd)prijs",
+      "chapter": 4
+    },
+    {
+      "greek": "ἄριστος",
+      "translation": "best",
+      "chapter": 4
+    },
+    {
+      "greek": "ἔνιοι",
+      "translation": "sommige, enige",
+      "chapter": 4
+    },
+    {
+      "greek": "τό ἔργον",
+      "translation": "werk, daad",
+      "chapter": 4
+    },
+    {
+      "greek": "ὁ θρόνος",
+      "translation": "troon, (ere)zetel",
+      "chapter": 4
+    },
+    {
+      "greek": "τό κακόν",
+      "translation": "onheil, ongeluk, ramp",
+      "chapter": 4
+    },
+    {
+      "greek": "ὁ, τό",
+      "translation": "de, het",
+      "chapter": 4
+    },
+    {
+      "greek": "Ἀθῆναι, αἱ",
+      "translation": "Athene",
+      "chapter": 5
+    },
+    {
+      "greek": "αἰτία, ἡ",
+      "translation": "reden, oorzaak",
+      "chapter": 5
+    },
+    {
+      "greek": "δάκρυον, τό",
+      "translation": "traan",
+      "chapter": 5
+    },
+    {
+      "greek": "διάνοια, ἡ",
+      "translation": "verstand, denken, gedachte",
+      "chapter": 5
+    },
+    {
+      "greek": "δόξα, ἡ",
+      "translation": "1. mening; 2. reputatie, aanzien, roem",
+      "chapter": 5
+    },
+    {
+      "greek": "θέατρον, τό",
+      "translation": "theater",
+      "chapter": 5
+    },
+    {
+      "greek": "λύπη, ἡ",
+      "translation": "verdriet, smart",
+      "chapter": 5
+    },
+    {
+      "greek": "μῦθος, ὁ",
+      "translation": "verhaal, mythe",
+      "chapter": 5
+    },
+    {
+      "greek": "νεανίας, ὁ",
+      "translation": "jongeman",
+      "chapter": 5
+    },
+    {
+      "greek": "νοῦς, ὁ",
+      "translation": "geest, verstand",
+      "chapter": 5
+    },
+    {
+      "greek": "ὁ/ἡ/τό",
+      "translation": "de, het",
+      "chapter": 5
+    },
+    {
+      "greek": "ὁδός, ἡ",
+      "translation": "weg",
+      "chapter": 5
+    },
+    {
+      "greek": "ὀστοῦν, τό",
+      "translation": "bot",
+      "chapter": 5
+    },
+    {
+      "greek": "παλαιός",
+      "translation": "oud, van vroeger",
+      "chapter": 5
+    },
+    {
+      "greek": "ποιητής, ὁ",
+      "translation": "dichter",
+      "chapter": 5
+    },
+    {
+      "greek": "πολίτης, ὁ",
+      "translation": "burger",
+      "chapter": 5
+    },
+    {
+      "greek": "σκηνή, ἡ",
+      "translation": "1. tent, hut; 2. toneelgebouw",
+      "chapter": 5
+    },
+    {
+      "greek": "σοφία, ἡ",
+      "translation": "vakkundigheid, wijsheid, slimheid",
+      "chapter": 5
+    },
+    {
+      "greek": "σοφός",
+      "translation": "verstanding, wijs, slim",
+      "chapter": 5
+    },
+    {
+      "greek": "τέχνη, ἡ",
+      "translation": "kunst, vak, vakbekwaamheid",
+      "chapter": 5
+    },
+    {
+      "greek": "τυχή, ἡ",
+      "translation": "1. toeval, lot; 2. tegenslag, ongeluk",
+      "chapter": 5
+    },
+    {
+      "greek": "φόνος, ὁ",
+      "translation": "moord",
+      "chapter": 5
+    },
+    {
+      "greek": "αἰσχρός",
+      "translation": "lelijk, schandelijk",
+      "chapter": 6
+    },
+    {
+      "greek": "ἀργυροῦς",
+      "translation": "zilveren",
+      "chapter": 6
+    },
+    {
+      "greek": "δεινός",
+      "translation": "1. geducht 2. verschrikkelijk",
+      "chapter": 6
+    },
+    {
+      "greek": "δεσπότης, ὁ",
+      "translation": "heer des huizes, meester, heerser",
+      "chapter": 6
+    },
+    {
+      "greek": "δίκη, ἡ",
+      "translation": "vonnis, straf",
+      "chapter": 6
+    },
+    {
+      "greek": "θάλαττα, ἡ",
+      "translation": "zee",
+      "chapter": 6
+    },
+    {
+      "greek": "μακρός",
+      "translation": "lang",
+      "chapter": 6
+    },
+    {
+      "greek": "ναύτης, ὁ",
+      "translation": "zeeman, matroos",
+      "chapter": 6
+    },
+    {
+      "greek": "ὅπλα, τά",
+      "translation": "wapens",
+      "chapter": 6
+    },
+    {
+      "greek": "πλοῖον, τό",
+      "translation": "schip",
+      "chapter": 6
+    },
+    {
+      "greek": "στόλος, ὁ",
+      "translation": "expeditie, reis, tocht",
+      "chapter": 6
+    },
+    {
+      "greek": "στρατηγός, ὁ",
+      "translation": "veldheer, aanvoerder, generaal",
+      "chapter": 6
+    },
+    {
+      "greek": "στρατιώτης, ὁ",
+      "translation": "soldaat",
+      "chapter": 6
+    },
+    {
+      "greek": "φαῦλος",
+      "translation": "onbetekenend, waardeloos",
+      "chapter": 6
+    },
+    {
+      "greek": "χαλκοῦς",
+      "translation": "bronzen, koperen",
+      "chapter": 6
+    },
+    {
+      "greek": "χρυσοῦς",
+      "translation": "gouden",
+      "chapter": 6
+    },
+    {
+      "greek": "Αχαϊκός",
+      "translation": "Achaïsch, Grieks",
+      "chapter": 6
+    },
+    {
+      "greek": "κόλπος, ὁ",
+      "translation": "baai",
+      "chapter": 6
+    },
+    {
+      "greek": "Βασίλεια, ἡ",
+      "translation": "koningin",
+      "chapter": 6
+    },
+    {
+      "greek": "ἁρπαγή, ἡ",
+      "translation": "roof",
+      "chapter": 6
+    },
+    {
+      "greek": "ιστός, ὁ",
+      "translation": "mast",
+      "chapter": 6
+    },
+    {
+      "greek": "ιστίον, τό",
+      "translation": "zeil",
+      "chapter": 6
+    },
+    {
+      "greek": "εὐνή, ἡ",
+      "translation": "ankersteen (meervoud)",
+      "chapter": 6
+    },
+    {
+      "greek": "νηνεμία, ἡ",
+      "translation": "windstilte",
+      "chapter": 6
+    },
+    {
+      "greek": "ἁκτή, ἡ",
+      "translation": "kust",
+      "chapter": 6
+    },
+    {
+      "greek": "ἄπλοια, ἡ",
+      "translation": "oponthoud, verhindering van de vaart",
+      "chapter": 6
+    },
+    {
+      "greek": "Δάρδανοι",
+      "translation": "Trojanen",
+      "chapter": 6
+    },
+    {
+      "greek": "Ἴλιον",
+      "translation": "Troje",
+      "chapter": 6
+    },
+    {
+      "greek": "Σπάρτη",
+      "translation": "Sparta",
+      "chapter": 6
+    },
+    {
+      "greek": "ἄδικος 2 uitg.",
+      "translation": "onrechtvaardig",
+      "chapter": 7
+    },
+    {
+      "greek": "ἀναγκαῖος",
+      "translation": "noodzakelijk, onvermijdelijk",
+      "chapter": 7
+    },
+    {
+      "greek": "ἄνεμος, ὁ",
+      "translation": "wind",
+      "chapter": 7
+    },
+    {
+      "greek": "ἄξιος + gen.",
+      "translation": "waard, waardig",
+      "chapter": 7
+    },
+    {
+      "greek": "ἀρετή, ἡ",
+      "translation": "voortreffelijkheid, dapperheid, deugd",
+      "chapter": 7
+    },
+    {
+      "greek": "βουλή, ἡ",
+      "translation": "besluit, plan",
+      "chapter": 7
+    },
+    {
+      "greek": "εὔνους 2 uitg.; + dat.",
+      "translation": "welgezind, welwillend, vriendelijk, loyaal (jegens iemand)",
+      "chapter": 7
+    },
+    {
+      "greek": "εὐχή, ἡ",
+      "translation": "gebed, wens",
+      "chapter": 7
+    },
+    {
+      "greek": "θεός, ἡ",
+      "translation": "godin",
+      "chapter": 7
+    },
+    {
+      "greek": "θυσία, ἡ",
+      "translation": "offer",
+      "chapter": 7
+    },
+    {
+      "greek": "ἱερός",
+      "translation": "heilig",
+      "chapter": 7
+    },
+    {
+      "greek": "μέγας/μεγάλη/μέγα, μεγάλου",
+      "translation": "groot",
+      "chapter": 7
+    },
+    {
+      "greek": "ὂμοιος + dat.",
+      "translation": "gelijk aan, gelijkend op",
+      "chapter": 7
+    },
+    {
+      "greek": "παρθένος, ἡ",
+      "translation": "meisje",
+      "chapter": 7
+    },
+    {
+      "greek": "πολύς/πολλή/πολύ, πολλοῦ",
+      "translation": "veel",
+      "chapter": 7
+    },
+    {
+      "greek": "οἱ πολλοί",
+      "translation": "de grote massa, de meesten",
+      "chapter": 7
+    },
+    {
+      "greek": "στρατιά, ἡ",
+      "translation": "leger",
+      "chapter": 7
+    },
+    {
+      "greek": "τέκνον, τό",
+      "translation": "kind",
+      "chapter": 7
+    },
+    {
+      "greek": "τιμωρία, ἡ",
+      "translation": "wraak, straf",
+      "chapter": 7
+    },
+    {
+      "greek": "φοβερός",
+      "translation": "angstaanjagend, vreselijk",
+      "chapter": 7
+    },
+    {
+      "greek": "αὐτός",
+      "translation": "zelf",
+      "chapter": 8
+    },
+    {
+      "greek": "αὐτός (+ voorafg. lidw.)",
+      "translation": "dezelfde/hetzelfde",
+      "chapter": 8
+    },
+    {
+      "greek": "αὐτός (niet in nom.)",
+      "translation": "hij,zij,het",
+      "chapter": 8
+    },
+    {
+      "greek": "ἐνιαὐτός, ὁ",
+      "translation": "jaar",
+      "chapter": 8
+    },
+    {
+      "greek": "ἡμέρα, ἡ  ",
+      "translation": "dag",
+      "chapter": 8
+    },
+    {
+      "greek": "ἡσυχία, ἡ",
+      "translation": "rust",
+      "chapter": 8
+    },
+    {
+      "greek": "θνητός adi.",
+      "translation": "sterfelijk",
+      "chapter": 8
+    },
+    {
+      "greek": "θνητός subst.",
+      "translation": "sterveling",
+      "chapter": 8
+    },
+    {
+      "greek": "θυμός, ὁ",
+      "translation": "temperament, woede",
+      "chapter": 8
+    },
+    {
+      "greek": "καιρός, ὁ",
+      "translation": "juiste tijd(stip), beslissend moment",
+      "chapter": 8
+    },
+    {
+      "greek": "κεφαλή, ἡ",
+      "translation": "hoofd",
+      "chapter": 8
+    },
+    {
+      "greek": "λαμπρός",
+      "translation": "schitterend",
+      "chapter": 8
+    },
+    {
+      "greek": "μονός",
+      "translation": "alleen",
+      "chapter": 8
+    },
+    {
+      "greek": "νική, ἡ",
+      "translation": "overwinning",
+      "chapter": 8
+    },
+    {
+      "greek": "ὁ δέ",
+      "translation": "hij, de ander (ander subject dan in voorafgaande zin)",
+      "chapter": 8
+    },
+    {
+      "greek": "οἰκία, ἡ",
+      "translation": "huis",
+      "chapter": 8
+    },
+    {
+      "greek": "πολέμιος, ὁ",
+      "translation": "vijand",
+      "chapter": 8
+    },
+    {
+      "greek": "σεμνός",
+      "translation": "eerbiedwaardig, indrukwekkend",
+      "chapter": 8
+    },
+    {
+      "greek": "σιγή, ἡ",
+      "translation": "het zwijgen, stilte",
+      "chapter": 8
+    },
+    {
+      "greek": "σιγῇ",
+      "translation": "zwijgend, in stilte",
+      "chapter": 8
+    },
+    {
+      "greek": "τιμή, ἡ",
+      "translation": "eer, waarde, aanzien, ambt",
+      "chapter": 8
+    },
+    {
+      "greek": "φιλοσόφος, ὁ,",
+      "translation": "wijsgeer, filosoof",
+      "chapter": 8
+    },
+    {
+      "greek": "χαλκός, ὁ",
+      "translation": "brons, koper",
+      "chapter": 8
+    },
+    {
+      "greek": "ἀγαθός",
+      "translation": "goed",
+      "chapter": 9
+    },
+    {
+      "greek": "ἄγγελος, ὁ",
+      "translation": "bode",
+      "chapter": 9
+    },
+    {
+      "greek": "ἄλλος/ἄλλη/ἄλλον",
+      "translation": "ander, overig",
+      "chapter": 9
+    },
+    {
+      "greek": "δεῖπνον, τό",
+      "translation": "(avond)maaltijd",
+      "chapter": 9
+    },
+    {
+      "greek": "δῆλος",
+      "translation": "duidelijk",
+      "chapter": 9
+    },
+    {
+      "greek": "ἐγώ (ἐμοῦ/μου, ἐμοί/μοι,ἐμέ/με)",
+      "translation": "ik",
+      "chapter": 9
+    },
+    {
+      "greek": "ἐμός",
+      "translation": "van mij, mijn (eigen)",
+      "chapter": 9
+    },
+    {
+      "greek": "ἐχθρός, ὁ",
+      "translation": "vijand",
+      "chapter": 9
+    },
+    {
+      "greek": "ἐχθρός + dat.",
+      "translation": "vijandig gezind",
+      "chapter": 9
+    },
+    {
+      "greek": "ἡμεῖς (ἡμῶν, ἡμῖν, ἡμᾶς)",
+      "translation": "wij",
+      "chapter": 9
+    },
+    {
+      "greek": "ἡμέτερος",
+      "translation": "van ons, onze (eigen)",
+      "chapter": 9
+    },
+    {
+      "greek": "θαυμαστός",
+      "translation": "wonderlijk, bewonderenswaardig, verbazingwekkend",
+      "chapter": 9
+    },
+    {
+      "greek": "καινός",
+      "translation": "nieuw",
+      "chapter": 9
+    },
+    {
+      "greek": "κακός",
+      "translation": "slecht, vreselijk",
+      "chapter": 9
+    },
+    {
+      "greek": "λόγος, ὁ",
+      "translation": "woord, gesprek, verhaal, bericht",
+      "chapter": 9
+    },
+    {
+      "greek": "σός",
+      "translation": "van jou/u, jouw/uw (eigen)",
+      "chapter": 9
+    },
+    {
+      "greek": "σπουδαῖος",
+      "translation": "haastig, ijverig, ernstig, belangrijk",
+      "chapter": 9
+    },
+    {
+      "greek": "στέφανος, ὁ",
+      "translation": "krans",
+      "chapter": 9
+    },
+    {
+      "greek": "σύ (σοῦ/σου, σοί/σοι, σέ/σε)",
+      "translation": "jij, u",
+      "chapter": 9
+    },
+    {
+      "greek": "σωφροσύνη, ἡ",
+      "translation": "gezond verstand, wijsheid, zelfbeheersing, ingetogenheid",
+      "chapter": 9
+    },
+    {
+      "greek": "ὑμεῖς (ὑμῶν, ὑμῖν, ὑμᾶς)",
+      "translation": "jullie, u",
+      "chapter": 9
+    },
+    {
+      "greek": "ὑμέτερος",
+      "translation": "van jullie/u, jullie/uw (eigen)",
+      "chapter": 9
+    },
+    {
+      "greek": "φίλος, ὁ",
+      "translation": "vriend",
+      "chapter": 9
+    },
+    {
+      "greek": "φόβος, ὁ",
+      "translation": "vrees",
+      "chapter": 9
+    },
+    {
+      "greek": "ἀγορά, ἡ",
+      "translation": "markt",
+      "chapter": 10
+    },
+    {
+      "greek": "ἀδύνατος 2 uitg.",
+      "translation": "niet in staat, onmogelijk",
+      "chapter": 10
+    },
+    {
+      "greek": "ἑαυτοῦ/ἑαυτῆς/ἑαυτοῦ",
+      "translation": "zich(zelf), hem-/haar-/hetzelf",
+      "chapter": 10
+    },
+    {
+      "greek": "ἐκεῖνος/ἐκείνη/ἐκεῖνο",
+      "translation": "1. die daar, dat daar, 2. hij, zij, dat (met nadruk)",
+      "chapter": 10
+    },
+    {
+      "greek": "ἐμαυτοῦ/ἐμαυτῆς",
+      "translation": "mijzelf",
+      "chapter": 10
+    },
+    {
+      "greek": "ἔρημος",
+      "translation": "eenzaam, verlaten, +gen. beroofd van, zonder",
+      "chapter": 10
+    },
+    {
+      "greek": "ἑταῖρος, ὁ",
+      "translation": "makker, vriend",
+      "chapter": 10
+    },
+    {
+      "greek": "ἥλιος, ὁ",
+      "translation": "zon",
+      "chapter": 10
+    },
+    {
+      "greek": "ἱμάτιον, τό",
+      "translation": "mantel",
+      "chapter": 10
+    },
+    {
+      "greek": "καθαρός",
+      "translation": "rein, schoon",
+      "chapter": 10
+    },
+    {
+      "greek": "καλός",
+      "translation": "mooi, goed, passend",
+      "chapter": 10
+    },
+    {
+      "greek": "ὅδε/ήδε/τόδε",
+      "translation": "deze, dit; de/het volgende",
+      "chapter": 10
+    },
+    {
+      "greek": "ὀλίγος",
+      "translation": "weinig",
+      "chapter": 10
+    },
+    {
+      "greek": "οὐρανός, ὁ",
+      "translation": "hemel",
+      "chapter": 10
+    },
+    {
+      "greek": "οὗτος/αὕτη/τοῦτο",
+      "translation": "1. deze, die, dit, dat (binnen ons bereik) 2. hij, zij (met nadruk); de/het laatstgenoemde",
+      "chapter": 10
+    },
+    {
+      "greek": "πάντες",
+      "translation": "alle(n)",
+      "chapter": 10
+    },
+    {
+      "greek": "πλεῖστος",
+      "translation": "meest",
+      "chapter": 10
+    },
+    {
+      "greek": "σεαυτοῦ/σεαυτῆς",
+      "translation": "jezelf",
+      "chapter": 10
+    },
+    {
+      "greek": "τίς;",
+      "translation": "wie?",
+      "chapter": 10
+    },
+    {
+      "greek": "φιλοσοφία, ἡ",
+      "translation": "wijsbegeerte, filosofie",
+      "chapter": 10
+    },
+    {
+      "greek": "χρόνος, ὁ",
+      "translation": "tijd",
+      "chapter": 10
+    },
+    {
+      "greek": "ἁγών, ἀγῶνος, ὁ",
+      "translation": "wedstrijd, strijd",
+      "chapter": 11
+    },
+    {
+      "greek": "ἀνήρ, ἀνδρός, ὁ",
+      "translation": "man",
+      "chapter": 11
+    },
+    {
+      "greek": "γαστήρ, γαστρός, ἡ",
+      "translation": "maag, buik",
+      "chapter": 11
+    },
+    {
+      "greek": "γυνή, γυναικός, ἡ",
+      "translation": "vrouw",
+      "chapter": 11
+    },
+    {
+      "greek": "ἕκαστος",
+      "translation": "elk",
+      "chapter": 11
+    },
+    {
+      "greek": "ἡγεμών, ἡγεμόνος, ὁ",
+      "translation": "gids, leider",
+      "chapter": 11
+    },
+    {
+      "greek": "θεράπων, θεράποντος, ὁ",
+      "translation": "bediende, dienaar",
+      "chapter": 11
+    },
+    {
+      "greek": "θυγάτηρ, θυγατρός, ἡ",
+      "translation": "dochter",
+      "chapter": 11
+    },
+    {
+      "greek": "µάρτυς, μάρτυρος, ὁ",
+      "translation": "getuige",
+      "chapter": 11
+    },
+    {
+      "greek": "µήτηρ, μητρός, ἡ",
+      "translation": "moeder",
+      "chapter": 11
+    },
+    {
+      "greek": "νύξ, νυκτός, ἡ",
+      "translation": "nacht",
+      "chapter": 11
+    },
+    {
+      "greek": "οἷος betrekkelijk",
+      "translation": "(zodanig) als, (zo)als",
+      "chapter": 11
+    },
+    {
+      "greek": "οἷός τέ εἰμι",
+      "translation": "in staat zijn, kunnen",
+      "chapter": 11
+    },
+    {
+      "greek": "ὅλος",
+      "translation": "(ge)heel, volledig",
+      "chapter": 11
+    },
+    {
+      "greek": "οὐδείς, οὐδενός",
+      "translation": "niemand",
+      "chapter": 11
+    },
+    {
+      "greek": "οὐδέν, οὐδενός",
+      "translation": "niets",
+      "chapter": 11
+    },
+    {
+      "greek": "παῖς, παιδός, ὁ/ἡ",
+      "translation": "1. kind, zoon, dochter, 2. slaaf",
+      "chapter": 11
+    },
+    {
+      "greek": "πατήρ, πατρός, ὁ",
+      "translation": "vader",
+      "chapter": 11
+    },
+    {
+      "greek": "πρᾶγμα, πράγματος, τό",
+      "translation": "zaak, aangelegenheid",
+      "chapter": 11
+    },
+    {
+      "greek": "στρατεία, ἡ",
+      "translation": "veldtocht, expeditie",
+      "chapter": 11
+    },
+    {
+      "greek": "σωτήρ, σωτῆρος, ὁ",
+      "translation": "redder",
+      "chapter": 11
+    },
+    {
+      "greek": "τις/τι, τινος subst.",
+      "translation": "iemand, iets, plur.: sommige(n), enige(n)",
+      "chapter": 11
+    },
+    {
+      "greek": "τίς/ τί, τίνος adi.",
+      "translation": "een, een zekere, plur.: sommige, enige",
+      "chapter": 11
+    },
+    {
+      "greek": "τις/τι, τινος; subst.",
+      "translation": "wie, wat?",
+      "chapter": 11
+    },
+    {
+      "greek": "τίς/ τί, τίνος; adi.",
+      "translation": "welk(e)?",
+      "chapter": 11
+    },
+    {
+      "greek": "τοιοῦτος, τοιαύτη, τοιοῦτο",
+      "translation": "zodanig, dergelijk, zo\u0027n",
+      "chapter": 11
+    },
+    {
+      "greek": "τόπος, ὁ",
+      "translation": "plaats",
+      "chapter": 11
+    },
+    {
+      "greek": "φροντίς, φροντίδος, ἡ",
+      "translation": "gedachte, zorg",
+      "chapter": 11
+    },
+    {
+      "greek": "χειμών ν, χειμῶνος, ὁ",
+      "translation": "winter, storm",
+      "chapter": 11
+    },
+    {
+      "greek": "δαίμων, δαίμονος, ὁ",
+      "translation": "goddelijk wezen, demon",
+      "chapter": 12
+    },
+    {
+      "greek": "ἐναντίος +gen./dat.",
+      "translation": "tegen(over)gesteld aan, strijdig met",
+      "chapter": 12
+    },
+    {
+      "greek": "ἐπιστήμη, ἡ",
+      "translation": "kennis, wetenschap",
+      "chapter": 12
+    },
+    {
+      "greek": "ἔρως, ἔρώτος, ὁ",
+      "translation": "liefde, begeerte",
+      "chapter": 12
+    },
+    {
+      "greek": "μέγιστος",
+      "translation": "grootst, zeer groot",
+      "chapter": 12
+    },
+    {
+      "greek": "ὅς/ἥ/ὅ rel.",
+      "translation": "1. die, dat; 2. (met ingesloten antecedent",
+      "chapter": 12
+    },
+    {
+      "greek": "ὥρα, ἡ,",
+      "translation": "seizoen, tijd van de dag",
+      "chapter": 12
+    },
+    {
+      "greek": "ὥρα (ἐστίν) + inf.",
+      "translation": "het is tijd om te ...",
+      "chapter": 12
+    },
+    {
+      "greek": "ἀθάνατος 2 uitg.",
+      "translation": "onsterfelijk",
+      "chapter": 13
+    },
+    {
+      "greek": "ἄπορος 2 uitg.",
+      "translation": "onbegaanbaar, moeilijk, zonder middelen",
+      "chapter": 13
+    },
+    {
+      "greek": "βασιλεύς, βασιλέως, ὁ",
+      "translation": "koning",
+      "chapter": 13
+    },
+    {
+      "greek": "βοῦς, βοός, ὁ/ἡ",
+      "translation": "rund (stier, koe, os)",
+      "chapter": 13
+    },
+    {
+      "greek": "ἑορτή, ἡ",
+      "translation": "feest",
+      "chapter": 13
+    },
+    {
+      "greek": "Ζεύς, Διός, ὁ",
+      "translation": "Zeus",
+      "chapter": 13
+    },
+    {
+      "greek": "θύρα, ἡ",
+      "translation": "deur; plur.: dubbele deuren, poort",
+      "chapter": 13
+    },
+    {
+      "greek": "ἰσχύς, ἰσχύος",
+      "translation": "kracht",
+      "chapter": 13
+    },
+    {
+      "greek": "ναῦς, νεώς, ἡ",
+      "translation": "schip",
+      "chapter": 13
+    },
+    {
+      "greek": "ὄνομα/ὀνόματος, τό",
+      "translation": "naam",
+      "chapter": 13
+    },
+    {
+      "greek": "πόλις, πόλεως, ἡ",
+      "translation": "stad, stadstaat",
+      "chapter": 13
+    },
+    {
+      "greek": "Σωκράτης, Σκράτους, ὁ",
+      "translation": "Sokrates",
+      "chapter": 13
+    },
+    {
+      "greek": "υἱός, ὁ",
+      "translation": "zoon",
+      "chapter": 13
+    },
+    {
+      "greek": "ὕπνος, ὁ",
+      "translation": "slaap",
+      "chapter": 13
+    },
+    {
+      "greek": "φύσις, φύσεως, ἡ",
+      "translation": "natuur, aard",
+      "chapter": 13
+    },
+    {
+      "greek": "δύναμις, δυνάμεως, ἡ",
+      "translation": "macht, vermogen",
+      "chapter": 14
+    },
+    {
+      "greek": "ἔτος, ἔτους, τό",
+      "translation": "jaar",
+      "chapter": 14
+    },
+    {
+      "greek": "ἦθος, ἤθους, τό",
+      "translation": "karakter, aard",
+      "chapter": 14
+    },
+    {
+      "greek": "κάλλιστος",
+      "translation": "mooist, zeer mooi",
+      "chapter": 14
+    },
+    {
+      "greek": "κόσμος, ὁ",
+      "translation": "sieraad, tooi",
+      "chapter": 14
+    },
+    {
+      "greek": "ὀρθός",
+      "translation": "rechtop, recht",
+      "chapter": 14
+    },
+    {
+      "greek": "ὀφθαλμός, ὁ",
+      "translation": "oog",
+      "chapter": 14
+    },
+    {
+      "greek": "αὐτίκα",
+      "translation": "meteen",
+      "chapter": 14
+    },
+    {
+      "greek": "πλήθος, πλήθους, τό",
+      "translation": "menigte, massa, hoeveelheid",
+      "chapter": 14
+    },
+    {
+      "greek": "φωνή, ἡ",
+      "translation": "stem, geluid",
+      "chapter": 14
+    },
+
+    {
+      "greek": "αἴτιος + gen.",
+      "translation": "verantwoordelijk voor, schuldig aan",
+      "chapter": 15
+    },
+    {
+      "greek": "ἀληθής, ἀληθοῦς",
+      "translation": "waar, werkelijk",
+      "chapter": 15
+    },
+    {
+      "greek": "ἀλλήλους acc. plur.",
+      "translation": "elkaar",
+      "chapter": 15
+    },
+    {
+      "greek": "ἅπας/ἅπασα/ἅπαν, ἅπαντος",
+      "translation": "1. (ge)heel, al, ieder; 2. (plur.) alle(n), alle(s)",
+      "chapter": 15
+    },
+    {
+      "greek": "ἀρχαῖος",
+      "translation": "oud, van vroeger",
+      "chapter": 15
+    },
+    {
+      "greek": "γένος, γένους, τό",
+      "translation": "1. geslacht, afkomst; 2. soort, klasse",
+      "chapter": 15
+    },
+    {
+      "greek": "γλυκύς/γλυκεῖα/γλυκύ, γλυκέος",
+      "translation": "zoet, lief, aangenaam",
+      "chapter": 15
+    },
+    {
+      "greek": "ἑκών/ἑκοῦσα/ἑκον, ἑκόντος",
+      "translation": "vrijwillig, expres",
+      "chapter": 15
+    },
+    {
+      "greek": "ἐνδεής, ἐνδεοῦς + gen.",
+      "translation": "behoeftig, arm aan, gebrekking",
+      "chapter": 15
+    },
+    {
+      "greek": "ἡδονή, ἡ",
+      "translation": "genot, vreugde",
+      "chapter": 15
+    },
+    {
+      "greek": "ἡδύς/ἡδεῖα/ἡδύ, ἡδέος",
+      "translation": "aangenaam, fijn",
+      "chapter": 15
+    },
+    {
+      "greek": "θρασύς/θρασεῖα/θρασύ, θρασέος",
+      "translation": "onverschrokken, vermetel",
+      "chapter": 15
+    },
+    {
+      "greek": "νόμος, ὁ",
+      "translation": "1. gewoonte, gebruik; 2. wet",
+      "chapter": 15
+    },
+    {
+      "greek": "πᾶς/πᾶσα/πᾶν, παντός",
+      "translation": "1. (ge)heel, al, ieder; 2. (plur.) alle(n), alle(s)",
+      "chapter": 15
+    },
+    {
+      "greek": "πλήρης, πλήρους + gen.",
+      "translation": "vol met",
+      "chapter": 15
+    },
+    {
+      "greek": "σαφής, σαφοῦς",
+      "translation": "duidelijk",
+      "chapter": 15
+    },
+    {
+      "greek": "σώφρων, σώφρονος",
+      "translation": "verstanding, wijs, bezonnen, beheerst, ingetogen",
+      "chapter": 15
+    },
+    {
+      "greek": "ἀμφότεροι",
+      "translation": "beide(n)",
+      "chapter": 16
+    },
+    {
+      "greek": "ἀπορία, ἡ",
+      "translation": "radeloosheid, verlegenheid, moeilijkheid",
+      "chapter": 16
+    },
+    {
+      "greek": "ἀρχή, ἡ",
+      "translation": "1. begin; 2. heerschappij",
+      "chapter": 16
+    },
+    {
+      "greek": "βέλτιστος",
+      "translation": "best",
+      "chapter": 16
+    },
+    {
+      "greek": "εἶδος, εἴδους, τό",
+      "translation": "gestalte, uiterlijk, vorm, soort",
+      "chapter": 16
+    },
+    {
+      "greek": "εἷς/μία/ἕν, ἑνός",
+      "translation": "één",
+      "chapter": 16
+    },
+    {
+      "greek": "θῆλυς, θήλεος",
+      "translation": "vrouwelijk",
+      "chapter": 16
+    },
+    {
+      "greek": "ἴσος + dat.",
+      "translation": "gelijk aan, event groot als",
+      "chapter": 16
+    },
+    {
+      "greek": "κοινός + gen.",
+      "translation": "gemeenschappelijk (aan), openbaar",
+      "chapter": 16
+    },
+    {
+      "greek": "κράτιστος",
+      "translation": "sterkst, best",
+      "chapter": 16
+    },
+    {
+      "greek": "κύκλος, ὁ",
+      "translation": "cirkel, kring",
+      "chapter": 16
+    },
+    {
+      "greek": "μέρος, μέρους, τό",
+      "translation": "1. deel; 2. beurt",
+      "chapter": 16
+    },
+    {
+      "greek": "μηχανή, ἡ",
+      "translation": "werktuig, (hulp)middel, list",
+      "chapter": 16
+    },
+    {
+      "greek": "μνήμη, ἡ",
+      "translation": "herinnering, geheugen",
+      "chapter": 16
+    },
+    {
+      "greek": "πρόσωπον, τό",
+      "translation": "gezicht",
+      "chapter": 16
+    },
+    {
+      "greek": "τέτταρες M.F./τέτταρα N., τέτταρων",
+      "translation": "vier",
+      "chapter": 16
+    },
+    {
+      "greek": "τοσοῦτος, τοσαύτη, τοσοῦτο",
+      "translation": "1. zo groot; 2. zoveel",
+      "chapter": 16
+    },
+    {
+      "greek": "τρεῖς M.F./τρία N., τριῶν",
+      "translation": "drie",
+      "chapter": 16
+    },
+    {
+      "greek": "τρίτος",
+      "translation": "derde",
+      "chapter": 16
+    },
+    {
+      "greek": "ὕβρις, ὕβρεως, ἡ",
+      "translation": "overmoed, agressie, arrogantie",
+      "chapter": 16
+    },
+    {
+      "greek": "χείρ, χειρός, ἡ dat.plur. χερσί(ν)",
+      "translation": "hand, arm",
+      "chapter": 16
+    },
+    {
+      "greek": "ἀνδρεῖος",
+      "translation": "dapper",
+      "chapter": 17
+    },
+    {
+      "greek": "γῆ, ἡ",
+      "translation": "aarde, land, grond",
+      "chapter": 17
+    },
+    {
+      "greek": "ἐπιθυμία, ἡ",
+      "translation": "verlangen",
+      "chapter": 17
+    },
+    {
+      "greek": "μέσος",
+      "translation": "middelste, in het midden, midden-",
+      "chapter": 17
+    },
+    {
+      "greek": "ὅσος rel.",
+      "translation": "1. (zo groot) als; 2. (zoveel) als",
+      "chapter": 17
+    },
+    {
+      "greek": "ὅσοι ... = πάντες ... ὅσοι",
+      "translation": "allen die (neutr. ὅσα ... = πάντα ... ὅσα);",
+      "chapter": 17
+    },
+    {
+      "greek": "πάθος, πάθους, τό",
+      "translation": "leed, ongeluk, ramp, ervaring",
+      "chapter": 17
+    },
+    {
+      "greek": "τραῦμα, τραύματος, τό",
+      "translation": "wond",
+      "chapter": 17
+    },
+    {
+      "greek": "φύλαξ, φύλακος, ὁ",
+      "translation": "wachter, bewaker",
+      "chapter": 17
+    },
+    {
+      "greek": "ἀριθμός, ὁ",
+      "translation": "getal, aantal",
+      "chapter": 18
+    },
+    {
+      "greek": "βάρβαρος, ὁ",
+      "translation": "niet-Griek, vreemdeling",
+      "chapter": 18
+    },
+    {
+      "greek": "γνώμη, ἡ",
+      "translation": "inzicht, oordeel, mening",
+      "chapter": 18
+    },
+    {
+      "greek": "δέος, δέους, τό",
+      "translation": "vrees",
+      "chapter": 18
+    },
+    {
+      "greek": "δῆλος",
+      "translation": "duidelijk",
+      "chapter": 18
+    },
+    {
+      "greek": "δῆλός εἰμί + ptc.",
+      "translation": "het is duidelijk dat ik",
+      "chapter": 18
+    },
+    {
+      "greek": "δῆλοι ἤσαν ἀληθῆ λέγοντες",
+      "translation": "het was duidelijk dat ze de waarheid spraken",
+      "chapter": 18
+    },
+    {
+      "greek": "δῆμος, ὁ",
+      "translation": "volk, gemeenschap, burgerij",
+      "chapter": 18
+    },
+    {
+      "greek": "ἐλεύθερος",
+      "translation": "vrij",
+      "chapter": 18
+    },
+    {
+      "greek": "ἔπος, ἔπους, τό",
+      "translation": "verhaal, vers, woord",
+      "chapter": 18
+    },
+    {
+      "greek": "ἱκανός",
+      "translation": "voldoende, geschikt, in staat",
+      "chapter": 18
+    },
+    {
+      "greek": "λοιπός",
+      "translation": "overig",
+      "chapter": 18
+    },
+    {
+      "greek": "τὸ λοιπόν",
+      "translation": "in het vervolg, voortaan",
+      "chapter": 18
+    },
+    {
+      "greek": "οἱ μέν ... οἱ δέ",
+      "translation": "sommigen ... anderen",
+      "chapter": 18
+    },
+    {
+      "greek": "πάτρις, πατρίδος, ἡ",
+      "translation": "vaderland",
+      "chapter": 18
+    },
+    {
+      "greek": "πόλεμος, ὁ",
+      "translation": "oorlog",
+      "chapter": 18
+    },
+    {
+      "greek": "τεῖχος, τείχους, τό",
+      "translation": "muur",
+      "chapter": 18
+    },
+    {
+      "greek": "ὕδωρ, ὕδατος, τό",
+      "translation": "water",
+      "chapter": 18
+    },
+    {
+      "greek": "ἀλήθεια, ἡ",
+      "translation": "waarheid",
+      "chapter": 19
+    },
+    {
+      "greek": "ἀνάγκη, ἡ  ",
+      "translation": "noodzaak, dwang",
+      "chapter": 19
+    },
+    {
+      "greek": "ἀσθενής, ἀσθενοῦς",
+      "translation": "zwak, ziek",
+      "chapter": 19
+    },
+    {
+      "greek": "δουλεία, ἡ",
+      "translation": "slavernij",
+      "chapter": 19
+    },
+    {
+      "greek": "δυνατός",
+      "translation": "in staat",
+      "chapter": 19
+    },
+    {
+      "greek": "εἰκός (ἐστιν)",
+      "translation": "1. het is passend (voor iemand om te ... ); 2. het is waarschijnlijk/evident",
+      "chapter": 19
+    },
+    {
+      "greek": "εὐμενής, εὐμενοῧς",
+      "translation": "welgezind",
+      "chapter": 19
+    },
+    {
+      "greek": "ἰσχυρός",
+      "translation": "krachtig, sterk",
+      "chapter": 19
+    },
+    {
+      "greek": "μάχη, ἡ",
+      "translation": "strijd",
+      "chapter": 19
+    },
+    {
+      "greek": "τάξις, τάξεως, ἡ",
+      "translation": "opstelling, slagorde, gelid",
+      "chapter": 19
+    },
+    {
+      "greek": "τόσοσδε",
+      "translation": "1. zo groot; 2. zoveel",
+      "chapter": 19
+    },
+    {
+      "greek": "φίλος adi.; + dat.",
+      "translation": "geliefd, dierbaar",
+      "chapter": 19
+    },
+    {
+      "greek": "φίλος subst.",
+      "translation": "vriend",
+      "chapter": 19
+    },
+    {
+      "greek": "κινδυνός, ὁ",
+      "translation": "gevaar, risico",
+      "chapter": 19
+    },
+    {
+      "greek": "ἄκρος",
+      "translation": "uitstekend, uiterste van..., top van...",
+      "chapter": 20
+    },
+    {
+      "greek": "γράμμα, γράμματος, τό",
+      "translation": "letter, geschrift",
+      "chapter": 20
+    },
+    {
+      "greek": "δίκη, ἡ",
+      "translation": "1. recht; 2. vonnis, straf ",
+      "chapter": 20
+    },
+    {
+      "greek": "εἰκός (ἐστιν)",
+      "translation": "1. het is hoogstwaarschijnlijk/evident; 2. het is passend (voor iemand om te)",
+      "chapter": 20
+    },
+    {
+      "greek": "ἕτερος",
+      "translation": "de een, de ander (van twee)",
+      "chapter": 20
+    },
+    {
+      "greek": "ἥττων, ἥτονος",
+      "translation": "zwakker, minder",
+      "chapter": 20
+    },    {
+      "greek": "λίθος, ὁ",
+      "translation": "steen",
+      "chapter": 20
+    },
+    {
+      "greek": "μάντις, μάντεως, ὁ",
+      "translation": "ziener, orakelgever",
+      "chapter": 20
+    },
+    {
+      "greek": "ξένος, ὁ",
+      "translation": "vreemdeling",
+      "chapter": 20
+    },    {
+      "greek": "ὄρος, ὄρους ,τό",
+      "translation": "berg, gebergte",
+      "chapter": 20
+    },
+    {
+      "greek": "ποταμός, τό",
+      "translation": "rivier",
+      "chapter": 20
+    },
+    {
+      "greek": "πούς, ποδός, ὁ",
+      "translation": "voet, poet",
+      "chapter": 20
+    },    {
+      "greek": "στρατόπεδον, τό",
+      "translation": "legerplaats",
+      "chapter": 20
+    },
+    {
+      "greek": "σύμμαχος, ὁ",
+      "translation": "bondgenoot",
+      "chapter": 20
+    },
+    {
+      "greek": "τόλμα, ἡ",
+      "translation": "1. durf, brutaliteit; 2. onderneming, waagstuk",
+      "chapter": 20
+    },
+    {
+      "greek": "τόξον, τό",
+      "translation": "boog",
+      "chapter": 20
+    }
+  ]
+}
