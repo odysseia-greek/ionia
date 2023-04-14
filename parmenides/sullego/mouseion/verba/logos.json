@@ -1,0 +1,1067 @@
+{
+  "logos": [
+    {
+      "greek": "λέγω",
+      "translation": "zeggen, spreken",
+      "chapter": 1
+    },
+    {
+      "greek": "πονέω",
+      "translation": "1. werken, zwoegen 2. het zwaar hebben, pijn lijden",
+      "chapter": 1
+    },
+    {
+      "greek": "προβαίνω",
+      "translation": "naar voren komen",
+      "chapter": 1
+    },
+    {
+      "greek": "φέρω",
+      "translation": "dragen, brengen",
+      "chapter": 1
+    },
+    {
+      "greek": "ἀναβαίνω",
+      "translation": "bestijgen",
+      "chapter": 1
+    },
+    {
+      "greek": "ἀκούω + gen.",
+      "translation": "horen, luisteren naar",
+      "chapter": 2
+    },
+    {
+      "greek": "βοηθέω + dat.",
+      "translation": "helpen",
+      "chapter": 2
+    },
+    {
+      "greek": "διώκω",
+      "translation": "achtervolgen",
+      "chapter": 2
+    },
+    {
+      "greek": "ἐπιβουλεύω + dat.",
+      "translation": "iets in de zin hebben tegen, belagen",
+      "chapter": 2
+    },
+    {
+      "greek": "μέλει + dat.",
+      "translation": "het gaat (iemand) ter harte; het interesseert (iemand)",
+      "chapter": 2
+    },
+    {
+      "greek": "συμβουλεύω +dat.",
+      "translation": "raad geven, aanraden",
+      "chapter": 2
+    },
+    {
+      "greek": "φεύγω",
+      "translation": "vluchten, ontvluchten",
+      "chapter": 2
+    },
+    {
+      "greek": "φροντίζω + gen.",
+      "translation": "zich bekommeren om",
+      "chapter": 2
+    },
+    {
+      "greek": "χαίρω +dat.",
+      "translation": "blij zijn met, plezier hebben in",
+      "chapter": 2
+    },
+    {
+      "greek": "πιέζω",
+      "translation": "drukken op",
+      "chapter": 2
+    },
+    {
+      "greek": "γέμω + gen.",
+      "translation": "vol zijn met",
+      "chapter": 2
+    },
+    {
+      "greek": "χαλεπαίνω + dat.",
+      "translation": "boos zijn op",
+      "chapter": 2
+    },
+    {
+      "greek": "ἀπειλέω + dat.",
+      "translation": "bedreigen",
+      "chapter": 2
+    },
+    {
+      "greek": "ἀρέσκω + dat.",
+      "translation": "plezier geven, bevallen",
+      "chapter": 3
+    },
+    {
+      "greek": "εἰσβαίνω",
+      "translation": "ingaan, binnengaan",
+      "chapter": 3
+    },
+    {
+      "greek": "βαίνω",
+      "translation": "stappen, gaan",
+      "chapter": 3
+    },
+    {
+      "greek": "ἐισί(ν)",
+      "translation": "(zij) zijn",
+      "chapter": 3
+    },
+    {
+      "greek": "ἐστί(ν) + dat.",
+      "translation": "(hij/zij/het) is ",
+      "chapter": 3
+    },
+    {
+      "greek": "ζητέω",
+      "translation": "zoeken",
+      "chapter": 3
+    },
+    {
+      "greek": "λείπω",
+      "translation": "verlaten, achterlaten, overlaten",
+      "chapter": 3
+    },
+    {
+      "greek": "μέλει + dat.",
+      "translation": "het gaat (iemand) ter harte; het interesseert (iemand)",
+      "chapter": 3
+    },
+    {
+      "greek": "μετέχω + gen.",
+      "translation": "deel hebben aan, meedoen aan",
+      "chapter": 3
+    },
+    {
+      "greek": "ποιέω",
+      "translation": "maken, doen, veroorzaken",
+      "chapter": 3
+    },
+    {
+      "greek": "φθονέω + dat.",
+      "translation": "jaloers zijn op misgunnen, benijden",
+      "chapter": 3
+    },
+    {
+      "greek": "φιλέω",
+      "translation": "houden van",
+      "chapter": 3
+    },
+    {
+      "greek": "αἴρω",
+      "translation": "optillen, oppakken, oprichten",
+      "chapter": 4
+    },
+    {
+      "greek": "ἁμαρτάνω + gen.",
+      "translation": "(het doel) missen, mislopen",
+      "chapter": 4
+    },
+    {
+      "greek": "βάλλω",
+      "translation": "werpen, treffen",
+      "chapter": 4
+    },
+    {
+      "greek": "διατρίβω",
+      "translation": "de tijd doorbrengen, verblijven",
+      "chapter": 4
+    },
+    {
+      "greek": "ἐπιθυμέω +gen.",
+      "translation": "verlangen naar",
+      "chapter": 4
+    },
+    {
+      "greek": "καθίζω",
+      "translation": "gaan zitten, zitten",
+      "chapter": 4
+    },
+    {
+      "greek": "λαμβάνω",
+      "translation": "nemen krijgen",
+      "chapter": 4
+    },
+    {
+      "greek": "νομίζω",
+      "translation": "menen",
+      "chapter": 4
+    },
+    {
+      "greek": "προσήκω + dat.",
+      "translation": "toekomen aan, passend zijn voor",
+      "chapter": 4
+    },
+    {
+      "greek": "ᾄδω",
+      "translation": "(be)zingen",
+      "chapter": 5
+    },
+    {
+      "greek": "βλέπω",
+      "translation": "kijken, zien",
+      "chapter": 5
+    },
+    {
+      "greek": "διδάσκω",
+      "translation": "leren, onderwijzen",
+      "chapter": 5
+    },
+    {
+      "greek": "ἔχω",
+      "translation": "hebben, houden",
+      "chapter": 5
+    },
+    {
+      "greek": "θαυμάζω",
+      "translation": "bewonderen",
+      "chapter": 5
+    },
+    {
+      "greek": "κατέχω",
+      "translation": "in zijn macht houden, vasthouden, beheersen",
+      "chapter": 5
+    },
+    {
+      "greek": "κινέω",
+      "translation": "bewegen",
+      "chapter": 5
+    },
+    {
+      "greek": "προσέχω τὸν νοῦν + dat.",
+      "translation": "zijn aandacht richten op, letten op",
+      "chapter": 5
+    },
+    {
+      "greek": "φαίνω",
+      "translation": "tonen, laten zien",
+      "chapter": 5
+    },
+    {
+      "greek": "αἰτέω",
+      "translation": "vragen, eisen",
+      "chapter": 6
+    },
+    {
+      "greek": "καλέω",
+      "translation": "roepen",
+      "chapter": 6
+    },
+    {
+      "greek": "κωλύω",
+      "translation": "verhinderen, beletten",
+      "chapter": 6
+    },
+    {
+      "greek": "λύω",
+      "translation": "losmaken, beslechten (van een ruzie), schenden (een verdrag)",
+      "chapter": 6
+    },
+    {
+      "greek": "παρασκευάζω",
+      "translation": "klaarmaken, voorzien van, organiseren",
+      "chapter": 6
+    },
+    {
+      "greek": "ὀρμέν",
+      "translation": "voor anker liggen",
+      "chapter": 6
+    },
+    {
+      "greek": "ἁγανακτέω",
+      "translation": "boos zijn",
+      "chapter": 6
+    },
+    {
+      "greek": "ἁναΒαίνω εἰς",
+      "translation": "aan boord gaan van",
+      "chapter": 6
+    },
+    {
+      "greek": "ἁνέλκω",
+      "translation": "ophalen, lichten (zoals een anker)",
+      "chapter": 6
+    },
+    {
+      "greek": "θοπυβέω",
+      "translation": "lawaai maken",
+      "chapter": 6
+    },
+    {
+      "greek": "ἀγνοέω",
+      "translation": "onwetend zijn, niet weten",
+      "chapter": 7
+    },
+    {
+      "greek": "ἀπορέω",
+      "translation": "in onzekerheid verkeren, zich geen raad weten, niet weten",
+      "chapter": 7
+    },
+    {
+      "greek": "ἐκπλήττω",
+      "translation": "uit het veld slaan, verbijsteren, laten schrikken",
+      "chapter": 7
+    },
+    {
+      "greek": "παρακαλέω",
+      "translation": "erbij roepen, uitnodigen, vermanen",
+      "chapter": 7
+    },
+    {
+      "greek": "παρέχω",
+      "translation": "verschaffen",
+      "chapter": 7
+    },
+    {
+      "greek": "παύω",
+      "translation": "doen stoppen, een eind maken aan",
+      "chapter": 7
+    },
+    {
+      "greek": "αἰτέω + dubbele acc.",
+      "translation": "vragen (om iets te krijgen), van iemand eisen",
+      "chapter": 8
+    },
+    {
+      "greek": "διδάσκω",
+      "translation": "leren, onderwijzen",
+      "chapter": 8
+    },
+    {
+      "greek": "διδάσκω + dubbele acc.",
+      "translation": "iemand iets leren/onderwijzen",
+      "chapter": 8
+    },
+    {
+      "greek": "ἥκω",
+      "translation": "gekomen zijn, komen",
+      "chapter": 8
+    },
+    {
+      "greek": "κόπτω",
+      "translation": "slaan",
+      "chapter": 8
+    },
+    {
+      "greek": "κρατέω + gen.",
+      "translation": "macht hebben over, heerser zijn van, overwinnen",
+      "chapter": 8
+    },
+    {
+      "greek": "κρύπτω",
+      "translation": "verbergen",
+      "chapter": 8
+    },
+    {
+      "greek": "μέλλω",
+      "translation": "aarzelen",
+      "chapter": 8
+    },
+    {
+      "greek": "μένω",
+      "translation": "wachten, blijven",
+      "chapter": 8
+    },
+    {
+      "greek": "μένω + acc.",
+      "translation": "wachten op",
+      "chapter": 8
+    },
+    {
+      "greek": "νομίζω",
+      "translation": "menen",
+      "chapter": 8
+    },
+    {
+      "greek": "νομίζω + dubbele acc.",
+      "translation": "beschouwen als",
+      "chapter": 8
+    },
+    {
+      "greek": "ὑποπτεύω",
+      "translation": "vermoeden, verdenken, argwaan koesteren",
+      "chapter": 8
+    },
+    {
+      "greek": "ἀγγέλλω",
+      "translation": "berichten, melden",
+      "chapter": 9
+    },
+    {
+      "greek": "εἱμί",
+      "translation": "zijn, er zijn",
+      "chapter": 9
+    },
+    {
+      "greek": "πάρειμι (samenstelling van εἰμί)",
+      "translation": "aanwezig zijn, bijstaan",
+      "chapter": 9
+    },
+    {
+      "greek": "πέμπω",
+      "translation": "zenden, sturen",
+      "chapter": 9
+    },
+    {
+      "greek": "πλέω",
+      "translation": "varen",
+      "chapter": 9
+    },
+    {
+      "greek": "σπεύδω",
+      "translation": "zich haasten",
+      "chapter": 9
+    },
+    {
+      "greek": "φιλέω",
+      "translation": "houden van",
+      "chapter": 9
+    },
+    {
+      "greek": "φιλέω + inf.",
+      "translation": "gewoon zijn te/gewend zijn te",
+      "chapter": 9
+    },
+    {
+      "greek": "δοκέω + dat. (en inf.)",
+      "translation": "(toe)schijnen, de indruk maken (te)",
+      "chapter": 10
+    },
+    {
+      "greek": "ἐντυγχάνω + dat",
+      "translation": "tegenkomen, ontmoeten",
+      "chapter": 10
+    },
+    {
+      "greek": "καλύπτω",
+      "translation": "bedekken",
+      "chapter": 10
+    },
+    {
+      "greek": "ὁμολογέω + dat",
+      "translation": "het eens zijn met, instemmen",
+      "chapter": 10
+    },
+    {
+      "greek": "σκοπέω",
+      "translation": "bekijken, letten op; beschouwen",
+      "chapter": 10
+    },
+    {
+      "greek": "συλλέγω",
+      "translation": "verzamelen",
+      "chapter": 10
+    },
+    {
+      "greek": "ὑπολαμβάνω",
+      "translation": "antwoorden",
+      "chapter": 10
+    },
+    {
+      "greek": "φρονέω",
+      "translation": "verstandig zijn, denken",
+      "chapter": 10
+    },
+    {
+      "greek": "χωρέω",
+      "translation": "plaats maken, wijken, gaan",
+      "chapter": 10
+    },
+    {
+      "greek": "ἀναγκάζω",
+      "translation": "noodzaken, dwingen",
+      "chapter": 11
+    },
+    {
+      "greek": "ἀπαγγέλλω",
+      "translation": "rapporteren, vermelden",
+      "chapter": 11
+    },
+    {
+      "greek": "γιγνώσκω",
+      "translation": "inzien, begrijpen, leren kennen, kennen",
+      "chapter": 11
+    },
+    {
+      "greek": "ἐθέλω/θέλω",
+      "translation": "willen, bereid zijn",
+      "chapter": 11
+    },
+    {
+      "greek": "κελεύω",
+      "translation": "bevelen, verzoeken, aanraden",
+      "chapter": 11
+    },
+    {
+      "greek": "πείθω",
+      "translation": "overreden, overtuigen",
+      "chapter": 11
+    },
+    {
+      "greek": "πίνω",
+      "translation": "drinken",
+      "chapter": 11
+    },
+    {
+      "greek": "πράττω",
+      "translation": "handelen, doen",
+      "chapter": 11
+    },
+    {
+      "greek": "προβαίνω",
+      "translation": "1. naar voren komen 2. voortgaan",
+      "chapter": 11
+    },
+    {
+      "greek": "ἂγω",
+      "translation": "leiden, brengen",
+      "chapter": 12
+    },
+    {
+      "greek": "ἄγε(τε)",
+      "translation": "vooruit! (bij een verzoek of bevel)",
+      "chapter": 12
+    },
+    {
+      "greek": "αἱρέω",
+      "translation": "(in)nemen, gevangen nemen",
+      "chapter": 12
+    },
+    {
+      "greek": "δηλόω",
+      "translation": "duidelijk maken",
+      "chapter": 12
+    },
+    {
+      "greek": "ἐάω",
+      "translation": "(toe)laten, toestaan",
+      "chapter": 12
+    },
+    {
+      "greek": "ἐπαινέω",
+      "translation": "goedkeuren, prijzen, instemmen met",
+      "chapter": 12
+    },
+    {
+      "greek": "ἐρωτάω",
+      "translation": "vragen",
+      "chapter": 12
+    },
+    {
+      "greek": "εὑρίσκω",
+      "translation": "vinden, ontdekken, aantreffen",
+      "chapter": 12
+    },
+    {
+      "greek": "κοσμέω",
+      "translation": "1. ordenen; 2. versieren, voorzien van",
+      "chapter": 12
+    },
+    {
+      "greek": "οἰκέω",
+      "translation": "(be)wonen",
+      "chapter": 12
+    },
+    {
+      "greek": "ὁράω",
+      "translation": "zien",
+      "chapter": 12
+    },
+    {
+      "greek": "πρέπει (+ dat. en inf.)",
+      "translation": "het is passend (voor iemand om te ...)",
+      "chapter": 12
+    },
+    {
+      "greek": "συλλαμβάνω + dat.",
+      "translation": "helpen",
+      "chapter": 12
+    },
+    {
+      "greek": "τελευτάω",
+      "translation": "1. (be)ëindigen; 2. sterven",
+      "chapter": 12
+    },
+    {
+      "greek": "τιμάω",
+      "translation": "eren",
+      "chapter": 12
+    },
+    {
+      "greek": "ὑβρίζω",
+      "translation": "1. agressief/overmoedig handelen; 2. mishandelen",
+      "chapter": 12
+    },
+    {
+      "greek": "ἀξιόω",
+      "translation": "wensen, bilijk achten, verwachten",
+      "chapter": 13
+    },
+    {
+      "greek": "ἄρχω",
+      "translation": "beginnen",
+      "chapter": 13
+    },
+    {
+      "greek": "δεῖ + AcI/inf.",
+      "translation": "het is nodig dat, het/men moet",
+      "chapter": 13
+    },
+    {
+      "greek": "δεῖ με λέγειν",
+      "translation": "ik moet zeggen",
+      "chapter": 13
+    },
+    {
+      "greek": "δράω",
+      "translation": "doen, handelen",
+      "chapter": 13
+    },
+    {
+      "greek": "καθεύδω",
+      "translation": "slapen",
+      "chapter": 13
+    },
+    {
+      "greek": "μέλλω",
+      "translation": "1. aarzelen 2. zullen, op het punt staan",
+      "chapter": 13
+    },
+    {
+      "greek": "φράζω",
+      "translation": "meedelen",
+      "chapter": 13
+    },
+    {
+      "greek": "χρή",
+      "translation": "het is nodig/wenselijk dat, het/men moet",
+      "chapter": 13
+    },
+    {
+      "greek": "χρή με λέγειν",
+      "translation": "ik moet zeggen",
+      "chapter": 13
+    },
+    {
+      "greek": "ἄπειμι (< εἰμί)",
+      "translation": "afwezig zijn",
+      "chapter": 14
+    },
+    {
+      "greek": "ἄπειμι (< εἶμι)",
+      "translation": "weggaan",
+      "chapter": 14
+    },
+    {
+      "greek": "ἀφίημι",
+      "translation": "(weg)sturen, vrijlaten",
+      "chapter": 14
+    },
+    {
+      "greek": "βοάω",
+      "translation": "roepen, schreeuwen",
+      "chapter": 14
+    },
+    {
+      "greek": "δείκνυμι",
+      "translation": "aanwijzen, (aan)tonen",
+      "chapter": 14
+    },
+    {
+      "greek": "διαφέρω + gen.",
+      "translation": "1. verschillen van; 2. uitmunten boven",
+      "chapter": 14
+    },
+    {
+      "greek": "δίδωμι",
+      "translation": "geven",
+      "chapter": 14
+    },
+    {
+      "greek": "εἶμι",
+      "translation": "1. gaan, komen; 2. zullen gaan, zullen komen",
+      "chapter": 14
+    },
+    {
+      "greek": "ἔξεστι(ν)",
+      "translation": "het is mogelijk, het is geoorloofd",
+      "chapter": 14
+    },
+    {
+      "greek": "ἐράω + gen.",
+      "translation": "verliefd zijn op, verlangen naar",
+      "chapter": 14
+    },
+    {
+      "greek": "ἵημι",
+      "translation": "1. laten gaan; 2. zenden",
+      "chapter": 14
+    },
+    {
+      "greek": "ἵστημι",
+      "translation": "doen staan, oprichten, tot staan brengen",
+      "chapter": 14
+    },
+    {
+      "greek": "καθίστημι",
+      "translation": "neerzetten, neerleggen",
+      "chapter": 14
+    },
+    {
+      "greek": "μανθάνω",
+      "translation": "leren kennen, begrijpen, vernemen",
+      "chapter": 14
+    },
+    {
+      "greek": "μέλει μοι + gen.",
+      "translation": "mij gaat ... ter harte, ik heb interesse in",
+      "chapter": 14
+    },
+    {
+      "greek": "οὐδὲν μέλει μοι τούτων τῶν λόγων",
+      "translation": "ik ben helemaal niet geïnteresseerd in die woorden",
+      "chapter": 14
+    },
+    {
+      "greek": "νικάω",
+      "translation": "(over)winnen, overwinnaar zijn",
+      "chapter": 14
+    },
+    {
+      "greek": "πάρειμι (< εἶμι)",
+      "translation": "voorbijgaan",
+      "chapter": 14
+    },
+    {
+      "greek": "παρίημι",
+      "translation": "1. voorbij laten gaan; 2. toelaten, binnen laten, toestaan",
+      "chapter": 14
+    },
+
+    {
+      "greek": "πίμπλημι",
+      "translation": "vullen",
+      "chapter": 14
+    },
+    {
+      "greek": "τίθημι",
+      "translation": "leggen, plaatsen",
+      "chapter": 14
+    },
+    {
+      "greek": "φημί",
+      "translation": "zeggen, beweren, ja zeggen",
+      "chapter": 14
+    },
+    {
+      "greek": "χαῖρε/χαίρετε imperat. van χαίρω",
+      "translation": "gegroet",
+      "chapter": 14
+    },
+
+    {
+      "greek": "ἀποδείκνυμι",
+      "translation": "1. laten zien, te kennen geven; 2. aantonen. benoemen",
+      "chapter": 15
+    },
+    {
+      "greek": "ἐν νῷ ἔχω",
+      "translation": "van plan zijn",
+      "chapter": 15
+    },
+    {
+      "greek": "θαυμάζω",
+      "translation": "1. bewonderen; 2. zich verwonderen over",
+      "chapter": 15
+    },
+    {
+      "greek": "παραδίδωμι",
+      "translation": "overgeven, overleveren",
+      "chapter": 15
+    },
+    {
+      "greek": "συνίημι",
+      "translation": "begrijpen",
+      "chapter": 15
+    },
+    {
+      "greek": "ἀποστερέω + gen.",
+      "translation": "beroven van",
+      "chapter": 16
+    },
+    {
+      "greek": "διαφθείρω",
+      "translation": "ten gronde richten, bederven",
+      "chapter": 16
+    },
+    {
+      "greek": "ἐπιχειρέω + dat./inf.",
+      "translation": "aanvatten, ter hand nemen, proberen",
+      "chapter": 16
+    },
+    {
+      "greek": "καταφονέω + gen.",
+      "translation": "minachten",
+      "chapter": 16
+    },
+    {
+      "greek": "τέμνω",
+      "translation": "snijden",
+      "chapter": 16
+    },
+    {
+      "greek": "ὠφελέω",
+      "translation": "helpen, een dienst bewijzen",
+      "chapter": 16
+    },
+    {
+      "greek": "ἀποθνῄσκω",
+      "translation": "sterven, gedood worden",
+      "chapter": 17
+    },
+    {
+      "greek": "ἄρχω + ptc",
+      "translation": "de eerste zijn om te ..., beginnen met/te",
+      "chapter": 17
+    },
+    {
+      "greek": "ἡ γυνὴ ἦρχε λέγουσα",
+      "translation": "de vrouw begon te zeggen",
+      "chapter": 17
+    },
+    {
+      "greek": "γελάω",
+      "translation": "lachen",
+      "chapter": 17
+    },
+    {
+      "greek": "διατελέω + ptc.",
+      "translation": "doorgaan met ..., voortdurend ...",
+      "chapter": 17
+    },
+    {
+      "greek": "καλέω",
+      "translation": "1. roepen; 2. noemen",
+      "chapter": 17
+    },
+    {
+      "greek": "καταλείπω",
+      "translation": "verlaten, achterlaten",
+      "chapter": 17
+    },
+    {
+      "greek": "λανθάνω + acc.",
+      "translation": "verborgen zijn voor",
+      "chapter": 17
+    },
+    {
+      "greek": "λανθάνω + ptc.",
+      "translation": "ongemerkt ...",
+      "chapter": 17
+    },
+    {
+      "greek": "ἡμᾶς λανθάνεις γελῶν",
+      "translation": "jij lacht zonder dat wij het merken",
+      "chapter": 17
+    },
+    {
+      "greek": "οὐ σε λανθάνομεν χαίροντες",
+      "translation": "je merkt heel goed dat we plezier hebben",
+      "chapter": 17
+    },
+    {
+      "greek": "σύνειμι (εἰμί) + dat.",
+      "translation": "samen zijn met, omgaan met",
+      "chapter": 17
+    },
+    {
+      "greek": "τίκτω",
+      "translation": "baren, ter wereld brengen, voortbrengen",
+      "chapter": 17
+    },
+    {
+      "greek": "τυγχάνω + gen.",
+      "translation": "treffen, krijgen",
+      "chapter": 17
+    },
+    {
+      "greek": "τυγχάνω + ptc.",
+      "translation": "het geval wil dat (ik), toevallig ..., net ..., juist ...",
+      "chapter": 17
+    },
+    {
+      "greek": "χαίρω + dat.",
+      "translation": "blij zijn met, plezier hebben in",
+      "chapter": 17
+    },
+    {
+      "greek": "χαίρω + ptc.",
+      "translation": "plezier hebben in, graag ...",
+      "chapter": 17
+    },
+    {
+      "greek": "ἀμύνω + acc.",
+      "translation": "afweren",
+      "chapter": 18
+    },
+    {
+      "greek": "ἀμύνω + dat.",
+      "translation": "helpen",
+      "chapter": 18
+    },
+    {
+      "greek": "γράφω",
+      "translation": "schrijven",
+      "chapter": 18
+    },
+    {
+      "greek": "δοκεῖ μοι + AcI",
+      "translation": "1. het schijnt me dat; 2. het schijnt met goed toe om...",
+      "chapter": 18
+    },
+    {
+      "greek": "δοκεῖ μοι + AcI: ἔδοξε τῷ δήμῳ",
+      "translation": "ik besluit:. het volk besloot",
+      "chapter": 18
+    },
+    {
+      "greek": "δουλεύω + dat.",
+      "translation": "slaaf zijn van, dienen",
+      "chapter": 18
+    },
+    {
+      "greek": "ἐγείρω",
+      "translation": "wakker maken, (op)wekken",
+      "chapter": 18
+    },
+    {
+      "greek": "ἐλαύνω",
+      "translation": "rijden, varen",
+      "chapter": 18
+    },
+    {
+      "greek": "καθίστημι",
+      "translation": "1. neerzetten, neerleggen; 2. brengen (tot/in)",
+      "chapter": 18
+    },
+    {
+      "greek": "κομίζω",
+      "translation": "brengen, halen, meenemen",
+      "chapter": 18
+    },
+    {
+      "greek": "κρίνω",
+      "translation": "(be)oordelen",
+      "chapter": 18
+    },
+    {
+      "greek": "μείγνυμι",
+      "translation": "(ver)mengen",
+      "chapter": 18
+    },
+    {
+      "greek": "νέμω",
+      "translation": "verdelen, toedelen",
+      "chapter": 18
+    },
+    {
+      "greek": "στρατεύω",
+      "translation": "een veldtocht ondernemen, optrekken",
+      "chapter": 18
+    },
+    {
+      "greek": "σῴζω",
+      "translation": "redden, behouden",
+      "chapter": 18
+    },
+    {
+      "greek": "τάττω",
+      "translation": "opstellen, ordenen",
+      "chapter": 18
+    },
+    {
+      "greek": "τολμάω",
+      "translation": "durven, wagen",
+      "chapter": 18
+    },
+    {
+      "greek": "δοκέω + dat (en inf.)",
+      "translation": "(toe)schijnen, de indruk maken (te)",
+      "chapter": 19
+    },
+    {
+      "greek": "δοκέω + AcI",
+      "translation": "menen",
+      "chapter": 19
+    },
+    {
+      "greek": "ζηλόω",
+      "translation": "nastreven",
+      "chapter": 19
+    },
+    {
+      "greek": "ὁμιλέω + dat.",
+      "translation": "omgaan met, verbonden zijn met",
+      "chapter": 19
+    },
+    {
+      "greek": "τρέφω",
+      "translation": "voeden, grootbrengen, onderhouden",
+      "chapter": 19
+    },
+
+    {
+      "greek": "ἀδικέω",
+      "translation": "onrecht doen, onrechtvaardig (be)handelen",
+      "chapter": 20
+    },
+    {
+      "greek": "ἀποδίδωμι",
+      "translation": "1. teruggeven, (als verschuldigd) geven; 2. betalen",
+      "chapter": 20
+    },
+    {
+      "greek": "ἀποκτείνω",
+      "translation": "doden",
+      "chapter": 20
+    },
+    {
+      "greek": "ζημιόω",
+      "translation": "straffen",
+      "chapter": 20
+    },
+    {
+      "greek": "θύω",
+      "translation": "offeren",
+      "chapter": 20
+    },
+    {
+      "greek": "πάσχω",
+      "translation": "lijden, te verduren hebben, ondervinden, ervaren",
+      "chapter": 20
+    },
+    {
+      "greek": "πίπτω",
+      "translation": "vallen",
+      "chapter": 20
+    },
+    {
+      "greek": "σημαίνω",
+      "translation": "(door een teken) duidelijk maken, betekenen",
+      "chapter": 20
+    },
+    {
+      "greek": "τρέχω",
+      "translation": "rennen",
+      "chapter": 20
+    },
+    {
+      "greek": "φυλάττω",
+      "translation": "de wacht houden, bewaken, bewaren",
+      "chapter": 20
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "rhemai": [
+    {
+      "author": "Ploutarchos",
+      "greek" : "Ἀλέξανδρος ὅτι τῷ γένει πρὸς πατρὸς μὲν ἦν Ἡρακλείδης ἀπὸ Καράνου, πρὸς δὲ μητρὸς Αἰακίδης ἀπὸ Νεοπτολέμου, τῶν πάνυ πεπιστευμένων ἐστί. λέγεται δέ Φίλιππος ἐν [p. 226] θρᾴκῃ τῇ Ὀλυμπιάδι συμμυηθείς αὐτός τε μειράκιον ὢν ἔτι κἀκείνης παιδὸς ὀρφανῆς γονέων ἐρασθῆναι καὶ τὸν γάμον οὕτως ἁρμόσαι, πείσας τὸν ἀδελφὸν αὐτῆς Ἀρύμβαν.",
+      "translations" : [
+        "As for the lineage of Alexander, on his father's side he was a descendant of Heracles through Caranus, and on his mother's side a descendant of Aeacus through Neoptolemus; this is accepted without any question. And we are told that Philip, after being initiated into the mysteries of Samothrace at the same time with Olympias, he himself being still a youth and she an orphan child, fell in love with her and betrothed himself to her at once with the consent of her brother, Arymbas."
+      ],
+      "book": 1,
+      "chapter":  2,
+      "section": 1,
+      "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-grc2:2.1?right=perseus-eng2&q=&qk=form"
+    },
+    {
+      "author": "Ploutarchos",
+      "greek" : "καὶ Πρῶτος μὲν ὁ κυβερνήτης κατὰ τάχος ἐκέλευσεν ἀποβαίνειν, ὡς, ἂν ἀποσπασθῶσι τῆς γῆς καὶ τὴν ἄκραν ἑκόντες ἀφῶσι, πολλὰς ἡμέρας καὶ νύκτας ἐν τῷ πελάγει τριβησομένους, ὥρᾳ θέρους νότον περιμένοντας.",
+      "translations" : [
+        "Here Protus their pilot urged them to disembark with all speed, since, if they should be forced away from the shore, and should relinquish the headland which they had gained, they would be tossed about on the high sea for many days and nights, awaiting a south wind in the summer season."
+      ],
+      "book": 1,
+      "chapter":  25,
+      "section": 4,
+      "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg060.perseus-grc2:25.4/"
+    },
+    {
+      "author": "Ploutarchos",
+      "greek": "τῶν δ̓ εἰσιόντων ἑκάστῳ δείξας ὁ πρεσβύτατος τὰς θύρας, διὰ τούτων φησίν, ἔξω λόγος οὐκ ἐκπορεύεται δοκιμάζεσθαι δὲ τὸν βουλόμενον τοῦ συσσιτίου μετασχεῖν οὕτω φασί. λαβὼν τῶν συσσίτων ἕκαστος ἀπομαγδαλίαν εἰς τὴν χεῖρα, τοῦ διακόνου φέροντος ἀγγεῖον ἐπὶ τῆς κεφαλῆς, ἔβαλλε σιωπῇ καθάπερ ψῆφον, ὁ μὲν δοκιμάζων ἁπλῶς, ὁ δ’ ἐκκρίνων σφόδρα τῇ χειρὶ πιέσας.",
+      "translations" : [
+        "As each one came in, the eldest of the company pointed to the door and said to him: Through that door no word goes forth outside. And they say that a candidate for membership in one of these messes underwent the following ordeal. Each of the mess-mates took in his hand a bit of soft bread, and when a servant came along with a bowl upon his head, then they cast it into this without a word, like a ballot, leaving it just as it was if he approved of the candidate, but if he disapproved, squeezing it tight in his hand first."
+      ],
+      "book": 2,
+      "chapter":  12,
+      "section": 5,
+      "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg004.perseus-grc2:12.5"
+    }
+  ]
+}
