@@ -17,14 +17,6 @@ func init() {
 		AddLevelWriter(glg.ERR, errlog)
 }
 
-const (
-	kafkaEnvUrl           string = "KAFKA_URL"
-	defaultKafkaUrl       string = "kafka:9092"
-	defaultTopic          string = "dictionary"
-	topicEnv              string = "TOPIC"
-	defaultSecondaryTopic string = "mouseion"
-)
-
 func main() {
 	//https://patorjk.com/software/taag/#p=display&f=Crawford2&t=MELISSOS
 	glg.Info("\n ___ ___    ___  _      ____ _____ _____  ___   _____\n|   |   |  /  _]| |    |    / ___// ___/ /   \\ / ___/\n| _   _ | /  [_ | |     |  (   \\_(   \\_ |     (   \\_ \n|  \\_/  ||    _]| |___  |  |\\__  |\\__  ||  O  |\\__  |\n|   |   ||   [_ |     | |  |/  \\ |/  \\ ||     |/  \\ |\n|   |   ||     ||     | |  |\\    |\\    ||     |\\    |\n|___|___||_____||_____||____|\\___| \\___| \\___/  \\___|\n                                                     \n")

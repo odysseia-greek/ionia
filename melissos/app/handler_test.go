@@ -211,4 +211,36 @@ func TestHandlerTransform(t *testing.T) {
 		testHandler.transformWord(body, &wait)
 		assert.Equal(t, testConfig.Created, 0)
 	})
+
+}
+
+func TestHandlerParser(t *testing.T) {
+	splitWord := "ἀκούω + gen."
+	pronounSplit := "μῦθος, ὁ"
+	pronounSplitTwo := "ὁ δοῦλος"
+	testConfig := configs.Config{
+		Elastic: nil,
+		Index:   "",
+		Created: 0,
+	}
+
+	testHandler := MelissosHandler{Config: &testConfig}
+
+	t.Run("SplitWordsWithPlus", func(t *testing.T) {
+		sut := "ἀκούω"
+		parsedWord := testHandler.stripMouseionWords(splitWord)
+		assert.Equal(t, sut, parsedWord)
+	})
+
+	t.Run("SplitWordsWithPronoun", func(t *testing.T) {
+		sut := "μῦθος"
+		parsedWord := testHandler.stripMouseionWords(pronounSplit)
+		assert.Equal(t, sut, parsedWord)
+	})
+
+	t.Run("SplitWordsWithPronounWithoutComma", func(t *testing.T) {
+		sut := "δοῦλος"
+		parsedWord := testHandler.stripMouseionWords(pronounSplitTwo)
+		assert.Equal(t, sut, parsedWord)
+	})
 }

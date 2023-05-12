@@ -2,11 +2,10 @@ package app
 
 import (
 	"github.com/kpango/glg"
-	"github.com/odysseia-greek/aristoteles"
 	configs "github.com/odysseia-greek/ionia/demokritos/config"
 	"github.com/odysseia-greek/plato/models"
 	"github.com/odysseia-greek/plato/transform"
-	"net/http"
+	"strings"
 	"sync"
 )
 
@@ -16,17 +15,17 @@ type DemokritosHandler struct {
 
 func (d *DemokritosHandler) DeleteIndexAtStartUp() error {
 	deleted, err := d.Config.Elastic.Index().Delete(d.Config.Index)
-	glg.Infof("deleted index: %s %v", d.Config.Index, deleted)
+	glg.Infof("deleted index: %s success: %v", d.Config.Index, deleted)
 	if err != nil {
-		glg.Error(err)
-		b := []byte(err.Error())
-		indexError, err := aristoteles.UnmarshalIndexError(b)
-		if err != nil {
-			return err
-		}
-		if indexError.Status == http.StatusNotFound {
+		if deleted {
 			return nil
 		}
+		if strings.Contains(err.Error(), "index_not_found_exception") {
+			glg.Debug(err)
+			return nil
+		}
+
+		return err
 	}
 
 	return nil
