@@ -55,14 +55,14 @@ func main() {
 
 	handler := app.ParmenidesHandler{Config: parmenidesConfig}
 
-	//err = handler.DeleteIndexAtStartUp()
-	//if err != nil {
-	//	glg.Fatal(err)
-	//}
-	//err = handler.CreateIndexAtStartup()
-	//if err != nil {
-	//	glg.Fatal(err)
-	//}
+	err = handler.DeleteIndexAtStartUp()
+	if err != nil {
+		glg.Fatal(err)
+	}
+	err = handler.CreateIndexAtStartup()
+	if err != nil {
+		glg.Fatal(err)
+	}
 
 	var wg sync.WaitGroup
 	documents := 0
@@ -122,11 +122,6 @@ func main() {
 	wg.Wait()
 	glg.Infof("created: %s", strconv.Itoa(parmenidesConfig.Created))
 	glg.Infof("words found in sullego: %s", strconv.Itoa(documents))
-
-	//err = handler.ExitQueue()
-	//if err != nil {
-	//	glg.Fatal(err)
-	//}
 
 	exitCode := fmt.Sprintf("exitcode: %s", handler.Config.ExitCode)
 	lines <- eupalinos.Message(exitCode)

@@ -59,16 +59,18 @@ func (p *ParmenidesHandler) Add(logoi models.Logos, wg *sync.WaitGroup, method, 
 		}
 
 		jsonsifiedMeros, _ := meros.Marshal()
-		lines <- jsonsifiedMeros
+		if lines != nil {
+			lines <- jsonsifiedMeros
+		}
 
 		word.Category = category
 		word.Method = method
-		//jsonifiedLogos, _ := word.Marshal()
-		//_, err := p.Config.Elastic.Index().CreateDocument(p.Config.Index, jsonifiedLogos)
-		//
-		//if err != nil {
-		//	return err
-		//}
+		jsonifiedLogos, _ := word.Marshal()
+		_, err := p.Config.Elastic.Index().CreateDocument(p.Config.Index, jsonifiedLogos)
+
+		if err != nil {
+			return err
+		}
 
 		glg.Infof("created word: %s with translation %s | method: %s | category: %s", word.Greek, word.Translation, word.Method, word.Category)
 

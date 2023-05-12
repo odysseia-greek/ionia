@@ -6,8 +6,8 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/kpango/glg v1.6.15
 	github.com/odysseia-greek/aristoteles v0.1.5
+	github.com/odysseia-greek/eupalinos v0.0.1
 	github.com/odysseia-greek/plato v0.3.12
-	github.com/segmentio/kafka-go v0.4.39
 	github.com/stretchr/testify v1.8.2
 )
 
@@ -30,8 +30,6 @@ require (
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/klauspost/compress v1.15.9 // indirect
 	github.com/kpango/fastime v1.1.9 // indirect
-	github.com/odysseia-greek/eupalinos v0.0.1 // indirect
-	github.com/pierrec/lz4/v4 v4.1.15 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/rabbitmq/amqp091-go v1.8.1 // indirect
