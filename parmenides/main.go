@@ -1,10 +1,12 @@
 package main
 
 import (
+	"context"
 	"embed"
 	"encoding/json"
 	"fmt"
 	"github.com/kpango/glg"
+	"github.com/odysseia-greek/eupalinos"
 	"github.com/odysseia-greek/ionia/parmenides/app"
 	"github.com/odysseia-greek/ionia/parmenides/config"
 	"github.com/odysseia-greek/plato/models"
@@ -62,18 +64,19 @@ func main() {
 		glg.Fatal(err)
 	}
 
-	err = handler.CreateTopicAtStartup()
-	if err != nil {
-		glg.Fatal(err)
-	}
-
-	err = handler.StartQueue()
-	if err != nil {
-		glg.Fatal(err)
-	}
-
 	var wg sync.WaitGroup
 	documents := 0
+
+	ctx, done := context.WithCancel(context.Background())
+	lines := make(chan eupalinos.Message)
+
+	go func() {
+		handler.Config.Queue.PubSub().Publish(handler.Config.Queue.PubSub().Redial(ctx), lines)
+		done()
+	}()
+
+	startUpCode := fmt.Sprintf("startup: %s", handler.Config.ExitCode)
+	lines <- eupalinos.Message(startUpCode)
 
 	for _, dir := range rootDir {
 		glg.Debug("working on the following directory: " + dir.Name())
@@ -106,7 +109,7 @@ func main() {
 
 					wg.Add(1)
 					go func() {
-						err := handler.Add(logoi, &wg, method, category)
+						err := handler.Add(logoi, &wg, method, category, lines)
 						if err != nil {
 							glg.Fatal(err)
 						}
@@ -120,10 +123,8 @@ func main() {
 	glg.Infof("created: %s", strconv.Itoa(parmenidesConfig.Created))
 	glg.Infof("words found in sullego: %s", strconv.Itoa(documents))
 
-	err = handler.ExitQueue()
-	if err != nil {
-		glg.Fatal(err)
-	}
+	exitCode := fmt.Sprintf("exitcode: %s", handler.Config.ExitCode)
+	lines <- eupalinos.Message(exitCode)
 
 	os.Exit(0)
 }

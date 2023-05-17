@@ -3,6 +3,7 @@ package config
 import (
 	"github.com/kpango/glg"
 	"github.com/odysseia-greek/aristoteles"
+	"github.com/odysseia-greek/aristoteles/models"
 	"github.com/odysseia-greek/plato/config"
 )
 
@@ -18,7 +19,7 @@ func CreateNewConfig(env string) (*Config, error) {
 	testOverWrite := config.BoolFromEnv(config.EnvTestOverWrite)
 	tls := config.BoolFromEnv(config.EnvTlSKey)
 
-	var cfg aristoteles.Config
+	var cfg models.Config
 
 	if healthCheck {
 		vaultConfig, err := config.ConfigFromVault()
@@ -29,7 +30,7 @@ func CreateNewConfig(env string) (*Config, error) {
 
 		service := aristoteles.ElasticService(tls)
 
-		cfg = aristoteles.Config{
+		cfg = models.Config{
 			Service:     service,
 			Username:    vaultConfig.ElasticUsername,
 			Password:    vaultConfig.ElasticPassword,

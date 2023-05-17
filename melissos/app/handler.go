@@ -4,12 +4,11 @@ import (
 	"context"
 	"encoding/json"
 	"github.com/kpango/glg"
+	"github.com/odysseia-greek/eupalinos"
 	configs "github.com/odysseia-greek/ionia/melissos/config"
 	"github.com/odysseia-greek/plato/models"
 	"github.com/odysseia-greek/plato/transform"
-	"github.com/segmentio/kafka-go"
 	"os"
-	"strconv"
 	"strings"
 	"sync"
 )
@@ -18,76 +17,37 @@ type MelissosHandler struct {
 	Config *configs.Config
 }
 
-func (m *MelissosHandler) getKafkaReader() *kafka.Reader {
-	brokers := strings.Split(m.Config.KafkaUrl, ",")
-	return kafka.NewReader(kafka.ReaderConfig{
-		Brokers:     brokers,
-		GroupID:     "melissos",
-		GroupTopics: []string{m.Config.Topic, m.Config.Mouseion},
-		MinBytes:    10e3, // 10KB
-		MaxBytes:    10e6, // 10MB
-	})
-}
-
-func (m *MelissosHandler) getStartupCode() string {
-	brokers := strings.Split(m.Config.KafkaUrl, ",")
-	r := kafka.NewReader(kafka.ReaderConfig{
-		Brokers:     brokers,
-		Topic:       m.Config.Topic,
-		MinBytes:    10e3, // 10KB
-		MaxBytes:    10e6, // 10MB
-		StartOffset: kafka.FirstOffset,
-	})
-	exitCode, _ := r.ReadMessage(context.Background())
-	r.Close()
-	return string(exitCode.Key)
-}
-
 func (m *MelissosHandler) Handle() {
-	exitCode := m.getStartupCode()
-	glg.Infof("found exit code %s", exitCode)
-	reader := m.getKafkaReader()
-	mouseionClosed := false
-	primaryClosed := false
+	var startupCode string
+	ctx, done := context.WithCancel(context.Background())
 
-	defer reader.Close()
+	received := make(chan eupalinos.Message)
+	go func() {
+		m.Config.Queue.PubSub().Subscribe(m.Config.Queue.PubSub().Redial(ctx), received)
+		done()
+	}()
 
-	for {
-		if mouseionClosed && primaryClosed {
-			glg.Info("received exit code and shutting down")
-			os.Exit(0)
+	for msg := range received {
+		if strings.Contains(string(msg), "exitcode:") {
+			exitCode := strings.Split(string(msg), " ")[1]
+			if exitCode == startupCode {
+				glg.Info("received exit code and shutting down")
+				os.Exit(0)
+			}
 		}
 
-		msg, err := reader.ReadMessage(context.Background())
-		if err != nil {
-			glg.Error(err)
-		}
-
-		if string(msg.Key) == exitCode {
-			exit, err := strconv.ParseBool(string(msg.Value))
-			if err != nil {
-				glg.Fatal("error reading exit codes")
-			}
-
-			if exit {
-				switch msg.Topic {
-				case m.Config.Topic:
-					primaryClosed = true
-				case m.Config.Mouseion:
-					mouseionClosed = true
-				}
-			}
-
+		if strings.Contains(string(msg), "startup:") {
+			startupCode = strings.Split(string(msg), " ")[1]
 			continue
 		}
 
 		var word models.Meros
-		err = json.Unmarshal(msg.Value, &word)
+		err := json.Unmarshal(msg, &word)
 		if err != nil {
 			glg.Error(err)
 		}
 
-		if msg.Topic == m.Config.Mouseion {
+		if word.Dutch != "" {
 			err := m.addDutchWord(word)
 			if err != nil {
 				glg.Error(err)
@@ -103,26 +63,44 @@ func (m *MelissosHandler) Handle() {
 		if !found {
 			m.addWord(word)
 		} else {
-			glg.Infof("word: %s already in dictionary", string(msg.Value))
+			glg.Infof("word: %s already in dictionary", word.Greek)
 		}
-		glg.Infof("Topic: %s, Partition: %v Offset: %v Message: %s = %s", msg.Topic, msg.Partition, msg.Offset, string(msg.Key), string(msg.Value))
 	}
 }
 
 func (m *MelissosHandler) addDutchWord(word models.Meros) error {
-	term := "dutch"
-	query := m.Config.Elastic.Builder().MatchQuery(term, word.Dutch)
+	if word.Dutch == "de, het" {
+		return nil
+	}
+	s := m.stripMouseionWords(word.Greek)
+	strippedWord := transform.RemoveAccents(s)
+
+	term := "greek"
+	query := m.Config.Elastic.Builder().MatchQuery(term, strippedWord)
 	response, err := m.Config.Elastic.Query().Match(m.Config.Index, query)
+
 	if err != nil {
 		glg.Error(err)
 		return err
 	}
 
-	if len(response.Hits.Hits) != 0 {
-		return nil
-	}
+	for _, hit := range response.Hits.Hits {
+		jsonHit, _ := json.Marshal(hit.Source)
+		meros, _ := models.UnmarshalMeros(jsonHit)
+		if len(response.Hits.Hits) > 1 {
+			if meros.Greek != strippedWord && meros.Greek != s {
+				continue
+			}
+		}
+		meros.Dutch = word.Dutch
+		jsonifiedLogos, _ := meros.Marshal()
+		_, err := m.Config.Elastic.Document().Update(m.Config.Index, hit.ID, jsonifiedLogos)
+		if err != nil {
+			return err
+		}
 
-	m.addWord(word)
+		glg.Debugf("updated root word: %s", meros.Greek)
+	}
 
 	return nil
 }
@@ -214,4 +192,39 @@ func (m *MelissosHandler) transformWord(word models.Meros, wg *sync.WaitGroup) {
 	glg.Debugf("created root word: %s", word.Greek)
 
 	return
+}
+
+func (m *MelissosHandler) stripMouseionWords(word string) string {
+	if !strings.Contains(word, " ") {
+		return word
+	}
+
+	splitKeys := []string{"+", "("}
+	greekPronous := []string{"ἡ", "ὁ", "τὸ", "τό"}
+	var w string
+
+	for _, key := range splitKeys {
+		if strings.Contains(word, key) {
+			split := strings.Split(word, key)
+			w = strings.TrimSpace(split[0])
+		}
+	}
+
+	for _, pronoun := range greekPronous {
+		if strings.Contains(word, pronoun) {
+			if strings.Contains(word, ",") {
+				split := strings.Split(word, ",")
+				w = strings.TrimSpace(split[0])
+			} else {
+				split := strings.Split(word, pronoun)
+				w = strings.TrimSpace(split[1])
+			}
+		}
+	}
+
+	if w == "" {
+		return word
+	}
+
+	return w
 }

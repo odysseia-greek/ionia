@@ -4,11 +4,17 @@ import (
 	"github.com/google/uuid"
 	"github.com/kpango/glg"
 	"github.com/odysseia-greek/aristoteles"
+	"github.com/odysseia-greek/aristoteles/models"
+	"github.com/odysseia-greek/eupalinos"
 	"github.com/odysseia-greek/plato/config"
 )
 
 const (
-	defaultIndex string = "quiz"
+	defaultIndex    string = "quiz"
+	defaultChannel  string = "english"
+	defaultExchange string = "odysseia"
+	EnvChannel      string = "RABBIT_CHANNEL"
+	EnvExchange     string = "RABBIT_EXCHANGE"
 )
 
 func CreateNewConfig(env string) (*Config, error) {
@@ -19,7 +25,7 @@ func CreateNewConfig(env string) (*Config, error) {
 	testOverWrite := config.BoolFromEnv(config.EnvTestOverWrite)
 	tls := config.BoolFromEnv(config.EnvTlSKey)
 
-	var cfg aristoteles.Config
+	var cfg models.Config
 
 	if healthCheck {
 		vaultConfig, err := config.ConfigFromVault()
@@ -30,7 +36,7 @@ func CreateNewConfig(env string) (*Config, error) {
 
 		service := aristoteles.ElasticService(tls)
 
-		cfg = aristoteles.Config{
+		cfg = models.Config{
 			Service:     service,
 			Username:    vaultConfig.ElasticUsername,
 			Password:    vaultConfig.ElasticPassword,
@@ -45,6 +51,14 @@ func CreateNewConfig(env string) (*Config, error) {
 		return nil, err
 	}
 
+	channel := config.StringFromEnv(EnvChannel, defaultChannel)
+	exchange := config.StringFromEnv(EnvExchange, defaultExchange)
+
+	queue, err := eupalinos.New(channel, exchange)
+	if err != nil {
+		return nil, err
+	}
+
 	if healthCheck {
 		err := aristoteles.HealthCheck(elastic)
 		if err != nil {
@@ -52,8 +66,6 @@ func CreateNewConfig(env string) (*Config, error) {
 		}
 	}
 
-	kafkaUrl := config.StringFromEnv(config.EnvKafkaUrl, config.DefaultKafkaUrl)
-	topic := config.StringFromEnv(config.EnvTopic, config.DefaultTopic)
 	index := config.StringFromEnv(config.EnvIndex, defaultIndex)
 	exitCode, _ := uuid.NewUUID()
 
@@ -61,9 +73,7 @@ func CreateNewConfig(env string) (*Config, error) {
 		Index:    index,
 		Created:  0,
 		Elastic:  elastic,
-		KafkaUrl: kafkaUrl,
-		Topic:    topic,
-		Mouseion: config.DefaultMouseion,
+		Queue:    queue,
 		ExitCode: exitCode.String(),
 	}, nil
 }

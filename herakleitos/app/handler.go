@@ -2,10 +2,9 @@ package app
 
 import (
 	"github.com/kpango/glg"
-	"github.com/odysseia-greek/aristoteles"
 	configs "github.com/odysseia-greek/ionia/herakleitos/config"
 	"github.com/odysseia-greek/plato/models"
-	"net/http"
+	"strings"
 	"sync"
 )
 
@@ -15,17 +14,17 @@ type HerakleitosHandler struct {
 
 func (h *HerakleitosHandler) DeleteIndexAtStartUp() error {
 	deleted, err := h.Config.Elastic.Index().Delete(h.Config.Index)
-	glg.Infof("deleted index: %s %v", h.Config.Index, deleted)
+	glg.Infof("deleted index: %s success: %v", h.Config.Index, deleted)
 	if err != nil {
-		glg.Error(err)
-		b := []byte(err.Error())
-		indexError, err := aristoteles.UnmarshalIndexError(b)
-		if err != nil {
-			return err
-		}
-		if indexError.Status == http.StatusNotFound {
+		if deleted {
 			return nil
 		}
+		if strings.Contains(err.Error(), "index_not_found_exception") {
+			glg.Debug(err)
+			return nil
+		}
+
+		return err
 	}
 
 	return nil

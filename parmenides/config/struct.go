@@ -2,14 +2,13 @@ package config
 
 import (
 	elastic "github.com/odysseia-greek/aristoteles"
+	"github.com/odysseia-greek/eupalinos"
 )
 
 type Config struct {
 	Index    string
 	Created  int
 	Elastic  elastic.Client
-	Topic    string
-	KafkaUrl string
-	Mouseion string
+	Queue    *eupalinos.Rabbit
 	ExitCode string
 }

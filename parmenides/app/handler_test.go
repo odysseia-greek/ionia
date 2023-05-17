@@ -39,7 +39,7 @@ func TestHandlerCreateDocuments(t *testing.T) {
 		}
 
 		testHandler := ParmenidesHandler{Config: &testConfig}
-		err = testHandler.Add(body, &wg, method, category)
+		err = testHandler.Add(body, &wg, method, category, nil)
 		assert.Nil(t, err)
 	})
 
@@ -58,7 +58,7 @@ func TestHandlerCreateDocuments(t *testing.T) {
 		}
 
 		testHandler := ParmenidesHandler{Config: &testConfig}
-		err = testHandler.Add(body, &wg, method, category)
+		err = testHandler.Add(body, &wg, method, category, nil)
 		assert.Nil(t, err)
 	})
 
@@ -77,7 +77,7 @@ func TestHandlerCreateDocuments(t *testing.T) {
 		}
 
 		testHandler := ParmenidesHandler{Config: &testConfig}
-		err = testHandler.Add(body, &wg, method, category)
+		err = testHandler.Add(body, &wg, method, category, nil)
 		assert.NotNil(t, err)
 	})
 }
