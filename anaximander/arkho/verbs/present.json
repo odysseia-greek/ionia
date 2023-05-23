@@ -19,9 +19,16 @@
     },
     {
       "declension": "-ομαι",
-      "ruleName": "1st sing - pres - ind - act",
+      "ruleName": "1st sing - pres - mid - int",
       "searchTerm": [
         "ομαι"
+      ]
+    },
+    {
+      "declension": "-μαι",
+      "ruleName": "1st sing - pres - mid - ind",
+      "searchTerm": [
+        "μαι"
       ]
     },
     {
@@ -40,16 +47,23 @@
     },
     {
       "declension": "-ει",
-      "ruleName": "2nd sing - pres - ind - act",
+      "ruleName": "2nd sing - pres - mid - int",
       "searchTerm": [
         "ομαι"
       ]
     },
     {
       "declension": "-ῃ",
-      "ruleName": "2nd sing - pres - ind - act",
+      "ruleName": "2nd sing - pres - mid - int",
       "searchTerm": [
         "ομαι"
+      ]
+    },
+    {
+      "declension": "-σαι",
+      "ruleName": "2nd sing - pres - mid - ind",
+      "searchTerm": [
+        "μαι"
       ]
     },
     {
@@ -89,9 +103,16 @@
     },
     {
       "declension": "-εται",
-      "ruleName": "3th sing - pres - ind - act",
+      "ruleName": "3th sing - pres - mid - int",
       "searchTerm": [
         "ομαι"
+      ]
+    },
+    {
+      "declension": "-ται",
+      "ruleName": "3th sing - pres - mid - ind",
+      "searchTerm": [
+        "μαι"
       ]
     },
     {
@@ -103,17 +124,17 @@
       ]
     },
     {
-      "declension": "-όμεθᾰ",
-      "ruleName": "1st plural - pres - ind - act",
+      "declension": "-όμεθα",
+      "ruleName": "1st plural - pres - mid - int",
       "searchTerm": [
         "ομαι"
       ]
     },
     {
-      "declension": "-όμεθα",
-      "ruleName": "1st plural - pres - ind - act",
+      "declension": "-μεθα",
+      "ruleName": "1st plural - pres - mid - ind",
       "searchTerm": [
-        "ομαι"
+        "μαι"
       ]
     },
     {
@@ -132,9 +153,16 @@
     },
     {
       "declension": "-εσθε",
-      "ruleName": "2nd plural - pres - ind - act",
+      "ruleName": "2nd plural - pres - mid - int",
       "searchTerm": [
         "ομαι"
+      ]
+    },
+    {
+      "declension": "-σθε",
+      "ruleName": "2nd plural - pres - mid - ind",
+      "searchTerm": [
+        "μαι"
       ]
     },
     {
@@ -195,9 +223,16 @@
     },
     {
       "declension": "-ονται",
-      "ruleName": "3th plural - pres - ind - act",
+      "ruleName": "3th plural - pres - mid - int",
       "searchTerm": [
         "ομαι"
+      ]
+    },
+    {
+      "declension": "-νται",
+      "ruleName": "3th plural - pres - mid - ind",
+      "searchTerm": [
+        "μαι"
       ]
     }
   ]
