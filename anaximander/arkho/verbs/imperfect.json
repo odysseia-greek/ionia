@@ -51,6 +51,49 @@
       "searchTerm": [
         "ω"
       ]
+    },
+
+    {
+      "declension": "-μην",
+      "ruleName": "1st sing - impf - mid - ind",
+      "searchTerm": [
+        "μαι"
+      ]
+    },
+    {
+      "declension": "-σο",
+      "ruleName": "2nd sing - impf - mid - ind",
+      "searchTerm": [
+        "μαι"
+      ]
+    },
+    {
+      "declension": "-το",
+      "ruleName": "3th sing - impf - mid - ind",
+      "searchTerm": [
+        "μαι"
+      ]
+    },
+    {
+      "declension": "-μεθα",
+      "ruleName": "1st plural - impf - mid - ind",
+      "searchTerm": [
+        "μαι"
+      ]
+    },
+    {
+      "declension": "-σθε",
+      "ruleName": "2nd plural - impf - mid - ind",
+      "searchTerm": [
+        "μαι"
+      ]
+    },
+    {
+      "declension": "-ντο",
+      "ruleName": "3th plural - impf - mid - ind",
+      "searchTerm": [
+        "μαι"
+      ]
     }
   ]
 }

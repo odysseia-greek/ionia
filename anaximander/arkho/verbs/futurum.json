@@ -1,0 +1,56 @@
+{
+  "name": "futurum",
+  "type": "future",
+  "dialect": "attic",
+  "declensions": [
+    {
+      "declension": "-σω",
+      "ruleName": "1st sing - futurum - ind - act",
+      "searchTerm": [
+        "ω"
+      ]
+    },
+    {
+      "declension": "-σεις",
+      "ruleName": "2nd sing - futurum - ind - act",
+      "searchTerm": [
+        "ω"
+      ]
+    },
+    {
+      "declension": "-σει",
+      "ruleName": "3th sing - futurum - ind - act",
+      "searchTerm": [
+        "ω"
+      ]
+    },
+    {
+      "declension": "-σομεν",
+      "ruleName": "1st plural - futurum - ind - act",
+      "searchTerm": [
+        "ω"
+      ]
+    },
+    {
+      "declension": "-σετε",
+      "ruleName": "2nd plural - futurum - ind - act",
+      "searchTerm": [
+        "ω"
+      ]
+    },
+    {
+      "declension": "-σουσι",
+      "ruleName": "3th plural - futurum - ind - act",
+      "searchTerm": [
+        "ω"
+      ]
+    },
+    {
+      "declension": "-σουσιν",
+      "ruleName": "3th plural - futurum - ind - act",
+      "searchTerm": [
+        "ω"
+      ]
+    }
+  ]
+}
