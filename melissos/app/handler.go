@@ -3,6 +3,7 @@ package app
 import (
 	"context"
 	"encoding/json"
+	"fmt"
 	"github.com/kpango/glg"
 	"github.com/odysseia-greek/eupalinos"
 	configs "github.com/odysseia-greek/ionia/melissos/config"
@@ -11,6 +12,7 @@ import (
 	"os"
 	"strings"
 	"sync"
+	"time"
 )
 
 type MelissosHandler struct {
@@ -38,6 +40,7 @@ func (m *MelissosHandler) Handle() {
 
 		if strings.Contains(string(msg), "startup:") {
 			startupCode = strings.Split(string(msg), " ")[1]
+			glg.Info("received startup code")
 			continue
 		}
 
@@ -46,6 +49,8 @@ func (m *MelissosHandler) Handle() {
 		if err != nil {
 			glg.Error(err)
 		}
+
+		m.Config.Processed++
 
 		if word.Dutch != "" {
 			err := m.addDutchWord(word)
@@ -62,8 +67,6 @@ func (m *MelissosHandler) Handle() {
 		}
 		if !found {
 			m.addWord(word)
-		} else {
-			glg.Infof("word: %s already in dictionary", word.Greek)
 		}
 	}
 }
@@ -80,7 +83,6 @@ func (m *MelissosHandler) addDutchWord(word models.Meros) error {
 	response, err := m.Config.Elastic.Query().Match(m.Config.Index, query)
 
 	if err != nil {
-		glg.Error(err)
 		return err
 	}
 
@@ -99,7 +101,7 @@ func (m *MelissosHandler) addDutchWord(word models.Meros) error {
 			return err
 		}
 
-		glg.Debugf("updated root word: %s", meros.Greek)
+		m.Config.Updated++
 	}
 
 	return nil
@@ -189,8 +191,6 @@ func (m *MelissosHandler) transformWord(word models.Meros, wg *sync.WaitGroup) {
 
 	m.Config.Created++
 
-	glg.Debugf("created root word: %s", word.Greek)
-
 	return
 }
 
@@ -227,4 +227,11 @@ func (m *MelissosHandler) stripMouseionWords(word string) string {
 	}
 
 	return w
+}
+
+func (m *MelissosHandler) PrintProgress() {
+	for {
+		glg.Info(fmt.Sprintf("documents processed: %d | documents created: %d | documents updated: %d", m.Config.Processed, m.Config.Created, m.Config.Updated))
+		time.Sleep(20 * time.Second)
+	}
 }

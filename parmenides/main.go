@@ -105,6 +105,8 @@ func main() {
 						glg.Fatal(err)
 					}
 
+					glg.Info(fmt.Sprintf("method: %s | category: %s | documents: %d", method, category, len(logoi.Logos)))
+
 					documents += len(logoi.Logos)
 
 					wg.Add(1)
@@ -119,12 +121,14 @@ func main() {
 		}
 
 	}
-	wg.Wait()
-	glg.Infof("created: %s", strconv.Itoa(parmenidesConfig.Created))
-	glg.Infof("words found in sullego: %s", strconv.Itoa(documents))
 
+	go handler.PrintProgress(documents)
+	wg.Wait()
 	exitCode := fmt.Sprintf("exitcode: %s", handler.Config.ExitCode)
 	lines <- eupalinos.Message(exitCode)
+	glg.Infof("sending %s", exitCode)
+	glg.Infof("created: %s", strconv.Itoa(parmenidesConfig.Created))
+	glg.Infof("words found in sullego: %s", strconv.Itoa(documents))
 
 	os.Exit(0)
 }

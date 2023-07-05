@@ -1,11 +1,13 @@
 package app
 
 import (
+	"fmt"
 	"github.com/kpango/glg"
 	configs "github.com/odysseia-greek/ionia/anaximander/config"
 	"github.com/odysseia-greek/plato/models"
 	"strings"
 	"sync"
+	"time"
 )
 
 type AnaximanderHandler struct {
@@ -31,7 +33,7 @@ func (a *AnaximanderHandler) DeleteIndexAtStartUp() error {
 }
 
 func (a *AnaximanderHandler) CreateIndexAtStartup() error {
-	indexMapping := a.Config.Elastic.Builder().Index()
+	indexMapping := a.Config.Elastic.Builder().GrammarIndex()
 	created, err := a.Config.Elastic.Index().Create(a.Config.Index, indexMapping)
 	if err != nil {
 		return err
@@ -53,4 +55,12 @@ func (a *AnaximanderHandler) AddToElastic(declension models.Declension, wg *sync
 	}
 
 	return nil
+}
+
+func (a *AnaximanderHandler) PrintProgress(total int) {
+	for {
+		percentage := float64(a.Config.Created) / float64(total) * 100
+		glg.Info(fmt.Sprintf("Progress: %d/%d documents created (%.2f%%)", a.Config.Created, total, percentage))
+		time.Sleep(1000 * time.Second)
+	}
 }

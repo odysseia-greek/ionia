@@ -1,11 +1,13 @@
 package app
 
 import (
+	"fmt"
 	"github.com/kpango/glg"
 	configs "github.com/odysseia-greek/ionia/herakleitos/config"
 	"github.com/odysseia-greek/plato/models"
 	"strings"
 	"sync"
+	"time"
 )
 
 type HerakleitosHandler struct {
@@ -31,7 +33,7 @@ func (h *HerakleitosHandler) DeleteIndexAtStartUp() error {
 }
 
 func (h *HerakleitosHandler) CreateIndexAtStartup() error {
-	indexMapping := h.Config.Elastic.Builder().Index()
+	indexMapping := h.Config.Elastic.Builder().TextIndex()
 	created, err := h.Config.Elastic.Index().Create(h.Config.Index, indexMapping)
 	if err != nil {
 		return err
@@ -55,4 +57,12 @@ func (h *HerakleitosHandler) Add(rhema models.Rhema, wg *sync.WaitGroup) error {
 		h.Config.Created++
 	}
 	return nil
+}
+
+func (h *HerakleitosHandler) PrintProgress(total int) {
+	for {
+		percentage := float64(h.Config.Created) / float64(total) * 100
+		glg.Info(fmt.Sprintf("Progress: %d/%d documents created (%.2f%%)", h.Config.Created, total, percentage))
+		time.Sleep(1 * time.Second)
+	}
 }

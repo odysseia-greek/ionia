@@ -1,12 +1,14 @@
 package app
 
 import (
+	"fmt"
 	"github.com/kpango/glg"
 	configs "github.com/odysseia-greek/ionia/demokritos/config"
 	"github.com/odysseia-greek/plato/models"
 	"github.com/odysseia-greek/plato/transform"
 	"strings"
 	"sync"
+	"time"
 )
 
 type DemokritosHandler struct {
@@ -32,7 +34,8 @@ func (d *DemokritosHandler) DeleteIndexAtStartUp() error {
 }
 
 func (d *DemokritosHandler) CreateIndexAtStartup() error {
-	query := d.Config.Elastic.Builder().SearchAsYouTypeIndex(d.Config.SearchWord)
+	glg.Info(fmt.Sprintf("creating index: %s with min: %v and max: %v ngram", d.Config.Index, d.Config.MinNGram, d.Config.MaxNGram))
+	query := d.Config.Elastic.Builder().DictionaryIndex(d.Config.MinNGram, d.Config.MaxNGram)
 	res, err := d.Config.Elastic.Index().Create(d.Config.Index, query)
 	if err != nil {
 		return err
@@ -55,9 +58,16 @@ func (d *DemokritosHandler) AddDirectoryToElastic(biblos models.Biblos, wg *sync
 		} else {
 			innerWaitGroup.Add(1)
 			go d.transformWord(word, &innerWaitGroup)
-			glg.Debugf("created root word: %s", word.Greek)
 			d.Config.Created++
 		}
+	}
+}
+
+func (d *DemokritosHandler) PrintProgress(total int) {
+	for {
+		percentage := float64(d.Config.Created) / float64(total) * 100
+		glg.Info(fmt.Sprintf("Progress: %d/%d documents created (%.2f%%)", d.Config.Created, total, percentage))
+		time.Sleep(5 * time.Second)
 	}
 }
 
@@ -78,7 +88,6 @@ func (d *DemokritosHandler) transformWord(m models.Meros, wg *sync.WaitGroup) {
 		glg.Error(err)
 		return
 	} else {
-		glg.Debugf("created parsed word: %s", strippedWord)
 		d.Config.Created++
 	}
 }
