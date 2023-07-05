@@ -9,4 +9,6 @@ type Config struct {
 	SearchWord string
 	Created    int
 	Elastic    elastic.Client
+	MinNGram   int
+	MaxNGram   int
 }

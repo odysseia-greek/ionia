@@ -5,10 +5,15 @@ import (
 	"github.com/odysseia-greek/aristoteles"
 	"github.com/odysseia-greek/aristoteles/models"
 	"github.com/odysseia-greek/plato/config"
+	"strconv"
 )
 
 const (
-	defaultIndex string = "dictionary"
+	defaultIndex    string = "dictionary"
+	defaultMinNGram string = "3"
+	defaultMaxNGram string = "5"
+	envMaxNGram     string = "MAX_NGRAM"
+	envMinNGram     string = "MIN_NGRAM"
 )
 
 func CreateNewConfig(env string) (*Config, error) {
@@ -52,6 +57,18 @@ func CreateNewConfig(env string) (*Config, error) {
 		}
 	}
 
+	min := config.StringFromEnv(envMinNGram, defaultMinNGram)
+	max := config.StringFromEnv(envMaxNGram, defaultMaxNGram)
+
+	minNGram, err := strconv.Atoi(min)
+	if err != nil {
+		return nil, err
+	}
+	maxNGram, err := strconv.Atoi(max)
+	if err != nil {
+		return nil, err
+	}
+
 	index := config.StringFromEnv(config.EnvIndex, defaultIndex)
 	searchWord := config.StringFromEnv(config.EnvSearchWord, config.DefaultSearchWord)
 	return &Config{
@@ -59,5 +76,7 @@ func CreateNewConfig(env string) (*Config, error) {
 		Created:    0,
 		SearchWord: searchWord,
 		Elastic:    elastic,
+		MaxNGram:   maxNGram,
+		MinNGram:   minNGram,
 	}, nil
 }

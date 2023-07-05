@@ -15,6 +15,8 @@ import (
 	"sync"
 )
 
+var documents int
+
 func init() {
 	errlog := glg.FileWriter("/tmp/error.log", 0666)
 	defer errlog.Close()
@@ -82,6 +84,7 @@ func main() {
 					glg.Fatal(err)
 				}
 
+				documents += 1
 				wg.Add(1)
 				go func() {
 					err := handler.AddToElastic(declension, &wg)
@@ -92,6 +95,8 @@ func main() {
 			}
 		}
 	}
+
+	go handler.PrintProgress(documents)
 	wg.Wait()
 	glg.Infof("created: %s", strconv.Itoa(handler.Config.Created))
 	os.Exit(0)

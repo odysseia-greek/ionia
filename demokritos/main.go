@@ -91,6 +91,8 @@ func main() {
 			}
 		}
 	}
+	go handler.PrintProgress(2 * documents)
+
 	wg.Wait()
 	glg.Infof("created: %s", strconv.Itoa(handler.Config.Created))
 	glg.Infof("words found in sullego: %s", strconv.Itoa(documents))

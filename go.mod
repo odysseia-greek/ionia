@@ -5,9 +5,9 @@ go 1.20
 require (
 	github.com/google/uuid v1.3.0
 	github.com/kpango/glg v1.6.15
-	github.com/odysseia-greek/aristoteles v0.1.5
+	github.com/odysseia-greek/aristoteles v0.4.0
 	github.com/odysseia-greek/eupalinos v0.0.1
-	github.com/odysseia-greek/plato v0.3.16
+	github.com/odysseia-greek/plato v0.6.0
 	github.com/stretchr/testify v1.8.2
 )
 

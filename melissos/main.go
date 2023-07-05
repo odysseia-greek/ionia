@@ -39,5 +39,7 @@ func main() {
 		Config: melissosConfig,
 	}
 
+	go handler.PrintProgress()
+
 	handler.Handle()
 }

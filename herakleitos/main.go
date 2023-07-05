@@ -94,6 +94,8 @@ func main() {
 			}
 		}
 	}
+
+	go handler.PrintProgress(documents)
 	wg.Wait()
 	glg.Infof("created: %s", strconv.Itoa(handler.Config.Created))
 	glg.Infof("texts found in rhema: %s", strconv.Itoa(documents))

@@ -1,12 +1,14 @@
 package app
 
 import (
+	"fmt"
 	"github.com/kpango/glg"
 	"github.com/odysseia-greek/eupalinos"
 	configs "github.com/odysseia-greek/ionia/parmenides/config"
 	"github.com/odysseia-greek/plato/models"
 	"strings"
 	"sync"
+	"time"
 )
 
 type ParmenidesHandler struct {
@@ -32,7 +34,7 @@ func (p *ParmenidesHandler) DeleteIndexAtStartUp() error {
 }
 
 func (p *ParmenidesHandler) CreateIndexAtStartup() error {
-	indexMapping := p.Config.Elastic.Builder().Index()
+	indexMapping := p.Config.Elastic.Builder().QuizIndex()
 	created, err := p.Config.Elastic.Index().Create(p.Config.Index, indexMapping)
 	if err != nil {
 		return err
@@ -72,9 +74,15 @@ func (p *ParmenidesHandler) Add(logoi models.Logos, wg *sync.WaitGroup, method, 
 			return err
 		}
 
-		glg.Infof("created word: %s with translation %s | method: %s | category: %s", word.Greek, word.Translation, word.Method, word.Category)
-
 		p.Config.Created++
 	}
 	return nil
+}
+
+func (p *ParmenidesHandler) PrintProgress(total int) {
+	for {
+		percentage := float64(p.Config.Created) / float64(total) * 100
+		glg.Info(fmt.Sprintf("Progress: %d/%d documents created (%.2f%%)", p.Config.Created, total, percentage))
+		time.Sleep(10 * time.Second)
+	}
 }

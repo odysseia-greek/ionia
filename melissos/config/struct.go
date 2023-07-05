@@ -6,8 +6,10 @@ import (
 )
 
 type Config struct {
-	Index   string
-	Created int
-	Elastic elastic.Client
-	Queue   *eupalinos.Rabbit
+	Index     string
+	Created   int
+	Updated   int
+	Processed int
+	Elastic   elastic.Client
+	Queue     *eupalinos.Rabbit
 }
