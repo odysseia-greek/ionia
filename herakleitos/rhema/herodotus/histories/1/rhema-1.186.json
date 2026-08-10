@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.186",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.186/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα μὲν δὴ ἐκ βάθεος περιεβάλετο, τοιήνδε δὲ ἐξ αὐτῶν παρενθήκην ἐποιήσατο. τῆς πόλιος ἐούσης δύο φαρσέων, τοῦ δὲ ποταμοῦ μέσον ἔχοντος, ἐπὶ τῶν πρότερον βασιλέων ὅκως τις ἐθέλοι ἐκ τοῦ ἑτέρου φάρσεος ἐς τοὔτερον διαβῆναι, χρῆν πλοίῳ διαβαίνειν, καὶ ἦν, ὡς ἐγὼ δοκέω, ὀχληρὸν τοῦτο. αὕτη δὲ καὶ τοῦτο προεῖδε. ἐπείτε γὰρ ὤρυσσε τὸ ἔλυτρον τῇ λίμνῃ, μνημόσυνον τόδε ἄλλο ἀπὸ τοῦ αὐτοῦ ἔργου ἐλίπετο·",
+        "translations": [
+          "So she made the deep river her protection; and this work led to another which she added to it. Her city was divided into two parts by the river that flowed through the middle. In the days of the former rulers, when one wanted to go from one part to the other, one had to cross in a boat; and this, I suppose, was a nuisance. But the queen also provided for this; she made another monument of her reign out of this same work when the digging of the basin of the lake was done."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐτάμνετο λίθους περιμήκεας, ὡς δέ οἱ ἦσαν οἱ λίθοι ἕτοιμοι καὶ τὸ χωρίον ὀρώρυκτο, ἐκτρέψασα τοῦ ποταμοῦ τὸ ῥέεθρον πᾶν ἐς τὸ ὤρυσσε χωρίον, ἐν ᾧ ἐπίμπλατο τοῦτο, ἐν τούτω ἀπεξηρασμένου τοῦ ἀρχαίου ῥεέθρου τοῦτο μὲν τὰ χείλεα τοῦ ποταμοῦ κατὰ τὴν πόλιν καὶ τὰς καταβάσιας τὰς ἐκ τῶν πυλίδων ἐς τὸν ποταμὸν φερούσας ἀνοικοδόμησε πλίνθοισι ὀπτῇσι κατὰ τὸν αὐτὸν λόγον τῷ τείχεϊ, τοῦτο δὲ κατὰ μέσην κου μάλιστα τὴν πόλιν τοῖσι λίθοισι τοὺς ὠρύξατο οἰκοδόμεε γέφυραν, δέουσα τοὺς λίθους σιδήρῳ τε καὶ μολύβδῳ.",
+        "translations": [
+          "She had very long blocks of stone cut; and when these were ready and the place was dug, she turned the course of the river into it, and while it was filling, the former channel now being dry, she bricked the borders of the river in the city and the descent from the gate leading down to the river with baked bricks, like those of the wall; and near the middle of the city she built a bridge with the stones that had been dug up, binding them together with iron and lead."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐπιτείνεσκε δὲ ἐπʼ αὐτήν, ὅκως μὲν ἡμέρη γίνοιτο, ξύλα τετράγωνα, ἐπʼ ὧν τὴν διάβασιν ἐποιεῦντο οἱ Βαβυλώνιοι· τὰς δὲ νύκτας τὰ ξύλα ταῦτα ἀπαιρέεσκον τοῦδε εἵνεκα, ἵνα μὴ διαφοιτέοντες τὰς νύκτας κλέπτοιεν παρʼ ἀλλήλων.",
+        "translations": [
+          "Each morning, she laid square-hewn logs across it, on which the Babylonians crossed; but these logs were removed at night, lest folk always be crossing over and stealing from one another."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ὡς δὲ τό τε ὀρυχθὲν λίμνη πλήρης ἐγεγόνεε ὑπὸ τοῦ ποταμοῦ καὶ τὰ περὶ τὴν γέφυραν ἐκεκόσμητο, τὸν Εὐφρήτην ποταμὸν ἐς τὰ ἀρχαῖα ῥέεθρα ἐκ τῆς λίμνης ἐξήγαγε, καὶ οὕτω τὸ ὀρυχθὲν ἕλος γενόμενον ἐς δέον ἐδόκεε γεγονέναι καὶ τοῖσι πολιήτῃσι γέφυρα ἦν κατεσκευασμένη.",
+        "translations": [
+          "Then, when the basin she had made for a lake was filled by the river and the bridge was finished, Nitocris brought the Euphrates back to its former channel out of the lake; thus she had served her purpose, as she thought, by making a swamp of the basin, and her citizens had a bridge made for them."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

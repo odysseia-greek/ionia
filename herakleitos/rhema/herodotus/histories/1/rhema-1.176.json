@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.176",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.176/",
+    "rhemai": [
+      {
+        "greek": "Πηδασέες μέν νυν χρόνῳ ἐξαιρέθησαν. Λύκιοι δέ, ὡς ἐς τὸ Ξάνθιον πεδίον ἤλασε ὁ Ἅρπαγος τὸν στρατόν, ἐπεξιόντες καὶ μαχόμενοι ὀλίγοι πρὸς πολλοὺς ἀρετᾶς ἀπεδείκνυντο, ἑσσωθέντες δὲ καὶ κατειληθέντες ἐς τὸ ἄστυ συνήλισαν ἐς τὴν ἀκρόπολιν τάς τε γυναῖκας καὶ τὰ τέκνα καὶ τὰ χρήματα καὶ τοὺς οἰκέτας, καὶ ἔπειτα ὑπῆψαν τὴν ἀκρόπολιν πᾶσαν ταύτην καίεσθαι.",
+        "translations": [
+          "The Pedaseans were at length taken, and when Harpagus led his army into the plain of Xanthus, the Lycians came out to meet him, and showed themselves courageous fighting few against many; but being beaten and driven into the city, they gathered their wives and children and goods and servants into the acropolis, and then set the whole acropolis on fire."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ταῦτα δὲ ποιήσαντες καὶ συνομόσαντες ὅρκους δεινούς, ἐπεξελθόντες ἀπέθανον πάντες Ξάνθιοι μαχόμενοι.",
+        "translations": [
+          "Then they swore great oaths to each other, and sallying out fell fighting, all the men of Xanthus."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τῶν δὲ νῦν Λυκίων φαμένων Ξανθίων εἶναι οἱ πολλοί, πλὴν ὀγδώκοντα ἱστιέων, εἰσὶ ἐπήλυδες· αἱ δὲ ὀγδώκοντα ἱστίαι αὗται ἔτυχον τηνικαῦτα ἐκδημέουσι καὶ οὕτω περιεγένοντο. τὴν μὲν δὴ Ξάνθον οὕτω ἔσχε ὁ Ἅρπαγος, παραπλησίως δὲ καὶ τὴν Καῦνον ἔσχε· καὶ γὰρ οἱ Καύνιοι τοὺς Λυκίους ἐμιμήσαντο τὰ πλέω.",
+        "translations": [
+          "Of the Xanthians who claim now to be Lycians the greater number, all except eighty households, are of foreign descent; these eighty families as it happened were away from the city at that time, and thus survived. So Harpagus gained Xanthus, and Caunus too in a somewhat similar manner, the Caunians following for the most part the example of the Lycians."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

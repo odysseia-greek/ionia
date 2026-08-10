@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.210",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.210/",
+    "rhemai": [
+      {
+        "greek": "Κῦρος μὲν δοκέων οἱ Δαρεῖον ἐπιβουλεύειν ἔλεγε τάδε· τῷ δὲ ὁ δαίμων προέφαινε ὡς αὐτὸς μὲν τελευτήσειν αὐτοῦ ταύτῃ μέλλοι, ἡ δὲ βασιληίη αὐτοῦ περιχωρέοι ἐς Δαρεῖον.",
+        "translations": [
+          "Cyrus said this, thinking that Darius was plotting against him; but in fact, heaven was showing him that he himself was to die in the land where he was and Darius inherit his kingdom."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἀμείβεται δὴ ὦν ὁ Ὑστάσπης τοῖσιδε. ὦ βασιλεῦ, μὴ εἴη ἀνὴρ Πέρσης γεγονὼς ὅστις τοὶ ἐπιβουλεύσειε, εἰ δʼ ἐστί, ἀπόλοιτο ὡς τάχιστα· ὃς ἀντὶ μὲν δούλων ἐποίησας ἐλευθέρους Πέρσας εἶναι, ἀντὶ δὲ ἄρχεσθαι ὑπʼ ἄλλων ἄρχειν ἁπάντων.",
+        "translations": [
+          "So then Hystaspes replied with this: “O King, may there not be any Persian born who would plot against you! But if there is, may he perish suddenly; for you have made the Persians free men instead of slaves and rulers of all instead of subjects of any."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "εἰ δέ τις τοὶ ὄψις ἀπαγγέλλει παῖδα τὸν ἐμὸν νεώτερα βουλεύειν περὶ σέο, ἐγώ τοι παραδίδωμι χρᾶσθαι αὐτῷ τοῦτο ὅ τι σὺ βούλεαι.",
+        "translations": [
+          "But if your vision does indeed signify that my son is planning revolution, I give him to you to treat as you like.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

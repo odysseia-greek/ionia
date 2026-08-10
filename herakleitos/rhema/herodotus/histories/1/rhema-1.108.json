@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.108",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.108/",
+    "rhemai": [
+      {
+        "greek": "συνοικεούσης δὲ τῷ Καμβύσῃ τῆς Μανδάνης, ὁ Ἀστυάγης τῷ πρώτῳ ἔτεϊ εἶδε ἄλλην ὄψιν, ἐδόκεε δέ οἱ ἐκ τῶν αἰδοίων τῆς θυγατρὸς ταύτης φῦναι ἄμπελον, τὴν δὲ ἄμπελον ἐπισχεῖν τὴν Ἀσίην πᾶσαν.",
+        "translations": [
+          "But during the first year that Mandane was married to Cambyses, Astyages saw a second vision. He dreamed that a vine grew out of the genitals of this daughter, and that the vine covered the whole of Asia."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἰδὼν δὲ τοῦτο καὶ ὑπερθέμενος τοῖσι ὀνειροπόλοισι, μετεπέμψατο ἐκ τῶν Περσέων τὴν θυγατέρα ἐπίτεκα ἐοῦσαν, ἀπικομένην δὲ ἐφύλασσε βουλόμενος τὸ γενόμενον ἐξ αὐτῆς διαφθεῖραι· ἐκ γάρ οἱ τῆς ὄψιος οἱ τῶν Μάγων ὀνειροπόλοι ἐσήμαινον ὅτι μέλλοι ὁ τῆς θυγατρὸς αὐτοῦ γόνος βασιλεύσειν ἀντὶ ἐκείνου.",
+        "translations": [
+          "Having seen this vision, and communicated it to the interpreters of dreams, he sent to the Persians for his daughter, who was about to give birth, and when she arrived kept her guarded, meaning to kill whatever child she bore: for the interpreters declared that the meaning of his dream was that his daughter's offspring would rule in his place."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ταῦτα δὴ ὦν φυλασσόμενος ὁ Ἀστυάγης, ὡς ἐγένετο ὁ Κῦρος, καλέσας Ἅρπαγον ἄνδρα οἰκήιον καὶ πιστότατόν τε Μήδων καὶ πάντων ἐπίτροπον τῶν ἑωυτοῦ, ἔλεγὲ οἱ τοιάδε.",
+        "translations": [
+          "Anxious to prevent this, Astyages, when Cyrus was born, summoned Harpagus, a man of his household who was his most faithful servant among the Medes and was administrator of all that was his, and he said:"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "Ἅρπαγε, πρῆγμα τὸ ἄν τοι προσθέω, μηδαμῶς παραχρήσῃ, μηδὲ ἐμέ τε παραβάλῃ καὶ ἄλλους ἑλόμενος ἐξ ὑστέρης σοὶ αὐτῷ περιπέσῃς· λάβε τὸν Μανδάνη ἔτεκε παῖδα, φέρων δὲ ἐς σεωυτοῦ ἀπόκτεινον, μετὰ δὲ θάψον τρόπῳ ὅτεῳ αὐτὸς βούλεαι.",
+        "translations": [
+          "“ Harpagus, whatever business I turn over to you, do not mishandle it, and do not leave me out of account and, giving others preference, trip over your own feet afterwards. Take the child that Mandane bore, and carry him to your house, and kill him; and then bury him however you like.”"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ὁ δὲ ἀμείβεται ὦ βασιλεῦ, οὔτε ἄλλοτε κω παρεῖδες ἀνδρὶ τῷδε ἄχαρι οὐδέν, φυλασσόμεθα δὲ ἐς σὲ καὶ ἐς τὸν μετέπειτα χρόνον μηδὲν ἐξαμαρτεῖν. ἀλλʼ εἲ τοι φίλον τοῦτο οὕτω γίνεσθαι, χρὴ δὴ τό γε ἐμὸν ὑπηρετέεσθαι ἐπιτηδέως.",
+        "translations": [
+          "“O King,” Harpagus answered, “never yet have you noticed anything displeasing in your man; and I shall be careful in the future, too, not to err in what concerns you. If it is your will that this be done, then my concern ought to be to attend to it scrupulously.”"
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "author":"Ploutarchos",
+    "book":"Lycurgus",
+    "type":"work",
+    "reference":"1",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg004.perseus-grc2:1?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"περὶ Λυκούργου τοῦ νομοθέτου καθόλου μὲν οὐδὲν ἔστιν εἰπεῖν ἀναμφισβήτητον, οὗ γε καὶ γένος καὶ ἀποδημία καὶ τελευτὴ καὶ πρὸς ἅπασιν ἡ περὶ τοὺς νόμους αὐτοῦ καὶ τὴν πολιτείαν πραγματεία διαφόρους ἔσχηκεν ἱστορίας, ἥκιστα δὲ οἱ χρόνοι καθʼ οὓς γέγονεν ὁ ἀνὴρ ὁμολογοῦνται, οἱ μὲν γάρ Ἰφίτῳ συνακμάσαι καὶ συνδιαθεῖναι τὴν Ὀλυμπιακὴν ἐκεχειρίαν λέγουσιν αὐτόν, ὧν ἐστι καὶ Ἀριστοτέλης ὁ φιλόσοφος, τεκμήριον προσφέρων τὸν Ὀλυμπίασι δίσκον ἐν ᾧ τοὔνομα τοῦ Λυκούργου διασώζεται καταγεγραμμένον·",
+        "translations":[
+          "Concerning Lycurgus the lawgiver, in general, nothing can be said which is not disputed, since indeed there are different accounts of his birth, his travels, his death, and above all, of his work as lawmaker and statesman; and there is least agreement among historians as to the times in which the man lived. Some say that he flourished at the same time with Iphitus, and in concert with him established the Olympic truce. Among these is Aristotle the philosopher, and he alleges as proof the discus at Olympia on which an inscription preserves the name of Lycurgus."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"οἱ δὲ ταῖς διαδοχαῖς τῶν ἐν Σπάρτῃ βεβασιλευκότων ἀναλεγόμενοι τὸν χρόνον, ὥσπερ Ἐρατοσθένης καὶ Ἀπολλόδωρος, οὐκ ὀλίγοις ἔτεσι πρεσβύτερον ἀποφαίνουσι τῆς πρώτης Ὀλυμπιάδος. Τίμαιος δὲ ὑπονοεῖ, δυεῖν ἐν Σπάρτῃ γεγονότων Λυκούργων οὐ κατὰ τὸν αὐτὸν χρόνον, τῷ ἑτέρῳ τὰς ἀμφοῖν πράξεις διὰ τὴν δόξαν ἀνακεῖσθαι καὶ τόν γε πρεσβύτερον οὐ πόρρω τῶν Ὁμήρου γεγονέναι χρόνων, ἔνιοι δὲ καὶ κατʼ ὄψιν ἐντυχεῖν Ὁμήρῳ.",
+        "translations":[
+          "But those who compute the time by the successions of kings at Sparta, like Eratosthenes and Apollodorus, prove that Lycurgus was many years earlier than the first Olympiad.[ ] And Timaeus conjectures that there were two Lycurgus at Sparta, at different times, and that to one of them the achievements of both were ascribed, owing to his greater fame; he thinks also that the elder of the two lived not far from the times of Homer, and some assert that he actually met Homer face to face."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"δίδωσι δὲ καὶ Ξενοφῶν ὑπόνοιαν ἀρχαιότητος ἐν οἷς τὸν ἄνδρα λέγει γεγονέναι κατὰ τοὺς Ἡρακλείδας. γένει μὲν γὰρ Ἡρακλεῖδαι δήπουθεν ἦσαν καὶ οἱ νεώτατοι τῶν ἐν Σπάρτῃ βασιλέων, ὁ δὲ ἔοικε βουλομένῳ τοὺς πρώτους ἐκείνους καὶ σύνεγγυς Ἡρακλέους ὀνομάζειν Ἡρακλείδας. οὐ μὴν ἀλλὰ καίπερ οὕτως πεπλανημένης τῆς ἱστορίας, πειρασόμεθα τοῖς βραχυτάτας ἔχουσιν ἀντιλογίας ἢ γνωριμωτάτους μάρτυρας ἑπόμενοι τῶν γεγραμμένων περὶ τοῦ ἀνδρὸς ἀποδοῦναι τὴν διήγησιν.",
+        "translations":[
+          "Xenophon, also, makes an impression of simplicity in the passage where he says that Lycurgus lived in the time of the Heracleidae. For in lineage, of course, the latest of the Spartan kings were also Heracleidae; but Xenophon apparently wishes to use the name Heracleidae of the first and more immediate descendants of Heracles, so famous in story. However, although the history of these times is such a maze, I shall try, in presenting my narrative, to follow those authors who are least contradicted, or who have the most notable witnesses for what they have written about the man."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"ἐπεὶ καὶ Σιμωνίδης ὁ ποιητὴς οὐκ Εὐνόμου λέγει τὸν Λυκοῦργον πατρός, ἀλλὰ Πρυτάνιδος καὶ τὸν Λυκοῦργον καὶ τὸν Εὔνομον, οἱ δὲ[ ] πλεῖστοι σχεδὸν οὐχ οὕτω γενεαλογοῦσιν, ἀλλὰ Προκλέους μὲν τοῦ Ἀριστοδήμου γενέσθαι Σόον, Σόου δὲ Εὐρυπῶντα, τούτου δὲ Πρύτανιν, ἐκ τούτου δὲ Εὔνομον, Εὐνόμου δὲ Πολυδέκτην ἐκ προτέρας γυναικός, Λυκοῦργον δὲ νεώτερον ἐκ Διωνάσσης, ὡς Διευτυχίδας ἱστόρηκεν, ἕκτον μὲν ἀπὸ Προκλέους, ἑνδέκατον δὲ ἀφʼ Ἡρακλέους.",
+        "translations":[
+          "For instance, Simonides the poet says that Lycurgus was not the son of Eunomus, but that both Lycurgus and Eunomus were sons of Prytanis; whereas most writers give a different genealogy, as follows: Aristodemus begat Procles, Procles begat Soüs, Soüs begat Eurypon, and he begat Prytanis, from whom sprang Eunomus, and from Eunomus Polydectes by a first wife, and Lycurgus, who was a younger son by a second wife, Dionassa, as Dieutychidas has written, making Lycurgus sixth from Procles, and eleventh from Heracles."
+        ],
+        "section":"4"
+      }
+    ]
+  },
+  {
+    "author":"Ploutarchos",
+    "book":"Lycurgus",
+    "type":"work",
+    "reference":"12",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg004.perseus-grc2:12?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"τὰ δὲ συσσίτια Κρῆτες μὲν ἀνδρεῖα, Λακεδαιμόνιοι δὲ φιδίτια προσαγορεύουσιν, εἴτε ὡς φιλίας καὶ φιλοφροσύνης ὑπαρχόντων, ἀντὶ τοῦ λ τὸ δ λαμβάνοντες, εἴτε ὡς πρὸς εὐτέλειαν καὶ φειδὼ συνεθιζόντων. οὐδὲν δὲ κωλύει καὶ τὸν πρῶτον ἔξωθεν ἐπικεῖσθαι φθόγγον, ὥσπερ ἔνιοί φασιν, ἐδιτίων παρὰ τὴν δίαιταν καὶ τὴν ἐδωδὴν λεγομένων.",
+        "translations":[
+          "As for the public messes, the Cretans call them andreia, but the Lacedaemonians, phiditia, either because they are conducive to friendship and friendliness, phiditia being equivalent to philitia; or because they accustom men to simplicity and thrift, for which their word is pheido. But it is quite possible, as some say, that the first letter of the word phiditia has been added to it, making phiditia out of editia, which refers merely to meals and eating."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"συνήρχοντο δὲ ἀνὰ πεντεκαίδεκα καὶ βραχεῖ τούτων ἐλάττους ἢ πλείους. ἔφερε δὲ ἕκαστος κατὰ μῆνα τῶν συσσίτων ἀλφίτων μέδιμνον, οἴνου χόας ὀκτώ, τυροῦ πέντε μνᾶς, σύκων ἡμιμναῖα πέντε, πρὸς δὲ τούτοις εἰς ὀψωνίαν μικρόν τι κομιδῇ νομίσματος· ἄλλως δὲ καὶ θύσας τις ἀπαρχὴν καὶ θηρεύσας μέρος ἔπεμψεν εἰς τὸ συσσίτιον. ἐξῆν γὰρ οἴκοι δειπνεῖν ὁπότε θύσας τις ἢ κυνηγῶν ὀψίσειε, τοὺς δὲ ἄλλους ἔδει παρεῖναι.",
+        "translations":[
+          "They met in companies of fifteen, a few more or less, and each one of the mess-mates contributed monthly a bushel of barley-meal, eight gallons of wine, five pounds of cheese, two and a half pounds of figs, and in addition to this, a very small sum of money for such relishes as flesh and fish. Besides this, whenever any one made a sacrifice of first fruits, or brought home game from the hunt, he sent a portion to his mess. For whenever any one was belated by a sacrifice or the chase, he was allowed to sup at home, but the rest had to be at the mess."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"καὶ μέχρι γε πολλοῦ τὰς συσσιτήσεις ἀκριβῶς διεφύλαττον. Ἄγιδος γοῦν τοῦ βασιλέως, ὡς ἐπανῆλθεν ἀπὸ τῆς στρατείας καταπεπολεμηκὼς Ἀθηναίους, βουλομένου παρὰ τῇ γυναικὶ δειπνεῖν καὶ μεταπεμπομένου τὰς μερίδας, οὐκ ἔπεμψαν οἱ πολέμαρχοι, τοῦ δὲ μεθʼ ἡμέραν ὑπʼ ὀργῆς μὴ θύσαντος ἣν ἔδει θυσίαν, ἐζημίωσαν αὐτόν.",
+        "translations":[
+          "For a long time this custom of eating at common mess-tables was rigidly observed. For instance, when King Agis, on returning from an expedition in which he had been victorious over the Athenians, wished to sup at home with his wife, and sent for his rations, the polemarchs refused to send them to him; and when on the following day his anger led him to omit the customary sacrifice, they laid a fine upon him."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"εἰς δὲ τὰ συσσίτια καὶ παῖδες ἐφοίτων, ὥσπερ εἰς διδασκαλεῖα σωφροσύνης ἀγόμενοι, καὶ λόγων ἠκροῶντο πολιτικῶν καὶ παιδευτὰς ἐλευθερίας ἑώρων, αὐτοί τε παίζειν εἰθίζοντο καὶ σκώπτειν ἄνευ βωμολοχίας καὶ σκωπτόμενοι μὴ δυσχεραίνειν. σφόδρα γάρ ἐδόκει καὶ τοῦτο Λακωνικὸν εἶναι, σκώμματος ἀνέχεσθαι μὴ φέροντα δὲ ἐξῆν παραιτεῖσθαι, καὶ ὁ σκώπτων ἐπέπαυτο.",
+        "translations":[
+          "Boys also used to come to these public messes, as if they were attending schools of sobriety; there they would listen to political discussions and see instructive models of liberal breeding. There they themselves also became accustomed to sport and jest without scurrility, and to endure jesting without displeasure. Indeed, it seems to have been especially characteristic of a Spartan to endure jesting; but if any one could not bear up under it, he had only to ask it, and the jester ceased."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"τῶν δ’ εἰσιόντων ἑκάστῳ δείξας ὁ πρεσβύτατος τὰς θύρας, διὰ τούτων φησίν, ἔξω λόγος οὐκ ἐκπορεύεται δοκιμάζεσθαι δὲ τὸν βουλόμενον τοῦ συσσιτίου μετασχεῖν οὕτω φασί. λαβὼν τῶν συσσίτων ἕκαστος ἀπομαγδαλίαν εἰς τὴν χεῖρα, τοῦ διακόνου φέροντος ἀγγεῖον ἐπὶ τῆς κεφαλῆς, ἔβαλλε σιωπῇ καθάπερ ψῆφον, ὁ μὲν δοκιμάζων ἁπλῶς, ὁ δ’ ἐκκρίνων σφόδρα τῇ χειρὶ πιέσας.",
+        "translations":[
+          "As each one came in, the eldest of the company pointed to the door and said to him: Through that door no word goes forth outside. And they say that a candidate for membership in one of these messes underwent the following ordeal. Each of the mess-mates took in his hand a bit of soft bread, and when a servant came along with a bowl upon his head, then they cast it into this without a word, like a ballot, leaving it just as it was if he approved of the candidate, but if he disapproved, squeezing it tight in his hand first."
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"ἡ γὰρ πεπιεσμένη τὴν τῆς τετρημένης ἔχει δύναμιν. κἂν μίαν εὕρωσι τοιαύτην, οὐ προσδέχονται τὸν ἐπεισιόντα, βουλόμενοι πάντας ἡ δομένους ἀλλήλοις συνεῖναι. τὸν δὲ οὕτως ἀποδοκιμασθέντα κεκαδδίσθαι λέγουσι· κάδδιχος γὰρ καλεῖται τὸ ἀγγεῖον εἰς ὃ τὰς ἀπομαγδαλίας ἐμβάλλουσι, τῶν δὲ ὄψων εὐδοκίμει μάλιστα παρʼ αὐτοῖς ὁ μέλας ζωμός, ὥστε μηδὲ κρεαδίου δεῖσθαι τοὺς πρεσβυτέρους, ἀλλὰ παραχωρεῖν τοῖς νεανίσκοις, αὐτοὺς δὲ τοῦ ζωμοῦ καταχεομένους ἑστιᾶσθαι.",
+        "translations":[
+          "For the flattened piece of bread had the force of a perforated, or negative, ballot. And if one such is found in the bowl, the candidate is not admitted to the mess, because they wish all its members to be congenial. The candidate thus rejected is said to have been caddished, for caddichus [ ] is the name of the bowl into which they cast the pieces of bread. Of their dishes, the black broth is held in the highest esteem, so that the elderly men do not even ask for a bit of meat, but leave it for the young men, while they themselves have the broth poured out for their meals."
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"λέγεται δέ τινα τῶν Ποντικῶν βασιλέων ἕνεκα τοῦ ζωμοῦ καὶ πρίασθαι Λακωνικὸν μάγειρον εἶτα γευσάμενον δυσχερᾶναι· καὶ τὸν μάγειρον εἰπεῖν ὦ βασιλεῦ, τοῦτον δεῖ τὸν ζωμὸν ἐν τῷ Εὐρώτᾳ λελουμένους ἐποψᾶσθαι. πιόντες δὲ μετρίως ἀπίασι δίχα λαμπάδος, οὐ γάρ ἔξεστι πρὸς φῶς βαδίζειν, οὔτε ταύτην οὔτε ἄλλην ὁδόν, ὅπως ἐθίζωνται σκότους καὶ νυκτὸς εὐθαρσῶς καὶ ἀδεῶς ὁδεύειν. τὰ μὲν οὖν συσσίτια τοιαύτην ἔχει τάξιν.",
+        "translations":[
+          "And it is said that one of the kings of Pontus actually bought a Spartan cook for the sake of having this broth, and then, when he tasted it, disliked it; whereupon the cook said: O King, those who relish this broth must first have bathed in the river Eurotas. After drinking moderately, they go off home without a torch; for they are not allowed to walk with a light, either on this or any other occasion, that they may accustom themselves to marching boldly and without fear in the darkness of night. Such, then, is the fashion of their common messes."
+        ],
+        "section":"7"
+      }
+    ]
+  }
+]

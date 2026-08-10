@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.11",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.11/",
+    "rhemai": [
+      {
+        "greek": "τότε μὲν δὴ οὕτω οὐδέν δηλώσασα ἡσυχίην εἶχε. ὡς δὲ ἡμέρη τάχιστα ἐγεγόνεε, τῶν οἰκετέων τοὺς μάλιστα ὥρα πιστοὺς ἐόντας ἑωυτῇ, ἑτοίμους ποιησαμένη ἐκάλεε τὸν Γύγεα. ὁ δὲ οὐδὲν δοκέων αὐτήν τῶν πρηχθέντων ἐπίστασθαι ἦλθε καλεόμενος· ἐώθεε γὰρ καὶ πρόσθε, ὅκως ἡ βασίλεια καλέοι, φοιτᾶν.",
+        "translations": [
+          "For the present she made no sign and kept quiet. But as soon as it was day, she prepared those of her household whom she saw were most faithful to her, and called Gyges. He, supposing that she knew nothing of what had been done, answered the summons; for he was used to attending the queen whenever she summoned him."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὡς δὲ ὁ Γύγης ἀπίκετο, ἔλεγε ἡ γυνὴ τάδε. νῦν τοί δυῶν ὁδῶν παρεουσέων Γύγη δίδωμί αἵρεσιν, ὁκοτέρην βούλεαι τραπέσθαι. ἢ γὰρ Κανδαύλεα ἀποκτείνας ἐμέ τε καὶ τὴν βασιληίην ἔχε τὴν Λυδῶν, ἢ αὐτόν σε αὐτίκα οὕτω ἀποθνήσκειν δεῖ, ὡς ἂν μὴ πάντα πειθόμενος Κανδαύλῃ τοῦ λοιποῦ ἴδῃς τὰ μὴ σε δεῖ.",
+        "translations": [
+          "When Gyges came, the lady addressed him thus: “Now, Gyges, you have two ways before you; decide which you will follow. You must either kill Candaules and take me and the throne of Lydia for your own, or be killed yourself now without more ado; that will prevent you from obeying all Candaules ' commands in the future and seeing what you should not see."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἀλλʼ ἤτοι κεῖνόν γε τὸν ταῦτα βουλεύσαντα δεῖ ἀπόλλυσθαι, ἢ σε τὸν ἐμὲ γυμνήν θεησάμενον καὶ ποιήσαντα οὐ νομιζόμενα. ὁ δὲ Γύγης τέως μὲν ἀπεθώμαζε τὰ λεγόμενα, μετὰ δὲ ἱκέτευε μὴ μιν ἀναγκαίῃ ἐνδέειν διακρῖναι τοιαύτην αἵρεσιν.",
+        "translations": [
+          "One of you must die: either he, the contriver of this plot, or you, who have outraged all custom by looking on me uncovered.” Gyges stood awhile astonished at this; presently, he begged her not to compel him to such a choice."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "οὔκων δὴ ἔπειθε, ἀλλʼ ὥρα ἀναγκαίην ἀληθέως προκειμένην ἢ τὸν δεσπότεα ἀπολλύναι ἢ αὐτὸν ὑπʼ ἄλλων ἀπόλλυσθαι· αἱρέεται αὐτὸς περιεῖναι. ἐπειρώτα δὴ λέγων τάδε. ἐπεί με ἀναγκάζεις δεσπότεα τὸν ἐμὸν κτείνειν οὐκ ἐθέλοντα, φέρε ἀκούσω τέῳ καὶ τρόπῳ ἐπιχειρήσομεν αὐτῷ.",
+        "translations": [
+          "But when he could not deter her, and saw that dire necessity was truly upon him either to kill his master or himself be killed by others, he chose his own life. Then he asked: “Since you force me against my will to kill my master, I would like to know how we are to lay our hands on him.”"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἣ δὲ ὑπολαβοῦσα ἔφη ἐκ τοῦ αὐτοῦ μὲν χωρίου ἡ ὁρμή ἔσται ὅθεν περ καὶ ἐκεῖνος ἐμέ ἐπεδέξατο γυμνήν, ὑπνωμένῳ δὲ ἡ ἐπιχείρησις ἔσται.",
+        "translations": [
+          "She replied, “You shall come at him from the same place where he made you view me naked: attack him in his sleep.”"
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

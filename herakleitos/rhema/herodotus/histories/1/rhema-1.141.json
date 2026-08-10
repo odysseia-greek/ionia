@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.141",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.141/",
+    "rhemai": [
+      {
+        "greek": "Ἴωνες δὲ καὶ Αἰολέες, ὡς οἱ Λυδοὶ τάχιστα κατεστράφατο ὑπὸ Περσέων, ἔπεμπον ἀγγέλους ἐς Σάρδις παρὰ Κῦρον, ἐθέλοντες ἐπὶ τοῖσι αὐτοῖσι εἶναι τοῖσι καὶ Κροίσῳ ἦσαν κατήκοοι. ὁ δὲ ἀκούσας αὐτῶν τὰ προΐσχοντο ἔλεξέ σφι λόγον, ἄνδρα φὰς αὐλητὴν ἰδόντα ἰχθῦς ἐν τῇ θαλάσσῃ αὐλέειν, δοκέοντα σφέας ἐξελεύσεσθαι ἐς γῆν·",
+        "translations": [
+          "As soon as the Lydians had been subjugated by the Persians, the Ionians and Aeolians sent messengers to Cyrus, offering to be his subjects on the same terms as those which they had under Croesus. After hearing what they proposed, Cyrus told them a story. Once, he said, there was a flute-player who saw fish in the sea and played upon his flute, thinking that they would come out on to the land."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὡς δὲ ψευσθῆναι τῆς ἐλπίδος, λαβεῖν ἀμφίβληστρον καὶ περιβαλεῖν τε πλῆθος πολλὸν τῶν ἰχθύων καὶ ἐξειρύσαι, ἰδόντα δὲ παλλομένους εἰπεῖν ἄρα αὐτὸν πρὸς τοὺς ἰχθῦς παύεσθέ μοι ὀρχεόμενοι, ἐπεῖ οὐδʼ ἐμέο αὐλέοντος ἠθέλετε ἐκβαίνειν ὀρχεόμενοι.",
+        "translations": [
+          "Disappointed of his hope, he cast a net and gathered it in and took out a great multitude of fish; and seeing them leaping, “You had best,” he said, “stop your dancing now; you would not come out and dance before, when I played to you.”"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Κῦρος μὲν τοῦτον τὸν λόγον τοῖσι Ἴωσι καὶ τοῖσι Αἰολεῦσι τῶνδε εἵνεκα ἔλεξε, ὅτι δὴ οἱ Ἴωνες πρότερον αὐτοῦ Κύρου δεηθέντος διʼ ἀγγέλων ἀπίστασθαι σφέας ἀπὸ Κροίσου οὐκ ἐπείθοντο, τότε δὲ κατεργασμένων τῶν πρηγμάτων ἦσαν ἕτοιμοι πείθεσθαι Κύρῳ.",
+        "translations": [
+          "The reason why Cyrus told the story to the Ionians and Aeolians was that the Ionians, who were ready to obey him when the victory was won, had before refused when he sent a message asking them to revolt from Croesus."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ὃ μὲν δὴ ὀργῇ ἐχόμενος ἔλεγέ σφι τάδε· Ἴωνες δὲ ὡς ἤκουσαν τούτων ἀνενειχθέντων ἐς τὰς πόλιας, τείχεά τε περιεβάλοντο ἕκαστοι καὶ συνελέγοντο ἐς Πανιώνιον οἱ ἄλλοι, πλὴν Μιλησίων· πρὸς μούνους γὰρ τούτους ὅρκιον Κῦρος ἐποιήσατο ἐπʼ οἷσί περ ὁ Λυδός. τοῖσι δὲ λοιποῖσι Ἴωσι ἔδοξε κοινῷ λόγῳ πέμπειν ἀγγέλους ἐς Σπάρτην δεησομένους Ἴωσι τιμωρέειν.",
+        "translations": [
+          "So he answered them in anger. But when the message came to the Ionians in their cities, they fortified themselves with walls, and assembled in the Panionion, all except the Milesians, with whom alone Cyrus made a treaty on the same terms as that which they had with the Lydians. The rest of the Ionians resolved to send envoys in the name of them all to Sparta, to ask help for the Ionians."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

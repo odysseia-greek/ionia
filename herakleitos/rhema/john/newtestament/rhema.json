@@ -1,0 +1,118 @@
+[
+  {
+    "author":"John",
+    "book":"New Testament",
+    "type":"work",
+    "reference":"1",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg004.perseus-grc2:1.1/",
+    "rhemai":[
+      {
+        "greek":"ΕΝ ΑΡΧΗ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.",
+        "translations":[
+          "In the beginning was the Word, and the Word was with God, and the Word was God."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"Οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.",
+        "translations":[
+          "The same was in the beginning with God."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"πάντα διʼ αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν.",
+        "translations":[
+          "All things were made through him. Without him was not anything made that has been made."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων·",
+        "translations":[
+          "In him was life, and the life was the light of men."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.",
+        "translations":[
+          "The light shines in the darkness, and the darkness hasn't overcome it."
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"Ἐγένετο ἄνθρωπος ἀπεσταλμένος παρὰ θεοῦ, ὄνομα αὐτῷ Ἰωάνης·",
+        "translations":[
+          "There came a man, sent from God, whose name was John."
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"οὗτος ἦλθεν εἰς μαρτυρίαν, ἵνα μαρτυρήσῃ περὶ τοῦ φωτός, ἵνα πάντες πιστεύσωσιν διʼ αὐτοῦ.",
+        "translations":[
+          "The same came as a witness, that he might testify about the light, that all might believe through him."
+        ],
+        "section":"7"
+      },
+      {
+        "greek":"οὐκ ἦν ἐκεῖνος τὸ φῶς, ἀλλʼ ἵνα μαρτυρήσῃ περὶ τοῦ φωτός.",
+        "translations":[
+          "He was not the light, but was sent that he might testify about the light."
+        ],
+        "section":"8"
+      }
+    ]
+  },
+  {
+    "author":"John",
+    "book":"New Testament",
+    "type":"work",
+    "reference":"2",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg023.perseus-grc2:2?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"Ὁ λέγων ἐν τῷ φωτὶ εἶναι καὶ τὸν ἀδελφὸν αὐτοῦ μισῶν ἐν τῇ σκοτίᾳ ἐστὶν ἕως ἄρτι.",
+        "translations":[
+          "He who says he is in the light and hates his brother, is in the darkness even until now."
+        ],
+        "section":"9"
+      },
+      {
+        "greek":"ὁ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ἐν τῷ φωτὶ μένει, καὶ σκάνδαλον ἐν αὐτῷ οὐκ ἔστιν·",
+        "translations":[
+          "He who loves his brother remains in the light, and there is no occasion for stumbling in him."
+        ],
+        "section":"10"
+      },
+      {
+        "greek":"ὁ δὲ μισῶν τὸν ἀδελφὸν αὐτοῦ ἐν τῇ σκοτίᾳ ἐστὶν καὶ ἐν τῇ σκοτίᾳ περιπατεῖ, καὶ οὐκ οἶδεν ποῦ ὑπάγει, ὅτι ἡ σκοτία ἐτύφλωσεν τοὺς ὀφθαλμοὺς αὐτοῦ.",
+        "translations":[
+          "But he who hates his brother is in the darkness, and walks in the darkness, and doesn't know where he is going, because the darkness has blinded his eyes."
+        ],
+        "section":"11"
+      },
+      {
+        "greek":"Γράφω ὑμῖν, τεκνία, ὅτι ἀφέωνται ὑμῖν αἱ ἁμαρτίαι διὰ τὸ ὄνομα αὐτοῦ·",
+        "translations":[
+          "I write to you, little children, because your sins are forgiven you for his name's sake."
+        ],
+        "section":"12"
+      },
+      {
+        "greek":"γράφω ὑμῖν, πατέρες, ὅτι ἐγνώκατε τὸν ἀπʼ ἀρχῆς· γράφω ὑμῖν, νεανίσκοι, ὅτι νενικήκατε τὸν πονηρόν.",
+        "translations":[
+          "I write to you, fathers, because you know him who is from the beginning. I write to you, young men, because you have overcome the evil one. I write to you, little children, because you know the Father."
+        ],
+        "section":"13"
+      },
+      {
+        "greek":"ἔγραψα ὑμῖν, παιδία, ὅτι ἐγνώκατε τὸν πατέρα· ἔγραψα ὑμῖν, πατέρες, ὅτι ἐγνώκατε τὸν ἀπʼ ἀρχῆς· ἔγραψα ὑμῖν, νεανίσκοι, ὅτι ἰσχυροί ἐστε καὶ ὁ λόγος [τοῦ θεοῦ] ἐν ὑμῖν μένει καὶ νενικήκατε τὸν πονηρόν.",
+        "translations":[
+          "I have written to you, fathers, because you know him who is from the beginning. I have written to you, young men, because you are strong, and the word of God remains in you, and you have overcome the evil one."
+        ],
+        "section":"14"
+      }
+    ]
+  }
+]

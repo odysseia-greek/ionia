@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.151",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.151/",
+    "rhemai": [
+      {
+        "greek": "αὗται μέν νυν αἱ ἠπειρώτιδες Αἰολίδες πόλιες, ἔξω τῶν ἐν τῇ Ἴδῃ οἰκημενέων· κεχωρίδαται γὰρ αὗται.",
+        "translations": [
+          "These then are the Aeolian cities on the mainland, besides those that are situated on Ida and are separate."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "αἱ δὲ τὰς νήσους ἔχουσαι πέντε μὲν πόλιες τὴν Λέσβον νέμονται (τὴν γὰρ ἕκτην ἐν τῇ Λέσβῳ οἰκημένην Ἀρίσβαν ἠνδραπόδισαν Μηθυμναῖοι ἐόντας ὁμαίμους), ἐν Τενέδῳ δὲ μία οἴκηται πόλις, καὶ ἐν τῇσι Ἑκατὸν νήσοισι καλεομένῃσι ἄλλη μία.",
+        "translations": [
+          "Among those on the islands, five divide Lesbos among them (there was a sixth on Lesbos, Arisba, but its people were enslaved by their kinfolk of Methymna ); there is one on Tenedos, and one again in the “ Hundred Isles,” as they are called."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Λεσβίοισι μέν νῦν καὶ Τενεδίοισι, κατά περ Ἰώνων τοῖσι τὰς νήσους ἔχουσι, ἦν δεινὸν οὐδέν· τῇσι δὲ λοιπῇσι πόλισι ἕαδε κοινῇ Ἴωσι ἕπεσθαι τῇ ἂν οὗτοι ἐξηγέωνται.",
+        "translations": [
+          "The men of Lesbos and Tenedos, then, like the Ionian islanders, had nothing to fear. The rest of the cities deliberated together and decided to follow the Ionians ' lead."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

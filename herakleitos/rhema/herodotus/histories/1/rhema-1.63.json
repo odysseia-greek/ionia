@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.63",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.63/",
+    "rhemai": [
+      {
+        "greek": "ὃ μὲν δή οἱ ἐνθεάζων χρᾷ τάδε, Πεισίστρατος δὲ συλλαβὼν τὸ χρηστήριον καὶ φὰς δέκεσθαι τὸ χρησθὲν ἐπῆγε τὴν στρατιήν. Ἀθηναῖοι δὲ οἱ ἐκ τοῦ ἄστεος πρὸς ἄριστον τετραμμένοι ἦσαν δὴ τηνικαῦτα, καὶ μετὰ τὸ ἄριστον μετεξέτεροι αὐτῶν οἳ μὲν πρὸς κύβους οἳ δὲ πρὸς ὕπνον. οἱ δὲ ἀμφὶ Πεισίστρατον ἐσπεσόντες τοὺς Ἀθηναίους τρέπουσι.",
+        "translations": [
+          "So Amphilytus spoke, being inspired; Pisistratus understood him and, saying that he accepted the prophecy, led his army against the enemy. The Athenians of the city had by this time had breakfast, and after breakfast some were dicing and some were sleeping: they were attacked by Pisistratus ' men and put to flight."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "φευγόντων δὲ τούτων βουλὴν ἐνθαῦτα σοφωτάτην Πεισίστρατος ἐπιτεχνᾶται, ὅκως μήτε ἁλισθεῖεν ἔτι οἱ Ἀθηναῖοι διεσκεδασμένοι τε εἶεν· ἀναβιβάσας τοὺς παῖδας ἐπὶ ἵππους προέπεμπε, οἳ δὲ καταλαμβάνοντες τοὺς φεύγοντας ἔλεγον τὰ ἐντεταλμένα ὑπὸ Πεισιστράτου, θαρσέειν τε κελεύοντες καὶ ἀπιέναι ἕκαστον ἐπὶ τὰ ἑωυτοῦ.",
+        "translations": [
+          "So they fled, and Pisistratus devised a very subtle plan to keep them scattered and prevent them assembling again: he had his sons mount and ride forward: they overtook the fugitives and spoke to them as they were instructed by Pisistratus, telling them to take heart and each to depart to his home."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

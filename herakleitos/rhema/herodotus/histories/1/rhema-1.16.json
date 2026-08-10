@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.16",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.16/",
+    "rhemai": [
+      {
+        "greek": "Ἄρδυος δὲ βασιλεύσαντος ἑνὸς δέοντα πεντήκοντα ἔτεα ἐξεδέξατο Σαδυάττης ὁ Ἄρδυος, καὶ ἐβασίλευσε ἔτεα δυώδεκα, Σαδυάττεω δὲ Ἀλυάττης.",
+        "translations": [
+          "Ardys reigned for forty-nine years and was succeeded by his son Sadyattes, who reigned for twelve years; and after Sadyattes came Alyattes,"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὗτος δὲ Κυαξάρῃ τε τῷ Δηιόκεω ἀπογόνῳ ἐπολέμησε καὶ Μήδοισι, Κιμμερίους τε ἐκ τῆς Ἀσίης ἐξήλασε, Σμύρνην τε τὴν ἀπὸ Κολοφῶνος κτισθεῖσαν εἷλε, ἐς Κλαζομενάς τε ἐσέβαλε. ἀπὸ μέν νυν τούτων οὐκ ὡς ἤθελε ἀπήλλαξε, ἀλλὰ προσπταίσας μεγάλως· ἄλλα δὲ ἔργα ἀπεδέξατο ἐὼν ἐν τῇ ἀρχῇ ἀξιαπηγητότατα τάδε.",
+        "translations": [
+          "who waged war against Deioces ' descendant Cyaxares and the Medes, drove the Cimmerians out of Asia, took Smyrna (which was a colony from Colophon ), and invaded the lands of Clazomenae. But he did not return from these as he wished, but with great disaster. Of other deeds done by him in his reign, these were the most notable:"
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

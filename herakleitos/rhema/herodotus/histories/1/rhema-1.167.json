@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.167",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.167/",
+    "rhemai": [
+      {
+        "greek": "τῶν δὲ διαφθαρεισέων νεῶν τοὺς ἄνδρας οἱ τε Καρχηδόνιοι καὶ οἱ Τυρσηνοὶ διέλαχον, τῶν δὲ Τυρσηνῶν οἱ Ἀγυλλαῖοι ἔλαχόν τε αὐτῶν πολλῷ πλείστους καὶ τούτους ἐξαγαγόντες κατέλευσαν. μετὰ δὲ Ἀγυλλαίοισι πάντα τὰ παριόντα τὸν χῶρον, ἐν τῶ οἱ Φωκαιέες καταλευσθέντες ἐκέατο, ἐγίνετο διάστροφα καὶ ἔμπηρα καὶ ἀπόπληκτα, ὁμοίως πρόβατα καὶ ὑποζύγια καὶ ἄνθρωποι.",
+        "translations": [
+          "As for the crews of the disabled ships, the Carthaginians and Tyrrhenians drew lots for them, and of the Tyrrhenians the Agyllaioi were allotted by far the majority and these they led out and stoned to death. But afterwards, everything from Agylla that passed the place where the stoned Phocaeans lay, whether sheep or beasts of burden or men, became distorted and crippled and palsied."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οἱ δὲ Ἀγυλλαῖοι ἐς Δελφοὺς ἔπεμπον βουλόμενοι ἀκέσασθαι τὴν ἁμαρτάδα. ἡ δὲ Πυθίη σφέας ἐκέλευσε ποιέειν τὰ καὶ νῦν οἱ Ἀγυλλαῖοι ἔτι ἐπιτελέουσι· καὶ γὰρ ἐναγίζουσί σφι μεγάλως καὶ ἀγῶνα γυμνικὸν καὶ ἱππικὸν ἐπιστᾶσι.",
+        "translations": [
+          "The Agyllaeans sent to Delphi, wanting to mend their offense; and the Pythian priestess told them to do what the people of Agylla do to this day: for they pay great honors to the Phocaeans, with religious rites and games and horse-races."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "καὶ οὗτοι μὲν τῶν Φωκαιέων τοιούτῳ μόρῳ διεχρήσαντο, οἱ δὲ αὐτῶν ἐς τὸ Ῥήγιον καταφυγόντες ἐνθεῦτεν ὁρμώμενοι ἐκτήσαντο πόλιν γῆς τῆς Οἰνωτρίης ταύτην ἥτις νῦν Ὑέλη καλέεται·",
+        "translations": [
+          "Such was the end of this part of the Phocaeans. Those of them who fled to Rhegium set out from there and gained possession of that city in the Oenotrian country which is now called Hyele;"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἔκτισαν δὲ ταύτην πρὸς ἀνδρὸς Ποσειδωνιήτεω μαθόντες ὡς τὸν Κύρνον σφι ἡ Πυθίη ἔχρησε κτίσαι ἥρων ἐόντα, ἀλλʼ οὐ τὴν νῆσον.",
+        "translations": [
+          "they founded this because they learned from a man of Posidonia that the Cyrnus whose establishment the Pythian priestess ordained was the hero, and not the island."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.140",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.140/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα μὲν ἀτρεκέως ἔχω περὶ αὐτῶν εἰδὼς εἰπεῖν· τάδε μέντοι ὡς κρυπτόμενα λέγεται καὶ οὐ σαφηνέως περὶ τοῦ ἀποθανόντος, ὡς οὐ πρότερον θάπτεται ἀνδρὸς Πέρσεω ὁ νέκυς πρὶν ἂν ὑπʼ ὄρνιθος ἢ κυνὸς ἑλκυσθῇ.",
+        "translations": [
+          "So much I can say of them from my own certain knowledge. But there are other matters concerning the dead which are secretly and obscurely told: how the dead bodies of Persians are not buried before they have been mangled by birds or dogs."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Μάγους μὲν γὰρ ἀτρεκέως οἶδα ταῦτα ποιέοντας· ἐμφανέως γὰρ δὴ ποιεῦσι. κατακηρώσαντες δὲ ὦν τὸν νέκυν Πέρσαι γῇ κρύπτουσι. Μάγοι δὲ κεχωρίδαται πολλὸν τῶν τε ἄλλων ἀνθρώπων καὶ τῶν ἐν Αἰγύπτῳ ἱρέων.",
+        "translations": [
+          "That this is the way of the Magi, I know for certain; for they do not conceal the practice. But this is certain, that before the Persians bury the body in earth they embalm it in wax. These Magi are as unlike the priests of Egypt as they are unlike all other men:"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οἳ μὲν γὰρ ἁγνεύουσι ἔμψυχον μηδὲν κτείνειν, εἰ μὴ ὅσα θύουσι· οἱ δὲ δὴ Μάγοι αὐτοχειρίῃ πάντα πλὴν κυνὸς καὶ ἀνθρώπου κτείνουσι, καὶ ἀγώνισμα μέγα τοῦτο ποιεῦνται, κτείνοντες ὁμοίως μύρμηκάς τε καὶ ὄφις καὶ τἆλλα ἑρπετὰ καὶ πετεινά. καὶ ἀμφὶ μὲν τῷ νόμῳ τούτῳ ἐχέτω ὡς καὶ ἀρχὴν ἐνομίσθη, ἄνειμι δὲ ἐπὶ τὸν πρότερον λόγον.",
+        "translations": [
+          "for the priests consider it sacrilege to kill anything that lives, except what they sacrifice; but the Magi kill with their own hands every creature, except dogs and men; they kill all alike, ants and snakes, creeping and flying things, and take great pride in it. Leaving this custom to be such as it has been from the first, I return now to my former story."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

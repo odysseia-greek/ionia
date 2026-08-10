@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.135",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.135/",
+    "rhemai": [
+      {
+        "greek": "ξεινικὰ δὲ νόμαια Πέρσαι προσίενται ἀνδρῶν μάλιστα. καὶ γὰρ δὴ τὴν Μηδικὴν ἐσθῆτα νομίσαντες τῆς ἑωυτῶν εἶναι καλλίω φορέουσι, καὶ ἐς τοὺς πολέμους τοὺς Αἰγυπτίους θώρηκας· καὶ εὐπαθείας τε παντοδαπὰς πυνθανόμενοι ἐπιτηδεύουσι, καὶ δὴ καὶ ἀπʼ Ἑλλήνων μαθόντες παισὶ μίσγονται. γαμέουσι δὲ ἕκαστος αὐτῶν πολλὰς μὲν κουριδίας γυναῖκας, πολλῷ δʼ ἔτι πλεῦνας παλλακὰς κτῶνται.",
+        "translations": [
+          "But the Persians more than all men welcome foreign customs. They wear the Median dress, thinking it more beautiful than their own, and the Egyptian cuirass in war. Their luxurious practices are of all kinds, and all borrowed: the Greeks taught them pederasty. Every Persian marries many lawful wives, and keeps still more concubines."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

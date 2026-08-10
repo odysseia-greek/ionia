@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.66",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.66/",
+    "rhemai": [
+      {
+        "greek": "οὕτω μὲν μεταβαλόντες εὐνομήθησαν, τῷ δὲ Λυκούργῳ τελευτήσαντι ἱρὸν εἱσάμενοι σέβονται μεγάλως. οἷα δὲ ἐν τε χώρῃ ἀγαθῇ καὶ πλήθεϊ οὐκ ὀλίγων ἀνδρῶν, ἀνά τε ἔδραμον αὐτίκα καὶ εὐθηνήθησαν, καὶ δή σφι οὐκέτι ἀπέχρα ἡσυχίην ἄγειν, ἀλλὰ καταφρονήσαντες Ἀρκάδων κρέσσονες εἶναι ἐχρηστηριάζοντο ἐν Δελφοῖσι ἐπὶ πάσῃ τῇ Ἀρκάδων χωρῇ.",
+        "translations": [
+          "Thus they changed their bad laws to good ones, and when Lycurgus died they built him a temple and now worship him greatly. Since they had good land and many men, they immediately flourished and prospered. They were not content to live in peace, but, confident that they were stronger than the Arcadians, asked the oracle at Delphi about gaining all the Arcadian land."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἡ δὲ Πυθίη σφι χρᾷ τάδε. Ἀρκαδίην μʼ αἰτεῖς· μέγα μʼ αἰτεῖς· οὐ τοι δώσω. πολλοὶ ἐν Ἀρκαδίῃ βαλανηφάγοι ἄνδρες ἔασιν, οἵ σʼ ἀποκωλύσουσιν. ἐγὼ δὲ τοι οὔτι μεγαίρω· δώσω τοί Τεγέην ποσσίκροτον ὀρχήσασθαι καὶ καλὸν πεδίον σχοίνῳ διαμετρήσασθαι.",
+        "translations": [
+          "She replied in hexameter: You ask me for Arcadia? You ask too much; I grant it not. There are many men in Arcadia, eaters of acorns, Who will hinder you. But I grudge you not. I will give you Tegea to beat with your feet in dancing, And its fair plain to measure with a rope."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ταῦτα ὡς ἀπενειχθέντα ἤκουσαν οἱ Λακεδαιμόνιοι,Ἀρκάδων μὲν τῶν ἄλλων ἀπείχοντο, οἳ δὲ πέδας φερόμενοι ἐπὶ Τεγεήτας ἐστρατεύοντο, χρησμῷ κιβδήλῳ πίσυνοι, ὡς δὴ ἐξανδραποδιούμενοι τοὺς Τεγεήτας.",
+        "translations": [
+          "When the Lacedaemonians heard the oracle reported, they left the other Arcadians alone and marched on Tegea carrying chains, relying on the deceptive oracle. They were confident they would enslave the Tegeans, but they were defeated in battle."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἑσσωθέντες δὲ τῇ συμβολῇ, ὅσοι αὐτῶν ἐζωγρήθησαν, πέδας τε ἔχοντες τὰς ἐφέροντο αὐτοὶ καὶ σχοίνῳ διαμετρησάμενοι τὸ πεδίον τὸ Τεγεητέων ἐργάζοντο. αἱ δὲ πέδαι αὗται ἐν τῇσι ἐδεδέατο ἔτι καὶ ἐς ἐμὲ ἦσαν σόαι ἐν Τεγέῃ περὶ τὸν νηὸν τῆς Ἀλέης Ἀθηναίης κρεμάμεναι.",
+        "translations": [
+          "Those taken alive were bound in the very chains they had brought with them, and they measured the Tegean plain with a rope by working the fields. The chains in which they were bound were still preserved in my day, hanging up at the temple of Athena Alea."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

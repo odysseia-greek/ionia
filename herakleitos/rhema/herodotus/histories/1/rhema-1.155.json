@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.155",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.155/",
+    "rhemai": [
+      {
+        "greek": "πυθόμενος δὲ κατʼ ὁδὸν ταῦτα ὁ Κῦρος εἶπε πρὸς Κροῖσον τάδε. Κροῖσε, τί ἔσται τέλος τῶν γινομένων τούτων ἐμοί; οὐ παύσονται Λυδοί, ὡς οἴκασι, πρήγματα παρέχοντες καὶ αὐτοὶ ἔχοντες. φροντίζω μὴ ἄριστον ᾖ ἐξανδραποδίσασθαι σφέας. ὁμοίως γὰρ μοι νῦν γε φαίνομαι πεποιηκέναι ὡς εἴ τις πατέρα ἀποκτείνας τῶν παίδων αὐτοῦ φείσατο·",
+        "translations": [
+          "When Cyrus heard of this on his journey, he said to Croesus, “What end to this business, Croesus? It seems that the Lydians will never stop making trouble for me and for themselves. It occurs to me that it may be best to make slaves of them; for it seems I have acted like one who slays the father and spares the children."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὡς δὲ καὶ ἐγὼ Λυδῶν τὸν μὲν πλέον τι ἢ πατέρα ἐόντα σὲ λαβὼν ἄγω, αὐτοῖσι δὲ Λυδοῖσι τὴν πόλιν παρέδωκα, καὶ ἔπειτα θωμάζω εἰ μοι ἀπεστᾶσι. ὃ μὲν δὴ τά περ ἐνόεε ἔλεγε, ὃ δʼ ἀμείβετο τοῖσιδε, δείσας μὴ ἀναστάτους ποιήσῃ τὰς Σάρδις.",
+        "translations": [
+          "So likewise I have taken with me you who were more than a father to the Lydians, and handed the city over to the Lydians themselves; and then indeed I marvel that they revolt!” So Cyrus uttered his thought; but Croesus feared that he would destroy Sardis, and answered him thus:"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὦ βασιλεῦ, τὰ μὲν οἰκότα εἴρηκας, σὺ μέντοι μὴ πάντα θυμῷ χρέο, μηδὲ πόλιν ἀρχαίην ἐξαναστήσῃς ἀναμάρτητον ἐοῦσαν καὶ τῶν πρότερον καὶ τῶν νῦν ἑστεώτων. τὰ μὲν γὰρ πρότερον ἐγώ τε ἔπρηξα καὶ ἐγὼ κεφαλῇ ἀναμάξας φέρω· τὰ δὲ νῦν παρεόντα Πακτύης γὰρ ἐστὶ ὁ ἀδικέων, τῷ σὺ ἐπέτρεψας Σάρδις, οὗτος δότω τοι δίκην.",
+        "translations": [
+          "“O King, what you say is reasonable. But do not ever yield to anger, or destroy an ancient city that is innocent both of the former and of the present offense. For the former I am responsible, and bear the punishment on my head; while Pactyes, in whose charge you left Sardis, does this present wrong; let him, then, pay the penalty."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "Λυδοῖσι δὲ συγγνώμην ἔχων τάδε αὐτοῖσι ἐπίταξον, ὡς μήτε ἀποστέωσι μήτε δεινοί τοι ἔωσι· ἄπειπε μέν σφι πέμψας ὅπλα ἀρήια μὴ ἐκτῆσθαι, κέλευε δὲ σφέας κιθῶνάς τε ὑποδύνειν τοῖσι εἵμασι καὶ κοθόρνους ὑποδέεσθαι, πρόειπε δʼ αὐτοῖσι κιθαρίζειν τε καὶ ψάλλειν καὶ καπηλεύειν παιδεύειν τοὺς παῖδας. καὶ ταχέως σφέας ὦ βασιλεῦ γυναῖκας ἀντʼ ἀνδρῶν ὄψεαι γεγονότας, ὥστε οὐδὲν δεινοί τοι ἔσονται μὴ ἀποστέωσι.",
+        "translations": [
+          "But pardon the Lydians, and give them this command so that they not revolt or pose a danger to you: send and forbid them to possess weapons of war, and order them to wear tunics under their cloaks and knee-boots on their feet, and to teach their sons lyre-playing and song and dance and shop-keeping. And quickly, O king, you shall see them become women instead of men, so that you need not fear them, that they might revolt.”"
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.113",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.113/",
+    "rhemai": [
+      {
+        "greek": "κάρτα τε ἔδοξε τῷ βουκόλῳ πρὸς τὰ παρεόντα εὖ λέγειν ἡ γυνή, καὶ αὐτίκα ἐποίεε ταῦτα· τὸν μὲν ἔφερε θανατώσων παῖδα, τοῦτον μὲν παραδιδοῖ τῇ ἑωυτοῦ γυναικί, τὸν δὲ ἑωυτοῦ ἐόντα νεκρὸν λαβὼν ἔθηκε ἐς τὸ ἄγγος ἐν τῷ ἔφερε τὸν ἕτερον·",
+        "translations": [
+          "Thinking that his wife advised him excellently in his present strait, the cowherd immediately did as she said. He gave his wife the child whom he had brought to kill, and his own dead child he put into the chest in which he carried the other,"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "κοσμήσας δὲ τῷ κόσμῳ παντὶ τοῦ ἑτέρου παιδός, φέρων ἐς τὸ ἐρημότατον τῶν ὀρέων τίθει. ὡς δὲ τρίτη ἡμέρη τῷ παιδίῳ ἐκκειμένῳ ἐγένετο, ἤιε ἐς πόλιν ὁ βουκόλος, τῶν τινα προβοσκῶν φύλακον αὐτοῦ καταλιπών, ἐλθὼν δὲ ἐς τοῦ Ἁρπάγου ἀποδεικνύναι ἔφη ἕτοιμος εἶναι τοῦ παιδίου τὸν νέκυν.",
+        "translations": [
+          "and dressed it with all the other child's finery and left it out in the most desolate part of the mountains. Then on the third day after leaving the child out, the cowherd left one of his herdsmen to watch it and went to the city, where he went to Harpagus ' house and said he was ready to show the child's dead body."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "πέμψας δὲ ὅ Ἅρπαγος τῶν ἑωυτοῦ δορυφόρων τοὺς πιστοτάτους εἶδέ τε διὰ τούτων καὶ ἔθαψε τοῦ βουκόλου τὸ παιδίον, καὶ τὸ μὲν ἐτέθαπτο, τὸν δὲ ὕστερον τούτων Κῦρον ὀνομασθέντα παραλαβοῦσα ἔτρεφε ἡ γυνὴ τοῦ βουκόλου, οὔνομα ἄλλο κού τι καὶ οὐ Κῦρον θεμένη.",
+        "translations": [
+          "Harpagus sent the most trusted of his bodyguard, and these saw for him and buried the cowherd's child. So it was buried: and the cowherd's wife kept and raised the boy who was afterwards named Cyrus; but she did not give him that name, but another."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

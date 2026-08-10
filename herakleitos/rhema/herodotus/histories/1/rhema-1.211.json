@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.211",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.211/",
+    "rhemai": [
+      {
+        "greek": "Ὑστάσπης μὲν τούτοισι ἀμειψάμενος καὶ διαβὰς τὸν Ἀράξεα ἤιε ἐς Πέρσας φυλάξων Κύρῳ τὸν παῖδα Δαρεῖον, Κῦρος δὲ προελθὼν ἀπὸ τοῦ Ἀράξεω ἡμέρης ὁδὸν ἐποίεε κατὰ τὰς Κροίσου ὑποθήκας.",
+        "translations": [
+          "After having given this answer and crossed the Araxes, Hystaspes went to Persia to watch his son for Cyrus; and Cyrus, advancing a day's journey from the Araxes, acted according to Croesus ' advice."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "μετὰ δὲ ταῦτα Κύρου τε καὶ Περσέων τοῦ καθαροῦ στρατοῦ ἀπελάσαντος ὀπίσω ἐπὶ τὸν Ἀράξεα, λειφθέντος δὲ τοῦ ἀχρηίου, ἐπελθοῦσα τῶν Μασσαγετέων τριτημορὶς τοῦ στρατοῦ τούς τε λειφθέντας τῆς Κύρου στρατιῆς ἐφόνευε ἀλεξομένους καὶ τὴν προκειμένην ἰδόντες δαῖτα, ὡς ἐχειρώσαντο τοὺς ἐναντίους, κλιθέντες ἐδαίνυντο, πληρωθέντες δὲ φορβῆς καὶ οἴνου ηὗδον.",
+        "translations": [
+          "Cyrus and the sound portion of the Persian army marched back to the Araxes, leaving behind those that were useless; a third of the Massagetae forces attacked those of the army who were left behind and destroyed them despite resistance; then, when they had overcome their enemies, seeing the banquet spread they sat down and feasted, and after they had had their fill of food and wine, they fell asleep."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οἱ δὲ Πέρσαι ἐπελθόντες πολλοὺς μὲν σφέων ἐφόνευσαν, πολλῷ δʼ ἔτι πλεῦνας ἐζώγρησαν καὶ ἄλλους καὶ τὸν τῆς βασιλείης Τομύριος παῖδα στρατηγέοντα Μασσαγετέων, τῷ οὔνομα ἦν Σπαργαπίσης.",
+        "translations": [
+          "Then the Persians attacked them, killing many and taking many more alive, among whom was the son of Tomyris the queen, Spargapises by name, the leader of the Massagetae."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

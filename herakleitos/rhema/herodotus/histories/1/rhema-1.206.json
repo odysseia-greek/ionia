@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.206",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.206/",
+    "rhemai": [
+      {
+        "greek": "ἔχοντι δέ οἱ τοῦτον τὸν πόνον πέμψασα ἡ Τόμυρις κήρυκα ἔλεγε τάδε. ὦ βασιλεῦ Μήδων, παῦσαι σπεύδων τὰ σπεύδεις· οὐ γὰρ ἂν εἰδείης εἴ τοι ἐς καιρὸν ἔσται ταῦτα τελεόμενα· παυσάμενος δὲ βασίλευε τῶν σεωυτοῦ, καὶ ἡμέας ἀνέχευ ὁρέων ἄρχοντας τῶν περ ἄρχομεν.",
+        "translations": [
+          "But while he was busy at this, Tomyris sent a herald to him with this message: “O king of the Medes, stop hurrying on what you are hurrying on, for you cannot know whether the completion of this work will be for your advantage. Stop, and be king of your own country; and endure seeing us ruling those whom we rule."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὔκων ἐθελήσεις ὑποθήκῃσι τῇσιδε χρᾶσθαι, ἀλλὰ πάντως μᾶλλον ἢ διʼ ἡσυχίης εἶναι· σὺ δὴ εἰ μεγάλως προθυμέαι Μασσαγετέων πειρηθῆναι, φέρε μόχθον μὲν τὸν ἔχεις ζευγνὺς τὸν ποταμὸν ἄπες, σὺ δὲ ἡμέων ἀναχωρησάντων ἀπὸ τοῦ ποταμοῦ τριῶν ἡμερέων ὁδὸν διάβαινε ἐς τὴν ἡμετέρην·",
+        "translations": [
+          "But if you will not take this advice, and will do anything rather than remain at peace, then if you so greatly desire to try the strength of the Massagetae, stop your present work of bridging the river, and let us withdraw three days' journey from the Araxes; and when that is done, cross into our country."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "εἰ δʼ ἡμέας βούλεαι ἐσδέξασθαι μᾶλλον ἐς τὴν ὑμετέρην, σὺ τὠυτὸ τοῦτο ποίεε. ταῦτα δὲ ἀκούσας ὁ Κῦρος συνεκάλεσε Περσέων τοὺς πρώτους, συναγείρας δὲ τούτους ἐς μέσον σφι προετίθεε τὸ πρῆγμα, συμβουλευόμενος ὁκότερα ποιέῃ. τῶν δὲ κατὰ τὠυτὸ αἱ γνῶμαι συνεξέπιπτον κελευόντων ἐσδέκεσθαι Τόμυρίν τε καὶ τὸν στρατὸν αὐτῆς ἐς τὴν χώρην.",
+        "translations": [
+          "Or if you prefer to receive us into your country, then withdraw yourself as I have said.” Hearing this, Cyrus called together the leading Persians and laid the matter before them, asking them to advise him which he should do. They all spoke to the same end, urging him to let Tomyris and her army enter his country."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

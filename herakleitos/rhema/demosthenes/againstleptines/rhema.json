@@ -1,0 +1,47 @@
+[
+  {
+    "author":"Demosthenes",
+    "book":"Against Leptines",
+    "type":"work",
+    "reference":"88",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg020.perseus-grc2:88?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"ἵνα τοίνυν εἰδῆτʼ, ὦ ἄνδρες Ἀθηναῖοι, ὅτι ὡς ἀληθῶς ἐπὶ πᾶσι δικαίοις ποιούμεθα τοὺς λόγους πάντας οὓς λέγομεν πρὸς ὑμᾶς, καὶ οὐδὲν ἔσθʼ ὅ τι τοῦ παρακρούσασθαι καὶ φενακίσαι λέγεται παρʼ ἡμῶν ἕνεκα, ἀναγνώσεται τὸν νόμον ὑμῖν ὃν παρεισφέρομεν γράψαντες ἀντὶ τοῦδε, ὃν οὐκ ἐπιτήδειον εἶναί φαμεν. γνώσεσθε γὰρ ἐκ τούτου πρόνοιάν τινʼ ἔχοντας ἡμᾶς καὶ ὅπως ὑμεῖς μηδὲν αἰσχρὸν ποιῆσαι δόξετε, καὶ ὅπως, εἴ τινά τις καταμέμφεται τῶν εὑρημένων τὰς δωρειάς, ἂν δίκαιον ᾖ, κρίνας παρʼ ὑμῖν ἀφαιρήσεται, καὶ ὅπως, οὓς οὐδεὶς ἂν ἀντείποι μὴ οὐ δεῖν ἔχειν, ἕξουσιν τὰ δοθέντα.",
+        "translations":[
+          "Now, to satisfy you, Athenians, that every argument that we submit to you is based on perfectly just grounds, and that not a single argument is intended to mislead and deceive you, the clerk shall read the law drafted and proposed by us to take the place of the present one, which we contend is mischievous. For our law will show you that we take some care to ensure that you shall be saved from the appearance of a dishonorable act; that if anyone objects to one of the recipients, he can deprive him of his gift, if the objection is sound, after trial in your courts; and also that those whose claim to the gifts none could dispute shall keep them."
+        ]
+      }
+    ]
+  },
+  {
+    "author":"Demosthenes",
+    "book":"Against Leptines",
+    "type":"work",
+    "reference":"89",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg020.perseus-grc2:89?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"καὶ τούτων πάντων οὐδὲν ἔσθʼ ἡμέτερον οὐδὲ καινὸν εὕρημα, ἀλλʼ ὁ παλαιός, ὃν οὗτος παρέβη, νόμος οὕτω κελεύει νομοθετεῖν, γράφεσθαι μέν, ἄν τίς τινα τῶν ὑπαρχόντων νόμων μὴ καλῶς ἔχειν ἡγῆται, παρεισφέρειν δʼ αὐτὸν ἄλλον, ὃν ἂν τιθῇ λύων ἐκεῖνον, ὑμᾶς δʼ ἀκούσαντες ἑλέσθαι τὸν κρείττω.",
+        "translations":[
+          "And in all this there is nothing new, no innovation of our own; but the old law, transgressed by Leptines, lays down this procedure in legislation, that if a man disapproves of an existing law, he shall bring an indictment against it, but shall himself introduce an alternative, such as he proposes to enact after repeal of the other, and that you, after hearing arguments, shall choose the better law."
+        ]
+      }
+    ]
+  },
+  {
+    "author":"Demosthenes",
+    "book":"Against Leptines",
+    "type":"work",
+    "reference":"90",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg020.perseus-grc2:90?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"οὐ γὰρ ᾤετο δεῖν ὁ Σόλων, ὁ τοῦτον τὸν τρόπον προστάξας νομοθετεῖν, τοὺς μὲν θεσμοθέτας τοὺς ἐπὶ τοὺς νόμους κληρουμένους δὶς δοκιμασθέντας ἄρχειν, ἔν τε τῇ βουλῇ καὶ παρʼ ὑμῖν ἐν τῷ δικαστηρίῳ, τοὺς δὲ νόμους αὐτούς, καθʼ οὓς καὶ τούτοις ἄρχειν καὶ πᾶσι τοῖς ἄλλοις πολιτεύεσθαι προσήκει, ἐπὶ καιροῦ τεθέντας, ὅπως ἔτυχον, μὴ δοκιμασθέντας κυρίους εἶναι.",
+        "translations":[
+          "For Solon, who imposed this method, did not think it right that while the junior archons, who are appointed by lot to administer the laws, undergo two scrutinies before entering on office, one in the Council and a second in the law-courts before you, the laws themselves, which regulate their official acts and all other civic duties, should be passed at haphazard to meet some emergency, and should be at once valid without passing a scrutiny."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.207",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.207/",
+    "rhemai": [
+      {
+        "greek": "παρεὼν δὲ καὶ μεμφόμενος τὴν γνώμην ταύτην Κροῖσος ὁ Λυδὸς ἀπεδείκνυτο ἐναντίην τῇ προκειμένῃ γνώμῃ, λέγων τάδε. ὦ βασιλεῦ, εἶπον μὲν καὶ πρότερόν τοι ὅτι ἐπεί με Ζεὺς ἔδωκέ τοι, τὸ ἂν ὁρῶ σφάλμα ἐὸν οἴκῳ τῷ σῷ κατὰ δύναμιν ἀποτρέψειν· τὰ δὲ μοι παθήματα ἐόντα ἀχάριτα μαθήματα γέγονε.",
+        "translations": [
+          "But Croesus the Lydian, who was present, was displeased by their advice and spoke against it. “O King,” he said, “you have before now heard from me that since Zeus has given me to you I will turn aside to the best of my ability whatever misadventure I see threatening your house. And disaster has been my teacher."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "εἰ μὲν ἀθάνατος δοκέεις εἶναι καὶ στρατιῆς τοιαύτης ἄρχειν, οὐδὲν ἂν εἴη πρῆγμα γνώμας ἐμὲ σοὶ ἀποφαίνεσθαι· εἰ δʼ ἔγνωκας ὅτι ἄνθρωπος καὶ σὺ εἶς καὶ ἑτέρων τοιῶνδε ἄρχεις, ἐκεῖνο πρῶτον μάθε, ὡς κύκλος τῶν ἀνθρωπηίων ἐστὶ πρηγμάτων, περιφερόμενος δὲ οὐκ ἐᾷ αἰεὶ τοὺς αὐτοὺς εὐτυχέειν.",
+        "translations": [
+          "Now, if you think that you and the army that you lead are immortal, I have no business giving you advice; but if you know that you and those whom you rule are only men, then I must first teach you this: men's fortunes are on a wheel, which in its turning does not allow the same man to prosper forever."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἤδη ὦν ἔχω γνώμην περὶ τοῦ προκειμένου πρήγματος τὰ ἔμπαλιν ἢ οὗτοι. εἰ γὰρ ἐθελήσομεν ἐσδέξασθαι τοὺς πολεμίους ἐς τὴν χώρην, ὅδε τοι ἐν αὐτῷ κίνδυνος ἔνι· ἑσσωθεὶς μὲν προσαπολλύεις πᾶσαν τὴν ἀρχήν. δῆλα γὰρ δὴ ὅτι νικῶντες Μασσαγέται οὐ τὸ ὀπίσω φεύξονται ἀλλʼ ἐπʼ ἀρχὰς τὰς σὰς ἐλῶσι.",
+        "translations": [
+          "So, if that is the case, I am not of the same opinion about the business in hand as these other counsellors of yours. This is the danger if we agree to let the enemy enter your country: if you lose the battle, you lose your empire also, for it is plain that if the Massagetae win they will not retreat but will march against your provinces."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "νικῶν δὲ οὐ νικᾷς τοσοῦτον ὅσον εἰ διαβὰς ἐς τὴν ἐκείνων, νικῶν Μασσαγέτας, ἕποιο φεύγουσι. τὠυτὸ γὰρ ἀντιθήσω ἐκείνῳ, ὅτι νικήσας τοὺς ἀντιουμένους ἐλᾷς ἰθὺ τῆς ἀρχῆς τῆς Τομύριος.",
+        "translations": [
+          "And if you conquer them, it is a lesser victory than if you crossed into their country and routed the Massagetae and pursued them; for I weigh your chances against theirs, and suppose that when you have beaten your adversaries you will march for the seat of Tomyris ' power."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "χωρίς τε τοῦ ἀπηγημένου αἰσχρὸν καὶ οὐκ ἀνασχετὸν Κῦρόν γε τὸν Καμβύσεω γυναικὶ εἴξαντα ὑποχωρῆσαι τῆς χώρης. νῦν ὦν μοι δοκέει διαβάντας προελθεῖν ὅσον ἂν ἐκεῖνοι ὑπεξίωσι, ἐνθεῦτεν δὲ τάδε ποιεῦντας πειρᾶσθαι ἐκείνων περιγενέσθαι.",
+        "translations": [
+          "And besides what I have shown, it would be a shameful thing and not to be endured if Cyrus the son of Cambyses should yield and give ground before a woman. Now then, it occurs to me that we should cross and go forward as far as they draw back, and that then we should endeavor to overcome them by doing as I shall show."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "ὡς γὰρ ἐγὼ πυνθάνομαι, Μασσαγέται εἰσὶ ἀγαθῶν τε Περσικῶν ἄπειροι καὶ καλῶν μεγάλων ἀπαθέες. τούτοισι ὦν τοῖσι ἀνδράσι τῶν προβάτων ἀφειδέως πολλὰ κατακόψαντας καὶ σκευάσαντας προθεῖναι ἐν τῷ στρατοπέδῳ τῷ ἡμετέρῳ δαῖτα, πρὸς δὲ καὶ κρητῆρας ἀφειδέως οἴνου ἀκρήτου καὶ σιτία παντοῖα·",
+        "translations": [
+          "As I understand, the Massagetae have no experience of the good things of Persia, and have never fared well as to what is greatly desirable. Therefore, I advise you to cut up the meat of many of your sheep and goats into generous portions for these men, and to cook it and serve it as a feast in our camp, providing many bowls of unmixed wine and all kinds of food."
+        ],
+        "section": "6"
+      },
+      {
+        "greek": "ποιήσαντας δὲ ταῦτα, ὑπολιπομένους τῆς στρατιῆς τὸ φλαυρότατον, τοὺς λοιποὺς αὖτις ἐξαναχωρέειν ἐπὶ τὸν ποταμόν. ἢν γὰρ ἐγὼ γνώμης μὴ ἁμάρτω, κεῖνοι ἰδόμενοι ἀγαθὰ πολλὰ τρέψονταί τε πρὸς αὐτὰ καὶ ἡμῖν τὸ ἐνθεῦτεν λείπεται ἀπόδεξις ἔργων μεγάλων.",
+        "translations": [
+          "Then let your army withdraw to the river again, leaving behind that part of it which is of least value. For if I am not mistaken in my judgment, when the Massagetae see so many good things they will give themselves over to feasting on them; and it will be up to us then to accomplish great things.”"
+        ],
+        "section": "7"
+      }
+    ]
+  }
+]

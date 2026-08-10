@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.177",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.177/",
+    "rhemai": [
+      {
+        "greek": "τὰ μέν νυν κάτω τῆς Ἀσίης Ἅρπαγος ἀνάστατα ἐποίεε, τὰ δὲ ἄνω αὐτῆς αὐτὸς Κῦρος, πᾶν ἔθνος καταστρεφόμενος καὶ οὐδὲν παριείς. τὰ μέν νυν αὐτῶν πλέω παρήσομεν· τὰ δὲ οἱ παρέσχε τε πόνον πλεῖστον καὶ ἀξιαπηγητότατα ἐστί, τούτων ἐπιμνήσομαι.",
+        "translations": [
+          "Harpagus, then, made havoc of lower Asia; in the upper country, Cyrus himself vanquished every nation, leaving none untouched. Of the greater part of these I will say nothing, but will speak only of those which gave Cyrus the most trouble and are most worthy of being described."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

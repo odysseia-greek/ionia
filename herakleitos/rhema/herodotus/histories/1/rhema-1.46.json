@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.46",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.46/",
+    "rhemai": [
+      {
+        "greek": "Κροῖσος δὲ ἐπὶ δύο ἔτεα ἐν πένθεϊ μεγάλῳ κατῆστο τοῦ παιδὸς ἐστερημένος. μετὰ δὲ ἡ Ἀστυάγεος τοῦ Κυαξάρεω ἡγεμονίη καταιρεθεῖσα ὑπὸ Κύρου τοῦ Καμβύσεω καὶ τὰ τῶν Περσέων πρήγματα αὐξανόμενα πένθεος μὲν Κροῖσον ἀπέπαυσε, ἐνέβησε δὲ ἐς φροντίδα, εἴ κως δύναιτο, πρὶν μεγάλους γενέσθαι τοὺς Πέρσας, καταλαβεῖν αὐτῶν αὐξανομένην τὴν δύναμιν.",
+        "translations": [
+          "After the loss of his son, Croesus remained in deep sorrow for two years. After this time, the destruction by Cyrus son of Cambyses of the sovereignty of Astyages son of Cyaxares, and the growth of the power of the Persians, distracted Croesus from his mourning; and he determined, if he could, to forestall the increase of the Persian power before they became great."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "μετὰ ὦν τὴν διάνοιαν ταύτην αὐτίκα ἀπεπειρᾶτο τῶν μαντείων τῶν τε ἐν Ἕλλησι καὶ τοῦ ἐν Λιβύῃ, διαπέμψας ἄλλους ἄλλῃ, τοὺς μὲν ἐς Δελφοὺς ἰέναι, τοὺς δὲ ἐς Ἄβας τὰς Φωκέων, τοὺς δὲ ἐς Δωδώνην· οἳ δὲ τινὲς ἐπέμποντο παρὰ τε Ἀμφιάρεων καὶ παρὰ Τροφώνιον, οἳ δὲ τῆς Μιλησίης ἐς Βραγχίδας.",
+        "translations": [
+          "Having thus determined, he at once made inquiries of the Greek and Libyan oracles, sending messengers separately to Delphi, to Abae in Phocia, and to Dodona, while others were despatched to Amphiaraus and Trophonius, and others to Branchidae in the Milesian country."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ταῦτα μέν νυν τὰ Ἑλληνικὰ μαντήια ἐς τὰ ἀπέπεμψε μαντευσόμενος Κροῖσος· Λιβύης δὲ παρὰ Ἄμμωνα ἀπέστελλε ἄλλους χρησομένους. διέπεμπε δὲ πειρώμενος τῶν μαντηίων ὅ τι φρονέοιεν, ὡς εἰ φρονέοντα τὴν ἀληθείην εὑρεθείη, ἐπείρηται σφέα δεύτερα πέμπων εἰ ἐπιχειρέοι ἐπὶ Πέρσας στρατεύεσθαι.",
+        "translations": [
+          "These are the Greek oracles to which Croesus sent for divination: and he told others to go inquire of Ammon in Libya. His intent in sending was to test the knowledge of the oracles, so that, if they were found to know the truth, he might send again and ask if he should undertake an expedition against the Persians."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

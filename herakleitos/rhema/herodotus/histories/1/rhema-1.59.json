@@ -1,0 +1,53 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.59",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.59/",
+    "rhemai": [
+      {
+        "greek": "τούτων δὴ ὦν τῶν ἐθνέων τὸ μὲν Ἀττικὸν κατεχόμενόν τε καὶ διεσπασμένον ἐπυνθάνετο ὁ Κροῖσος ὑπὸ Πεισιστράτου τοῦ Ἱπποκράτεος τοῦτον τὸν χρόνον τυραννεύοντος Ἀθηναίων. Ἱπποκράτεϊ γὰρ ἐόντι ἰδιώτῃ καὶ θεωρέοντι τὰ Ὀλύμπια τέρας ἐγένετο μέγα· θύσαντος γὰρ αὐτοῦ τὰ ἱρὰ οἱ λέβητες ἐπεστεῶτες καὶ κρεῶν τε ἐόντες ἔμπλεοι καὶ ὕδατος ἄνευ πυρὸς ἔζεσαν καὶ ὑπερέβαλον.",
+        "translations": [
+          "Now of these two peoples, Croesus learned that the Attic was held in subjection and divided into factions by Pisistratus, son of Hippocrates, who at that time was sovereign over the Athenians. This Hippocrates was still a private man when a great marvel happened to him when he was at Olympia to see the games: when he had offered the sacrifice, the vessels, standing there full of meat and water, boiled without fire until they boiled over."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Χίλων δὲ ὁ Λακεδαιμόνιος παρατυχὼν καὶ θεησάμενος τὸ τέρας συνεβούλευε Ἱπποκράτεϊ πρῶτα μὲν γυναῖκα μὴ ἄγεσθαι τεκνοποιὸν ἐς τὰ οἰκία, εἰ δὲ τυγχάνει ἔχων, δευτέρα τὴν γυναῖκα ἐκπέμπειν, καὶ εἴ τίς οἱ τυγχάνει ἐὼν παῖς, τοῦτον ἀπείπασθαι.",
+        "translations": [
+          "Chilon the Lacedaemonian, who happened to be there and who saw this marvel, advised Hippocrates not to take to his house a wife who could bear children, but if he had one already, then to send her away, and if he had a son, to disown him."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οὔκων ταῦτα παραινέσαντος Χίλωνος πείθεσθαι θέλειν τὸν Ἱπποκράτεα· γενέσθαι οἱ μετὰ ταῦτα τὸν Πεισίστρατον τοῦτον, ὃς στασιαζόντων τῶν παράλων καὶ τῶν ἐκ τοῦ πεδίου Ἀθηναίων, καὶ τῶν μὲν προεστεῶτος Μεγακλέος τοῦ Ἀλκμέωνος, τῶν δὲ ἐκ τοῦ πεδίου Λυκούργου Ἀριστολαΐδεω, καταφρονήσας τὴν τυραννίδα ἤγειρε τρίτην στάσιν· συλλέξας δὲ στασιώτας καὶ τῷ λόγῳ τῶν ὑπερακρίων προστὰς μηχανᾶται τοιάδε.",
+        "translations": [
+          "Hippocrates refused to follow the advice of Chilon; and afterward there was born to him this Pisistratus, who, when there was a feud between the Athenians of the coast under Megacles son of Alcmeon and the Athenians of the plain under Lycurgus son of Aristolaides, raised up a third faction, as he coveted the sovereign power. He collected partisans and pretended to champion the uplanders, and the following was his plan."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τρωματίσας ἑωυτόν τε καὶ ἡμιόνους ἤλασε ἐς τὴν ἀγορὴν τὸ ζεῦγος ὡς ἐκπεφευγὼς τοὺς ἐχθρούς, οἵ μιν ἐλαύνοντα ἐς ἀγρὸν ἠθέλησαν ἀπολέσαι δῆθεν, ἐδέετό τε τοῦ δήμου φυλακῆς τινος πρὸς αὐτοῦ κυρῆσαι, πρότερον εὐδοκιμήσας ἐν τῇ πρὸς Μεγαρέας γενομένῃ στρατηγίῃ, Νίσαιάν τε ἑλὼν καὶ ἄλλα ἀποδεξάμενος μεγάλα ἔργα.",
+        "translations": [
+          "Wounding himself and his mules, he drove his wagon into the marketplace, with a story that he had escaped from his enemies, who would have killed him (so he said) as he was driving into the country. So he implored the people to give him a guard: and indeed he had won a reputation in his command of the army against the Megarians, when he had taken Nisaea and performed other great exploits."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ὁ δὲ δῆμος ὁ τῶν Ἀθηναίων ἐξαπατηθεὶς ἔδωκέ οἱ τῶν ἀστῶν καταλέξας ἄνδρας τούτους οἳ δορυφόροι μὲν οὐκ ἐγένοντο Πεισιστράτου, κορυνηφόροι δέ· ξύλων γὰρ κορύνας ἔχοντες εἵποντό οἱ ὄπισθε.",
+        "translations": [
+          "Taken in, the Athenian people gave him a guard of chosen citizens, whom Pisistratus made clubmen instead of spearmen: for the retinue that followed him carried wooden clubs."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "συνεπαναστάντες δὲ οὗτοι ἅμα Πεισιστράτῳ ἔσχον τὴν ἀκρόπολιν. ἔνθα δὴ ὁ Πεισίστρατος ἦρχε Ἀθηναίων, οὔτε τιμὰς τὰς ἐούσας συνταράξας οὔτε θέσμια μεταλλάξας, ἐπί τε τοῖσι κατεστεῶσι ἔνεμε τὴν πόλιν κοσμέων καλῶς τε καὶ εὖ.",
+        "translations": [
+          "These rose with Pisistratus and took the Acropolis; and Pisistratus ruled the Athenians, disturbing in no way the order of offices nor changing the laws, but governing the city according to its established constitution and arranging all things fairly and well."
+        ],
+        "section": "6"
+      }
+    ]
+  }
+]

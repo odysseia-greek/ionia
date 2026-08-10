@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.216",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.216/",
+    "rhemai": [
+      {
+        "greek": "νόμοισι δὲ χρέωνται τοιοῖσιδε. γυναῖκα μὲν γαμέει ἕκαστος, ταύτῃσι δὲ ἐπίκοινα χρέωνται· τὸ γὰρ Σκύθας φασὶ Ἕλληνες ποιέειν, οὐ Σκύθαι εἰσὶ οἱ ποιέοντες ἀλλὰ Μασσαγέται· τῆς γὰρ ἐπιθυμήσῃ γυναικὸς Μασσαγέτης ἀνήρ, τὸν φαρετρεῶνα ἀποκρεμάσας πρὸ τῆς ἁμάξης μίσγεται ἀδεῶς.",
+        "translations": [
+          "Now for their customs: each man marries a wife, but the wives are common to all. The Greeks say this is a Scythian custom; it is not, but a custom of the Massagetae. There, when a man desires a woman, he hangs his quiver before her wagon, and has intercourse with her without fear."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὖρος δὲ ἡλικίης σφι πρόκειται ἄλλος μὲν οὐδείς· ἐπεὰν δὲ γέρων γένηται κάρτα, οἱ προσήκοντές οἱ πάντες συνελθόντες θύουσί μιν καὶ ἄλλα πρόβατα ἅμα αὐτῷ, ἑψήσαντες δὲ τὰ κρέα κατευωχέονται.",
+        "translations": [
+          "Though they fix no certain term to life, yet when a man is very old all his family meet together and kill him, with beasts of the flock besides, then boil the flesh and feast on it."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ταῦτα μὲν τὰ ὀλβιώτατά σφι νενόμισται, τὸν δὲ νούσῳ τελευτήσαντα οὐ κατασιτέονται ἀλλʼ γῇ κρύπτουσι, συμφορὴν ποιεύμενοι ὅτι οὐκ ἵκετο ἐς τὸ τυθῆναι. σπείρουσι δὲ οὐδέν, ἀλλʼ ἀπὸ κτηνέων ζώουσι καὶ ἰχθύων· οἳ δὲ ἄφθονοί σφι ἐκ τοῦ Ἀράξεω ποταμοῦ παραγίνονται·",
+        "translations": [
+          "This is held to be the happiest death; when a man dies of an illness, they do not eat him, but bury him in the earth, and lament that he did not live to be killed. They never plant seed; their fare is their livestock and the fish which they take in abundance from the Araxes."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "γαλακτοπόται δʼ εἰσί. θεῶν δὲ μοῦνον ἥλιον σέβονται, τῷ θύουσι ἵππους. νόος δὲ οὗτος τῆς θυσίης· τῶν θεῶν τῷ ταχίστῳ πάντων τῶν θνητῶν τὸ τάχιστον δατέονται.",
+        "translations": [
+          "Their drink is milk. The sun is the only god whom they worship; they sacrifice horses to him; the reasoning is that he is the swiftest of the gods, and therefore they give him the swiftest of mortal things."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

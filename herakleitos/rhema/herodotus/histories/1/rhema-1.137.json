@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.137",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.137/",
+    "rhemai": [
+      {
+        "greek": "αἰνέω μέν νυν τόνδε τὸν νόμον, αἰνέω δὲ καὶ τόνδε, τὸ μὴ μιῆς αἰτίης εἵνεκα μήτε αὐτὸν τὸν βασιλέα μηδένα φονεύειν, μήτε τῶν ἄλλων Περσέων μηδένα τῶν ἑωυτοῦ οἰκετέων ἐπὶ μιῇ αἰτίῃ ἀνήκεστον πάθος ἔρδειν· ἀλλὰ λογισάμενος ἢν εὑρίσκῃ πλέω τε καὶ μέζω τὰ ἀδικήματα ἐόντα τῶν ὑπουργημάτων, οὕτω τῷ θυμῷ χρᾶται.",
+        "translations": [
+          "This is a law which I praise; and it is a praiseworthy law, too, which does not allow the king himself to slay any one for a single offense, or any other Persian to do incurable harm to one of his servants for one offense. Not until an accounting shows that the offender's wrongful acts are more and greater than his services may a man give rein to his anger."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἀποκτεῖναι δὲ οὐδένα κω λέγουσι τὸν ἑωυτοῦ πατέρα οὐδὲ μητέρα, ἀλλὰ ὁκόσα ἤδη τοιαῦτα ἐγένετο, πᾶσαν ἀνάγκην φασὶ ἀναζητεόμενα ταῦτα ἀνευρεθῆναι ἤτοι ὑποβολιμαῖα ἐόντα ἢ μοιχίδια· οὐ γὰρ δή φασι οἰκὸς εἶναι τόν γε ἀληθέως τοκέα ὑπὸ τοῦ ἑωυτοῦ παιδὸς ἀποθνήσκειν.",
+        "translations": [
+          "They say that no one has ever yet killed his father or mother; when such a thing has been done, it always turns out on inquest that the doer is shown to be a changeling or the fruit of adultery; for it is not to be believed (say they) that a son should kill his true parent."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

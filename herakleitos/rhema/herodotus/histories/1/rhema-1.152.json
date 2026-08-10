@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.152",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.152/",
+    "rhemai": [
+      {
+        "greek": "ὡς δὲ ἀπίκοντο ἐς τὴν Σπάρτην τῶν Ἰώνων καὶ Αἰολέων οἱ ἄγγελοι (κατὰ γὰρ δὴ τάχος ἦν ταῦτα πρησσόμενα), εἵλοντο πρὸ πάντων λέγειν τὸν Φωκαέα, τῷ οὔνομα ἦν Πύθερμος. ὁ δὲ πορφύρεόν τε εἷμα περιβαλόμενος, ὡς ἂν πυνθανόμενοι πλεῖστοι συνέλθοιεν Σπαρτιητέων, καὶ καταστὰς ἔλεγε πολλὰ τιμωρέειν ἑωυτοῖσι χρηίζων.",
+        "translations": [
+          "So when the envoys of the Ionians and Aeolians came to Sparta (for they set about this in haste) they chose a Phocaean, whose name was Pythennos, to speak for all. He then put on a purple cloak, so that as many Spartans as possible might assemble to hear him, and stood up and made a long speech asking aid for his people."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Λακεδαιμόνιοι δὲ οὔ κως ἐσήκουον, ἀλλʼ ἀπέδοξέ σφι μὴ τιμωρέειν Ἴωσι. οἳ μὲν δὴ ἀπαλλάσσοντο, Λακεδαιμόνιοι δὲ ἀπωσάμενοι τῶν Ἰώνων τοὺς ἀγγέλους ὅμως ἀπέστειλαν πεντηκοντέρῳ ἄνδρας, ὡς μὲν ἐμοὶ δοκέει, κατασκόπους τῶν τε Κύρου πρηγμάτων καὶ Ἰωνίης.",
+        "translations": [
+          "But the Lacedaemonians would not listen to him and refused to help the Ionians. So the Ionians departed; but the Lacedaemonians, though they had rejected their envoys, did nevertheless send men in a ship of fifty oars to see (as I suppose) the situation with Cyrus and Ionia."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἀπικόμενοι δὲ οὗτοι ἐς Φώκαιαν ἔπεμπον ἐς Σάρδις σφέων αὐτῶν τὸν δοκιμώτατον, τῷ οὔνομα ἦν Λακρίνης, ἀπερέοντα Κύρῳ Λακεδαιμονίων ῥῆσιν, γῆς τῆς Ἑλλάδος μηδεμίαν πόλιν σιναμωρέειν, ὡς αὐτῶν οὐ περιοψομένων.",
+        "translations": [
+          "These, after coming to Phocaea, sent Lacrines, who was the most esteemed among them, to Sardis, to repeat there to Cyrus a proclamation of the Lacedaemonians, that he was to harm no city on Greek territory, or else the Lacedaemonians would punish him."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

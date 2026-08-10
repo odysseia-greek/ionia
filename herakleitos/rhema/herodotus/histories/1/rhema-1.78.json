@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.78",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.78/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα ἐπιλεγομένῳ Κροίσῳ τὸ προάστειον πᾶν ὀφίων ἐνεπλήσθη· φανέντων δὲ αὐτῶν οἱ ἵπποι μετιέντες τὰς νομὰς νέμεσθαι φοιτέοντες κατήσθιον. ἰδόντι δὲ τοῦτο Κροίσῳ, ὥσπερ καὶ ἦν ἔδοξε τέρας εἶναι·",
+        "translations": [
+          "This was how Croesus reasoned. Meanwhile, snakes began to swarm in the outer part of the city; and when they appeared the horses, leaving their accustomed pasture, devoured them. When Croesus saw this he thought it a portent, and so it was."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "αὐτίκα δὲ ἔπεμπε θεοπρόπους ἐς τῶν ἐξηγητέων Τελμησσέων. ἀπικομένοισι δὲ τοῖσι θεοπρόποισι καὶ μαθοῦσι πρὸς Τελμησσέων τὸ θέλει σημαίνειν τὸ τέρας, οὐκ ἐξεγένετο Κροίσῳ ἀπαγγεῖλαι· πρὶν γὰρ ἢ ὀπίσω σφέας ἀναπλῶσαι ἐς τὰς Σάρδις ἥλω ὁ Κροῖσος.",
+        "translations": [
+          "He at once sent to the homes of the Telmessian interpreters, to inquire concerning it; but though his messengers came and learned from the Telmessians what the portent meant, they could not bring back word to Croesus, for he was a prisoner before they could make their voyage back to Sardis."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Τελμησσέες μέντοι τάδε ἔγνωσαν, στρατὸν ἀλλόθροον προσδόκιμον εἶναι Κροίσῳ ἐπὶ τὴν χώρην, ἀπικόμενον δὲ τοῦτον καταστρέψεσθαι τοὺς ἐπιχωρίους, λέγοντες ὄφιν εἶναι γῆς παῖδα, ἵππον δὲ πολέμιόν τε καὶ ἐπήλυδα. Τελμησσέες μέν νυν ταῦτα ὑπεκρίναντο Κροίσῳ ἤδη ἡλωκότι, οὐδὲν κω εἰδότες τῶν ἦν περὶ Σάρδις τε καὶ αὐτὸν Κροῖσον.",
+        "translations": [
+          "Nonetheless, this was the judgment of the Telmessians: that Croesus must expect a foreign army to attack his country, and that when it came, it would subjugate the inhabitants of the land: for the snake, they said, was the offspring of the land, but the horse was an enemy and a foreigner. This was the answer which the Telmessians gave Croesus, knowing as yet nothing of the fate of Sardis and of the king himself; but when they gave it, Croesus was already taken."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

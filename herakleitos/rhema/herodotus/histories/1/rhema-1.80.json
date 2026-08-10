@@ -1,0 +1,53 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.80",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.80/",
+    "rhemai": [
+      {
+        "greek": "ἐς τὸ πεδίον δὲ συνελθόντων τοῦτο τὸ πρὸ τοῦ ἄστεος ἐστὶ τοῦ Σαρδιηνοῦ, ἐὸν μέγα τε καὶ ψιλὸν (διὰ δὲ αὐτοῦ ποταμοὶ ῥέοντες καὶ ἄλλοι καὶ Ὕλλος συρρηγνῦσι ἐς τὸν μέγιστον, καλεόμενον δὲ Ἕρμον, ὃς ἐξ ὄρεος ἱροῦ μητρὸς Δινδυμήνης ῥέων ἐκδιδοῖ ἐς θάλασσαν κατὰ Φωκαίην πόλιν),",
+        "translations": [
+          "So the armies met in the plain, wide and bare, that is before the city of Sardis: the Hyllus and other rivers flow across it and run violently together into the greatest of them, which is called Hermus (this flows from the mountain sacred to the Mother Dindymene and empties into the sea near the city of Phocaea )."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐνθαῦτα ὁ Κῦρος ὡς εἶδε τοὺς Λυδοὺς ἐς μάχην τασσομένους, καταρρωδήσας τὴν ἵππον ἐποίησε Ἁρπάγου ὑποθεμένου ἀνδρὸς Μήδου τοιόνδε· ὅσαι τῷ στρατῷ τῷ ἑωυτοῦ εἵποντο σιτοφόροι τε καὶ σκευοφόροι κάμηλοι, ταύτας πάσας ἁλίσας καὶ ἀπελὼν τὰ ἄχθεα ἄνδρας ἐπʼ αὐτὰς ἀνέβησε ἱππάδα στολὴν ἐνεσταλμένους, σκευάσας δὲ αὐτοὺς προσέταξε τῆς ἄλλης στρατιῆς προϊέναι πρὸς τὴν Κροίσου ἵππον, τῇ δὲ καμήλῳ ἕπεσθαι τὸν πεζὸν στρατὸν ἐκέλευσε, ὄπισθε δὲ τοῦ πεζοῦ ἐπέταξε τὴν πᾶσαν ἵππον.",
+        "translations": [
+          "When Cyrus saw the Lydians maneuvering their battle-lines here, he was afraid of their cavalry, and therefore at the urging of one Harpagus, a Mede, he did as I shall describe. Assembling all the camels that followed his army bearing food and baggage, he took off their burdens and mounted men upon them equipped like cavalrymen; having equipped them, he ordered them to advance before his army against Croesus ' cavalry; he directed the infantry to follow the camels, and placed all his cavalry behind the infantry."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὡς δέ οἱ πάντες διετετάχατο, παραίνεσε τῶν μὲν ἄλλων Λυδῶν μὴ φειδομένους κτείνειν πάντα τὸν ἐμποδὼν γινόμενον, Κροῖσον δὲ αὐτὸν μὴ κτείνειν, μηδὲ ἢν συλλαμβανόμενος ἀμύνηται.",
+        "translations": [
+          "When they were all in order, he commanded them to kill all the other Lydians who came in their way, and spare none, but not to kill Croesus himself, even if he should defend himself against capture."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ταῦτα μὲν παραίνεσε, τὰς δὲ καμήλους ἔταξε ἀντία τῆς ἵππου τῶνδε εἵνεκεν· κάμηλον ἵππος φοβέεται, καὶ οὐκ ἀνέχεται οὔτε τὴν ἰδέην αὐτοῦ ὁρέων οὔτε τὴν ὀδμὴν ὀσφραινόμενος. αὐτοῦ δὴ ὦν τούτου εἵνεκεν ἐσεσόφιστο, ἵνα τῷ Κροίσῳ ἄχρηστον ᾖ τὸ ἱππικόν, τῷ δή τι καὶ ἐπεῖχε ἐλλάμψεσθαι ὁ Λυδός.",
+        "translations": [
+          "Such was his command. The reason for his posting the camels to face the cavalry was this: horses fear camels and can endure neither the sight nor the smell of them; this then was the intention of his maneuver, that Croesus ' cavalry, on which the Lydian relied to distinguish himself, might be of no use."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ὡς δὲ καὶ συνήισαν ἐς τὴν μάχην, ἐνθαῦτα ὡς ὤσφροντο τάχιστα τῶν καμήλων οἱ ἵπποι καὶ εἶδον αὐτάς, ὀπίσω ἀνέστρεφον, διέφθαρτό τε τῷ Κροίσῳ ἡ ἐλπίς.",
+        "translations": [
+          "So when battle was joined, as soon as the horses smelled and saw the camels they turned to flight, and all Croesus ' hope was lost."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "οὐ μέντοι οἵ γε Λυδοὶ τὸ ἐνθεῦτεν δειλοὶ ἦσαν, ἀλλʼ ὡς ἔμαθον τὸ γινόμενον, ἀποθορόντες ἀπὸ τῶν ἵππων πεζοὶ τοῖσι Πέρσῃσι συνέβαλλον. χρόνῳ δὲ πεσόντων ἀμφοτέρων πολλῶν ἐτράποντο οἱ Λυδοί, κατειληθέντες δὲ ἐς τὸ τεῖχος ἐπολιορκέοντο ὑπὸ τῶν Περσέων.",
+        "translations": [
+          "Nevertheless the Lydians were no cowards; when they saw what was happening, they leaped from their horses and fought the Persians on foot. Many of both armies fell; at length the Lydians were routed and driven within their city wall, where they were besieged by the Persians."
+        ],
+        "section": "6"
+      }
+    ]
+  }
+]

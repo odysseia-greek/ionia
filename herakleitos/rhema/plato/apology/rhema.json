@@ -1,0 +1,127 @@
+[
+  {
+  "author":"Plato",
+  "book":"Apology",
+  "type": "work",
+  "reference":"17",
+  "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2:17?right=perseus-eng2",
+      "rhemai":[
+        {
+          "greek":"ὅτι μὲν ὑμεῖς, ὦ ἄνδρες Ἀθηναῖοι, πεπόνθατε ὑπὸ τῶν ἐμῶν κατηγόρων, οὐκ οἶδα· ἐγὼ δʼ οὖν καὶ αὐτὸς ὑπʼ αὐτῶν ὀλίγου ἐμαυτοῦ ἐπελαθόμην, οὕτω πιθανῶς ἔλεγον. καίτοι ἀληθές γε ὡς ἔπος εἰπεῖν οὐδὲν εἰρήκασιν. μάλιστα δὲ αὐτῶν ἓν ἐθαύμασα τῶν πολλῶν ὧν ἐψεύσαντο, τοῦτο ἐν ᾧ ἔλεγον ὡς χρῆν ὑμᾶς εὐλαβεῖσθαι μὴ ὑπʼ ἐμοῦ ἐξαπατηθῆτε",
+          "translations":[
+            "How you, men of Athens, have been affected by my accusers, I do not know; but I, for my part, almost forgot my own identity, so persuasively did they talk; and yet there is hardly a word of truth in what they have said. But I was most amazed by one of the many lies that they told—when they said that you must be on your guard not to be deceived by me,"
+          ],
+          "section":"a"
+        },
+        {
+          "greek":"ὡς δεινοῦ ὄντος λέγειν. τὸ γὰρ μὴ αἰσχυνθῆναι ὅτι αὐτίκα ὑπʼ ἐμοῦ ἐξελεγχθήσονται ἔργῳ, ἐπειδὰν μηδʼ ὁπωστιοῦν φαίνωμαι δεινὸς λέγειν, τοῦτό μοι ἔδοξεν αὐτῶν ἀναισχυντότατον εἶναι, εἰ μὴ ἄρα δεινὸν καλοῦσιν οὗτοι λέγειν τὸν τἀληθῆ λέγοντα· εἰ μὲν γὰρ τοῦτο λέγουσιν, ὁμολογοίην ἂν ἔγωγε οὐ κατὰ τούτους εἶναι ῥήτωρ. οὗτοι μὲν οὖν, ὥσπερ ἐγὼ λέγω, ἤ τι ἢ οὐδὲν ἀληθὲς εἰρήκασιν, ὑμεῖς δέ μου ἀκούσεσθε πᾶσαν τὴν ἀλήθειαν—οὐ μέντοι μὰ Δία, ὦ ἄνδρες Ἀθηναῖοι, κεκαλλιεπημένους γε λόγους, ὥσπερ οἱ τούτων,",
+          "translations":[
+            "because I was a clever speaker. For I thought it the most shameless part of their conduct that they are not ashamed because they will immediately be convicted by me of falsehood by the evidence of fact, when I show myself to be not in the least a clever speaker, unless indeed they call him a clever speaker who speaks the truth; for if this is what they mean, I would agree that I am an orator—not after their fashion. Now they, as I say, have said little or nothing true; but you shall hear from me nothing but the truth. Not, however, men of Athens, speeches finely tricked out with words and phrases,"
+          ],
+          "section":"b"
+        },
+        {
+          "greek":"ῥήμασί τε καὶ ὀνόμασιν οὐδὲ κεκοσμημένους, ἀλλʼ ἀκούσεσθε εἰκῇ λεγόμενα τοῖς ἐπιτυχοῦσιν ὀνόμασιν—πιστεύω γὰρ δίκαια εἶναι ἃ λέγω—καὶ μηδεὶς ὑμῶν προσδοκησάτω ἄλλως· οὐδὲ γὰρ ἂν δήπου πρέποι, ὦ ἄνδρες, τῇδε τῇ ἡλικίᾳ ὥσπερ μειρακίῳ πλάττοντι λόγους εἰς ὑμᾶς εἰσιέναι. καὶ μέντοι καὶ πάνυ, ὦ ἄνδρες Ἀθηναῖοι, τοῦτο ὑμῶν δέομαι καὶ παρίεμαι· ἐὰν διὰ τῶν αὐτῶν λόγων ἀκούητέ μου ἀπολογουμένου διʼ ὧνπερ εἴωθα λέγειν καὶ ἐν ἀγορᾷ ἐπὶ τῶν τραπεζῶν, ἵνα ὑμῶν πολλοὶ ἀκηκόασι, καὶ ἄλλοθι, μήτε",
+          "translations":[
+            "as theirs are, nor carefully arranged, but you will hear things said at random with the words that happen to occur to me. For I trust that what I say is just; and let none of you expect anything else. For surely it would not be fitting for one of my age to come before you like a youngster making up speeches. And, men of Athens, I urgently beg and beseech you if you hear me making my defence with the same words with which I have been accustomed to speak both in the market place at the bankers tables, where many of you have heard me, and elsewhere,"
+          ],
+          "section":"c"
+        },
+        {
+          "greek":"θαυμάζειν μήτε θορυβεῖν τούτου ἕνεκα. ἔχει γὰρ οὑτωσί. νῦν ἐγὼ πρῶτον ἐπὶ δικαστήριον ἀναβέβηκα, ἔτη γεγονὼς ἑβδομήκοντα· ἀτεχνῶς οὖν ξένως ἔχω τῆς ἐνθάδε λέξεως.",
+          "translations":[
+            "not to be surprised or to make a disturbance on this account. For the fact is that this is the first time I have come before the court, although I am seventy years old; I am therefore an utter foreigner to the manner of speech here."
+          ],
+          "section":"d"
+        }
+      ]
+    },
+    {
+      "author":"Plato",
+      "book":"Apology",
+      "type": "work",
+      "reference":"18",
+      "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2:18?right=perseus-eng2",
+      "rhemai":[
+        {
+          "greek":"ἔλεγον ἐν οἷσπερ ἐτεθράμμην, καὶ δὴ καὶ νῦν τοῦτο ὑμῶν δέομαι δίκαιον, ὥς γέ μοι δοκῶ, τὸν μὲν τρόπον τῆς λέξεως ἐᾶν—ἴσως μὲν γὰρ χείρων, ἴσως δὲ βελτίων ἂν εἴη—αὐτὸ δὲ τοῦτο σκοπεῖν καὶ τούτῳ τὸν νοῦν προσέχειν, εἰ δίκαια λέγω ἢ μή· δικαστοῦ μὲν γὰρ αὕτη ἀρετή, ῥήτορος δὲ τἀληθῆ λέγειν. πρῶτον μὲν οὖν δίκαιός εἰμι ἀπολογήσασθαι, ὦ ἄνδρες Ἀθηναῖοι, πρὸς τὰ πρῶτά μου ψευδῆ κατηγορημένα καὶ τοὺς πρώτους κατηγόρους, ἔπειτα δὲ πρὸς τὰ ὕστερον καὶ τοὺς",
+          "translations":[
+            "in which I had been brought up, so now I make this request of you, a fair one, as it seems to me, that you disregard the manner of my speech—for perhaps it might be worse and perhaps better—and observe and pay attention merely to this, whether what I say is just or not; for that is the virtue of a judge, and an orator’s virtue is to speak the truth. First then it is right for me to defend myself against the first false accusations brought against me, and the first accusers, and then against the later accusations and the later accusers."
+          ],
+          "section":"a"
+        },
+        {
+          "greek":"ὑστέρους. ἐμοῦ γὰρ πολλοὶ κατήγοροι γεγόνασι πρὸς ὑμᾶς καὶ πάλαι πολλὰ ἤδη ἔτη καὶ οὐδὲν ἀληθὲς λέγοντες, οὓς ἐγὼ μᾶλλον φοβοῦμαι ἢ τοὺς ἀμφὶ Ἄνυτον, καίπερ ὄντας καὶ τούτους δεινούς· ἀλλʼ ἐκεῖνοι δεινότεροι, ὦ ἄνδρες, οἳ ὑμῶν τοὺς πολλοὺς ἐκ παίδων παραλαμβάνοντες ἔπειθόν τε καὶ κατηγόρουν ἐμοῦ μᾶλλον οὐδὲν ἀληθές, ὡς ἔστιν τις Σωκράτης σοφὸς ἀνήρ, τά τε μετέωρα φροντιστὴς καὶ τὰ ὑπὸ γῆς πάντα ἀνεζητηκὼς καὶ τὸν ἥττω λόγον κρείττω",
+          "translations":[
+            "For many accusers have risen up against me before you, who have been speaking for a long time, many years already, and saying nothing true; and I fear them more than Anytus and the rest, though these also are dangerous; but those others are more dangerous, gentlemen, who gained your belief, since they got hold of most of you in childhood, and accused me without any truth, saying, There is a certain Socrates, a wise man, a ponderer over the things in the air and one who has investigated the things beneath the earth and who makes the weaker argument the stronger. These, men of Athens,"
+          ],
+          "section":"b"
+        },
+        {
+          "greek":"ποιῶν. οὗτοι, ὦ ἄνδρες Ἀθηναῖοι, οἱ ταύτην τὴν φήμην κατασκεδάσαντες, οἱ δεινοί εἰσίν μου κατήγοροι· οἱ γὰρ ἀκούοντες ἡγοῦνται τοὺς ταῦτα ζητοῦντας οὐδὲ θεοὺς νομίζειν. ἔπειτά εἰσιν οὗτοι οἱ κατήγοροι πολλοὶ καὶ πολὺν χρόνον ἤδη κατηγορηκότες, ἔτι δὲ καὶ ἐν ταύτῃ τῇ ἡλικίᾳ λέγοντες πρὸς ὑμᾶς ἐν ᾗ ἂν μάλιστα ἐπιστεύσατε, παῖδες ὄντες ἔνιοι ὑμῶν καὶ μειράκια, ἀτεχνῶς ἐρήμην κατηγοροῦντες ἀπολογουμένου οὐδενός. ὃ δὲ πάντων ἀλογώτατον, ὅτι οὐδὲ τὰ",
+          "translations":[
+            "who have spread abroad this report, are my dangerous enemies. For those who hear them think that men who investigate these matters do not even believe in gods. Besides, these accusers are many and have been making their accusations already for a long time, and moreover they spoke to you at an age at which you would believe them most readily (some of you in youth, most of you in childhood), and the case they prosecuted went utterly by default, since nobody appeared in defence. But the most unreasonable thing of all is this, that it is not even possible"
+          ],
+          "section":"c"
+        },
+        {
+          "greek":"ὀνόματα οἷόν τε αὐτῶν εἰδέναι καὶ εἰπεῖν, πλὴν εἴ τις κωμῳδοποιὸς τυγχάνει ὤν. ὅσοι δὲ φθόνῳ καὶ διαβολῇ χρώμενοι ὑμᾶς ἀνέπειθον—οἱ δὲ καὶ αὐτοὶ πεπεισμένοι ἄλλους πείθοντες—οὗτοι πάντες ἀπορώτατοί εἰσιν· οὐδὲ γὰρ ἀναβιβάσασθαι οἷόν τʼ ἐστὶν αὐτῶν ἐνταυθοῖ οὐδʼ ἐλέγξαι οὐδένα, ἀλλʼ ἀνάγκη ἀτεχνῶς ὥσπερ σκιαμαχεῖν ἀπολογούμενόν τε καὶ ἐλέγχειν μηδενὸς ἀποκρινομένου. ἀξιώσατε οὖν καὶ ὑμεῖς, ὥσπερ ἐγὼ λέγω, διττούς μου τοὺς κατηγόρους γεγονέναι, ἑτέρους μὲν τοὺς ἄρτι κατηγορήσαντας, ἑτέρους δὲ",
+          "translations":[
+            "to know and speak their names, except when one of them happens to be a writer of comedies. And all those who persuaded you by means of envy and slander—and some also persuaded others because they had been themselves persuaded—all these are most difficult to cope with; for it is not even possible to call any of them up here and cross-question him, but I am compelled in making my defence to fight, as it were, absolutely with shadows and to cross-question when nobody answers. Be kind enough, then, to bear in mind, as I say, that there are two classes"
+          ],
+          "section":"d"
+        },
+        {
+          "greek":"τοὺς πάλαι οὓς ἐγὼ λέγω, καὶ οἰήθητε δεῖν πρὸς ἐκείνους πρῶτόν με ἀπολογήσασθαι· καὶ γὰρ ὑμεῖς ἐκείνων πρότερον ἠκούσατε κατηγορούντων καὶ πολὺ μᾶλλον ἢ τῶνδε τῶν ὕστερον.",
+          "translations":[
+            "of my accusers—one those who have just brought their accusation, the other those who, as I was just saying, brought it long ago, and consider that I must defend myself first against the latter; for you heard them making their charges first and with much greater force than these who made them later."
+          ],
+          "section":"e"
+        }
+      ]
+    },
+  {
+    "author":"Plato",
+    "book":"Apology",
+    "type": "work",
+    "reference":"26",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2:26",
+    "rhemai":[
+      {
+        "greek": "ταῦτα ἐγώ σοι οὐ πείθομαι, ὦ Μέλητε, οἶμαι δὲ οὐδὲ ἄλλον ἀνθρώπων οὐδένα· ἀλλʼ ἢ οὐ διαφθείρω, ἢ εἰ διαφθείρω,ἄκων, ὥστε σύ γε κατʼ ἀμφότερα ψεύδῃ. εἰ δὲ ἄκων διαφθείρω, τῶν τοιούτων καὶ ἀκουσίων ἁμαρτημάτων οὐ δεῦρο νόμος εἰσάγειν ἐστίν, ἀλλὰ ἰδίᾳ λαβόντα διδάσκειν καὶ νουθετεῖν· δῆλον γὰρ ὅτι ἐὰν μάθω, παύσομαι ὅ γε ἄκων ποιῶ. σὺ δὲ συγγενέσθαι μέν μοι καὶ διδάξαι ἔφυγες καὶ οὐκ ἠθέλησας, δεῦρο δὲ εἰσάγεις, οἷ νόμος ἐστὶν εἰσάγειν τοὺς κολάσεως δεομένους ἀλλʼ οὐ μαθήσεως. ἀλλὰ γάρ, ὦ ἄνδρες Ἀθηναῖοι, τοῦτο μὲν ἤδη δῆλον",
+        "translations":[
+          "I don’t believe this, Meletus, nor do I think anyone else in the world does! but either I do not corrupt them, or if I corrupt them, I do it involuntarily, so that you are lying in both events. But if I corrupt them involuntarily, for such involuntary errors the law is not to hale people into court, but to take them and instruct and admonish them in private. For it is clear that if I am told about it, I shall stop doing that which I do involuntarily. But you avoided associating with me and instructing me, and were unwilling to do so, but you hale me in here, where it is the law to hale in those who need punishment, not instruction. But enough of this, for, men of Athens, this is clear, as I said, that Meletus never"
+        ],
+        "section":"a"
+      },
+      {
+        "greek": "οὑγὼ ἔλεγον, ὅτι Μελήτῳ τούτων οὔτε μέγα οὔτε μικρὸν πώποτε ἐμέλησεν. ὅμως δὲ δὴ λέγε ἡμῖν, πῶς με φῂς διαφθείρειν, ὦ Μέλητε, τοὺς νεωτέρους; ἢ δῆλον δὴ ὅτι κατὰ τὴν γραφὴν ἣν ἐγράψω θεοὺς διδάσκοντα μὴ νομίζειν οὓς ἡ πόλις νομίζει, ἕτερα δὲ δαιμόνια καινά; οὐ ταῦτα λέγεις ὅτι διδάσκων διαφθείρω; πάνυ μὲν οὖν σφόδρα ταῦτα λέγω. πρὸς αὐτῶν τοίνυν, ὦ Μέλητε, τούτων τῶν θεῶν ὧν νῦν ὁ λόγος ἐστίν, εἰπὲ ἔτι σαφέστερον καὶ ἐμοὶ καὶ τοῖς ἀνδράσιν",
+        "translations":[
+          "cared much or little for these things. But nevertheless, tell us, how do you say, Meletus, that I corrupt the youth? Or is it evident, according to the indictment you brought, that it is by teaching them not to believe in the gods the state believes in, but in other new spiritual beings? Do you not say that it is by teaching this that I corrupt them? Very decidedly that is what I say. Then, Meletus, for the sake of"
+        ],
+        "section":"b"
+      },
+      {
+        "greek": "τουτοισί. ἐγὼ γὰρ οὐ δύναμαι μαθεῖν πότερον λέγεις διδάσκειν με νομίζειν εἶναί τινας θεούς—καὶ αὐτὸς ἄρα νομίζω εἶναι θεοὺς καὶ οὐκ εἰμὶ τὸ παράπαν ἄθεος οὐδὲ ταύτῃ ἀδικῶ —οὐ μέντοι οὕσπερ γε ἡ πόλις ἀλλὰ ἑτέρους, καὶ τοῦτʼ ἔστιν ὅ μοι ἐγκαλεῖς, ὅτι ἑτέρους, ἢ παντάπασί με φῂς οὔτε αὐτὸν νομίζειν θεοὺς τούς τε ἄλλους ταῦτα διδάσκειν. ταῦτα λέγω, ὡς τὸ παράπαν οὐ νομίζεις θεούς.",
+        "translations":[
+          "these very gods about whom our speech now is, speak still more clearly both to me and to these gentlemen. For I am unable to understand whether you say that I teach that there are some gods, and myself then believe that there are some gods, and am not altogether godless and am not a wrongdoer in that way, that these, however, are not the gods whom the state believes in, but others, and this is what you accuse me for, that I believe in others; or you say that I do not myself believe in gods at all and that I teach this unbelief to other people. That is what I say, that you do not believe in gods at all. You amaze me, Meletus! Why do you say this?"
+        ],
+        "section":"c"
+      },
+      {
+        "greek": "ὦ θαυμάσιε Μέλητε, ἵνα τί ταῦτα λέγεις; οὐδὲ ἥλιον οὐδὲ σελήνην ἄρα νομίζω θεοὺς εἶναι, ὥσπερ οἱ ἄλλοι ἄνθρωποι; μὰ Δίʼ, ὦ ἄνδρες δικασταί, ἐπεὶ τὸν μὲν ἥλιον λίθον φησὶν εἶναι, τὴν δὲ σελήνην γῆν. Ἀναξαγόρου οἴει κατηγορεῖν, ὦ φίλε Μέλητε; καὶ οὕτω καταφρονεῖς τῶνδε καὶ οἴει αὐτοὺς ἀπείρους γραμμάτων εἶναι ὥστε οὐκ εἰδέναι ὅτι τὰ Ἀναξαγόρου βιβλία τοῦ Κλαζομενίου γέμει τούτων τῶν λόγων; καὶ δὴ καὶ οἱ νέοι ταῦτα παρʼ ἐμοῦ μανθάνουσιν, ἃ ἔξεστιν ἐνίοτε εἰ πάνυ πολλοῦ δραχμῆς",
+        "translations":[
+          "Do I not even believe that the sun or yet the moon are gods, as the rest of mankind do? No, by Zeus, judges, since he says that the sun is a stone and the moon earth. Do you think you are accusing Anaxagoras, my dear Meletus, and do you so despise these gentlemen and think they are so unversed in letters as not to know, that the books of Anaxagoras the Clazomenian are full of such utterances? And forsooth the youth learn these doctrines from me, which they can buy sometimes"
+        ],
+        "section":"d"
+      },
+      {
+        "greek": "ἐκ τῆς ὀρχήστρας πριαμένοις Σωκράτους καταγελᾶν, ἐὰν προσποιῆται ἑαυτοῦ εἶναι, ἄλλως τε καὶ οὕτως ἄτοπα ὄντα; ἀλλʼ, ὦ πρὸς Διός, οὑτωσί σοι δοκῶ; οὐδένα νομίζω θεὸν εἶναι; οὐ μέντοι μὰ Δία οὐδʼ ὁπωστιοῦν. ἄπιστός γʼ εἶ, ὦ Μέλητε, καὶ ταῦτα μέντοι, ὡς ἐμοὶ δοκεῖς, σαυτῷ. ἐμοὶ γὰρ δοκεῖ οὑτοσί, ὦ ἄνδρες Ἀθηναῖοι, πάνυ εἶναι ὑβριστὴς καὶ ἀκόλαστος, καὶ ἀτεχνῶς τὴν γραφὴν ταύτην ὕβρει τινὶ καὶ ἀκολασίᾳ καὶ νεότητι γράψασθαι.",
+        "translations":[
+          "(if the price is high) for a drachma in the orchestra and laugh at Socrates, if he pretends they are his own, especially when they are so absurd! But for heaven’s sake, do you think this of me, that I do not believe there is any god? No, by Zeus, you don’t, not in the least. You cannot be believed, Meletus, not even, as it seems to me, by yourself. For this man appears to me, men of Athens, to be very violent and unrestrained, and actually to have brought this indictment in a spirit of violence and unrestraint and rashness."
+        ],
+        "section":"e"
+      }
+    ]
+  }
+]

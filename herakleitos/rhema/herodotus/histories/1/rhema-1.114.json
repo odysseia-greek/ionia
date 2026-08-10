@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.114",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.114/",
+    "rhemai": [
+      {
+        "greek": "καὶ ὅτε ἦν δεκαέτης ὁ παῖς, πρῆγμα ἐς αὑτὸν τοιόνδε γενόμενον ἐξέφηνέ μιν. ἔπαιζε ἐν τῇ κώμῃ ταύτῃ ἐν τῇ ἦσαν καὶ αἱ βουκολίαι αὗται, ἔπαιζε δὲ μετʼ ἄλλων ἡλίκων ἐν ὁδῷ. καὶ οἱ παῖδες παίζοντες εἵλοντο ἑωυτῶν βασιλέα εἶναι τοῦτον δὴ τὸν τοῦ βουκόλου ἐπίκλησιν παῖδα.",
+        "translations": [
+          "Now when the boy was ten years old, the truth about him was revealed in some such way as this. He was playing in the village where these herdsmen's quarters were, playing in the road with others of his age. The boys while playing chose to be their king this one who was supposed to be the son of the cowherd."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὁ δὲ αὐτῶν διέταξε τοὺς μὲν οἰκίας οἰκοδομέειν, τοὺς δὲ δορυφόρους εἶναι, τὸν δέ κου τινὰ αὐτῶν ὀφθαλμὸν βασιλέος εἶναι, τῷ δὲ τινὶ τὰς ἀγγελίας φέρειν ἐδίδου γέρας, ὡς ἑκάστῳ ἔργον προστάσσων.",
+        "translations": [
+          "Then he assigned some of them to the building of houses, some to be his bodyguard, one doubtless to be the King's Eye; to another he gave the right of bringing him messages; to each he gave his proper work."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "εἷς δὴ τούτων τῶν παίδων συμπαίζων, ἐὼν Ἀρτεμβάρεος παῖς ἀνδρὸς δοκίμου ἐν Μήδοισι, οὐ γὰρ δὴ ἐποίησε τὸ προσταχθὲν ἐκ τοῦ Κύρου, ἐκέλευε αὐτὸν τοὺς ἄλλους παῖδας διαλαβεῖν, πειθομένων δὲ τῶν παίδων ὁ Κῦρος τὸν παῖδα τρηχέως κάρτα περιέσπε μαστιγέων.",
+        "translations": [
+          "Now one of these boys playing with him was the son of Artembares, a notable Mede; when he did not perform his assignment from Cyrus, Cyrus told the other boys to seize him, and when they did so he handled the boy very roughly and whipped him."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ὁ δὲ ἐπείτε μετείθη τάχιστα, ὡς γε δὴ ἀνάξια ἑωυτοῦ παθών, μᾶλλόν τι περιημέκτεε, κατελθὼν δὲ ἐς πόλιν πρὸς τὸν πατέρα ἀποικτίζετο τῶν ὑπὸ Κύρου ἤντησε, λέγων δὲ οὐ Κύρου (οὐ γάρ κω ἦν τοῦτο τοὔνομα), ἀλλὰ πρὸς τοῦ βουκόλου τοῦ Ἀστυάγεος παιδός.",
+        "translations": [
+          "As soon as he was let go, very upset about the indignity he had suffered, he went down to his father in the city and complained of what he had received at the hands of the son of Astyages ' cowherd—not calling him Cyrus, for that name had not yet been given."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ὁ δὲ Ἀρτεμβάρης ὀργῇ ὡς εἶχε ἐλθὼν παρὰ τὸν Ἀστυάγεα καὶ ἅμα ἀγόμενος τὸν παῖδα ἀνάρσια πρήγματα ἔφη πεπονθέναι, λέγων ὦ βασιλεῦ, ὑπὸ τοῦ σοῦ δούλου, βουκόλου δὲ παιδὸς ὧδε περιυβρίσμεθα, δεικνὺς τοῦ παιδὸς τοὺς ὤμους.",
+        "translations": [
+          "Artembares, going just as angry as he was to Astyages and bringing his son along, announced that an impropriety had been committed, saying, “O King, by your slave, the son of a cowherd, we have been outraged thus”: and with that he bared his son's shoulders."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

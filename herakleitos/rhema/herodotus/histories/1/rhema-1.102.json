@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.102",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.102/",
+    "rhemai": [
+      {
+        "greek": "Δηιόκεω δὲ παῖς γίνεται Φραόρτης, ὃς τελευτήσαντος Δηιόκεω, βασιλεύσαντος τρία καὶ πεντήκοντα ἔτεα, παρεδέξατο τὴν ἀρχήν, παραδεξάμενος δὲ οὐκ ἀπεχρᾶτο μούνων Μήδων ἄρχειν, ἀλλὰ στρατευσάμενος ἐπὶ τοὺς Πέρσας πρώτοισί τε τούτοισι ἐπεθήκατο καὶ πρώτους Μήδων ὑπηκόους ἐποίησε.",
+        "translations": [
+          "Deioces had a son, Phraortes, who inherited the throne when Deioces died after a reign of fifty-three years. Having inherited it, he was not content to rule the Medes alone: marching against the Persians, he attacked them first, and they were the first whom he made subject to the Medes."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "μετὰ δὲ ἔχων δύο ταῦτα ἔθνεα καὶ ἀμφότερα ἰσχυρά, κατεστρέφετο τὴν Ἀσίην ἀπʼ ἄλλου ἐπʼ ἄλλο ἰὼν ἔθνος, ἐς ὃ στρατευσάμενος ἐπὶ τοὺς Ἀσσυρίους καὶ Ἀσσυρίων, τούτους οἳ Νίνον εἶχον καὶ ἦρχον πρότερον πάντων, τότε δὲ ἦσαν μεμουνωμένοι μὲν συμμάχων ἅτε ἀπεστεώτων, ἄλλως μέντοι ἑωυτῶν εὖ ἥκοντες, ἐπὶ τούτους δὴ στρατευσάμενος ὁ Φραόρτης αὐτός τε διεφθάρη, ἄρξας δύο καὶ εἴκοσι ἔτεα, καὶ ὁ στρατὸς αὐτοῦ ὁ πολλός.",
+        "translations": [
+          "Then, with these two strong nations at his back, he subjugated one nation of Asia after another, until he marched against the Assyrians; that is, against those of the Assyrians who held Ninus. These had formerly been rulers of all; but now their allies had deserted them and they were left alone, though well-off themselves. Marching against these Assyrians, then, Phraortes and most of his army perished, after he had reigned twenty-two years."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.121",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.121/",
+    "rhemai": [
+      {
+        "greek": "ἀκούσας ταῦτα ὁ Ἀστυάγης ἐχάρη τε καὶ καλέσας τὸν Κῦρον ἔλεγέ οἱ τάδε. ὦ παῖ, σὲ γὰρ ἐγὼ διʼ ὄψιν ὀνείρου οὐ τελέην ἠδίκεον, τῇ σεωυτοῦ δὲ μοίρῃ περίεις· νῦν ὦν ἴθι χαίρων ἐς Πέρσας, πομποὺς δὲ ἐγὼ ἅμα πέμψω. ἐλθὼν δὲ ἐκεῖ πατέρα τε καὶ μητέρα εὑρήσεις οὐ κατὰ Μιτραδάτην τε τὸν βουκόλον καὶ τὴν γυναῖκα αὐτοῦ.",
+        "translations": [
+          "Hearing this, Astyages was glad, and calling Cyrus, said, “My boy, I did you wrong because of a vision I had in a dream, that meant nothing, but by your own destiny you still live; now therefore, go to the Persians, and good luck go with you; I will send guides with you. When you get there you will find a father and mother unlike the cowherd, Mitradates, and his wife.”"
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.19",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.19/",
+    "rhemai": [
+      {
+        "greek": "τῷ δὲ δυωδεκάτῳ ἔτεϊ ληίου ἐμπιπραμένου ὑπὸ τῆς στρατιῆς συνηνείχθη τι τοιόνδε γενέσθαι πρῆγμα· ὡς ἅφθη τάχιστα τὸ λήιον, ἀνέμῳ βιώμενον ἅψατο νηοῦ Ἀθηναίης ἐπίκλησιν Ἀσσησίης, ἁφθεὶς δὲ ὁ νηὸς κατεκαύθη.",
+        "translations": [
+          "In the twelfth year, when the Lydian army was burning the crops, the fire set in the crops, blown by a strong wind, caught the temple of Athena called Athena of Assesos, and the temple burned to the ground."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "καὶ τὸ παραυτίκα μὲν λόγος οὐδεὶς ἐγένετο, μετὰ δὲ τῆς στρατιῆς ἀπικομένης ἐς Σάρδις ἐνόσησε ὁ Ἀλυάττης. μακροτέρης δέ οἱ γινομένης τῆς νούσου πέμπει ἐς Δελφοὺς θεοπρόπους, εἴτε δὴ συμβουλεύσαντός τευ, εἴτε καὶ αὐτῷ ἔδοξε πέμψαντα τὸν θεὸν ἐπειρέσθαι περὶ τῆς νούσου.",
+        "translations": [
+          "For the present no notice was taken of this. But after the army had returned to Sardis, Alyattes fell ill; and, as his sickness lasted longer than it should, he sent to Delphi to inquire of the oracle, either at someone's urging or by his own wish to question the god about his sickness."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τοῖσι δὲ ἡ Πυθίη ἀπικομένοισι ἐς Δελφοὺς οὐκ ἔφη χρήσειν πρὶν ἢ τὸν νηὸν τῆς Ἀθηναίης ἀνορθώσωσι, τὸν ἐνέπρησαν χώρης τῆς Μιλησίης ἐν Ἀσσησῷ.",
+        "translations": [
+          "But when the messengers came to Delphi, the Pythian priestess would not answer them before they restored the temple of Athena at Assesos in the Milesian territory, which they had burnt."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

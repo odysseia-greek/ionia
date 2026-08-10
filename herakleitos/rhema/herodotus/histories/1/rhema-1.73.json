@@ -1,0 +1,53 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.73",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.73/",
+    "rhemai": [
+      {
+        "greek": "ἐστρατεύετο δὲ ὁ Κροῖσος ἐπὶ τὴν Καππαδοκίην τῶνδε εἵνεκα, καὶ γῆς ἱμέρῳ προσκτήσασθαι πρὸς τὴν ἑωυτοῦ μοῖραν βουλόμενος, καὶ μάλιστα τῷ χρηστηρίῳ πίσυνος ἐὼν καὶ τίσασθαι θέλων ὑπὲρ Ἀστυάγεος Κῦρον.",
+        "translations": [
+          "The reasons for Croesus ' expedition against Cappadocia were these: he desired to gain territory in addition to his own, and (these were the chief causes) he trusted the oracle and wished to avenge Astyages on Cyrus; for Cyrus, son of Cambyses, had conquered Astyages and held him in subjection."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Ἀστυάγεα γὰρ τὸν Κυαξάρεω, ἐόντα Κροίσου μὲν γαμβρὸν Μήδων δὲ βασιλέα, Κῦρος ὁ Καμβύσεω καταστρεψάμενος εἶχε, γενόμενον γαμβρὸν Κροίσῳ ὧδε.",
+        "translations": [
+          "Now Astyages, son of Cyaxares and the king of Media, was Croesus ' brother-in-law: and this is how he came to be so."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Σκυθέων τῶν νομάδων εἴλῃ ἀνδρῶν στασιάσασα ὑπεξῆλθε ἐς γῆν τὴν Μηδικήν· ἐτυράννευε δὲ τὸν χρόνον τοῦτον Μήδων Κυαξάρης ὁ Φραόρτεω τοῦ Δηιόκεω, ὃς τοὺς Σκύθας τούτους τὸ μὲν πρῶτον περιεῖπε εὖ ὡς ἐόντας ἱκέτας· ὥστε δὲ περὶ πολλοῦ ποιεόμενος αὐτούς, παῖδάς σφι παρέδωκε τὴν γλῶσσάν τε ἐκμαθεῖν καὶ τὴν τέχνην τῶν τόξων.",
+        "translations": [
+          "A tribe of wandering Scythians separated itself from the rest, and escaped into Median territory. This was then ruled by Cyaxares, son of Phraortes, son of Deioces. Cyaxares at first treated the Scythians kindly, as suppliants for his mercy; and, as he had a high regard for them, he entrusted boys to their tutelage to be taught their language and the skill of archery."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "χρόνου δὲ γενομένου, καὶ αἰεὶ φοιτεόντων τῶν Σκυθέων ἐπʼ ἄγρην καὶ αἰεί τι φερόντων, καὶ κοτε συνήνεικε ἑλεῖν σφεας μηδέν· νοστήσαντας δὲ αὐτοὺς κεινῇσι χερσὶ ὁ Κυαξάρης (ἦν γάρ, ὡς διέδεξε, ὀργὴν ἄκρος) τρηχέως κάρτα περιέσπε ἀεικείῃ.",
+        "translations": [
+          "As time went on, it happened that the Scythians, who were accustomed to go hunting and always to bring something back, once had taken nothing, and when they returned empty-handed, Cyaxares treated them very roughly and contemptuously (being, as appears from this, prone to anger)."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "οἳ δὲ ταῦτα πρὸς Κυαξάρεω παθόντες, ὥστε ἀνάξια σφέων αὐτῶν πεπονθότες, ἐβούλευσαν τῶν παρὰ σφίσι διδασκομένων παίδων ἕνα κατακόψαι, σκευάσαντες δὲ αὐτὸν ὥσπερ ἐώθεσαν καὶ τὰ θηρία σκευάζειν, Κυαξάρῃ δοῦναι φέροντες ὡς ἄγρην δῆθεν, δόντες δὲ τὴν ταχίστην κομίζεσθαι παρὰ Ἀλυάττεα τὸν Σαδυάττεω ἐς Σάρδις.",
+        "translations": [
+          "The Scythians, feeling themselves wronged by the treatment they had from Cyaxares, planned to take one of the boys who were their pupils and cut him in pieces; then, dressing the flesh as they were accustomed to dress the animals which they killed, to bring and give it to Cyaxares as if it were the spoils of the hunt; and after that, to make their way with all speed to Alyattes son of Sadyattes at Sardis. All this they did."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "ταῦτα καὶ ἐγένετο. καὶ γὰρ Κυαξάρης καὶ οἱ παρεόντες δαιτυμόνες τῶν κρεῶν τούτων ἐπάσαντο, καὶ οἱ Σκύθαι ταῦτα ποιήσαντες Ἀλυάττεω ἱκέται ἐγένοντο.",
+        "translations": [
+          "Cyaxares and the guests who ate with him dined on the boy's flesh, and the Scythians, having done as they planned, fled to Alyattes for protection."
+        ],
+        "section": "6"
+      }
+    ]
+  }
+]

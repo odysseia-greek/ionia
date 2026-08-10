@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.81",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.81/",
+    "rhemai": [
+      {
+        "greek": "τοῖσι μὲν δὴ κατεστήκεε πολιορκίη. Κροῖσος δὲ δοκέων οἱ χρόνον ἐπὶ μακρὸν ἔσεσθαι τὴν πολιορκίην ἔπεμπε ἐκ τοῦ τείχεος ἄλλους ἀγγέλους ἐς τὰς συμμαχίας. οἱ μὲν γὰρ πρότεροι διεπέμποντο ἐς πέμπτον μῆνα προερέοντες συλλέγεσθαι ἐς Σάρδις, τούτους δὲ ἐξέπεμπε τὴν ταχίστην δέεσθαι βοηθέειν ὡς πολιορκεομένου Κροίσου.",
+        "translations": [
+          "So then they were besieged. But Croesus, supposing that the siege would last a long time, again sent messengers from the city to his allies; whereas the former envoys had been sent to summon them to muster at Sardis in five months' time, these were to announce that Croesus was besieged and to plead for help as quickly as possible."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

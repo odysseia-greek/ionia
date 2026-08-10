@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.105",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.105/",
+    "rhemai": [
+      {
+        "greek": "ἐνθεῦτεν δὲ ἤισαν ἐπʼ Αἴγυπτον. καὶ ἐπείτε ἐγένοντο ἐν τῇ Παλαιστίνῃ Συρίῃ, Ψαμμήτιχος σφέας Αἰγύπτου βασιλεὺς ἀντιάσας δώροισί τε καὶ λιτῇσι ἀποτράπει τὸ προσωτέρω μὴ πορεύεσθαι.",
+        "translations": [
+          "From there they marched against Egypt: and when they were in the part of Syria called Palestine, Psammetichus king of Egypt met them and persuaded them with gifts and prayers to come no further."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οἳ δὲ ἐπείτε ἀναχωρέοντες ὀπίσω ἐγένοντο τῆς Συρίης ἐν Ἀσκάλωνι πόλι, τῶν πλεόνων Σκυθέων παρεξελθόντων ἀσινέων, ὀλίγοι τινὲς αὐτῶν ὑπολειφθέντες ἐσύλησαν τῆς οὐρανίης Ἀφροδίτης τὸ ἱρόν.",
+        "translations": [
+          "So they turned back, and when they came on their way to the city of Ascalon in Syria, most of the Scythians passed by and did no harm, but a few remained behind and plundered the temple of Heavenly Aphrodite."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἔστι δὲ τοῦτο τὸ ἱρόν, ὡς ἐγὼ πυνθανόμενος εὑρίσκω, πάντων ἀρχαιότατον ἱρῶν ὅσα ταύτης τῆς θεοῦ· καὶ γὰρ τὸ ἐν Κύπρῳ ἱρὸν ἐνθεῦτεν ἐγένετο, ὡς αὐτοὶ Κύπριοι λέγουσι, καὶ τὸ ἐν Κυθήροισι Φοίνικές εἰσὶ οἱ ἱδρυσάμενοι ἐκ ταύτης τῆς Συρίης ἐόντες.",
+        "translations": [
+          "This temple, I discover from making inquiry, is the oldest of all the temples of the goddess, for the temple in Cyprus was founded from it, as the Cyprians themselves say; and the temple on Cythera was founded by Phoenicians from this same land of Syria."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τοῖσι δὲ τῶν Σκυθέων συλήσασι τὸ ἱρὸν τὸ ἐν Ἀσκάλωνι καὶ τοῖσι τούτων αἰεὶ ἐκγόνοισι ἐνέσκηψε ὁ θεὸς θήλεαν νοῦσον· ὥστε ἅμα λέγουσί τε οἱ Σκύθαι διὰ τοῦτο σφέας νοσέειν, καὶ ὁρᾶν παρʼ ἑωυτοῖσι τοὺς ἀπικνεομένους ἐς τὴν Σκυθικὴν χώρην ὡς διακέαται τοὺς καλέουσι Ἐνάρεας οἱ Σκύθαι.",
+        "translations": [
+          "But the Scythians who pillaged the temple, and all their descendants after them, were afflicted by the goddess with the “female” sickness: and so the Scythians say that they are afflicted as a consequence of this and also that those who visit Scythian territory see among them the condition of those whom the Scythians call “Hermaphrodites”."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

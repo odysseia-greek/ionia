@@ -1,0 +1,53 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.75",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.75/",
+    "rhemai": [
+      {
+        "greek": "τοῦτον δὴ ὦν τὸν Ἀστυάγεα Κῦρος ἐόντα ἑωυτοῦ μητροπάτορα καταστρεψάμενος ἔσχε διʼ αἰτίην τὴν ἐγὼ ἐν τοῖσι ὀπίσω λόγοισι σημανέω·",
+        "translations": [
+          "Cyrus had subjugated this Astyages, then, Cyrus ' own mother's father, for the reason which I shall presently disclose."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τὰ Κροῖσος ἐπιμεμφόμενος τῷ Κύρῳ ἔς τε τὰ χρηστήρια ἔπεμπε εἰ στρατεύηται ἐπὶ Πέρσας, καὶ δὴ καὶ ἀπικομένου χρησμοῦ κιβδήλου, ἐλπίσας πρὸς ἑωυτοῦ τὸν χρησμὸν εἶναι, ἐστρατεύετο ἐς τὴν Περσέων μοῖραν.",
+        "translations": [
+          "Having this reason to quarrel with Cyrus, Croesus sent to ask the oracles if he should march against the Persians; and when a deceptive answer came he thought it to be favorable to him, and so led his army into the Persian territory."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὡς δὲ ἀπίκετο ἐπὶ τὸν Ἅλυν ποταμὸν ὁ Κροῖσος, τὸ ἐνθεῦτεν, ὡς μὲν ἐγὼ λέγω, κατὰ τὰς ἐούσας γεφύρας διεβίβασε τὸν στρατόν, ὡς δὲ ὁ πολλὸς λόγος Ἑλλήνων, Θαλῆς οἱ ὁ Μιλήσιος διεβίβασε.",
+        "translations": [
+          "When he came to the river Halys, he transported his army across it—by the bridges which were there then, as I maintain; but the general belief of the Greeks is that Thales of Miletus got the army across."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἀπορέοντος γὰρ Κροίσου ὅκως οἱ διαβήσεται τὸν ποταμὸν ὁ στρατός (οὐ γὰρ δὴ εἶναι κω τοῦτον τὸν χρόνον τὰς γεφύρας ταύτας) λέγεται παρεόντα τὸν Θαλῆν ἐν τῷ στρατοπέδῳ ποιῆσαι αὐτῷ τὸν ποταμὸν ἐξ ἀριστερῆς χειρὸς ῥέοντα τοῦ στρατοῦ καὶ ἐκ δεξιῆς ῥέειν, ποιῆσαι δὲ ὧδε·",
+        "translations": [
+          "The story is that, as Croesus did not know how his army could pass the river (as the aforesaid bridges did not yet exist then), Thales, who was in the encampment, made the river, which flowed on the left of the army, also flow on the right, in the following way."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἄνωθεν τοῦ στρατοπέδου ἀρξάμενον διώρυχα βαθέαν ὀρύσσειν, ἄγοντα μηνοειδέα, ὅκως ἂν τὸ στρατόπεδον ἱδρυμένον κατὰ νώτου λάβοι, ταύτῃ κατὰ τὴν διώρυχα ἐκτραπόμενος ἐκ τῶν ἀρχαίων ῥεέθρων, καὶ αὖτις παραμειβόμενος τὸ στρατόπεδον ἐς τὰ ἀρχαῖα ἐσβάλλοι· ὥστε ἐπείτε καὶ ἐσχίσθη τάχιστα ὁ ποταμός, ἀμφοτέρῃ διαβατὸς ἐγένετο,",
+        "translations": [
+          "Starting from a point on the river upstream from the camp, he dug a deep semi-circular trench, so that the stream, turned from its ancient course, would flow in the trench to the rear of the camp and, passing it, would issue into its former bed, with the result that as soon as the river was thus divided into two, both channels could be forded."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "οἳ δὲ καὶ τὸ παράπαν λέγουσι καὶ τὸ ἀρχαῖον ῥέεθρον ἀποξηρανθῆναι. ἀλλὰ τοῦτο μὲν οὐ προσίεμαι· κῶς γὰρ ὀπίσω πορευόμενοι διέβησαν αὐτόν;",
+        "translations": [
+          "Some even say that the ancient channel dried up altogether. But I do not believe this; for in that case, how did they pass the river when they were returning?"
+        ],
+        "section": "6"
+      }
+    ]
+  }
+]

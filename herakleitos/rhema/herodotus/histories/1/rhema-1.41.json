@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.41",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.41/",
+    "rhemai": [
+      {
+        "greek": "εἴπας δὲ ταῦτα ὁ Κροῖσος μεταπέμπεται τὸν Φρύγα Ἄδρηστον, ἀπικομένῳ δέ οἱ λέγει τάδε. Ἄδρηστε, ἐγώ σε συμφορῇ, πεπληγμένον ἀχάρι, τήν τοι οὐκ ὀνειδίζω, ἐκάθηρα καὶ οἰκίοισι ὑποδεξάμενος ἔχω, παρέχων πᾶσαν δαπάνην.",
+        "translations": [
+          "Having said this, Croesus sent for Adrastus the Phrygian and when he came addressed him thus: “ Adrastus, when you were struck by ugly misfortune, for which I do not blame you, it was I who cleansed you, and received and still keep you in my house, defraying all your keep."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "νῦν ὤν (ὀφείλεις γὰρ ἐμοῦ προποιήσαντος χρηστὰ ἐς σὲ χρηστοῖσί με ἀμείβεσθαι) φύλακα παιδός σε τοῦ ἐμοῦ χρηίζω γενέσθαι ἐς ἄγρην ὁρμωμένου, μή τινες κατʼ ὁδὸν κλῶπες κακοῦργοι ἐπὶ δηλήσι φανέωσι ὑμῖν.",
+        "translations": [
+          "Now then, as you owe me a return of good service for the good which I have done you, I ask that you watch over my son as he goes out to the chase. See that no thieving criminals meet you on the way, to do you harm."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "πρὸς δὲ τούτῳ καὶ σέ τοι χρεόν ἐστι ἰέναι ἔνθα ἀπολαμπρυνέαι τοῖσι χρεόν πατρώιόν τε γάρ τοι ἐστὶ καὶ προσέτι ῥώμη ὑπάρχει.",
+        "translations": [
+          "Besides, it is only right that you too should go where you can win renown by your deeds. That is fitting for your father's son; and you are strong enough besides.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

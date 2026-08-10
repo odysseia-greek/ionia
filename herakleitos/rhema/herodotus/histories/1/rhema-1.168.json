@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.168",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.168/",
+    "rhemai": [
+      {
+        "greek": "Φωκαίης μέν νυν πέρι τῆς ἐν Ἰωνίῃ οὕτω ἔσχε παραπλήσια δὲ τούτοισι καὶ Τήιοι ἐποίησαν. ἐπείτε γὰρ σφέων εἷλε χώματι τὸ τεῖχος Ἅρπαγος, ἐσβάντες πάντες ἐς τὰ πλοῖα οἴχοντο πλέοντες ἐπὶ τῆς Θρηίκης, καὶ ἐνθαῦτα ἔκτισαν πόλιν Ἄβδηρα, τὴν πρότερος τούτων Κλαζομένιος Τιμήσιος κτίσας οὐκ ἀπόνητο, ἀλλʼ ὑπὸ Θρηίκων ἐξελασθεὶς τιμὰς νῦν ὑπὸ Τηίων τῶν ἐν Ἀβδήροισι ὡς ἥρως ἔχει.",
+        "translations": [
+          "Thus, then, it went with the Ionian Phocaea. The Teians did the same things as the Phocaeans: when Harpagus had taken their walled city by building an earthwork, they all embarked aboard ship and sailed away for Thrace. There they founded a city, Abdera, which before this had been founded by Timesius of Clazomenae; yet he got no profit of it, but was driven out by the Thracians. This Timesius is now honored as a hero by the Teians of Abdera."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

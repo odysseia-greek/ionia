@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.106",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.106/",
+    "rhemai": [
+      {
+        "greek": "ἐπὶ μέν νυν ὀκτὼ καὶ εἴκοσι ἔτεα ἦρχον τῆς Ἀσίης οἱ Σκύθαι, καὶ τὰ πάντα σφι ὑπό τε ὕβριος καὶ ὀλιγωρίης ἀνάστατα ἦν· χωρὶς μὲν γὰρ φόρον ἔπρησσον παρʼ ἑκάστων τὸν ἑκάστοισι ἐπέβαλλον, χωρὶς δὲ τοῦ φόρου ἥρπαζον περιελαύνοντες τοῦτο ὅ τι ἔχοιεν ἕκαστοι.",
+        "translations": [
+          "The Scythians, then, ruled Asia for twenty-eight years: and the whole land was ruined because of their violence and their pride, for, besides exacting from each the tribute which was assessed, they rode about the land carrying off everyone's possessions."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "καὶ τούτων μὲν τοὺς πλεῦνας Κυαξάρης τε καὶ Μῆδοι ξεινίσαντες καὶ καταμεθύσαντες κατεφόνευσαν, καὶ οὕτω ἀνεσώσαντο τὴν ἀρχὴν Μῆδοι καὶ ἐπεκράτεον τῶν περ καὶ πρότερον, καὶ τήν τε Νίνον εἷλον (ὡς δὲ εἷλον ἐν ἑτέροισι λόγοισι δηλώσω) καὶ τοὺς Ἀσσυρίους ὑποχειρίους ἐποιήσαντο πλὴν τῆς Βαβυλωνίης μοίρης.",
+        "translations": [
+          "Most of them were entertained and made drunk and then slain by Cyaxares and the Medes: so thus the Medes took back their empire and all that they had formerly possessed; and they took Ninus (how, I will describe in a later part of my history), and brought all Assyria except the province of Babylon under their rule."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

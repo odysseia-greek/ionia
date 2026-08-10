@@ -1,0 +1,76 @@
+syntax = "proto3";
+
+package diodoros.v1;
+option go_package = "github.com/odysseia-greek/ionia/diodoros/gen/go/v1;diodorosv1";
+
+import "google/protobuf/empty.proto";
+
+service DiodorosService {
+  rpc Health(google.protobuf.Empty) returns (HealthResponse);
+  rpc CreateText(CreateTextRequest) returns (Text);
+  rpc Options(google.protobuf.Empty) returns (CorpusOptions);
+  rpc CheckText(CheckTextRequest) returns (CheckTextResponse);
+}
+
+message HealthResponse {
+  bool healthy = 1;
+  string time = 2;
+  string version = 3;
+}
+
+message CreateTextRequest {
+  string author = 1;
+  string book = 2;
+  string reference = 3;
+  string section = 4;
+}
+
+message Text {
+  string author = 1;
+  string book = 2;
+  string type = 3;
+  string reference = 4;
+  string perseus_text_link = 5;
+  repeated Passage passages = 6;
+}
+
+message Passage {
+  string greek = 1;
+  repeated string translations = 2;
+  string section = 3;
+}
+
+message CorpusOptions { repeated Author authors = 1; }
+message Author { string name = 1; repeated Book books = 2; }
+message Book { string name = 1; repeated Reference references = 2; }
+message Reference { string name = 1; repeated string sections = 2; }
+
+message TranslationAnswer {
+  string section = 1;
+  string translation = 2;
+}
+
+message CheckTextRequest {
+  string author = 1;
+  string book = 2;
+  string reference = 3;
+  repeated TranslationAnswer translations = 4;
+}
+
+message CheckTextResponse {
+  string average_levenshtein_percentage = 1;
+  repeated AnswerSection sections = 2;
+  repeated Typo possible_typos = 3;
+}
+
+message AnswerSection {
+  string section = 1;
+  string levenshtein_percentage = 2;
+  string quiz_sentence = 3;
+  string answer_sentence = 4;
+}
+
+message Typo {
+  string source = 1;
+  string provided = 2;
+}

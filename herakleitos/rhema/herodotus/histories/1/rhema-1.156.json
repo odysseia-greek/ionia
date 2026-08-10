@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.156",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.156/",
+    "rhemai": [
+      {
+        "greek": "Κροῖσος μὲν δὴ ταῦτά οἱ ὑπετίθετο, αἱρετώτερα ταῦτα εὑρίσκων Λυδοῖσι ἢ ἀνδραποδισθέντας πρηθῆναι σφέας, ἐπιστάμενος ὅτι ἢν μὴ ἀξιόχρεον πρόφασιν προτείνῃ, οὐκ ἀναπείσει μιν μεταβουλεύσασθαι, ἀρρωδέων δὲ μὴ καὶ ὕστερον κοτὲ οἱ Λυδοί, ἢν τὸ παρεὸν ὑπεκδράμωσι, ἀποστάντες ἀπὸ τῶν Περσέων ἀπόλωνται.",
+        "translations": [
+          "Croesus proposed this to him, because he thought this was better for the Lydians than to be sold as slaves; he knew that without some reasonable plea he could not change the king's mind, and feared that even if the Lydians should escape this time they might later revolt and be destroyed by the Persians."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Κῦρος δὲ ἡσθεὶς τῇ ὑποθήκῃ καὶ ὑπεὶς τῆς ὀργῆς ἔφη οἱ πείθεσθαι. καλέσας δὲ Μαζάρεα ἄνδρα Μῆδον, ταῦτά τέ οἱ ἐνετείλατο προειπεῖν Λυδοῖσι τὰ ὁ Κροῖσος ὑπετίθετο, καὶ πρὸς ἐξανδραποδίσασθαι τοὺς ἄλλους πάντας οἳ μετὰ Λυδῶν ἐπὶ Σάρδις ἐστρατεύσαντο, αὐτὸν δὲ Πακτύην πάντως ζῶντα ἀγαγεῖν παρʼ ἑωυτόν.",
+        "translations": [
+          "Cyrus was pleased by this counsel; he relented in his anger and said he would follow Croesus ' advice. Then calling Mazares, a Mede, he told him to give the Lydians the commands that Croesus advised; further, to enslave all the others who had joined the Lydians in attacking Sardis; and as for Pactyes himself, by all means to bring him into his presence alive."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.2",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.2/",
+    "rhemai": [
+      {
+        "greek": "οὕτω μὲν Ἰοῦν ἐς Αἴγυπτον ἀπικέσθαι λέγουσι Πέρσαι, οὐκ ὡς Ἕλληνές, καὶ τῶν ἀδικημάτων πρῶτον τοῦτο ἄρξαι. μετὰ δὲ ταῦτα Ἑλλήνων τινάς (οὐ γὰρ ἔχουσι τοὔνομα ἀπηγήσασθαι) φασὶ τῆς Φοινίκης ἐς Τύρον προσσχόντας ἁρπάσαι τοῦ βασιλέος τὴν θυγατέρα Εὐρώπην. εἴησαν δʼ ἄν οὗτοι Κρῆτες. ταῦτα μὲν δὴ ἴσα πρὸς ἴσα σφι γενέσθαι, μετὰ δὲ ταῦτα Ἕλληνας αἰτίους τῆς δευτέρης ἀδικίης γενέσθαι·",
+        "translations": [
+          "In this way, the Persians say (and not as the Greeks ), was how Io came to Egypt, and this, according to them, was the first wrong that was done. Next, according to their story, some Greeks (they cannot say who) landed at Tyre in Phoenicia and carried off the king's daughter Europa. These Greeks must, I suppose, have been Cretans. So far, then, the account between them was balanced. But after this (they say), it was the Greeks who were guilty of the second wrong."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "καταπλώσαντας γὰρ μακρῇ νηί ἐς Αἶαν τε τὴν Κολχίδα καὶ ἐπὶ Φᾶσιν ποταμόν, ἐνθεῦτεν, διαπρηξαμένους καὶ τἄλλα τῶν εἵνεκεν ἀπίκατο, ἁρπάσαι τοῦ βασιλέος τὴν θυγατέρα Μηδείην.",
+        "translations": [
+          "They sailed in a long ship to Aea, a city of the Colchians, and to the river Phasis: and when they had done the business for which they came, they carried off the king's daughter Medea."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "πέμψαντά δὲ τὸν Κόλχων βασιλέα ἐς τὴν Ἑλλάδα κήρυκα αἰτέειν τε δίκας τῆς ἁρπαγῆς καὶ ἀπαιτέειν τὴν θυγατέρα. τοὺς δὲ ὑποκρίνασθαι ὡς οὐδὲ ἐκεῖνοι Ἰοῦς τῆς Ἀργείης ἔδοσάν σφι δίκας τῆς ἁρπαγῆς· οὐδὲ ὤν αὐτοὶ δώσειν ἐκείνοισι.",
+        "translations": [
+          "When the Colchian king sent a herald to demand reparation for the robbery and restitution of his daughter, the Greeks replied that, as they had been refused reparation for the abduction of the Argive Io, they would not make any to the Colchians."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

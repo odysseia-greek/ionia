@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.153",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.153/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα εἰπόντος τοῦ κήρυκος, λέγεται Κῦρον ἐπειρέσθαι τοὺς παρεόντας οἱ Ἑλλήνων τίνες ἐόντες ἄνθρωποι Λακεδαιμόνιοι καὶ κόσοι πλῆθος ταῦτα ἑωυτῷ προαγορεύουσι· πυνθανόμενον δέ μιν εἰπεῖν πρὸς τὸν κήρυκα τὸν Σπαρτιήτην· οὐκ ἔδεισά κω ἄνδρας τοιούτους, τοῖσι ἐστι χῶρος ἐν μέσῃ ἑωυτῷ προαγορεύουσι· τῇ πόλι ἀποδεδεγμένος ἐς τὸν συλλεγόμενοι ἀλλήλους ὀμνύντες ἐξαπατῶσι· τοῖσι, ἢν ἐγὼ ὑγιαίνω, οὐ τὰ Ἰώνων πάθεα ἔσται ἔλλεσχα ἀλλὰ τὰ οἰκήια.",
+        "translations": [
+          "When the herald had proclaimed this, Cyrus is said to have asked the Greeks who were present who and how many in number these Lacedaemonians were who made this declaration. When he was told, he said to the Spartan herald, “I never yet feared men who set apart a place in the middle of their city where they perjure themselves and deceive each other. They, if I keep my health, shall talk of their own misfortunes, not those of the Ionians.”"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ταῦτα ἐς τοὺς πάντας Ἕλληνας ἀπέρριψε ὁ Κῦρος τὰ ἔπεα, ὅτι ἀγορὰς στησάμενοι ὠνῇ τε καὶ πρήσι χρέωνται· αὐτοὶ γὰρ οἱ Πέρσαι ἀγορῇσι οὐδὲν ἐώθασι χρᾶσθαι, οὐδέ σφι ἐστὶ τὸ παράπαν ἀγορή.",
+        "translations": [
+          "He uttered this threat against all the Greeks, because they have markets and buy and sell there; for the Persians themselves were not used to resorting to markets at all, nor do they even have a market of any kind."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "μετὰ ταῦτα ἐπιτρέψας τὰς μὲν Σάρδις Ταβάλῳ ἀνδρὶ Πέρσῃ, τὸν δὲ χρυσὸν τόν τε Κροίσου καὶ τὸν τῶν ἄλλων Λυδῶν Πακτύῃ ἀνδρὶ Λυδῷ κομίζειν, ἀπήλαυνε αὐτὸς ἐς Ἀγβάτανα, Κροῖσόν τε ἅμα ἀγόμενος καὶ τοὺς Ἴωνας ἐν οὐδενὶ λόγῳ ποιησάμενος τὴν πρώτην εἶναι.",
+        "translations": [
+          "Presently, entrusting Sardis to a Persian called Tabalus, and instructing Pactyes, a Lydian, to take charge of the gold of Croesus and the Lydians, he himself marched away to Ecbatana, taking Croesus with him, and at first taking no notice of the Ionians."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἡ τε γὰρ Βαβυλών οἱ ἦν ἐμπόδιος καὶ τὸ Βάκτριον ἔθνος καὶ Σάκαι τε καὶ Αἰγύπτιοι, ἐπʼ οὓς ἐπεῖχέ τε στρατηλατέειν αὐτός, ἐπὶ δὲ Ἴωνας ἄλλον πέμπειν στρατηγόν.",
+        "translations": [
+          "For he had Babylon on his hands and the Bactrian nation and the Sacae and Egyptians; he meant to lead the army against these himself, and to send another commander against the Ionians."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.160",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.160/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα ὡς ἀπενειχθέντα ἤκουσαν οἱ Κυμαῖοι, οὐ βουλόμενοι οὔτε ἐκδόντες ἀπολέσθαι οὔτε παρʼ ἑωυτοῖσι ἔχοντες πολιορκέεσθαι, ἐκπέμπουσι αὐτὸν ἐς Μυτιλήνην.",
+        "translations": [
+          "When the Cymaeans heard this answer, they sent Pactyes away to Mytilene; for they were anxious not to perish for delivering him up or to be besieged for keeping him with them."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οἱ δὲ Μυτιληναῖοι ἐπιπέμποντος τοῦ Μαζάρεος ἀγγελίας ἐκδιδόναι τὸν Πακτύην παρεσκευάζοντο ἐπὶ μισθῷ ὅσῳ δή· οὐ γὰρ ἔχω τοῦτό γε εἰπεῖν ἀτρεκέως· οὐ γὰρ ἐτελεώθη.",
+        "translations": [
+          "Then Mazares sent a message to Mytilene demanding the surrender of Pactyes, and the Mytilenaeans prepared to give him, for a price; I cannot say exactly how much it was, for the bargain was never fulfilled;"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Κυμαῖοι γὰρ ὡς ἔμαθον ταῦτα πρησσόμενα ἐκ τῶν Μυτιληναίων, πέμψαντες πλοῖον ἐς Λέσβον ἐκκομίζουσι Πακτύην ἐς Χίον. ἐνθεῦτεν δὲ ἐξ ἱροῦ Ἀθηναίης πολιούχου ἀποσπασθεὶς ὑπὸ Χίων ἐξεδόθη· ἐξέδοσαν δὲ οἱ Χῖοι ἐπὶ τῷ Ἀταρνέι μισθῷ·",
+        "translations": [
+          "for when the Cymaeans learned what the Mytilenaeans were about, they sent a ship to Lesbos and took Pactyes away to Chios. From there he was dragged out of the temple of City-guarding Athena and delivered up by the Chians,"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τοῦ δὲ Ἀταρνέος τούτου ἐστὶ χῶρος τῆς Μυσίης, Λέσβου ἀντίος. Πακτύην μέν νυν παραδεξάμενοι οἱ Πέρσαι εἶχον ἐν φυλακῇ, θέλοντες Κύρῳ ἀποδέξαι.",
+        "translations": [
+          "who received in return Atarneus, which is a district in Mysia opposite Lesbos. The Persians thus received Pactyes and kept him guarded, so that they might show him to Cyrus;"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἦν δὲ χρόνος οὗτος οὐκ ὀλίγος γινόμενος, ὅτε Χίων οὐδεὶς ἐκ τοῦ Ἀταρνέος τούτου οὔτε οὐλὰς κριθέων πρόχυσιν ἐποιέετο θεῶν οὐδενὶ οὔτε πέμματα ἐπέσσετο καρποῦ τοῦ ἐνθεῦτεν, ἀπείχετο τε τῶν πάντων ἱρῶν τὰ πάντα ἐκ τῆς χώρης ταύτης γινόμενα.",
+        "translations": [
+          "and for a long time no one would use barley meal from this land of Atarneus in sacrifices to any god, or make sacrificial cakes of what grew there; everything that came from that country was kept away from any sacred rite."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

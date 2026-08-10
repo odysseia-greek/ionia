@@ -1,0 +1,538 @@
+[
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"2.1",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:2.1/?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"τελευτήσαντος δὲ Κύρου παρέλαβε τὴν βασιληίην Καμβύσης, Κύρου ἐὼν παῖς καὶ Κασσανδάνης τῆς Φαρνάσπεω θυγατρός, τῆς προαποθανούσης Κῦρος αὐτός τε μέγα πένθος ἐποιήσατο καὶ τοῖσι ἄλλοισι προεῖπε πᾶσι τῶν ἦρχε πένθος ποιέεσθαι.",
+        "translations":[
+          "After the death of Cyrus, Cambyses inherited his throne. He was the son of Cyrus and of Cassandane, the daughter of Pharnaspes, for whom Cyrus mourned deeply when she died before him, and had all his subjects mourn also."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"ταύτης δὴ τῆς γυναικὸς ἐὼν παῖς καὶ Κύρου Καμβύσης Ἴωνας μὲν καὶ Αἰολέας ὡς δούλους πατρωίους ἐόντας ἐνόμιζε, ἐπὶ δὲ Αἴγυπτον ἐποιέετο στρατηλασίην ἄλλους τε παραλαβὼν τῶν ἦρχε καὶ δὴ καὶ Ἑλλήνων τῶν ἐπεκράτεε.",
+        "translations":[
+          "Cambyses was the son of this woman and of Cyrus. He considered the Ionians and Aeolians slaves inherited from his father, and prepared an expedition against Egypt, taking with him some of these Greek subjects besides others whom he ruled."
+        ],
+        "section":"2"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"3.1",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:3.1?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"ἐπὶ τοῦτον δὴ τὸν Ἄμασιν Καμβύσης ὁ Κύρου ἐστρατεύετο, ἄγων καί ἄλλους τῶν ἦρχε καὶ Ἑλλήνων Ἴωνάς τε καὶ Αἰολέας, διʼ αἰτίην τοιήνδε. πέμψας Καμβύσης ἐς Αἴγυπτον κήρυκα αἴτεε Ἄμασιν θυγατέρα, αἴτεε δὲ ἐκ βουλῆς ἀνδρὸς Αἰγυπτίου, ὃς μεμφόμενος Ἄμασιν ἔπρηξε ταῦτα ὅτι μιν ἐξ ἁπάντων τῶν ἐν Αἰγύπτῳ ἰητρῶν ἀποσπάσας ἀπὸ γυναικός τε καὶ τέκνων ἔκδοτον ἐποίησε ἐς Πέρσας, ὅτε Κῦρος πέμψας παρὰ Ἄμασιν αἴτεε ἰητρὸν ὀφθαλμῶν ὃς εἴη ἄριστος τῶν ἐν Αἰγύπτῳ.",
+        "translations":[
+          "Cyrus' son Cambyses was leading an army of his subjects, Ionian and Aeolian Greeks among them, against this Amasis for the following reason. Cambyses had sent a herald to Egypt asking Amasis for his daughter; he asked on the advice of an Egyptian, who advised it out of resentment against Amasis, that out of all the Egyptian physicians Amasis had dragged him away from his wife and children and sent him up to Persia when Cyrus sent to Amasis asking for the best eye-doctor in Egypt.\n"
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"ταῦτα δὴ ἐπιμεμφόμενος ὁ Αἰγύπτιος ἐνῆγε τῇ συμβουλῇ κελεύων αἰτέειν τὸν Καμβύσεα Ἄμασιν θυγατέρα, ἵνα ἢ δοὺς ἀνιῷτο ἢ μὴ δοὺς Καμβύσῃ ἀπέχθοιτο. ὁ δὲ Ἄμασις τῇ δυνάμι τῶν Περσέων ἀχθόμενος καὶ ἀρρωδέων οὐκ εἶχε οὔτε δοῦναι οὔτε ἀρνήσασθαι· εὖ γὰρ ἠπίστατο ὅτι οὐκ ὡς γυναῖκά μιν ἔμελλε Καμβύσης ἕξειν ἀλλʼ ὡς παλλακήν.",
+        "translations":[
+          "Out of resentment, the Egyptian by his advice induced Cambyses to ask Amasis for his daughter, so that Amasis would either be wretched if he gave her, or hated by Cambyses if he did not. Amasis, intimidated by the power of Persia and frightened, could neither give his daughter nor refuse her; for he knew well that Cambyses was not going to take her as his wife but as his concubine."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"ταῦτα δὴ ἐκλογιζόμενος ἐποίησε τάδε. ἦν Ἀπρίεω τοῦ προτέρου βασιλέος θυγάτηρ κάρτα μεγάλη τε καὶ εὐειδὴς μούνη τοῦ οἴκου λελειμμένη, οὔνομα δέ οἱ ἦν Νίτητις· ταύτην δὴ τὴν παῖδα ὁ Ἄμασις κοσμήσας ἐσθῆτί τε καὶ χρυσῷ ἀποπέμπει ἐς Πέρσας ὡς ἑωυτοῦ θυγατέρα.",
+        "translations":[
+          "After considering the matter, he did as follows. There was a daughter of the former king Apries, all that was left of that family, quite tall and pretty, and her name was Nitetis; this girl Amasis adorned with clothes and gold and sent to Cambyses as his own daughter."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"μετὰ δὲ χρόνον ὥς μιν ἠσπάζετο πατρόθεν ὀνομάζων, λέγει πρὸς αὐτὸν ἡ παῖς ὦ βασιλεῦ, διαβεβλημένος ὑπὸ Ἀμάσιος οὐ μανθάνεις. ὃς ἐμὲ σοὶ κόσμῳ ἀσκήσας ἀπέπεμψε ὡς ἑωυτοῦ θυγατέρα διδούς, ἐοῦσαν τῇ ἀληθείῃ Ἀπρίεω, τὸν ἐκεῖνος ἐόντα ἑωυτοῦ δεσπότεα μετʼ Αἰγυπτίων ἐπαναστὰς ἐφόνευσε.",
+        "translations":[
+          "But after a time, as he embraced her addressing her as the daughter of Amasis, the girl said to him, “O King, you do not understand how you have been made a fool of by Amasis, who dressed me in finery and sent me to you as his own daughter, when I am in fact the daughter of Apries, the ruler Amasis revolted from with the Egyptians and killed.”"
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"τοῦτο δὴ τὸ ἔπος καὶ αὕτη ἡ αἰτίη ἐγγενομένη ἤγαγε Καμβύσεα τὸν Κύρου μεγάλως θυμωθέντα ἐπʼ Αἴγυπτον.",
+        "translations":[
+          "This speech and this crime that occurred turned Cyrus' son Cambyses, furiously angry, against Egypt. So the Persians say."
+        ],
+        "section":"5"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"3.9",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:3.9?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek": "ἐπεὶ ὦν τὴν πίστιν τοῖσι ἀγγέλοισι τοῖσι παρὰ Καμβύσεω ἀπιγμένοισι ἐποιήσατο ὁ Ἀράβιος, ἐμηχανᾶτο τοιάδε· ἀσκοὺς καμήλων πλήσας, ὕδατος ἐπέσαξε ἐπὶ τὰς ζωὰς τῶν καμήλων πάσας, τοῦτο δὲ ποιήσας ἤλασε ἐς τὴν ἄνυδρον καὶ ὑπέμενε ἐνθαῦτα τὸν Καμβύσεω στρατόν.",
+        "translations":[
+          "When, then, the Arabian had made the pledge to the messengers who had come from Cambyses, he devised the following expedient: he filled camel-skins with water and loaded all his camels with these; then he drove them into the waterless land and there awaited Cambyses' army."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "οὗτος μὲν ὁ πιθανώτερος τῶν λόγων εἴρηται, δεῖ δὲ καὶ τὸν ἧσσον πιθανόν, ἐπεί γε δὴ λέγεται, ῥηθῆναι. ποταμός ἐστι μέγας ἐν τῇ Ἀραβίῃ τῷ οὔνομα Κόρυς, ἐκδιδοῖ δὲ οὗτος ἐς τὴν Ἐρυθρὴν καλεομένην θάλασσαν·",
+        "translations":[
+          "This is the most credible of the stories told; but I must relate the less credible tale also, since they tell it. There is a great river in Arabia called Corys, emptying into the sea called Red."
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "ἀπὸ τούτου δὴ ὦν τοῦ ποταμοῦ λέγεται τὸν βασιλέα τῶν Ἀραβίων, ῥαψάμενον τῶν ὠμοβοέων καὶ τῶν ἄλλων δερμάτων ὀχετὸν μήκεϊ ἐξικνεύμενον ἐς τὴν ἄνυδρον, ἀγαγεῖν διὰ δὴ τούτων τὸ ὕδωρ, ἐν δὲ τῇ ἀνύδρῳ μεγάλας δεξαμενὰς ὀρύξασθαι, ἵνα δεκόμεναι τὸ ὕδωρ σώζωσι.",
+        "translations":[
+          "From this river (it is said) the king of the Arabians brought water by an aqueduct made of sewn oxhides and other hides and extensive enough to reach to the dry country; and he had great tanks dug in that country to try to receive and keep the water."
+        ],
+        "section":"3"
+      },
+      {
+        "greek": "ὁδὸς δʼ ἐστὶ δυώδεκα ἡμερέων ἀπὸ τοῦ ποταμοῦ ἐς ταύτην τὴν ἄνυδρον. ἄγειν δέ μιν διʼ ὀχετῶν τριῶν ἐς τριξὰ χωρία.",
+        "translations":[
+          "It is a twelve days' journey from the river to that desert. By three aqueducts (they say) he brought the water to three different places."
+        ],
+        "section":"4"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"3.84",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:3.84?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"οἱ δὲ λοιποὶ τῶν ἑπτὰ ἐβουλεύοντο ὡς βασιλέα δικαιότατα στήσονται· καί σφι ἔδοξε Ὀτάνῃ μὲν καὶ τοῖσι ἀπὸ Ὀτάνεω αἰεὶ γινομένοισι, ἢν ἐς ἄλλον τινὰ τῶν ἑπτὰ ἔλθῃ ἡ βασιληίη, ἐξαίρετα δίδοσθαι ἐσθῆτά τε Μηδικὴν ἔτεος ἑκάστου καὶ τὴν πᾶσαν δωρεὴν ἣ γίνεται ἐν Πέρσῃσι τιμιωτάτη. τοῦδε δὲ εἵνεκεν ἐβούλευσάν οἱ δίδοσθαι ταῦτα, ὅτι ἐβούλευσέ τε πρῶτος τὸ πρῆγμα καὶ συνέστησε αὐτούς.",
+        "translations":[
+          "The rest of the seven then considered what was the fairest way of making a king; and they decided that if another of the seven than Otanes should gain the royal power, that Otanes and his descendants should receive a yearly gift of Median clothing and everything else that the Persians hold most valuable. The reason for this decision was that it was he who had first planned the matter and assembled the conspirators."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"ταῦτα μὲν δὴ Ὀτάνῃ ἐξαίρετα, τάδε δὲ ἐς τὸ κοινὸν ἐβούλευσαν, παριέναι ἐς τὰ βασιλήια πάντα τὸν βουλόμενον τῶν ἑπτὰ ἄνευ ἐσαγγελέος, ἢν μὴ τυγχάνῃ εὕδων μετὰ γυναικὸς βασιλεύς, γαμέειν δὲ μὴ ἐξεῖναι ἄλλοθεν τῷ βασιλέι ἢ ἐκ τῶν συνεπαναστάντων.",
+        "translations":[
+          "For Otanes, then, they choose this particular honor; but with regard to all of them they decreed that any one of the seven should, if he wished, enter the king's palace unannounced, except when the king was sleeping with a woman; and that the king should be forbidden to take a wife except from the households of the conspirators."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"περὶ δὲ τῆς βασιληίης ἐβούλευσαν τοιόνδε· ὅτευ ἂν ὁ ἵππος ἡλίου ἐπανατέλλοντος πρῶτος φθέγξηται, ἐν τῷ προαστείῳ αὐτῶν ἐπιβεβηκότων, τοῦτον ἔχειν τὴν βασιληίην.",
+        "translations":[
+          "As for the making of a king, they decided that he should be elected whose horse, after they were all in their saddles in the suburb of the city, should first be heard to neigh at sunrise."
+        ],
+        "section":"3"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"5.6",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:5.6",
+    "rhemai":[
+      {
+        "greek": "τῶν δὲ δὴ ἄλλων Θρηίκων ἐστὶ ὅδε νόμος· πωλεῦσι τὰ τέκνα ἐπʼ ἐξαγωγῇ, τὰς δὲ παρθένους οὐ φυλάσσουσι, ἀλλʼ ἐῶσι τοῖσι αὐταὶ βούλονται ἀνδράσι μίσγεσθαι· τὰς δὲ γυναῖκας ἰσχυρῶς φυλάσσουσι καὶ ὠνέονται τὰς γυναῖκας παρὰ τῶν γονέων χρημάτων μεγάλων.",
+        "translations":[
+          "Among the rest of the Thracians, it is the custom to sell their children for export and to take no care of their maidens, allowing them to have intercourse with any man they wish. Their wives, however, they strictly guard, and buy them for a price from the parents."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "καὶ τὸ μὲν ἐστίχθαι εὐγενὲς κέκριται, τὸ δὲ ἄστικτον ἀγεννές. ἀργὸν εἶναι κάλλιστον, γῆς δὲ ἐργάτην ἀτιμότατον· τὸ ζῆν ἀπὸ πολέμου καὶ ληιστύος κάλλιστον.",
+        "translations":[
+          "To be tattooed is a sign of noble birth, while to bear no such marks is for the baser sort. The idler is most honored, the tiller of the soil most scorned; he is held in highest honor who lives by war and robbery."
+        ],
+        "section":"2"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"6.106",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:6.106?",
+    "rhemai":[
+      {
+        "greek": "τότε δὲ πεμφθεὶς ὑπὸ τῶν στρατηγῶν ὁ Φειδιππίδης οὗτος, ὅτε πέρ οἱ ἔφη καὶ τὸν Πᾶνα φανῆναι, δευτεραῖος ἐκ τοῦ Ἀθηναίων ἄστεος ἦν ἐν Σπάρτῃ, ἀπικόμενος δὲ ἐπὶ τοὺς ἄρχοντας ἔλεγε",
+        "translations":[
+          "This Philippides was in Sparta on the day after leaving the city of Athens, that time when he was sent by the generals and said that Pan had appeared to him. He came to the magistrates and said,"
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "ὦ Λακεδαιμόνιοι, Ἀθηναῖοι ὑμέων δέονται σφίσι βοηθῆσαι καὶ μὴ περιιδεῖν πόλιν ἀρχαιοτάτην ἐν τοῖσι Ἕλλησι δουλοσύνῃ περιπεσοῦσαν πρὸς ἀνδρῶν βαρβάρων· καὶ γὰρ νῦν Ἐρέτριά τε ἠνδραπόδισται καὶ πόλι λογίμῳ ἡ Ἑλλὰς γέγονε ἀσθενεστέρη.",
+        "translations":[
+          "'Lacedaemonians, the Athenians ask you to come to their aid and not allow the most ancient city among the Hellenes to fall into slavery at the hands of the foreigners. Even now Eretria has been enslaved, and Hellas has become weaker by an important city.'"
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "ὃ μὲν δή σφι τὰ ἐντεταλμένα ἀπήγγελλε, τοῖσι δὲ ἕαδε μὲν βοηθέειν Ἀθηναίοισι, ἀδύνατα δέ σφι ἦν τὸ παραυτίκα ποιέειν ταῦτα, οὐ βουλομένοισι λύειν τὸν νόμον· ἦν γὰρ ἱσταμένου τοῦ μηνὸς εἰνάτη, εἰνάτῃ δὲ οὐκ ἐξελεύσεσθαι ἔφασαν μὴ οὐ πλήρεος ἐόντος τοῦ κύκλου.",
+        "translations":[
+          "He told them what he had been ordered to say, and they resolved to send help to the Athenians, but they could not do this immediately, for they were unwilling to break the law. It was the ninth day of the rising month, and they said that on the ninth they could not go out to war until the moon's circle was full."
+        ],
+        "section":"3"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"6.113",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:6.113",
+    "rhemai":[
+      {
+        "greek": "μαχομένων δὲ ἐν τῷ Μαραθῶνι χρόνος ἐγίνετο πολλός, καὶ τὸ μὲν μέσον τοῦ στρατοπέδου ἐνίκων οἱ βάρβαροι, τῇ Πέρσαι τε αὐτοὶ καὶ Σάκαι ἐτετάχατο· κατὰ τοῦτο μὲν δὴ ἐνίκων οἱ βάρβαροι καὶ ῥήξαντες ἐδίωκον ἐς τὴν μεσόγαιαν, τὸ δὲ κέρας ἑκάτερον ἐνίκων Ἀθηναῖοί τε καὶ Πλαταιέες·",
+        "translations":[
+          "They fought a long time at Marathon. In the center of the line the foreigners prevailed, where the Persians and Sacae were arrayed. The foreigners prevailed there and broke through in pursuit inland, but on each wing the Athenians and Plataeans prevailed."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "νικῶντες δὲ τὸ μὲν τετραμμένον τῶν βαρβάρων φεύγειν ἔων, τοῖσι δὲ τὸ μέσον ῥήξασι αὐτῶν συναγαγόντες τὰ κέρεα ἀμφότερα ἐμάχοντο, καὶ ἐνίκων Ἀθηναῖοι. φεύγουσι δὲ τοῖσι Πέρσῃσι εἵποντο κόπτοντες, ἐς ὃ ἐς τὴν θάλασσαν ἀπικόμενοι πῦρ τε αἴτεον καὶ ἐπελαμβάνοντο τῶν νεῶν.",
+        "translations":[
+          "In victory they let the routed foreigners flee, and brought the wings together to fight those who had broken through the center. The Athenians prevailed, then followed the fleeing Persians and struck them down. When they reached the sea they demanded fire and laid hold of the Persian ships.\n\n"
+        ],
+        "section":"2"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"7.138",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:7.138",
+    "rhemai":[
+      {
+        "greek": "ἡ δὲ στρατηλασίη ἡ βασιλέος οὔνομα μὲν εἶχε ὡς ἐπʼ Ἀθήνας ἐλαύνει, κατίετο δὲ ἐς πᾶσαν τὴν Ἑλλάδα. πυνθανόμενοι δὲ ταῦτα πρὸ πολλοῦ οἱ Ἕλληνες οὐκ ἐν ὁμοίῳ πάντες ἐποιεῦντο.",
+        "translations":[
+          "The professed intent of the king's march was to attack Athens, but in truth all Greece was his aim. This the Greeks had long since learned, but not all of them regarded the matter alike."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "οἱ μὲν γὰρ αὐτῶν δόντες γῆν καὶ ὕδωρ τῷ Πέρσῃ εἶχον θάρσος ὡς οὐδὲν πεισόμενοι ἄχαρι πρὸς τοῦ βαρβάρου· οἱ δὲ οὐ δόντες ἐν δείματι μεγάλῳ κατέστασαν, ἅτε οὔτε νεῶν ἐουσέων ἐν τῇ Ἑλλάδι ἀριθμὸν ἀξιομάχων δέκεσθαι τὸν ἐπιόντα, οὔτε βουλομένων τῶν πολλῶν ἀντάπτεσθαι τοῦ πολέμου, μηδιζόντων δὲ προθύμως.",
+        "translations":[
+          "Those of them who had paid the tribute of earth and water to the Persian were of good courage, thinking that the foreigner would do them no harm, but they who had refused tribute were afraid, since there were not enough ships in Greece to do battle with their invader; furthermore, the greater part of them had no stomach for grappling with the war, but were making haste to side with the Persian."
+        ],
+        "section":"2"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"7.139",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:7.139",
+    "rhemai":[
+      {
+        "greek": "ἐνθαῦτα ἀναγκαίῃ ἐξέργομαι γνώμην ἀποδέξασθαι ἐπίφθονον μὲν πρὸς τῶν πλεόνων ἀνθρώπων, ὅμως δὲ τῇ γέ μοι φαίνεται εἶναι ἀληθὲς οὐκ ἐπισχήσω.",
+        "translations":[
+          "Here I am forced to declare an opinion which will be displeasing to most, but I will not refrain from saying what seems to me to be true."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "εἰ Ἀθηναῖοι καταρρωδήσαντες τὸν ἐπιόντα κίνδυνον ἐξέλιπον τὴν σφετέρην, ἢ καὶ μὴ ἐκλιπόντες ἀλλὰ μείναντες ἔδοσαν σφέας αὐτοὺς Ξέρξῃ, κατὰ τὴν θάλασσαν οὐδαμοὶ ἂν ἐπειρῶντο ἀντιούμενοι βασιλέι. εἰ τοίνυν κατὰ τὴν θάλασσαν μηδεὶς ἠντιοῦτο Ξέρξῃ, κατά γε ἂν τὴν ἤπειρον τοιάδε ἐγίνετο·",
+        "translations":[
+          "Had the Athenians been panic-struck by the threatened peril and left their own country, or had they not indeed left it but remained and surrendered themselves to Xerxes, none would have attempted to withstand the king by sea. What would have happened on land if no one had resisted the king by sea is easy enough to determine."
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "εἰ καὶ πολλοὶ τειχέων κιθῶνες ἦσαν ἐληλαμένοι διὰ τοῦ Ἰσθμοῦ Πελοποννησίοισι, προδοθέντες ἂν Λακεδαιμόνιοι ὑπὸ τῶν συμμάχων οὐκ ἑκόντων ἀλλʼ ὑπʼ ἀναγκαίης, κατὰ πόλις ἁλισκομένων ὑπὸ τοῦ ναυτικοῦ στρατοῦ τοῦ βαρβάρου, ἐμουνώθησαν, μουνωθέντες δὲ ἂν καὶ ἀποδεξάμενοι ἔργα μεγάλα ἀπέθανον γενναίως.",
+        "translations":[
+          "Although the Peloponnesians had built not one but many walls across the Isthmus for their defense, they would nevertheless have been deserted by their allies (these having no choice or free will in the matter, but seeing their cities taken one by one by the foreign fleet), until at last they would have stood alone. They would then have put up quite a fight and perished nobly."
+        ],
+        "section":"3"
+      },
+      {
+        "greek": "ἢ ταῦτα ἂν ἔπαθον, ἢ πρὸ τοῦ ὁρῶντες ἂν καὶ τοὺς ἄλλους Ἕλληνας μηδίζοντας ὁμολογίῃ ἂν ἐχρήσαντο πρὸς Ξέρξην. καὶ οὕτω ἂν ἐπʼ ἀμφότερα ἡ Ἑλλὰς ἐγίνετο ὑπὸ Πέρσῃσι. τὴν γὰρ ὠφελίην τὴν τῶν τειχέων τῶν διὰ τοῦ Ἰσθμοῦ ἐληλαμένων οὐ δύναμαι πυθέσθαι ἥτις ἂν ἦν, βασιλέος ἐπικρατέοντος τῆς θαλάσσης.",
+        "translations":[
+          "Such would have been their fate. Perhaps, however, when they saw the rest of Greece siding with the enemy, they would have made terms with Xerxes. In either case Greece would have been subdued by the Persians, for I cannot see what advantage could accrue from the walls built across the isthmus, while the king was master of the seas."
+        ],
+        "section":"4"
+      },
+      {
+        "greek": "νῦν δὲ Ἀθηναίους ἄν τις λέγων σωτῆρας γενέσθαι τῆς Ἑλλάδος οὐκ ἂν ἁμαρτάνοι τὸ ἀληθές. οὗτοι γὰρ ἐπὶ ὁκότερα τῶν πρηγμάτων ἐτράποντο, ταῦτα ῥέψειν ἔμελλε· ἑλόμενοι δὲ τὴν Ἑλλάδα περιεῖναι ἐλευθέρην, τοῦτο τὸ Ἑλληνικὸν πᾶν τὸ λοιπόν, ὅσον μὴ ἐμήδισε, αὐτοὶ οὗτοι ἦσαν οἱ ἐπεγείραντες καὶ βασιλέα μετά γε θεοὺς ἀνωσάμενοι.",
+        "translations":[
+          "As it is, to say that the Athenians were the saviors of Greece is to hit the truth. It was the Athenians who held the balance; whichever side they joined was sure to prevail. choosing that Greece should preserve her freedom, the Athenians roused to battle the other Greek states which had not yet gone over to the Persians and, after the gods, were responsible for driving the king off."
+        ],
+        "section":"5"
+      },
+      {
+        "greek": "οὐδὲ σφέας χρηστήρια φοβερὰ ἐλθόντα ἐκ Δελφῶν καὶ ἐς δεῖμα βαλόντα ἔπεισε ἐκλιπεῖν τὴν Ἑλλάδα, ἀλλὰ καταμείναντες ἀνέσχοντο τὸν ἐπιόντα ἐπὶ τὴν χώρην δέξασθαι.",
+        "translations":[
+          "Nor were they moved to desert Greece by the threatening oracles which came from Delphi and sorely dismayed them, but they stood firm and had the courage to meet the invader of their country."
+        ],
+        "section":"6"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"7.140",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:7.140",
+    "rhemai":[
+      {
+        "greek": "πέμψαντες γὰρ οἱ Ἀθηναῖοι ἐς Δελφοὺς θεοπρόπους χρηστηριάζεσθαι ἦσαν ἕτοιμοι· καί σφι ποιήσασι περὶ τὸ ἱρὸν τὰ νομιζόμενα, ὡς ἐς τὸ μέγαρον ἐσελθόντες ἵζοντο, χρᾷ ἡ Πυθίη, τῇ οὔνομα ἦν Ἀριστονίκη, τάδε.",
+        "translations":[
+          "The Athenians had sent messages to Delphi asking that an oracle be given them, and when they had performed all due rites at the temple and sat down in the inner hall, the priestess, whose name was Aristonice, gave them this answer:"
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "ὦ μέλεοι, τί κάθησθε; λιπὼν φεῦγʼ ἔσχατα γαίης\nδώματα καὶ πόλιος τροχοειδέος ἄκρα κάρηνα.\nοὔτε γὰρ ἡ κεφαλὴ μένει ἔμπεδον οὔτε τὸ σῶμα,\nοὔτε πόδες νέατοι οὔτʼ ὦν χέρες, οὔτε τι μέσσης\nλείπεται, ἀλλʼ ἄζηλα πέλει· κατὰ γάρ μιν ἐρείπει\nπῦρ τε καὶ ὀξὺς Ἄρης, Συριηγενὲς ἅρμα διώκων",
+        "translations":[
+          "Wretches, why do you linger here? Rather flee from your houses and city,\nFlee to the ends of the earth from the circle embattled of Athens!\nThe head will not remain in its place, nor in the body,\nNor the feet beneath, nor the hands, nor the parts between;\nBut all is ruined, for fire and the headlong god of war speeding in a Syrian chariot will bring you low."
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "πολλὰ δὲ κἆλλʼ ἀπολεῖ πυργώματα κοὐ τὸ σὸν οἶον,\nπολλοὺς δʼ ἀθανάτων νηοὺς μαλερῷ πυρὶ δώσει,\nοἵ που νῦν ἱδρῶτι ῥεούμενοι ἑστήκασι,\nδείματι παλλόμενοι, κατὰ δʼ ἀκροτάτοις ὀρόφοισι\nαἷμα μέλαν κέχυται, προϊδὸν κακότητος ἀνάγκας.\nἀλλʼ ἴτον ἐξ ἀδύτοιο, κακοῖς δʼ ἐπικίδνατε θυμόν.",
+        "translations":[
+          "Many a fortress too, not yours alone, will he shatter;\nMany a shrine of the gods will he give to the flame for devouring;\nSweating for fear they stand, and quaking for dread of the enemy,\nRunning with gore are their roofs, foreseeing the stress of their sorrow;\nTherefore I bid you depart from the sanctuary.\nHave courage to lighten your evil."
+        ],
+        "section":"3"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"7.141",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:7.141",
+    "rhemai":[
+      {
+        "greek": "ταῦτα ἀκούσαντες οἱ τῶν Ἀθηναίων θεοπρόποι συμφορῇ τῇ μεγίστῃ ἐχρέωντο. προβάλλουσι δὲ σφέας αὐτοὺς ὑπὸ τοῦ κακοῦ τοῦ κεχρησμένου, Τίμων ὁ Ἀνδροβούλου, τῶν Δελφῶν ἀνὴρ δόκιμος ὅμοια τῷ μάλιστα, συνεβούλευέ σφι ἱκετηρίην λαβοῦσι δεύτερα αὖτις ἐλθόντας χρᾶσθαι τῷ χρηστηρίῳ ὡς ἱκέτας.",
+        "translations":[
+          "When the Athenian messengers heard that, they were very greatly dismayed, and gave themselves up for lost by reason of the evil foretold. Then Timon son of Androbulus, as notable a man as any Delphian, advised them to take boughs of supplication and in the guise of suppliants, approach the oracle a second time."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "πειθομένοισι δὲ ταῦτα τοῖσι Ἀθηναίοισι καὶ λέγουσι ὦναξ, χρῆσον ἡμῖν ἄμεινόν τι περὶ τῆς πατρίδος, αἰδεσθεὶς τὰς ἱκετηρίας τάσδε τάς τοι ἥκομεν φέροντες, ἢ οὔ τοι ἄπιμεν ἐκ τοῦ ἀδύτου, ἀλλʼ αὐτοῦ τῇδε μενέομεν ἔστʼ ἂν καὶ τελευτήσωμεν, ταῦτα δὲ λέγουσι ἡ πρόμαντις χρᾷ δεύτερα τάδε.",
+        "translations":[
+          "The Athenians did exactly this; “Lord,” they said, “regard mercifully these suppliant boughs which we bring to you, and give us some better answer concerning our country. Otherwise we will not depart from your temple, but remain here until we die.” Thereupon the priestess gave them this second oracle:"
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "οὐ δύναται Παλλὰς Δίʼ Ὀλύμπιον ἐξιλάσασθαι\nλισσομένη πολλοῖσι λόγοις καὶ μήτιδι πυκνῇ.\nσοὶ δὲ τόδʼ αὖτις ἔπος ἐρέω ἀδάμαντι πελάσσας.\nτῶν ἄλλων γὰρ ἁλισκομένων ὅσα Κέκροπος οὖρος\nἐντὸς ἔχει κευθμών τε Κιθαιρῶνος ζαθέοιο,\nτεῖχος Τριτογενεῖ ξύλινον διδοῖ εὐρύοπα Ζεύς\nμοῦνον ἀπόρθητον τελέθειν, τὸ σὲ τέκνα τʼ ὀνήσει.",
+        "translations":[
+          "Vainly does Pallas strive to appease great Zeus of Olympus;\nWords of entreaty are vain, and so too cunning counsels of wisdom.\nNevertheless I will speak to you again of strength adamantine.\nAll will be taken and lost that the sacred border of Cecrops\nHolds in keeping today, and the dales divine of Cithaeron;\nYet a wood-built wall will by Zeus all-seeing be granted\nTo the Trito-born, a stronghold for you and your children."
+        ],
+        "section":"3"
+      },
+      {
+        "greek": "μηδὲ σύ γʼ ἱπποσύνην τε μένειν καὶ πεζὸν ἰόντα\nπολλὸν ἀπʼ ἠπείρου στρατὸν ἥσυχος, ἀλλʼ ὑποχωρεῖν\nνῶτον ἐπιστρέψας· ἔτι τοι ποτε κἀντίος ἔσσῃ.\nὦ θείη Σαλαμίς, ἀπολεῖς δὲ σὺ τέκνα γυναικῶν\nἤ που σκιδναμένης Δημήτερος ἢ συνιούσης.",
+        "translations":[
+          "Await not the host of horse and foot coming from Asia,\nNor be still, but turn your back and withdraw from the foe.\nTruly a day will come when you will meet him face to face.\nDivine Salamis, you will bring death to women's sons\nWhen the corn is scattered, or the harvest gathered in."
+        ],
+        "section":"4"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"7.142",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:7.142",
+    "rhemai":[
+      {
+        "greek": "ταῦτα σφι ἠπιώτερα γὰρ τῶν προτέρων καὶ ἦν καὶ ἐδόκεε εἶναι, συγγραψάμενοι ἀπαλλάσσοντο ἐς τὰς Ἀθήνας. ὡς δὲ ἀπελθόντες οἱ θεοπρόποι ἀπήγγελλον ἐς τὸν δῆμον, γνῶμαι καὶ ἄλλαι πολλαὶ γίνονται διζημένων τὸ μαντήιον καὶ αἵδε συνεστηκυῖαι μάλιστα. τῶν πρεσβυτέρων ἔλεγον μετεξέτεροι δοκέειν σφίσι τὸν θεὸν τὴν ἀκρόπολιν χρῆσαι περιέσεσθαι. ἡ γὰρ ἀκρόπολις τὸ πάλαι τῶν Ἀθηναίων ῥηχῷ ἐπέφρακτο.",
+        "translations":[
+          "This answer seemed to be and really was more merciful than the first, and the envoys, writing it down, departed for Athens. When the messengers had left Delphi and laid the oracle before the people, there was much inquiry concerning its meaning, and among the many opinions which were uttered, two contrary ones were especially worthy of note. Some of the elder men said that the gods answer signified that the acropolis should be saved, for in old time the acropolis of Athens had been fenced by a thorn hedge,"
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "οἳ μὲν δὴ κατὰ τὸν φραγμὸν συνεβάλλοντο τοῦτο τὸ ξύλινον τεῖχος εἶναι, οἳ δʼ αὖ ἔλεγον τὰς νέας σημαίνειν τὸν θεόν, καὶ ταύτας παραρτέεσθαι ἐκέλευον τὰ ἄλλα ἀπέντας. τοὺς ὦν δὴ τὰς νέας λέγοντας εἶναι τὸ ξύλινον τεῖχος ἔσφαλλε τὰ δύο τὰ τελευταῖα ῥηθέντα ὑπὸ τῆς Πυθίης,\n\nὦ θείη Σαλαμίς, ἀπολεῖς δὲ σὺ τέκνα γυναικῶν\nἤ που σκιδναμένης Δημήτερος ἢ συνιούσης.",
+        "translations":[
+          "which, by their interpretation, was the wooden wall. But others supposed that the god was referring to their ships, and they were for doing nothing but equipping these. Those who believed their ships to be the wooden wall were disabled by the two last verses of the oracle:\n\nDivine Salamis, you will bring death to women's sons\nWhen the corn is scattered, or the harvest gathered in."
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "κατὰ ταῦτα τὰ ἔπεα συνεχέοντο αἱ γνῶμαι τῶν φαμένων τὰς νέας τὸ ξύλινον τεῖχος εἶναι· οἱ γὰρ χρησμολόγοι ταύτῃ ταῦτα ἐλάμβανον, ὡς ἀμφὶ Σαλαμῖνα δεῖ σφεας ἑσσωθῆναι ναυμαχίην παρασκευασαμένους.",
+        "translations":[
+          "These verses confounded the opinion of those who said that their ships were the wooden wall, for the readers of oracles took the verses to mean that they should offer battle by sea near Salamis and be there overthrown."
+        ],
+        "section":"3"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"7.143",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:7.143",
+    "rhemai":[
+      {
+        "greek": "ἦν δὲ τῶν τις Ἀθηναίων ἀνὴρ ἐς πρώτους νεωστὶ παριών, τῷ οὔνομα μὲν ἦν Θεμιστοκλέης, παῖς δὲ Νεοκλέος ἐκαλέετο. οὗτος ὡνὴρ οὐκ ἔφη πᾶν ὀρθῶς τοὺς χρησμολόγους συμβάλλεσθαι, λέγων τοιάδε· εἰ ἐς Ἀθηναίους εἶχε τὸ ἔπος εἰρημένον ἐόντως, οὐκ ἂν οὕτω μιν δοκέειν ἠπίως χρησθῆναι, ἀλλὰ ὧδε ὦ σχετλίη Σαλαμίσ ἀντὶ τοῦ ὦ θείη Σαλαμίς, εἴ πέρ γε ἔμελλον οἱ οἰκήτορες ἀμφʼ αὐτῇ τελευτήσειν·",
+        "translations":[
+          "Now there was a certain Athenian, by name and title Themistocles son of Neocles, who had lately risen to be among their chief men. He claimed that the readers of oracles had incorrectly interpreted the whole of the oracle and reasoned that if the verse really pertained to the Athenians, it would have been formulated in less mild language, calling Salamis “cruel” rather than “divine ” seeing that its inhabitants were to perish."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "ἀλλὰ γὰρ ἐς τοὺς πολεμίους τῷ θεῷ εἰρῆσθαι τὸ χρηστήριον συλλαμβάνοντι κατὰ τὸ ὀρθόν, ἀλλʼ οὐκ ἐς Ἀθηναίους· παρασκευάζεσθαι ὦν αὐτοὺς ὡς ναυμαχήσοντας συνεβούλευε, ὡς τούτου ἐόντος τοῦ ξυλίνου τείχεος.",
+        "translations":[
+          "Correctly understood, the gods' oracle was spoken not of the Athenians but of their enemies, and his advice was that they should believe their ships to be the wooden wall and so make ready to fight by sea."
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "ταύτῃ Θεμιστοκλέος ἀποφαινομένου Ἀθηναῖοι ταῦτα σφίσι ἔγνωσαν αἱρετώτερα εἶναι μᾶλλον ἢ τὰ τῶν χρησμολόγων, οἳ οὐκ ἔων ναυμαχίην ἀρτέεσθαι, τὸ δὲ σύμπαν εἰπεῖν οὐδὲ χεῖρας ἀνταείρεσθαι, ἀλλὰ ἐκλιπόντας χώρην τὴν Ἀττικὴν ἄλλην τινὰ οἰκίζειν.",
+        "translations":[
+          "When Themistocles put forward this interpretation, the Athenians judged him to be a better counsellor than the readers of oracles, who would have had them prepare for no sea fight, and, in short, offer no resistance at all, but leave Attica and settle in some other country."
+        ],
+        "section":"3"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"7.208",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:7.208?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek": "ταῦτα βουλευομένων σφέων, ἔπεμπε Ξέρξης κατάσκοπον ἱππέα ἰδέσθαι ὁκόσοι εἰσὶ καὶ ὅ τι ποιέοιεν. ἀκηκόεε δὲ ἔτι ἐὼν ἐν Θεσσαλίῃ ὡς ἁλισμένη εἴη ταύτῃ στρατιὴ ὀλίγη, καὶ τοὺς ἡγεμόνας ὡς εἴησαν Λακεδαιμόνιοί τε καὶ Λεωνίδης ἐὼν γένος Ἡρακλείδης.",
+        "translations":[
+          "While they debated in this way, Xerxes sent a mounted scout to see how many there were and what they were doing. While he was still in Thessaly, he had heard that a small army was gathered there and that its leaders were Lacedaemonians, including Leonidas, who was of the Heracleid clan."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "ὡς δὲ προσήλασε ὁ ἱππεὺς πρὸς τὸ στρατόπεδον, ἐθηεῖτό τε καὶ κατώρα πᾶν μὲν οὒ τὸ στρατόπεδον· τοὺς γὰρ ἔσω τεταγμένους τοῦ τείχεος, τὸ ἀνορθώσαντες εἶχον ἐν φυλακῇ, οὐκ οἷά τε ἦν κατιδέσθαι· ὁ δὲ τοὺς ἔξω ἐμάνθανε, τοῖσι πρὸ τοῦ τείχεος τὰ ὅπλα ἔκειτο· ἔτυχον δὲ τοῦτον τὸν χρόνον Λακεδαιμόνιοι ἔξω τεταγμένοι.",
+        "translations":[
+          "Riding up to the camp, the horseman watched and spied out the place. He could, however, not see the whole camp, for it was impossible to see those posted inside the wall which they had rebuilt and were guarding. He did take note of those outside, whose arms lay in front of the wall, and it chanced that at that time the Lacedaemonians were posted there."
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "τοὺς μὲν δὴ ὥρα γυμναζομένους τῶν ἀνδρῶν, τοὺς δὲ τὰς κόμας κτενιζομένους. ταῦτα δὴ θεώμενος ἐθώμαζε καὶ τὸ πλῆθος ἐμάνθανε. μαθὼν δὲ πάντα ἀτρεκέως ἀπήλαυνε ὀπίσω κατʼ ἡσυχίην· οὔτε γάρ τις ἐδίωκε ἀλογίης τε ἐνεκύρησε πολλῆς· ἀπελθών τε ἔλεγε πρὸς Ξέρξην τά περ ὀπώπεε πάντα.",
+        "translations":[
+          "He saw some of the men exercising naked and others combing their hair. He marvelled at the sight and took note of their numbers. When he had observed it all carefully, he rode back in leisure, since no one pursued him or paid him any attention at all. So he returned and told Xerxes all that he had seen."
+        ],
+        "section":"3"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"7.209",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:7.209?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek": "ἀκούων δὲ Ξέρξης οὐκ εἶχε συμβαλέσθαι τὸ ἐόν, ὅτι παρασκευάζοιντο ὡς ἀπολεόμενοί τε καὶ ἀπολέοντες κατὰ δύναμιν· ἀλλʼ αὐτῷ γελοῖα γὰρ ἐφαίνοντο ποιέειν, μετεπέμψατο Δημάρητον τὸν Ἀρίστωνος ἐόντα ἐν τῷ στρατοπέδῳ·",
+        "translations":[
+          "When Xerxes heard that, he could not comprehend the fact that the Lacedaemonians were actually, to the best of their ability, preparing to kill or be killed. What they did appeared laughable to him, so he sent for Demaratus the son of Ariston, who was in his camp."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "ἀπικόμενον δέ μιν εἰρώτα Ξέρξης ἕκαστα τούτων, ἐθέλων μαθεῖν τὸ ποιεύμενον πρὸς τῶν Λακεδαιμονίων. ὁ δὲ εἶπε Ἤκουσας μὲν καὶ πρότερόν μευ, εὖτε ὁρμῶμεν ἐπὶ τὴν Ἑλλάδα, περὶ τῶν ἀνδρῶν τούτων, ἀκούσας δὲ γέλωτά με ἔθευ λέγοντα τῇ περ ὥρων ἐκβησόμενα πρήγματα ταῦτα· ἐμοὶ γὰρ τὴν ἀληθείην ἀσκέειν ἀντία σεῦ βασιλεῦ ἀγὼν μέγιστος ἐστί.",
+        "translations":[
+          "When this man arrived, he asked him about each of these matters, wanting to understand what it was that the Lacedaemonians were doing. Demaratus said, “You have already heard about these men from me, when we were setting out for Hellas, but when you heard, you mocked me, although I told you how I expected things to turn out. It is my greatest aim, O King, to be truthful in your presence."
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "ἄκουσον δὲ καὶ νῦν· οἱ ἄνδρες οὗτοι ἀπίκαται μαχησόμενοι ἡμῖν περὶ τῆς ἐσόδου, καὶ ταῦτα παρασκευάζονται. νόμος γάρ σφι ἔχων οὕτω ἐστί· ἐπεὰν μέλλωσι κινδυνεύειν τῇ ψυχῇ, τότε τὰς κεφαλὰς κοσμέονται.",
+        "translations":[
+          "So hear me now. These men have come to fight us for the pass, and it for this that they are preparing. This is their custom: when they are about to risk their lives, they arrange their hair."
+        ],
+        "section":"3"
+      },
+      {
+        "greek": "ἐπίστασο δέ, εἰ τούτους γε καὶ τὸ ὑπομένον ἐν Σπάρτῃ καταστρέψεαι, ἔστι οὐδὲν ἄλλο ἔθνος ἀνθρώπων τὸ σὲ βασιλεῦ ὑπομενέει χεῖρας ἀνταειρόμενον· νῦν γὰρ πρὸς βασιληίην τε καὶ καλλίστην πόλιν τῶν ἐν Ἕλλησι προσφέρεαι καὶ ἄνδρας ἀρίστους.",
+        "translations":[
+          "Rest assured that if you overcome these men and those remaining behind at Sparta, there is no one else on earth who will raise his hands to withstand you, my King. You are now attacking the fairest kingdom in Hellas and men who are the very best.”"
+        ],
+        "section":"4"
+      },
+      {
+        "greek": "κάρτα τε δὴ Ξέρξῃ ἄπιστα ἐφαίνετο τὰ λεγόμενα εἶναι, καὶ δεύτερα ἐπειρώτα ὅντινα τρόπον τοσοῦτοι ἐόντες τῇ ἑωυτοῦ στρατιῇ μαχήσονται. ὁ δὲ εἶπε ὦ βασιλεῦ, ἐμοὶ χρᾶσθαι ὡς ἀνδρὶ ψεύστῃ, ἢν μὴ ταῦτά τοι ταύτῃ ἐκβῇ τῇ ἐγὼ λέγω.",
+        "translations":[
+          "What he said seemed completely incredible to Xerxes, so he then asked how they, who were so few in number, would fight against his army. Demaratus answered, “My King, take me for a liar if this does not turn out as I say.” So he spoke, but he did not persuade Xerxes."
+        ],
+        "section":"5"
+      }
+    ]
+  },
+  {
+    "author":"Herodotus",
+    "book":"Histories",
+    "type":"work",
+    "reference":"8.65",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:8.65?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"ἔφη δὲ Δίκαιος ὁ Θεοκύδεος, ἀνὴρ Ἀθηναῖος φυγάς τε καὶ παρὰ Μήδοισι λόγιμος γενόμενος τοῦτον τὸν χρόνον, ἐπείτε ἐκείρετο ἡ Ἀττικὴ χώρη ὑπὸ τοῦ πεζοῦ στρατοῦ τοῦ Ξέρξεω ἐοῦσα ἔρημος Ἀθηναίων, τυχεῖν τότε ἐὼν ἅμα Δημαρήτῳ τῷ Λακεδαιμονίῳ ἐν τῷ Θριασίῳ πεδίῳ, ἰδεῖν δὲ κονιορτὸν χωρέοντα ἀπʼ Ἐλευσῖνος ὡς ἀνδρῶν μάλιστά κῃ τρισμυρίων, ἀποθωμάζειν τε σφέας τὸν κονιορτὸν ὅτεων κοτὲ εἴη ἀνθρώπων, καὶ πρόκατε φωνῆς ἀκούειν, καί οἱ φαίνεσθαι τὴν φωνὴν εἶναι τὸν μυστικὸν ἴακχον.",
+        "translations":[
+          "Dicaeus son of Theocydes, an Athenian exile who had become important among the Medes, said that at the time when the land of Attica, Central Greece and Euboea, Greece, Europe Attica was being laid waste by Xerxes' army and there were no Athenians in the country, he was with Demaratus the Lacedaemonian on the Thriasian plain and saw advancing from Eleusis a cloud of dust as if raised by the feet of about thirty thousand men. They marvelled at what men might be raising such a cloud of dust and immediately heard a cry. The cry seemed to be the \"Iacchus\" of the mysteries,"
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"καὶ ἢν μέν γε κατασκήψῃ ἐς τὴν Πελοπόννησον, κίνδυνος αὐτῷ τε βασιλέι καὶ τῇ στρατιῇ τῇ ἐν τῇ ἠπείρῳ ἔσται, ἢν δὲ ἐπὶ τὰς νέας τράπηται τὰς ἐν Σαλαμῖνι, τὸν ναυτικὸν στρατὸν κινδυνεύσει βασιλεὺς ἀποβαλεῖν.",
+        "translations":[
+          "and when Demaratus, ignorant of the rites of Eleusis, asked him what was making this sound, Dicaeus said, \"Demaratus, there is no way that some great disaster will not befall the king's army. Since Attica, Central Greece and Euboea, Greece, Europe Attica is deserted, it is obvious that this voice is divine and comes from Eleusis to help the Athenians and their allies."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"καὶ ἢν μέν γε κατασκήψῃ ἐς τὴν Πελοπόννησον, κίνδυνος αὐτῷ τε βασιλέι καὶ τῇ στρατιῇ τῇ ἐν τῇ ἠπείρῳ ἔσται, ἢν δὲ ἐπὶ τὰς νέας τράπηται τὰς ἐν Σαλαμῖνι, τὸν ναυτικὸν στρατὸν κινδυνεύσει βασιλεὺς ἀποβαλεῖν.",
+        "translations":[
+          "If it descends upon the Peloponnese, the king himself and his army on the mainland will be endangered. If, however, it turns towards the ships at Salamis, the king will be in danger of losing his fleet."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"τὴν δὲ ὁρτὴν ταύτην ἄγουσι Ἀθηναῖοι ἀνὰ πάντα ἔτεα τῇ Μητρὶ καὶ τῇ Κούρῃ, καὶ αὐτῶν τε ὁ βουλόμενος καὶ τῶν ἄλλων Ἑλλήνων μυεῖται· καὶ τὴν φωνὴν τῆς ἀκούεις ἐν ταύτῃ τῇ ὁρτῇ ἰακχάζουσι. πρὸς ταῦτα εἰπεῖν Δημάρητον σίγα τε καὶ μηδενὶ ἄλλῳ τὸν λόγον τοῦτον εἴπῃς·",
+        "translations":[
+          "Every year the Athenians observe this festival for the Mother and the Maiden, and any Athenian or other Hellene who wishes is initiated. The voice which you hear is the ‘Iacchus’ they cry at this festival.\" To this Demaratus replied, “Keep silent and tell this to no one else."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"ἢν γάρ τοι ἐς βασιλέα ἀνενειχθῇ τὰ ἔπεα ταῦτα, ἀποβαλέεις τὴν κεφαλήν, καὶ σε οὔτε ἐγὼ δυνήσομαι ῥύσασθαι οὔτʼ ἄλλος ἀνθρώπων οὐδὲ εἶς. ἀλλʼ ἔχʼ ἥσυχος, περὶ δὲ στρατιῆς τῆσδε θεοῖσι μελήσει.",
+        "translations":[
+          "If these words of yours are reported to the king, you will lose your head, and neither I nor any other man will be able to save you, so be silent. The gods will see to the army.\""
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"τὸν μὲν δὴ ταῦτα παραινέειν, ἐκ δὲ τοῦ κονιορτοῦ καὶ τῆς φωνῆς γενέσθαι νέφος καὶ μεταρσιωθὲν φέρεσθαι ἐπὶ Σαλαμῖνος ἐπὶ τὸ στρατόπεδον τὸ τῶν Ἑλλήνων. οὕτω δὴ αὐτοὺς μαθεῖν ὅτι τὸ ναυτικὸν τὸ Ξέρξεω ἀπολέεσθαι μέλλοι. ταῦτα μὲν Δίκαιος ὁ Θεοκύδεος ἔλεγε, Δημαρήτου τε καὶ ἄλλων μαρτύρων καταπτόμενος.",
+        "translations":[
+          "Thus he advised, and after the dust and the cry came a cloud, which rose aloft and floated away towards Salamis (island), Attica, Central Greece and Euboea, Greece, EuropeSalamis to the camp of the Hellenes. In this way they understood that Xerxes' fleet was going to be destroyed. Dicaeus son of Theocydes used to say this, appealing to Demaratus and others as witnesses."
+        ],
+        "section":"6"
+      }
+    ]
+  }
+]

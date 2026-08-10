@@ -1,0 +1,12 @@
+FROM golang:1.26.5-alpine AS builder
+ARG project_name=artafernes
+WORKDIR /app
+COPY go.mod go.sum ./
+RUN go mod download
+COPY . .
+RUN go install github.com/onsi/ginkgo/v2/ginkgo && cd peira && ginkgo build -o /app/${project_name}.test
+
+FROM alpine:3.24.1 AS prod
+WORKDIR /app
+COPY --from=builder /app/artafernes.test .
+ENTRYPOINT ["/app/artafernes.test", "-ginkgo.v"]

@@ -1,0 +1,74 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.32",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.32/",
+    "rhemai": [
+      {
+        "greek": "Σόλων μὲν δὴ εὐδαιμονίης δευτερεῖα ἔνεμε τούτοισι, Κροῖσος δὲ σπερχθεὶς εἶπε ὦ ξεῖνε Ἀθηναῖε, ἡ δʼ ἡμετέρη εὐδαιμονίη οὕτω τοι ἀπέρριπται ἐς τὸ μηδὲν ὥστε οὐδὲ ἰδιωτέων ἀνδρῶν ἀξίους ἡμέας ἐποίησας; ὁ δὲ εἶπε ὦ Κροῖσε, ἐπιστάμενόν με τὸ θεῖον πᾶν ἐὸν φθονερόν τε καὶ ταραχῶδες ἐπειρωτᾷς ἀνθρωπηίων πρηγμάτων πέρι.",
+        "translations": [
+          "Thus Solon granted second place in happiness to these men. Croesus was vexed and said, “My Athenian guest, do you so much despise our happiness that you do not even make us worth as much as common men?” Solon replied, “ Croesus, you ask me about human affairs, and I know that the divine is entirely grudging and troublesome to us."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐν γὰρ τῷ μακρῷ χρόνῳ πολλὰ μὲν ἐστὶ ἰδεῖν τὰ μή τις ἐθέλει, πολλὰ δὲ καὶ παθεῖν. ἐς γὰρ ἑβδομήκοντα ἔτεα οὖρον τῆς ζόης ἀνθρώπῳ προτίθημι.",
+        "translations": [
+          "In a long span of time it is possible to see many things that you do not want to, and to suffer them, too. I set the limit of a man's life at seventy years;"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οὗτοι ἐόντες ἐνιαυτοὶ ἑβδομήκοντα παρέχονται ἡμέρας διηκοσίας καὶ πεντακισχιλίας καὶ δισμυρίας, ἐμβολίμου μηνὸς μὴ γινομένου· εἰ δὲ δὴ ἐθελήσει τοὔτερον τῶν ἐτέων μηνὶ μακρότερον γίνεσθαι, ἵνα δὴ αἱ ὧραι συμβαίνωσι παραγινόμεναι ἐς τὸ δέον, μῆνες μὲν παρὰ τὰ ἑβδομήκοντα ἔτεα οἱ ἐμβόλιμοι γίνονται τριήκοντα πέντε, ἡμέραι δὲ ἐκ τῶν μηνῶν τούτων χίλιαι πεντήκοντα.",
+        "translations": [
+          "these seventy years have twenty-five thousand, two hundred days, leaving out the intercalary month. But if you make every other year longer by one month, so that the seasons agree opportunely, then there are thirty-five intercalary months during the seventy years, and from these months there are one thousand fifty days."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τουτέων τῶν ἁπασέων ἡμερέων τῶν ἐς τὰ ἑβδομήκοντα ἔτεα, ἐουσέων πεντήκοντα καὶ διηκοσιέων καὶ ἑξακισχιλιέων καὶ δισμυριέων, ἡ ἑτέρη αὐτέων τῇ ἑτέρῃ ἡμέρῃ τὸ παράπαν οὐδὲν ὅμοιον προσάγει πρῆγμα. οὕτω ὦν Κροῖσε πᾶν ἐστὶ ἄνθρωπος συμφορή.",
+        "translations": [
+          "Out of all these days in the seventy years, all twenty-six thousand, two hundred and fifty of them, not one brings anything at all like another. So, Croesus, man is entirely chance."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἐμοὶ δὲ σὺ καὶ πλουτέειν μέγα φαίνεαι καὶ βασιλεὺς πολλῶν εἶναι ἀνθρώπων· ἐκεῖνο δὲ τὸ εἴρεό με, οὔκω σε ἐγὼ λέγω, πρὶν τελευτήσαντα καλῶς τὸν αἰῶνα πύθωμαι. οὐ γάρ τι ὁ μέγα πλούσιος μᾶλλον τοῦ ἐπʼ ἡμέρην ἔχοντος ὀλβιώτερος ἐστί, εἰ μή οἱ τύχη ἐπίσποιτο πάντα καλὰ ἔχοντα εὖ τελευτῆσαὶ τὸν βίον. πολλοὶ μὲν γὰρ ζάπλουτοι ἀνθρώπων ἀνόλβιοι εἰσί, πολλοὶ δὲ μετρίως ἔχοντες βίου εὐτυχέες.",
+        "translations": [
+          "To me you seem to be very rich and to be king of many people, but I cannot answer your question before I learn that you ended your life well. The very rich man is not more fortunate than the man who has only his daily needs, unless he chances to end his life with all well. Many very rich men are unfortunate, many of moderate means are lucky."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "ὁ μὲν δὴ μέγα πλούσιος ἀνόλβιος δὲ δυοῖσι προέχει τοῦ εὐτυχέος μοῦνον, οὗτος δὲ τοῦ πλουσίου καὶ ἀνόλβου πολλοῖσι· ὃ μὲν ἐπιθυμίην ἐκτελέσαι καί ἄτην μεγάλην προσπεσοῦσαν ἐνεῖκαι δυνατώτερος, ὁ δὲ τοῖσιδε προέχει ἐκείνου· ἄτην μὲν καὶ ἐπιθυμίην οὐκ ὁμοίως δυνατὸς ἐκείνῳ ἐνεῖκαι, ταῦτα δὲ ἡ εὐτυχίη οἱ ἀπερύκει, ἄπηρος δὲ ἐστί, ἄνουσος, ἀπαθὴς κακῶν, εὔπαις, εὐειδής.",
+        "translations": [
+          "The man who is very rich but unfortunate surpasses the lucky man in only two ways, while the lucky surpasses the rich but unfortunate in many. The rich man is more capable of fulfilling his appetites and of bearing a great disaster that falls upon him, and it is in these ways that he surpasses the other. The lucky man is not so able to support disaster or appetite as is the rich man, but his luck keeps these things away from him, and he is free from deformity and disease, has no experience of evils, and has fine children and good looks."
+        ],
+        "section": "6"
+      },
+      {
+        "greek": "εἰ δὲ πρὸς τούτοισι ἔτι τελευτήσῃ τὸν βίον εὖ, οὗτος ἐκεῖνος τὸν σὺ ζητέεις, ὁ ὄλβιος κεκλῆσθαι ἄξιος ἐστί· πρὶν δʼ ἂν τελευτήσῃ, ἐπισχεῖν, μηδὲ καλέειν κω ὄλβιον ἀλλʼ εὐτυχέα.",
+        "translations": [
+          "If besides all this he ends his life well, then he is the one whom you seek, the one worthy to be called fortunate. But refrain from calling him fortunate before he dies; call him lucky."
+        ],
+        "section": "7"
+      },
+      {
+        "greek": "τὰ πάντα μέν νυν ταῦτα συλλαβεῖν ἄνθρωπον ἐόντα ἀδύνατον ἐστί, ὥσπερ χωρῇ οὐδεμία καταρκέει πάντα ἑωυτῇ παρέχουσα, ἀλλὰ ἄλλο μὲν ἔχει ἑτέρου δὲ ἐπιδέεται· ἣ δὲ ἂν τὰ πλεῖστα ἔχῃ, αὕτη ἀρίστη. ὣς δὲ καὶ ἀνθρώπου σῶμα ἓν οὐδὲν αὔταρκες ἐστί· τὸ μὲν γὰρ ἔχει, ἄλλου δὲ ἐνδεές ἐστι·",
+        "translations": [
+          "It is impossible for one who is only human to obtain all these things at the same time, just as no land is self-sufficient in what it produces. Each country has one thing but lacks another; whichever has the most is the best. Just so no human being is self-sufficient; each person has one thing but lacks another."
+        ],
+        "section": "8"
+      },
+      {
+        "greek": "ὃς δʼ ἂν αὐτῶν πλεῖστα ἔχων διατελέῃ καὶ ἔπειτα τελευτήσῃ εὐχαρίστως τὸν βίον, οὗτος παρʼ ἐμοὶ τὸ οὔνομα τοῦτο ὦ βασιλεῦ δίκαιος ἐστὶ φέρεσθαι. σκοπέειν δὲ χρὴ παντὸς χρήματος τὴν τελευτήν, κῇ ἀποβήσεται· πολλοῖσι γὰρ δὴ ὑποδέξας ὄλβον ὁ θεὸς προρρίζους ἀνέτρεψε.",
+        "translations": [
+          "Whoever passes through life with the most and then dies agreeably is the one who, in my opinion, O King, deserves to bear this name. It is necessary to see how the end of every affair turns out, for the god promises fortune to many people and then utterly ruins them.”"
+        ],
+        "section": "9"
+      }
+    ]
+  }
+]

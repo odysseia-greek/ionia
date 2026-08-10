@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.163",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.163/",
+    "rhemai": [
+      {
+        "greek": "πρώτῃ δὲ Φωκαίῃ Ἰωνίης ἐπεχείρησε. οἱ δὲ Φωκαιέες οὗτοι ναυτιλίῃσι μακρῇσι πρῶτοι Ἑλλήνων ἐχρήσαντο, καὶ τὸν τε Ἀδρίην καὶ τὴν Τυρσηνίην καὶ τὴν Ἰβηρίην καὶ τὸν Ταρτησσὸν οὗτοι εἰσὶ οἱ καταδέξαντες·",
+        "translations": [
+          "Phocaea was the first Ionian town that he attacked. These Phocaeans were the earliest of the Greeks to make long sea-voyages, and it was they who discovered the Adriatic Sea, and Tyrrhenia, and Iberia, and Tartessus,"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐναυτίλλοντο δὲ οὐ στρογγύλῃσι νηυσὶ ἀλλὰ πεντηκοντέροισι. ἀπικόμενοι δὲ ἐς τὸν Ταρτησσὸν προσφιλέες ἐγένοντο τῷ βασιλέι τῶν Ταρτησσίων, τῷ οὔνομα μὲν ἦν, Ἀργανθώνιος, ἐτυράννευσε δὲ Ταρτησσοῦ ὀγδώκοντα ἔτεα, ἐβίωσε δὲ πάντα εἴκοσι καὶ ἑκατόν.",
+        "translations": [
+          "not sailing in round freightships but in fifty-oared vessels. When they came to Tartessus they made friends with the king of the Tartessians, whose name was Arganthonius; he ruled Tartessus for eighty years and lived a hundred and twenty."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τούτῳ δὴ τῷ ἀνδρὶ προσφιλέες οἱ Φωκαιέες οὕτω δή τι ἐγένοντο ὡς τὰ μὲν πρῶτα σφέας ἐκλιπόντας Ἰωνίην ἐκέλευε τῆς ἑωυτοῦ χώρης οἰκῆσαι ὅκου βούλονται· μετὰ δέ, ὡς τοῦτό γε οὐκ ἔπειθε τοὺς Φωκαιέας, ὁ δὲ πυθόμενος τὸν Μῆδον παρʼ αὐτῶν ὡς αὔξοιτο, ἐδίδου σφι χρήματα τεῖχος περιβαλέσθαι τὴν πόλιν,",
+        "translations": [
+          "The Phocaeans won this man's friendship to such a degree that he invited them to leave Ionia and settle in his country wherever they liked; and then, when he could not persuade them to, and learned from them how the Median power was increasing, he gave them money to build a wall around their city."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἐδίδου δὲ ἀφειδέως· καὶ γὰρ καὶ ἡ περίοδος τοῦ τείχεος οὐκ ὀλίγοι στάδιοι εἰσί, τοῦτο δὲ πᾶν λίθων μεγάλων καὶ εὖ συναρμοσμένων.",
+        "translations": [
+          "He gave it generously: for the circuit of the wall is of not a few stades, and all this is made of great stones well fitted together."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.183",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.183/",
+    "rhemai": [
+      {
+        "greek": "ἔστι δὲ τοῦ ἐν Βαβυλῶνι ἱροῦ καὶ ἄλλος κάτω νηός, ἔνθα ἄγαλμα μέγα τοῦ Διὸς ἔνι κατήμενον χρύσεον, καὶ οἱ τράπεζα μεγάλη παρακέεται χρυσέη, καὶ τὸ βάθρον οἱ καὶ ὁ θρόνος χρύσεος ἐστί· καὶ ὡς ἔλεγον οἱ Χαλδαῖοι, ταλάντων ὀκτακοσίων χρυσίου πεποίηται ταῦτα.",
+        "translations": [
+          "In the Babylonian temple there is another shrine below, where there is a great golden image of Zeus, sitting at a great golden table, and the footstool and the chair are also gold; the gold of the whole was said by the Chaldeans to be eight hundred talents' weight."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἔξω δὲ τοῦ νηοῦ βωμός ἐστι χρύσεος, ἔστι δὲ καὶ ἄλλος βωμὸς μέγας, ἐπʼ οὗ θύεται τὰ τέλεα τῶν προβάτων· ἐπὶ γὰρ τοῦ χρυσέου βωμοῦ οὐκ ἔξεστι θύειν ὅτι μὴ γαλαθηνὰ μούνα, ἐπὶ δὲ τοῦ μέζονος βωμοῦ καὶ καταγίζουσι λιβανωτοῦ χίλια τάλαντα ἔτεος ἑκάστου οἱ Χαλδαῖοι τότε ἐπεὰν τὴν ὁρτὴν ἄγωσι τῷ θεῷ τούτῳ. ἦν δὲ ἐν τῷ τεμένεϊ τούτῳ ἔτι τὸν χρόνον ἐκεῖνον καὶ ἀνδριὰς δυώδεκα πηχέων χρύσεος στερεός·",
+        "translations": [
+          "Outside the temple is a golden altar. There is also another great altar, on which are sacrificed the full-grown of the flocks; only nurslings may be sacrificed on the golden altar, but on the greater altar the Chaldeans even offer a thousand talents' weight of frankincense yearly, when they keep the festival of this god; and in the days of Cyrus there was still in this sacred enclosure a statue of solid gold twenty feet high."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐγὼ μέν μιν οὐκ εἶδον, τὰ δὲ λέγεται ὑπὸ Χαλδαίων, ταῦτα λέγω. τούτῳ τῷ ἀνδριάντι Δαρεῖος μὲν ὁ Ὑστάσπεος ἐπιβουλεύσας οὐκ ἐτόλμησε λαβεῖν, Ξέρξης δὲ ὁ Δαρείου ἔλαβε καὶ τὸν ἱρέα ἀπέκτεινε ἀπαγορεύοντα μὴ κινέειν τὸν ἀνδριάντα. τὸ μὲν δὴ ἱρὸν τοῦτο οὕτω κεκόσμηται, ἔστι δὲ καὶ ἴδια ἀναθήματα πολλά.",
+        "translations": [
+          "I myself have not seen it, but I relate what is told by the Chaldeans. Darius son of Hystaspes proposed to take this statue but dared not; Xerxes his son took it, and killed the priest who warned him not to move the statue. Such is the furniture of this temple, and there are many private offerings besides."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

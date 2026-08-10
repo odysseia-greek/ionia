@@ -1,0 +1,109 @@
+[
+  {
+    "author":"Matthew",
+    "book":"New Testament, Gospel of Matthew",
+    "type":"work",
+    "reference":"12",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg001.perseus-grc2:12?right=perseus-eng2/",
+    "rhemai":[
+      {
+        "greek":"Ἐν ἐκείνῳ τῷ καιρῷ ἐπορεύθη ὁ Ἰησοῦς τοῖς σάββασιν διὰ τῶν σπορίμων· οἱ δὲ μαθηταὶ αὐτοῦ ἐπείνασαν, καὶ ἤρξαντο τίλλειν στάχυας καὶ ἐσθίειν.",
+        "translations":[
+          "At that time, Jesus went on the Sabbath day through the grain fields. His disciples were hungry and began to pluck heads of grain and to eat."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"οἱ δὲ Φαρισαῖοι ἰδόντες εἶπαν αὐτῷ Ἰδοὺ οἱ μαθηταί σου ποιοῦσιν ὃ οὐκ ἔξεστιν ποιεῖν ἐν σαββάτῳ.",
+        "translations":[
+          "But the Pharisees, when they saw it, said to him, \"Behold, your disciples do what is not lawful to do on the Sabbath.\""
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"ὁ δὲ εἶπεν αὐτοῖς Οὐκ ἀνέγνωτε τί ἐποίησεν Δαυεὶδ ὅτε ἐπείνασεν καὶ οἱ μετʼ αὐτοῦ;",
+        "translations":[
+          "But he said to them, \"Haven't you read what David did, when he was hungry, and those who were with him;"
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ καὶ\n\nτοὺς ἄρτους τῆς προθέσεως\nἔφαγον, ὃ οὐκ ἐξὸν ἦν αὐτῷ φαγεῖν οὐδὲ τοῖς μετʼ αὐτοῦ εἰ μὴ τοῖς ἱερεῦσιν μόνοις;",
+        "translations":[
+          "how he entered into the house of God, and ate the show bread, which was not lawful for him to eat, neither for those who were with him, but only for the priests?"
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"ἢ οὐκ ἀνέγνωτε ἐν τῷ νόμῳ ὅτι τοῖς σάββασιν οἱ ἱερεῖς ἐν τῷ ἱερῷ τὸ σάββατον βεβηλοῦσιν καὶ ἀναίτιοί εἰσιν;",
+        "translations":[
+          "Or have you not read in the law, that on the Sabbath day, the priests in the temple profane the Sabbath, and are guiltless?"
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"λέγω δὲ ὑμῖν ὅτι τοῦ ἱεροῦ μεῖζόν ἐστιν ὧδε.",
+        "translations":[
+          "But I tell you that one greater than the temple is here."
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"εἰ δὲ ἐγνώκειτε τί ἐστιν\n\nἜλεος θέλω καὶ οὐ θυσίαν,\nοὐκ ἂν κατεδικάσατε τοὺς ἀναιτίους.",
+        "translations":[
+          "But if you had known what this means, 'I desire mercy, and not sacrifice,' you would not have condemned the guiltless."
+        ],
+        "section":"7"
+      },
+      {
+        "greek":"κύριος γάρ ἐστιν τοῦ σαββάτου ὁ υἱὸς τοῦ ἀνθρώπου.",
+        "translations":[
+          "For the Son of Man is Lord of the Sabbath"
+        ],
+        "section":"8"
+      },
+      {
+        "greek":"Καὶ μεταβὰς ἐκεῖθεν ἦλθεν εἰς τὴν συναγωγὴν αὐτῶν·",
+        "translations":[
+          "He departed there, and went into their synagogue."
+        ],
+        "section":"9"
+      },
+      {
+        "greek":"καὶ ἰδοὺ ἄνθρωπος χεῖρα ἔχων ξηράν. καὶ ἐπηρώτησαν αὐτὸν λέγοντες Εἰ ἔξεστι τοῖς σάββασιν θεραπεύειν; ἵνα κατηγορήσωσιν αὐτοῦ.",
+        "translations":[
+          "And behold there was a man with a withered hand. They asked him, \"Is it lawful to heal on the Sabbath day?\" that they might accuse him."
+        ],
+        "section":"10"
+      },
+      {
+        "greek":"γεννήματα ἐχιδνῶν, ῶς δύνασθε ἀγαθὰ λαλεῖν πονηροὶ ὄντες; ἐκ γὰρ τοῦ περισσεύματος τῆς καρδίας τὸ στόμα λαλεῖ.",
+        "translations":[
+          "You offspring of vipers, how can you, being evil, speak good things? For out of the abundance of the heart, the mouth speaks."
+        ],
+        "section":"34"
+      },
+      {
+        "greek":"ὁ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ ἐκβάλλει ἀγαθά, καὶ ὁ πονηρὸς ἄνθρωπος ἐκ τοῦ πονηροῦ θησαυροῦ ἐκβάλλει πονηρά.",
+        "translations":[
+          "The good man out of his good treasure brings out good things, and the evil man out of his evil treasure brings out evil things."
+        ],
+        "section":"35"
+      },
+      {
+        "greek":"Λέγω δὲ ὑμῖν ὅτι πᾶν ῥῆμα ἀργὸν ὃ λαλήσουσιν οἱ ἄνθρωποι, ἀποδώσουσιν περὶ αὐτοῦ λόγον ἐν ἡμέρᾳ κρίσεως·",
+        "translations":[
+          "I tell you that every idle word that men speak, they will give account of it in the day of judgment."
+        ],
+        "section":"36"
+      },
+      {
+        "greek":"ἐκ γὰρ τῶν λόγων σου δικαιωθήσῃ, καὶ ἐκ τῶν λόγων σου καταδικασθήσῃ.",
+        "translations":[
+          "For by your words you will be justified, and by your words you will be condemned."
+        ],
+        "section":"37"
+      }
+    ]
+  }
+]

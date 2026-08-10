@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.36",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.36/",
+    "rhemai": [
+      {
+        "greek": "ὃ μὲν δὴ δίαιταν εἶχε ἐν Κροίσου. ἐν δὲ τῷ αὐτῷ χρόνῳ τούτῳ ἐν τῷ Μυσίῳ Ὀλύμπῳ ὑὸς χρῆμα γίνεται μέγα· ὁρμώμενος δὲ οὗτος ἐκ τοῦ ὄρεος τούτου τὰ τῶν Μυσῶν ἔργα διαφθείρεσκε. πολλάκις δὲ οἱ Μυσοὶ ἐπʼ αὐτὸν ἐξελθόντες ποιέεσκον μὲν κακὸν οὐδέν, ἔπασχον δὲ πρὸς αὐτοῦ.",
+        "translations": [
+          "So Adrastus lived in Croesus ' house. About this same time a great monster of a boar appeared on the Mysian Olympus, who would come off that mountain and ravage the fields of the Mysians. The Mysians had gone up against him often; but they never did him any harm but were hurt by him themselves."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τέλος δὲ ἀπικόμενοι παρὰ τὸν Κροῖσον τῶν Μυσῶν ἄγγελοι ἔλεγον τάδε. ὦ βασιλεῦ, ὑὸς χρῆμα μέγιστον ἀνεφάνη ἡμῖν ἐν τῇ χώρῃ, ὃς τὰ ἔργα διαφθείρει. τοῦτον προθυμεόμενοι ἑλεῖν οὐ δυνάμεθα. νῦν ὦν προσδεόμεθά σευ τὸν παῖδα καὶ λογάδας νεηνίας καὶ κύνας συμπέμψαι ἡμῖν, ὡς ἄν μιν ἐξέλωμεν ἐκ τῆς χώρης.",
+        "translations": [
+          "At last they sent messengers to Croesus, with this message: “O King, a great monster of a boar has appeared in the land, who is destroying our fields; for all our attempts, we cannot kill him; so now we ask you to send your son and chosen young men and dogs with us, so that we may drive him out of the country.”"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οἳ μὲν δὴ τούτων ἐδέοντο, Κροῖσος δὲ μνημονεύων τοῦ ὀνείρου τὰ ἔπεα ἔλεγέ σφι τάδε. παιδὸς μὲν πέρι τοῦ ἐμοῦ μὴ μνησθῆτε ἔτι· οὐ γὰρ ἂν ὑμῖν συμπέμψαιμι· νεόγαμός τε γὰρ ἐστὶ καὶ ταῦτά οἱ νῦν μέλει. Λυδῶν μέντοι λογάδας καὶ τὸ κυνηγέσιον πᾶν συμπέμψω, καὶ διακελεύσομαι τοῖσι ἰοῦσι εἶναι ὡς προθυμοτάτοισι συνεξελεῖν ὑμῖν τὸ θηρίον ἐκ τῆς χώρης.",
+        "translations": [
+          "Such was their request, but Croesus remembered the prophecy of his dream and answered them thus: “Do not mention my son again: I will not send him with you. He is newly married, and that is his present concern. But I will send chosen Lydians, and all the huntsmen, and I will tell those who go to be as eager as possible to help you to drive the beast out of the country.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

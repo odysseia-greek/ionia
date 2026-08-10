@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.205",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.205/",
+    "rhemai": [
+      {
+        "greek": "ἦν δὲ τοῦ ἀνδρὸς ἀποθανόντος γυνὴ τῶν Μασσαγετέων βασίλεια. Τόμυρίς οἱ ἦν οὔνομα. ταύτην πέμπων ὁ Κῦρος ἐμνᾶτο τῷ λόγῳ θέλων γυναῖκα ἣν ἔχειν. ἡ δὲ Τόμυρις συνιεῖσα οὐκ αὐτήν μιν μνώμενον ἀλλὰ τὴν Μασαγετέων βασιληίην, ἀπείπατο τὴν πρόσοδον.",
+        "translations": [
+          "Now at this time the Massagetae were ruled by a queen called Tomyris, whose husband was dead. Cyrus sent a message with a pretence of wanting her for his wife, but Tomyris would have none of his advances, well understanding that he wanted not her but the kingdom of the Massagetae."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Κῦρος δὲ μετὰ τοῦτο, ὥς οἱ δόλῳ οὐ προεχώρεε, ἐλάσας ἐπὶ τὸν Ἀράξεα ἐποιέετο ἐκ τοῦ ἐμφανέος ἐπὶ τοὺς Μασσαγέτας στρατηίην, γεφύρας τε ζευγνύων ἐπὶ τοῦ ποταμοῦ διάβασιν τῷ στρατῷ, καὶ πύργους ἐπὶ πλοίων τῶν διαπορθμευόντων τὸν ποταμὸν οἰκοδομεόμενος.",
+        "translations": [
+          "So when guile was of no avail, Cyrus marched to the Araxes and openly prepared to attack the Massagetae; he bridged the river for his army to cross, and built towers on the pontoons bridging the river."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.115",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.115/",
+    "rhemai": [
+      {
+        "greek": "ἀκούσας δὲ καὶ ἰδὼν Ἀστυάγης, θέλων τιμωρῆσαι τῷ παιδὶ τιμῆς τῆς Ἀρτεμβάρεος εἵνεκα, μετεπέμπετο τόν τε βουκόλον καὶ τὸν παῖδα. ἐπείτε δὲ παρῆσαν ἀμφότεροι, βλέψας πρὸς τὸν Κῦρον ὁ Ἀστυάγης ἔφη",
+        "translations": [
+          "When Astyages heard and saw, he was ready to avenge the boy in view of Artembares ' rank: so he sent for the cowherd and his son. When they were both present, Astyages said, fixing his eyes on Cyrus,"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "σὺ δὴ ἐὼν τοῦδε τοιούτου ἐόντος παῖς ἐτόλμησας τὸν τοῦδε παῖδα ἐόντος πρώτου παρʼ ἐμοὶ ἀεικείῃ τοιῇδε περισπεῖν; ὁ δὲ ἀμείβετο ὧδε. ὦ δέσποτα, ἐγὼ ταῦτα τοῦτον ἐποίησα σὺν δίκῃ. οἱ γάρ με ἐκ τῆς κώμης παῖδες, τῶν καὶ ὅδε ἦν, παίζοντες σφέων αὐτῶν ἐστήσαντο βασιλέα· ἐδόκεον γὰρ σφι εἶναι ἐς τοῦτο ἐπιτηδεότατος.",
+        "translations": [
+          "“Is it you, then, the child of one such as this, who have dared to lay hands on the son of the greatest of my courtiers?” Cyrus answered, “Master, what I did to him I did with justice. The boys of the village, of whom he was one, chose me while playing to be their king, for they thought me the most fit for this."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οἱ μέν νυν ἄλλοι παῖδες τὰ ἐπιτασσόμενα ἐπετέλεον, οὗτος δὲ ἀνηκούστεέ τε καὶ λόγον εἶχε οὐδένα, ἐς ὃ ἔλαβὲ τὴν δίκην. εἰ ὦν δὴ τοῦδε εἵνεκα ἄξιός τευ κακοῦ εἰμί, ὅδε τοὶ πάρειμι.",
+        "translations": [
+          "The other boys then did as assigned: but this one was disobedient and cared nothing for me, for which he got what he deserved. Now, if I deserve punishment for this, here I am to take it.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

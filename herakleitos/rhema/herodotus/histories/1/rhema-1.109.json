@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.109",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.109/",
+    "rhemai": [
+      {
+        "greek": "τούτοισι ἀμειψάμενος ὁ Ἅρπαγος, ὥς οἱ παρεδόθη τὸ παιδίον κεκοσμημένον τὴν ἐπὶ θανάτῳ ἤιε κλαίων ἐς τὰ οἰκία· παρελθὼν δὲ ἔφραζε τῇ ἑωυτοῦ γυναικὶ τὸν πάντα Ἀστυάγεος ῥηθέντα λόγον.",
+        "translations": [
+          "Harpagus answered thus. The child was then given to him, consigned to its death, and he went to his house weeping. When he came in, he told his wife the entire speech uttered by Astyages."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἣ δὲ πρὸς αὐτὸν λέγει νῦν ὦν τί σοὶ ἐν νόῳ ἐστὶ ποιέειν; ὁ δὲ ἀμείβεται οὐ τῇ ἐνετέλλετο Ἀστυάγης, οὐδʼ εἰ παραφρονήσει τε καὶ μανέεται κάκιον ἢ νῦν μαίνεται, οὔ οἱ ἔγωγε προσθήσομαι τῇ γνώμῃ οὐδὲ ἐς φόνον τοιοῦτον ὑπηρετήσω.",
+        "translations": [
+          "“Now, then,” she said to him, “what do you propose to do?” “Not to obey Astyages ' instructions,” he answered, “not even if he should lose his mind and be more frantic than he is now: I will not lend myself to his plan or be an accessory to such a murder."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "πολλῶν δὲ εἵνεκα οὐ φονεύσω μιν, καὶ ὅτι αὐτῷ μοι συγγενής ἐστὶ ὁ παῖς, καὶ ὅτι Ἀστυάγης μὲν ἐστὶ γέρων καὶ ἅπαις ἔρσενος γόνου·",
+        "translations": [
+          "There are many reasons why I will not kill him: because the child is related to me, and because Astyages is old and has no male children."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "εἰ δʼ ἐθελήσει τούτου τελευτήσαντος ἐς τὴν θυγατέρα ταύτην ἀναβῆναι ἡ τυραννίς, τῆς νῦν τὸν υἱὸν κτείνει διʼ ἐμεῦ, ἄλλο τι ἢ λείπεται τὸ ἐνθεῦτεν ἐμοὶ κινδύνων ὁ μέγιστος; ἀλλὰ τοῦ μὲν ἀσφαλέος εἵνεκα ἐμοὶ δεῖ τοῦτον τελευτᾶν τὸν παῖδα, δεῖ μέντοι τῶν τινα Ἀστυάγεος αὐτοῦ φονέα γενέσθαι καὶ μὴ τῶν ἐμῶν.",
+        "translations": [
+          "Now if the sovereignty passes to this daughter of his after his death, whose son he is now killing by means of me, what is left for me but the gravest of all dangers? For the sake of my safety this child has to die; but one of Astyages ' own people has to be the murderer and not one of mine.”"
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.29",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.29/",
+    "rhemai": [
+      {
+        "greek": "ἀπικνέονται ἐς Σάρδις ἀκμαζούσας πλούτῳ ἄλλοι τε οἱ πάντες ἐκ τῆς Ἑλλάδος σοφισταί, οἳ τοῦτον τὸν χρόνον ἐτύγχανον ἐόντες, ὡς ἕκαστος αὐτῶν ἀπικνέοιτο, καὶ δὴ καὶ Σόλων ἀνὴρ Ἀθηναῖος, ὃς Ἀθηναίοισι νόμους κελεύσασι ποιήσας ἀπεδήμησε ἔτεα δέκα κατά θεωρίης πρόφασιν ἐκπλώσας,ἵνα δὴ μή τινα τῶν νόμων ἀναγκασθῇ, λῦσαι τῶν ἔθετο.",
+        "translations": [
+          "and after these were subdued and subject to Croesus in addition to the Lydians, all the sages from Hellas who were living at that time, coming in different ways, came to Sardis, which was at the height of its property; and among them came Solon the Athenian, who, after making laws for the Athenians at their request, went abroad for ten years, sailing forth to see the world, he said. This he did so as not to be compelled to repeal any of the laws he had made,"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "αὐτοὶ γὰρ οὐκ οἷοί τε ἦσαν αὐτὸ ποιῆσαι Ἀθηναῖοι· ὁρκίοισι γὰρ μεγάλοισι κατείχοντο δέκα ἔτεα χρήσεσθαι νόμοισι τοὺς ἄν σφι Σόλων θῆται.",
+        "translations": [
+          "since the Athenians themselves could not do that, for they were bound by solemn oaths to abide for ten years by whatever laws Solon should make."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

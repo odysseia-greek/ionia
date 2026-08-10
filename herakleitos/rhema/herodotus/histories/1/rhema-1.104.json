@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.104",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.104/",
+    "rhemai": [
+      {
+        "greek": "ἔστι δὲ ἀπὸ τῆς λίμνης τῆς Μαιήτιδος ἐπὶ Φᾶσιν ποταμὸν καὶ ἐς Κόλχους τριήκοντα ἡμερέων εὐζώνῳ ὁδός, ἐκ δὲ τῆς Κολχίδος οὐ πολλὸν ὑπερβῆναι ἐς τὴν Μηδικήν, ἀλλʼ ἓν τὸ διὰ μέσου ἔθνος αὐτῶν ἐστι, Σάσπειρες, τοῦτο δὲ παραμειβομένοισι εἶναι ἐν τῇ Μηδικῇ.",
+        "translations": [
+          "It is a thirty days' journey for an unencumbered man from the Maeetian lake to the river Phasis and the land of the Colchi; from the Colchi it is an easy matter to cross into Media: there is only one nation between, the Saspires; to pass these is to be in Media."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὐ μέντοι οἵ γε Σκύθαι ταύτῃ ἐσέβαλον, ἀλλὰ τὴν κατύπερθε ὁδὸν πολλῷ μακροτέρην ἐκτραπόμενοι, ἐν δεξιῇ ἔχοντες τὸ Καυκάσιον ὄρος. ἐνθαῦτα οἱ μὲν Μῆδοι συμβαλόντες τοῖσι Σκύθῃσι καὶ ἑσσωθέντες τῇ μάχῃ τῆς ἀρχῆς κατελύθησαν. οἱ δὲ Σκύθαι τὴν Ἀσίην πᾶσαν ἐπέσχον.",
+        "translations": [
+          "Nevertheless, it was not by this way that the Scythians entered; they turned aside and came by the upper and much longer way, keeping the Caucasian mountains on their right. There, the Medes met the Scythians, who defeated them in battle, deprived them of their rule, and made themselves masters of all Asia."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

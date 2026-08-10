@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.74",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.74/",
+    "rhemai": [
+      {
+        "greek": "μετὰ δὲ ταῦτα, οὐ γὰρ δὴ ὁ Ἀλυάττης ἐξεδίδου τοὺς Σκύθας ἐξαιτέοντι Κυαξάρῃ, πόλεμος τοῖσι Λυδοῖσι καὶ τοῖσι Μήδοισι ἐγεγόνεε ἐπʼ ἔτεα πέντε, ἐν τοῖσι πολλάκις μὲν οἱ Μῆδοι τοὺς Λυδοὺς ἐνίκησαν, πολλάκις δὲ οἱ Λυδοὶ τοὺς Μήδους, ἐν δὲ καὶ νυκτομαχίην τινὰ ἐποιήσαντο·",
+        "translations": [
+          "After this, since Alyattes would not give up the Scythians to Cyaxares at his demand, there was war between the Lydians and the Medes for five years; each won many victories over the other, and once they fought a battle by night."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "διαφέρουσι δέ σφι ἐπὶ ἴσης τὸν πόλεμον τῷ ἕκτῳ ἔτεϊ συμβολῆς γενομένης συνήνεικε ὥστε τῆς μάχης συνεστεώσης τὴν ἡμέρην ἐξαπίνης νύκτα γενέσθαι. τὴν δὲ μεταλλαγὴν ταύτην τῇ ἡμέρης Θαλῆς ὁ Μιλήσιος τοῖσι Ἴωσι προηγόρευσε ἔσεσθαι, οὖρον προθέμενος ἐνιαυτὸν τοῦτον ἐν τῷ δὴ καὶ ἐγένετο ἡ μεταβολή.",
+        "translations": [
+          "They were still warring with equal success, when it happened, at an encounter which occurred in the sixth year, that during the battle the day was suddenly turned to night. Thales of Miletus had foretold this loss of daylight to the Ionians, fixing it within the year in which the change did indeed happen."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οἱ δὲ Λυδοί τε καὶ οἱ Μῆδοι ἐπείτε εἶδον νύκτα ἀντὶ ἡμέρης γενομένην, τῆς μάχης τε ἐπαύσαντο καὶ μᾶλλόν τι ἔσπευσαν καὶ ἀμφότεροι εἰρήνην ἑωυτοῖσι γενέσθαι. οἱ δὲ συμβιβάσαντες αὐτοὺς ἦσαν οἵδε, Συέννεσίς τε ὁ Κίλιξ καὶ Λαβύνητος ὁ Βαβυλώνιος.",
+        "translations": [
+          "So when the Lydians and Medes saw the day turned to night, they stopped fighting, and both were the more eager to make peace. Those who reconciled them were Syennesis the Cilician and Labynetus the Babylonian;"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "οὗτοί σφι καὶ τὸ ὅρκιον οἱ σπεύσαντες γενέσθαι ἦσαν καὶ γάμων ἐπαλλαγὴν ἐποίησαν· Ἀλυάττεα γὰρ ἔγνωσαν δοῦναι τὴν θυγατέρα Ἀρύηνιν Ἀστυάγεϊ τῷ Κυαξάρεω παιδί· ἄνευ γὰρ ἀναγκαίης ἰσχυρῆς συμβάσιες ἰσχυραὶ οὐκ ἐθέλουσι συμμένειν.",
+        "translations": [
+          "they brought it about that there should be a sworn agreement and a compact of marriage between them: they judged that Alyattes should give his daughter Aryenis to Astyages, son of Cyaxares; for without strong constraint agreements will not keep their force."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ὅρκια δὲ ποιέεται ταῦτα τὰ ἔθνεα τὰ πέρ τε Ἕλληνες, καὶ πρὸς τούτοισι, ἐπεὰν τοὺς βραχίονας ἐπιτάμωνται ἐς τὴν ὁμοχροίην, τὸ αἷμα ἀναλείχουσι ἀλλήλων.",
+        "translations": [
+          "These nations make sworn compacts as do the Greeks; and besides, when they cut the skin of their arms, they lick each other's blood."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

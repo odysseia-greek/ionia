@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.143",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.143/",
+    "rhemai": [
+      {
+        "greek": "τούτων δὴ ὦν τῶν Ἰώνων οἱ Μιλήσιοι μὲν ἦσαν ἐν σκέπῃ τοῦ φόβου, ὅρκιον ποιησάμενοι, τοῖσι δὲ αὐτῶν νησιώτῃσι ἦν δεινὸν οὐδέν· οὔτε γὰρ Φοίνικες ἦσαν κω Περσέων κατήκοοι οὔτε αὐτοὶ οἱ Πέρσαι ναυβάται.",
+        "translations": [
+          "Among these Ionians, the Milesians were safe from the danger (for they had made a treaty), and the islanders among them had nothing to fear: for the Phoenicians were not yet subjects of the Persians, nor were the Persians themselves mariners."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἀπεσχίσθησαν δὲ ἀπὸ τῶν ἄλλων Ἰώνων οὗτοι κατʼ ἄλλο μὲν οὐδέν, ἀσθενέος δὲ ἐόντος τοῦ παντὸς τότε Ἑλληνικοῦ γένεος, πολλῷ δὴ ἦν ἀσθενέστατον τῶν ἐθνέων τὸ Ἰωνικὸν καὶ λόγου ἐλαχίστου· ὅτι γὰρ μὴ Ἀθῆναι, ἦν οὐδὲν ἄλλο πόλισμα λόγιμον.",
+        "translations": [
+          "But those of Asia were cut off from the rest of the Ionians only in the way that I shall show. The whole Hellenic stock was then small, and the last of all its branches and the least regarded was the Ionian; for it had no considerable city except Athens."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οἱ μέν νυν ἄλλοι Ἴωνες καὶ οἱ Ἀθηναῖοι ἔφυγον τὸ οὔνομα, οὐ βουλόμενοι Ἴωνες κεκλῆσθαι, ἀλλὰ καὶ νῦν φαίνονταί μοι οἱ πολλοὶ αὐτῶν ἐπαισχύνεσθαι τῷ οὐνόματι· αἱ δὲ δυώδεκα πόλιες αὗται τῷ τε οὐνόματι ἠγάλλοντο καὶ ἱρὸν ἱδρύσαντο ἐπὶ σφέων αὐτέων, τῷ οὔνομα ἔθεντο Πανιώνιον, ἐβουλεύσαντο δὲ αὐτοῦ μεταδοῦναι μηδαμοῖσι ἄλλοισι Ἰώνων (οὐδʼ ἐδεήθησαν δὲ οὐδαμοὶ μετασχεῖν ὅτι μὴ Σμυρναῖοι)·",
+        "translations": [
+          "Now the Athenians and the rest would not be called Ionians, but spurned the name; even now the greater number of them seem to me to be ashamed of it; but the twelve cities aforesaid gloried in this name, and founded a holy place for themselves which they called the Panionion, and agreed among themselves to allow no other Ionians to use it (nor in fact did any except the men of Smyrna ask to be admitted);"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.28",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.28/",
+    "rhemai": [
+      {
+        "greek": "χρόνου δὲ ἐπιγινομένου καὶ κατεστραμμένων σχεδὸν πάντων τῶν ἐντὸς Ἅλυος ποταμοῦ οἰκημένων· πλὴν γὰρ Κιλίκων καὶ Λυκίων τοὺς ἄλλους πάντας ὑπʼ ἑωυτῷ εἶχε καταστρεψάμενος ὁ Κροῖσος. εἰσὶ δὲ οἵδε, Λυδοί, Φρύγες, Μυσοί, Μαριανδυνοί, Χάλυβες, Παφλαγόνες, Θρήικες οἱ Θυνοί τε καὶ Βιθυνοί, Κᾶρες, Ἴωνες, Δωριέες, Αἰολέες, Πάμφυλοι κατεστραμμένων δὲ τούτων καὶ προσεπικτωμένου Κροίσου Λυδοῖσι,",
+        "translations": [
+          "As time went on, Croesus subjugated almost all the nations west of the Halys; for except the Cilicians and Lycians, all the rest Croesus held subject under him. These were the Lydians, Phrygians, Mysians, Mariandynians, Chalybes, Paphlagonians, the Thracian Thynians and Bithynians, Carians, Ionians, Dorians, Aeolians, and Pamphylians;"
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

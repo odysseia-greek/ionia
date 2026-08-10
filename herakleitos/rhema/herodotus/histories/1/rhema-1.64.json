@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.64",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.64/",
+    "rhemai": [
+      {
+        "greek": "πειθομένων δὲ τῶν Ἀθηναίων, οὕτω δὴ Πεισίστρατος τὸ τρίτον σχὼν Ἀθήνας ἐρρίζωσε τὴν τυραννίδα ἐπικούροισί τε πολλοῖσι καὶ χρημάτων συνόδοισι, τῶν μὲν αὐτόθεν τῶν δὲ ἀπὸ Στρυμόνος ποταμοῦ συνιόντων, ὁμήρους τε τῶν παραμεινάντων Ἀθηναίων καὶ μὴ αὐτίκα φυγόντων παῖδας λαβὼν καὶ καταστήσας ἐς Νάξον",
+        "translations": [
+          "The Athenians did, and by this means Pisistratus gained Athens for the third time, rooting his sovereignty in a strong guard and revenue collected both from Athens and from the district of the river Strymon, and he took hostage the sons of the Athenians who remained and did not leave the city at once, and placed these in Naxos."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "(καὶ γὰρ ταύτην ὁ Πεισίστρατος κατεστρέψατο πολέμῳ καὶ ἐπέτρεψε Λυγδάμι) πρὸς τε ἔτι τούτοισι τὴν νῆσον Δῆλον καθήρας ἐκ τῶν λογίων καθήρας δὲ ὧδε· ἐπʼ ὅσον ἔποψις τοῦ ἱροῦ εἶχε, ἐκ τούτου τοῦ χώρου παντὸς ἐξορύξας τοὺς νεκροὺς μετεφόρεε ἐς ἄλλον χῶρον τῆς Δήλου.",
+        "translations": [
+          "(He had conquered Naxos too and put Lygdamis in charge.) And besides this, he purified the island of Delos as a result of oracles, and this is how he did it: he removed all the dead that were buried in ground within sight of the temple and conveyed them to another part of Delos."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "καὶ Πεισίστρατος μὲν ἐτυράννευε Ἀθηνέων, Ἀθηναίων δὲ οἳ μὲν ἐν τῇ μάχη ἐπεπτώκεσαν, οἳ δὲ αὐτῶν μετʼ Ἀλκμεωνιδέων ἔφευγον ἐκ τῆς οἰκηίης.",
+        "translations": [
+          "So Pisistratus was sovereign of Athens: and as for the Athenians, some had fallen in the battle, and some, with the Alcmeonids, were exiles from their native land."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.130",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.130/",
+    "rhemai": [
+      {
+        "greek": "Ἀστυάγης μέν νυν βασιλεύσας ἐπʼ ἔτεα πέντε καὶ τριήκοντα οὕτω τῆς βασιληίης κατεπαύσθη, Μῆδοι δὲ ὑπέκυψαν Πέρσῃσι διὰ τὴν τούτου πικρότητα, ἄρξαντες τῆς ἄνω Ἅλυος ποταμοῦ Ἀσίης ἐπʼ ἔτεα τριήκοντα καὶ ἑκατὸν δυῶν δέοντα, πάρεξ ἢ ὅσον οἱ Σκύθαι ἦρχον.",
+        "translations": [
+          "Thus Astyages was deposed from his sovereignty after a reign of thirty-five years: and the Medes had to bow down before the Persians because of Astyages ' cruelty. They had ruled all Asia beyond the Halys for one hundred and twenty-eight years, from which must be subtracted the time when the Scythians held sway."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὑστέρῳ μέντοι χρόνῳ μετεμέλησέ τέ σφι ταῦτα ποιήσασι καὶ ἀπέστησαν ἀπὸ Δαρείου, ἀποστάντες δὲ ὀπίσω κατεστράφθησαν μάχῃ νικηθέντες. τότε δὲ ἐπὶ Ἀστυάγεος οἱ Πέρσαι τε καὶ ὁ Κῦρος ἐπαναστάντες τοῖσι Μήδοισι ἦρχον τὸ ἀπὸ τούτου τῆς Ἀσίης.",
+        "translations": [
+          "At a later time they repented of what they now did, and rebelled against Darius; but they were defeated in battle and brought back into subjection. But now, in Astyages ' time, Cyrus and the Persians rose in revolt against the Medes, and from this time ruled Asia."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Ἀστυάγεα δὲ Κῦρος κακὸν οὐδὲν ἄλλο ποιήσας εἶχε παρʼ ἑωυτῷ, ἐς ὃ ἐτελεύτησε. οὕτω δὴ Κῦρος γενόμενός τε καὶ τραφεὶς ἐβασίλευσε καὶ Κροῖσον ὕστερον τούτων ἄρξαντα ἀδικίης κατεστρέψατο, ὡς εἴρηταί μοι πρότερον, τοῦτον δὲ καταστρεψάμενος οὕτω πάσης τῆς Ἀσίης ἦρξε.",
+        "translations": [
+          "As for Astyages, Cyrus did him no further harm, and kept him in his own house until Astyages died. This is the story of the birth and upbringing of Cyrus, and of how he became king; and afterwards, as I have already related, he subjugated Croesus in punishment for the unprovoked wrong done him; and after this victory he became sovereign of all Asia."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

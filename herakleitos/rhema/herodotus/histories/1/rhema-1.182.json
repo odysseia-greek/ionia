@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.182",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.182/",
+    "rhemai": [
+      {
+        "greek": "φασὶ δὲ οἱ αὐτοὶ οὗτοι, ἐμοὶ μὲν οὐ πιστὰ λέγοντες, τὸν θεὸν αὐτὸν φοιτᾶν τε ἐς τὸν νηὸν καὶ ἀμπαύεσθαι ἐπὶ τῆς κλίνης, κατά περ ἐν Θήβῃσι τῇσι Αἰγυπτίῃσι κατὰ τὸν αὐτὸν τρόπον, ὡς λέγουσι οἱ Αἰγύπτιοι·",
+        "translations": [
+          "These same Chaldaeans say (though I do not believe them) that the god himself is accustomed to visit the shrine and rest on the couch, as in Thebes of Egypt, as the Egyptians say"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "καὶ γὰρ δὴ ἐκεῖθι κοιμᾶται ἐν τῷ τοῦ Διὸς τοῦ Θηβαιέος γυνή, ἀμφότεραι δὲ αὗται λέγονται ἀνδρῶν οὐδαμῶν ἐς ὁμιλίην φοιτᾶν· καὶ κατά περ ἐν Πατάροισι τῆς Λυκίης ἡ πρόμαντις τοῦ θεοῦ, ἐπεὰν γένηται· οὐ γὰρ ὦν αἰεί ἐστι χρηστήριον αὐτόθι· ἐπεὰν δὲ γένηται τότε ὦν συγκατακληίεται τὰς νύκτας ἔσω ἐν τῷ νηῷ.",
+        "translations": [
+          "(for there too a woman sleeps in the temple of Theban Zeus, and neither the Egyptian nor the Babylonian woman, it is said, has intercourse with men), and as does the prophetess of the god at Patara in Lycia, whenever she is appointed; for there is not always a place of divination there; but when she is appointed she is shut up in the temple during the night."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

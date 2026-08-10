@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.18",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.18/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα ποιέων ἐπολέμεε ἔτεα ἕνδεκα, ἐν τοῖσι τρώματα μεγάλα διφάσια Μιλησίων ἐγένετο, ἔν τε Λιμενηίῳ χώρης τῆς σφετέρης μαχεσαμένων καὶ ἐν Μαιάνδρου πεδίῳ.",
+        "translations": [
+          "He waged war in this way for eleven years, and in these years two great disasters overtook the Milesians, one at the battle of Limeneion in their own territory, and the other in the valley of the Maeander."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τὰ μέν νυν ἓξ ἔτεα τῶν ἕνδεκα Σαδυάττης ὁ Ἄρδυος ἔτι Λυδῶν ἦρχε, ὁ καὶ ἐσβάλλων τηνικαῦτα ἐς τὴν Μιλησίην τὴν στρατιήν· Σαδυάττης οὗτος γὰρ καὶ ὁ τὸν πόλεμον ἦν συνάψας· τὰ δὲ πέντε τῶν ἐτέων τὰ ἑπόμενα τοῖσι ἓξ Ἀλυάττης ὁ Σαδυάττεω ἐπολέμεε, ὃς παραδεξάμενος, ὡς καὶ πρότερον μοι δεδήλωται, παρὰ τοῦ πατρὸς τὸν πόλεμον προσεῖχε ἐντεταμένως.",
+        "translations": [
+          "For six of these eleven years Sadyattes son of Ardys was still ruler of Lydia, and it was he who invaded the lands of Miletus, for it was he who had begun the war; for the following five the war was waged by Sadyattes ' son Alyattes, who, as I have indicated before, inherited the war from his father and carried it on vigorously."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τοῖσι δὲ Μιλησίοισι οὐδαμοὶ Ἰώνων τὸν πόλεμον τοῦτον συνεπελάφρυνον ὅτι μὴ Χῖοι μοῦνοι. οὗτοι δὲ τὸ ὅμοιον ἀνταποδιδόντες ἐτιμώρεον· καὶ γὰρ δὴ πρότερον οἱ Μιλήσιοι τοῖσι Χίοισι τὸν πρὸς Ἐρυθραίους πόλεμον συνδιήνεικαν.",
+        "translations": [
+          "None of the Ionians helped to lighten this war for the Milesians, except the Chians: these lent their aid in return for a similar service done for them; for the Milesians had previously helped the Chians in their war against the Erythraeans."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

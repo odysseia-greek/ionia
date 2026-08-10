@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.178",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.178/",
+    "rhemai": [
+      {
+        "greek": "Κῦρος ἐπείτε τὰ πάντα τῆς ἠπείρου ὑποχείρια ἐποιήσατο, Ἀσσυρίοισι ἐπετίθετο. τῆς δὲ Ἀσσυρίης ἐστὶ μὲν κου καὶ ἄλλα πολίσματα μεγάλα πολλά, τὸ δὲ ὀνομαστότατον καὶ ἰσχυρότατον καὶ ἔνθα σφι Νίνου ἀναστάτου γενομένης τὰ βασιλήια κατεστήκεε, ἦν Βαβυλών, ἐοῦσα τοιαύτη δή τις πόλις.",
+        "translations": [
+          "When Cyrus had made all the mainland submit to him, he attacked the Assyrians. In Assyria there are many other great cities, but the most famous and the strongest was Babylon, where the royal dwelling had been established after the destruction of Ninus. Babylon was a city such as I will now describe."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "κέεται ἐν πεδίῳ μεγάλῳ, μέγαθος ἐοῦσα μέτωπον ἕκαστον εἴκοσι καὶ ἑκατὸν σταδίων, ἐούσης τετραγώνου· οὗτοι στάδιοι τῆς περιόδου τῆς πόλιος γίνονται συνάπαντες ὀγδώκοντα καὶ τετρακόσιοι, τὸ μέν νυν μέγαθος τοσοῦτον ἐστὶ τοῦ ἄστεος τοῦ Βαβυλωνίου, ἐκεκόσμητο δὲ ὡς οὐδὲν ἄλλο πόλισμα τῶν ἡμεῖς ἴδμεν.",
+        "translations": [
+          "It lies in a great plain, and is in shape a square, each side fifteen miles in length; thus sixty miles make the complete circuit of the city. Such is the size of the city of Babylon; and it was planned like no other city of which we know."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τάφρος μὲν πρῶτά μιν βαθέα τε καὶ εὐρέα καὶ πλέη ὕδατος περιθέει, μετὰ δὲ τεῖχος πεντήκοντα μὲν πηχέων βασιληίων ἐὸν τὸ εὖρος, ὕψος δὲ διηκοσίων πηχέων· ὁ δὲ βασιλήιος πῆχυς τοῦ μετρίου ἐστὶ πήχεος μέζων τρισὶ δακτύλοισι.",
+        "translations": [
+          "Around it runs first a moat deep and wide and full of water, and then a wall eighty three feet thick and three hundred thirty three feet high. The royal measure is greater by three fingers' breadth than the common measure."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

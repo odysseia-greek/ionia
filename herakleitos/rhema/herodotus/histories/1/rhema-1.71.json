@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.71",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.71/",
+    "rhemai": [
+      {
+        "greek": "Κροῖσος δὲ ἁμαρτὼν τοῦ χρησμοῦ ἐποιέετο στρατηίην ἐς Καππαδοκίην, ἐλπίσας καταιρήσειν Κῦρόν τε καὶ τὴν Περσέων δύναμιν.",
+        "translations": [
+          "Croesus, mistaking the meaning of the oracle, invaded Cappadocia, expecting to destroy Cyrus and the Persian power."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "παρασκευαζομένου δὲ Κροίσου στρατεύεσθαι ἐπὶ Πέρσας, τῶν τις Λυδῶν νομιζόμενος καὶ πρόσθε εἶναι σοφός, ἀπὸ δὲ ταύτης τῆς γνώμης καὶ τὸ κάρτα οὔνομα ἐν Λυδοῖσι ἔχων, συνεβούλευσε Κροίσῳ τάδε· οὔνομά οἱ ἦν Σάνδανις. ὦ βασιλεῦ, ἐπʼ ἄνδρας τοιούτους στρατεύεσθαι παρασκευάζεαι, οἳ σκυτίνας μὲν ἀναξυρίδας σκυτίνην δὲ τὴν ἄλλην ἐσθῆτα φορέουσι, σιτέονται δὲ οὐκ ὅσα ἐθέλουσι ἀλλʼ ὅσα ἔχουσι, χώρην ἔχοντες τρηχέαν.",
+        "translations": [
+          "But while he was preparing to march against the Persians, a certain Lydian, who was already held to be a wise man, and who, from the advice which he now gave, won a great name among the Lydians, advised him as follows (his name was Sandanis ): “O King, you are getting ready to march against men who wear trousers of leather and whose complete wardrobe is of leather, and who eat not what they like but what they have; for their land is stony."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "πρὸς δὲ οὐκ οἴνῳ διαχρέωνται ἀλλὰ ὑδροποτέουσι, οὐ σῦκα δὲ ἔχουσι τρώγειν, οὐκ ἄλλο ἀγαθὸν οὐδέν. τοῦτο μὲν δή, εἰ νικήσεις, τί σφέας ἀπαιρήσεαι, τοῖσί γε μὴ ἔστι μηδέν; τοῦτο δέ, ἢν νικηθῇς, μάθε ὅσα ἀγαθὰ ἀποβαλέεις· γευσάμενοι γὰρ τῶν ἡμετέρων ἀγαθῶν περιέξονται οὐδὲ ἀπωστοὶ ἔσονται.",
+        "translations": [
+          "Further, they do not use wine, but drink water, have no figs to eat, or anything else that is good. Now if you conquer them, of what will you deprive them, since they have nothing? But if on the other hand you are conquered, then look how many good things you will lose; for once they have tasted of our blessings they will cling so tightly to them that nothing will pry them away."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἐγὼ μέν νυν θεοῖσι ἔχω χάριν, οἳ οὐκ ἐπὶ νόον ποιέουσι Πέρσῃσι στρατεύεσθαι ἐπὶ Λυδούς. ταῦτα λέγων οὐκ ἔπειθε τὸν Κροῖσον. Πέρσῃσι γάρ, πρὶν Λυδοὺς καταστρέψασθαι, ἦν οὔτε ἁβρὸν οὔτε ἀγαθὸν οὐδέν.",
+        "translations": [
+          "For myself, then, I thank the gods that they do not put it in the heads of the Persians to march against the Lydians.” Sandanis spoke thus but he did not persuade Croesus. Indeed, before they conquered the Lydians, the Persians had no luxury and no comforts."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

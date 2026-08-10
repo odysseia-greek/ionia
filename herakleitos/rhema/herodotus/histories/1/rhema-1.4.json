@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.4",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.4/",
+    "rhemai": [
+      {
+        "greek": "μέχρι μὲν ὤν τούτου ἁρπαγάς μούνας εἶναι παρʼ ἀλλήλων, τὸ δὲ ἀπὸ τούτου Ἕλληνας δὴ μεγάλως αἰτίους γενέσθαι· προτέρους γὰρ ἄρξαι στρατεύεσθαι ἐς τὴν Ἀσίην ἢ σφέας ἐς τὴν Εὐρώπην.",
+        "translations": [
+          "So far it was a matter of mere seizure on both sides. But after this (the Persians say), the Greeks were very much to blame; for they invaded Asia before the Persians attacked Europe."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τὸ μέν νυν ἁρπάζειν γυναῖκας ἀνδρῶν ἀδίκων νομίζειν ἔργον εἶναι, τὸ δὲ ἁρπασθεισέων σπουδήν ποιήσασθαι τιμωρέειν ἀνοήτων, τὸ δὲ μηδεμίαν ὤρην ἔχειν ἁρπασθεισέων σωφρόνων· δῆλα γὰρ δὴ ὅτι, εἰ μὴ αὐταὶ ἐβούλοντο, οὐκ ἂν ἡρπάζοντο.",
+        "translations": [
+          "“We think,” they say, “that it is unjust to carry women off. But to be anxious to avenge rape is foolish: wise men take no notice of such things. For plainly the women would never have been carried away, had they not wanted it themselves."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "σφέας μὲν δὴ τοὺς ἐκ τῆς Ἀσίης λέγουσι Πέρσαι ἁρπαζομενέων τῶν γυναικῶν λόγον οὐδένα ποιήσασθαι, Ἕλληνας δὲ Λακεδαιμονίης εἵνεκεν γυναικὸς στόλον μέγαν συναγεῖραι καὶ ἔπειτα ἐλθόντας ἐς τὴν Ἀσίην τὴν Πριάμου δύναμιν κατελεῖν.",
+        "translations": [
+          "We of Asia did not deign to notice the seizure of our women; but the Greeks, for the sake of a Lacedaemonian woman, recruited a great armada, came to Asia, and destroyed the power of Priam."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἀπὸ τούτου αἰεὶ ἡγήσασθαι τὸ Ἑλληνικὸν σφίσι εἶναι πολέμιον. τὴν γὰρ Ἀσίην καὶ τὰ ἐνοικέοντα ἔθνεα βάρβαρα οἰκηιεῦνται οἱ Πέρσαι, τὴν δὲ Εὐρώπην καὶ τὸ Ἑλληνικόν ἥγηνται κεχωρίσθαι.",
+        "translations": [
+          "Ever since then we have regarded Greeks as our enemies.” For the Persians claim Asia for their own, and the foreign peoples that inhabit it; Europe and the Greek people they consider to be separate from them."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

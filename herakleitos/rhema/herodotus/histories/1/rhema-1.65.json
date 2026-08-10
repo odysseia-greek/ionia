@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.65",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.65/",
+    "rhemai": [
+      {
+        "greek": "τοὺς μέν νυν Ἀθηναίους τοιαῦτα τὸν χρόνον τοῦτον ἐπυνθάνετο ὁ Κροῖσος κατέχοντα, τοὺς δὲ Λακεδαιμονίους ἐκ κακῶν τε μεγάλων πεφευγότας καὶ ἐόντας ἤδη τῷ πολέμῳ κατυπερτέρους Τεγεητέων. ἐπὶ γὰρ Λέοντος βασιλεύοντος καὶ Ἡγησικλέος ἐν Σπάρτῃ τοὺς ἄλλους πολέμους εὐτυχέοντες οἱ Λακεδαιμόνιοι πρὸς Τεγεήτας μούνους προσέπταιον.",
+        "translations": [
+          "So Croesus learned that at that time such problems were oppressing the Athenians, but that the Lacedaemonians had escaped from the great evils and had mastered the Tegeans in war. In the kingship of Leon and Hegesicles at Sparta, the Lacedaemonians were successful in all their other wars but met disaster only against the Tegeans."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τὸ δὲ ἔτι πρότερον τούτων καί κακονομώτατοι ἦσαν σχεδὸν πάντων Ἑλλήνων κατά τε σφέας αὐτοὺς καὶ ξείνοισι ἀπρόσμικτοι· μετέβαλον δὲ ὧδε ἐς εὐνομίην. Λυκούργου τῶν Σπαρτιητέων δοκίμου ἀνδρὸς ἐλθόντος ἐς Δελφοὺς ἐπὶ τὸ χρηστήριον, ὡς ἐσήιε ἐς τὸ μέγαρον, εὐθὺς ἡ Πυθίη λέγει τάδε.",
+        "translations": [
+          "Before this they had been the worst-governed of nearly all the Hellenes and had had no dealings with strangers, but they changed to good government in this way: Lycurgus, a man of reputation among the Spartans, went to the oracle at Delphi. As soon as he entered the hall, the priestess said in hexameter:"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἥκεις ὦ Λυκόοργε ἐμὸν ποτὶ πίονα νηόν Ζηνὶ φίλος καὶ πᾶσιν Ὀλύμπια δώματʼ ἔχουσι. δίζω ἤ σε θεὸν μαντεύσομαι ἢ ἄνθρωπον. ἀλλʼ ἔτι καὶ μᾶλλον θεὸν ἔλπομαι, ὦ Λυκόοργε.",
+        "translations": [
+          "You have come to my rich temple, Lycurgus, A man dear to Zeus and to all who have Olympian homes. I am in doubt whether to pronounce you man or god, But I think rather you are a god, Lycurgus."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "οἳ μὲν δή τινες πρὸς τούτοισι λέγουσι καὶ φράσαι αὐτῷ τὴν Πυθίην τὸν νῦν κατεστεῶτα κόσμον Σπαρτιήτῃσι. ὡς δʼ αὐτοὶ Λακεδαιμόνιοι λέγουσι, Λυκοῦργον ἐπιτροπεύσαντα Λεωβώτεω, ἀδελφιδέου μὲν ἑωυτοῦ βασιλεύοντος δὲ Σπαρτιητέων, ἐκ Κρήτης ἀγαγέσθαι ταῦτα.",
+        "translations": [
+          "Some say that the Pythia also declared to him the constitution that now exists at Sparta, but the Lacedaemonians themselves say that Lycurgus brought it from Crete when he was guardian of his nephew Leobetes, the Spartan king."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ὡς γὰρ ἐπετρόπευσε τάχιστα, μετέστησε τὰ νόμιμα πάντα, καὶ ἐφύλαξε ταῦτα μὴ παραβαίνειν· μετὰ δὲ τὰ ἐς πόλεμον ἔχοντα, ἐνωμοτίας καὶ τριηκάδας καὶ συσσίτια, πρός τε τούτοισι τοὺς ἐφόρους καὶ γέροντας ἔστησε Λυκοῦργος.",
+        "translations": [
+          "Once he became guardian, he changed all the laws and took care that no one transgressed the new ones. Lycurgus afterwards established their affairs of war: the sworn divisions, the bands of thirty, the common meals; also the ephors and the council of elders."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

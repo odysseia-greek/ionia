@@ -1,0 +1,53 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.91",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.91/",
+    "rhemai": [
+      {
+        "greek": "ἀπικομένοισι δὲ τοῖσι Λυδοῖσι καὶ λέγουσι τὰ ἐντεταλμένα τὴν Πυθίην λέγεται εἰπεῖν τάδε. τὴν πεπρωμένην μοῖραν ἀδύνατα ἐστὶ ἀποφυγεῖν καὶ θεῷ· Κροῖσος δὲ πέμπτου γονέος ἁμαρτάδα ἐξέπλησε, ὃς ἐὼν δορυφόρος Ἡρακλειδέων, δόλῳ γυναικηίῳ ἐπισπόμενος ἐφόνευσε τὸν δεσπότεα καὶ ἔσχε τὴν ἐκείνου τιμὴν οὐδέν οἱ προσήκουσαν.",
+        "translations": [
+          "When the Lydians came, and spoke as they had been instructed, the priestess (it is said) made the following reply. “No one may escape his lot, not even a god. Croesus has paid for the sin of his ancestor of the fifth generation before, who was led by the guile of a woman to kill his master, though he was one of the guard of the Heraclidae, and who took to himself the royal state of that master, to which he had no right."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "προθυμεομένου δὲ Λοξίεω ὅκως ἂν κατὰ τοὺς παῖδας τοῦ Κροίσου γένοιτο τὸ Σαρδίων πάθος καὶ μὴ κατʼ αὐτὸν Κροῖσον, οὐκ οἷόν τε ἐγίνετο παραγαγεῖν μοίρας.",
+        "translations": [
+          "And it was the wish of Loxias that the evil lot of Sardis fall in the lifetime of Croesus ' sons, not in his own; but he could not deflect the Fates."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὅσον δὲ ἐνέδωκαν αὗται, ἤνυσέ τε καὶ ἐχαρίσατό οἱ· τρία γὰρ ἔτεα ἐπανεβάλετο τὴν Σαρδίων ἅλωσιν, καὶ τοῦτο ἐπιστάσθω Κροῖσος ὡς ὕστερον τοῖσι ἔτεσι τούτοισι ἁλοὺς τῆς πεπρωμένης. δευτέρα δὲ τούτων καιομένῳ αὐτῷ ἐπήρκεσε.",
+        "translations": [
+          "Yet as far as they gave in, he did accomplish his wish and favor Croesus: for he delayed the taking of Sardis for three years. And let Croesus know this: that although he is now taken, it is by so many years later than the destined hour. And further, Loxias saved Croesus from burning."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "κατὰ δὲ τὸ μαντήιον τὸ γενόμενον οὐκ ὀρθῶς Κροῖσος μέμφεται. προηγόρευε γὰρ οἱ Λοξίης, ἢν στρατεύηται ἐπὶ Πέρσας, μεγάλην ἀρχὴν αὐτὸν καταλύσειν. τὸν δὲ πρὸς ταῦτα χρῆν εὖ μέλλοντα βουλεύεσθαι ἐπειρέσθαι πέμψαντα κότερα τὴν ἑωυτοῦ ἢ τὴν Κύρου λέγοι ἀρχήν. οὐ συλλαβὼν δὲ τὸ ῥηθὲν οὐδʼ ἐπανειρόμενος ἑωυτὸν αἴτιον ἀποφαινέτω·",
+        "translations": [
+          "But as to the oracle that was given to him, Croesus is wrong to complain concerning it. For Loxias declared to him that if he led an army against the Persians, he would destroy a great empire. Therefore he ought, if he had wanted to plan well, to have sent and asked whether the god spoke of Croesus ' or of Cyrus ' empire. But he did not understood what was spoken, or make further inquiry: for which now let him blame himself."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "τῷ καὶ τὸ τελευταῖον χρηστηριαζομένῳ εἶπε Λοξίης περὶ ἡμιόνου, οὐδὲ τοῦτο συνέλαβε. ἦν γὰρ δὴ ὁ Κῦρος οὗτος ἡμίονος· ἐκ γὰρ δυῶν οὐκ ὁμοεθνέων ἐγεγόνεε, μητρὸς ἀμείνονος, πατρὸς δὲ ὑποδεεστέρου·",
+        "translations": [
+          "When he asked that last question of the oracle and Loxias gave him that answer concerning the mule, even that Croesus did not understand. For that mule was in fact Cyrus, who was the son of two parents not of the same people, of whom the mother was better and the father inferior:"
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "ἣ μὲν γὰρ ἦν Μηδὶς καὶ Ἀστυάγεος θυγάτηρ τοῦ Μήδων βασιλέος, ὁ δὲ Πέρσης τε ἦν καὶ ἀρχόμενος ὑπʼ ἐκείνοισι καὶ ἔνερθε ἐὼν τοῖσι ἅπασι δεσποίνῃ τῇ ἑωυτοῦ συνοίκεε. ταῦτα μὲν ἡ Πυθίη ὑπεκρίνατο τοῖσι Λυδοῖσι, οἳ δὲ ἀνήνεικαν ἐς Σάρδις καὶ ἀπήγγειλαν Κροίσῳ. ὁ δὲ ἀκούσας συνέγνω ἑωυτοῦ εἶναι τὴν ἁμαρτάδα καὶ οὐ τοῦ θεοῦ. κατὰ μὲν δὴ τὴν Κροίσου τε ἀρχὴν καὶ Ἰωνίης τὴν πρώτην καταστροφὴν ἔσχε οὕτω.",
+        "translations": [
+          "for she was a Mede and the daughter of Astyages king of the Medes; but he was a Persian and a subject of the Medes and although in all respects her inferior he married this lady of his.” This was the answer of the priestess to the Lydians. They carried it to Sardis and told Croesus, and when he heard it, he confessed that the sin was not the god's, but his. And this is the story of Croesus ' rule, and of the first overthrow of Ionia."
+        ],
+        "section": "6"
+      }
+    ]
+  }
+]

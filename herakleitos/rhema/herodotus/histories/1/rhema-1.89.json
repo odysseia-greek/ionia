@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.89",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.89/",
+    "rhemai": [
+      {
+        "greek": "Κύρῳ δὲ ἐπιμελὲς ἐγένετο τὰ Κροῖσος εἶπε· μεταστησάμενος δὲ τοὺς ἄλλους, εἴρετο Κροῖσον ὅ τι οἱ ἐνορῴη ἐν τοῖσι ποιευμένοισι. ὁ δὲ εἶπε ἐπείτε με θεοὶ ἔδωκαν δοῦλον σοί, δικαιῶ, εἴ τι ἐνορέω πλέον, σημαίνειν σοί.",
+        "translations": [
+          "Cyrus thought about what Croesus had said and, telling the rest to withdraw, asked Croesus what fault he saw in what was being done. “Since the gods have made me your slave,” replied the Lydian, “it is right that if I have any further insight I should point it out to you."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Πέρσαι φύσιν ἐόντες ὑβρισταὶ εἰσὶ ἀχρήματοι. ἢν ὦν σὺ τούτους περιίδῃς διαρπάσαντας καὶ κατασχόντας χρήματα μεγάλα, τάδε τοὶ ἐξ αὐτῶν ἐπίδοξα γενέσθαι. ὃς ἂν αὐτῶν πλεῖστα κατάσχῃ, τοῦτον προσδέκεσθαί τοι ἐπαναστησόμενον. νῦν ὦν ποίησον ὧδε, εἲ τοι ἀρέσκει τὰ ἐγὼ λέγω·",
+        "translations": [
+          "The Persians being by nature violent men are poor; so if you let them seize and hold great possessions, you may expect that he who has got most will revolt against you. Therefore do this, if you like what I say."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "κάτισον τῶν δορυφόρων ἐπὶ πάσῃσι τῇσι πύλῃσι φυλάκους, οἳ λεγόντων πρὸς τοὺς ἐκφέροντας τὰ χρήματα ἀπαιρεόμενοι ὡς σφέα ἀναγκαίως ἔχει δεκατευθῆναι τῷ Διί. καὶ σύ τέ σφι οὐκ ἀπεχθήσεαι βίῃ ἀπαιρεόμενος τὰ χρήματα, καὶ ἐκεῖνοι συγγνόντες ποιέειν σε δίκαια ἑκόντες προήσουσι.",
+        "translations": [
+          "Have men of your guard watch all the gates; let them take the spoil from those who are carrying it out, and say that it must be paid as a tithe to Zeus. Thus you shall not be hated by them for taking their wealth by force, and they, recognizing that you act justly, will give up the spoil willingly.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

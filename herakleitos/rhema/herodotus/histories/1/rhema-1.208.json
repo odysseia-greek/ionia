@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.208",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.208/",
+    "rhemai": [
+      {
+        "greek": "γνῶμαι μὲν αὗται συνέστασαν· Κῦρος δὲ μετεὶς τὴν προτέρην γνώμην, τὴν Κροίσου δὲ ἑλόμενος, προηγόρευε Τομύρι ἐξαναχωρέειν ὡς αὐτοῦ διαβησομένου ἐπʼ ἐκείνην. ἣ μὲν δὴ ἐξανεχώρεε κατὰ ὑπέσχετο πρῶτα· Κῦρος δὲ Κροῖσον ἐς τὰς χεῖρας ἐσθεὶς τῷ ἑωυτοῦ παιδὶ Καμβύσῃ, τῷ περ τὴν βασιληίην ἐδίδου, καὶ πολλὰ ἐντειλάμενὸς οἱ τιμᾶν τε αὐτὸν καὶ εὖ ποιέειν, ἢν ἡ διάβασις ἡ ἐπὶ Μασσαγέτας μὴ ὀρθωθῇ, ταῦτα ἐντειλάμενος καὶ ἀποστείλας τούτους ἐς Πέρσας, αὐτὸς διέβαινε τὸν ποταμὸν καὶ ὁ στρατὸς αὐτοῦ.",
+        "translations": [
+          "So these opinions clashed; and Cyrus set aside his former plan and chose that of Croesus; consequently, he told Tomyris to draw her army off, for he would cross (he said) and attack her; so she withdrew as she had promised before. Then he entrusted Croesus to the care of his own son Cambyses, to whom he would leave his sovereignty, telling Cambyses to honor Croesus and treat him well if the crossing of the river against the Massagetae should not go well. With these instructions, he sent the two back to Persia, and he and his army crossed the river."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

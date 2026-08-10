@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.62",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.62/",
+    "rhemai": [
+      {
+        "greek": "ἐξ Ἐρετρίης δὲ ὁρμηθέντες διὰ ἑνδεκάτου ἔτεος ἀπίκοντο ὀπίσω, καὶ πρῶτον τῆς Ἀττικῆς ἴσχουσι Μαραθῶνα. ἐν δὲ τούτῳ τῷ χώρῳ σφι στρατοπεδευομένοισι οἵ τε ἐκ τοῦ ἄστεος στασιῶται ἀπίκοντο ἄλλοι τε ἐκ τῶν δήμων προσέρρεον, τοῖσι ἡ τυραννὶς πρὸ ἐλευθερίης ἦν ἀσπαστότερον.",
+        "translations": [
+          "So after ten years they set out from Eretria and returned home. The first place in Attica which they took and held was Marathon: and while encamped there they were joined by their partisans from the city, and by others who flocked to them from the country—demesmen who loved the rule of one more than freedom. These, then, assembled;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὗτοι μὲν δὴ συνηλίζοντο, Ἀθηναίων δὲ οἱ ἐκ τοῦ ἄστεος, ἕως μὲν Πεισίστρατος τὰ χρήματα ἤγειρε, καὶ μεταῦτις ὡς ἔσχε Μαραθῶνα, λόγον οὐδένα εἶχον· ἐπείτε δὲ ἐπύθοντο ἐκ τοῦ Μαραθῶνος αὐτὸν πορεύεσθαι ἐπὶ τὸ ἄστυ, οὕτω δὴ βοηθέουσι ἐπʼ αὐτόν.",
+        "translations": [
+          "but the Athenians in the city, who while Pisistratus was collecting money and afterwards when he had taken Marathon took no notice of it, did now, and when they learned that he was marching from Marathon against Athens, they set out to attack him."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "καὶ οὗτοί τε πανστρατιῇ ἤισαν ἐπὶ τοὺς κατιόντας καὶ οἱ ἀμφὶ Πεισίστρατον, ὡς ὁρμηθέντες ἐκ Μαραθῶνος ἤισαν ἐπὶ τὸ ἄστυ, ἐς τὠυτὸ συνιόντες ἀπικνέονται ἐπὶ Παλληνίδος Ἀθηναίης ἱρόν, καὶ ἀντία ἔθεντο τὰ ὅπλα.",
+        "translations": [
+          "They came out with all their force to meet the returning exiles. Pisistratus ' men encountered the enemy when they had reached the temple of Pallenian Athena in their march from Marathon towards the city, and encamped face to face with them."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἐνθαῦτα θείῃ πομπῇ χρεώμενος παρίσταται Πεισιστράτῳ Ἀμφίλυτος ὁ Ἀκαρνὰν χρησμολόγος ἀνήρ, ὅς οἱ προσιὼν χρᾷ ἐν ἑξαμέτρῳ τόνῳ τάδε λέγων· ἔρριπται δʼ ὁ βόλος, τὸ δὲ δίκτυον ἐκπεπέτασται, θύννοι δʼ οἰμήσουσι σεληναίης διὰ νυκτός.",
+        "translations": [
+          "There (by the providence of heaven) Pisistratus met Amphilytus the Acarnanian, a diviner, who came to him and prophesied as follows in hexameter verses: “The cast is made, the net spread, The tunny-fish shall flash in the moonlit night.”"
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

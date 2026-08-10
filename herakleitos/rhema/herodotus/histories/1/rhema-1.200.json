@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.200",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.200/",
+    "rhemai": [
+      {
+        "greek": "νόμοι μὲν δὴ τοῖσι Βαβυλωνίοισι οὗτοι κατεστᾶσι· εἰσὶ δὲ αὐτῶν πατριαὶ τρεῖς αἳ οὐδὲν ἄλλο σιτέονται εἰ μὴ ἰχθὺς μοῦνον, τοὺς ἐπείτε ἂν θηρεύσαντες αὐήνωσι πρὸς ἥλιον, ποιεῦσι τάδε· ἐσβάλλουσι ἐς ὅλμον καὶ λεήναντες ὑπέροισι σῶσι διὰ σινδόνος, καὶ ὃς μὲν ἂν βούληται αὐτῶν ἅτε μᾶζαν μαξάμενος ἔχει, ὁ δὲ ἄρτου τρόπον ὀπτήσας.",
+        "translations": [
+          "These are established customs among the Babylonians. Furthermore, there are three tribes in the country that eat nothing but fish, which they catch and dry in the sun; then, after throwing it into a mortar, they pound it with pestles and strain everything through linen. Then whoever desires kneads as it were a cake of it and eats it; others bake it like bread."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

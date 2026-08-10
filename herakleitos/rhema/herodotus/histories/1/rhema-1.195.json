@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.195",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.195/",
+    "rhemai": [
+      {
+        "greek": "τὰ μὲν δὴ πλοῖα αὐτοῖσι ἐστὶ τοιαῦτα· ἐσθῆτι δὲ τοιῇδε χρέωνται, κιθῶνι ποδηνεκέι λινέῳ, καὶ ἐπὶ τοῦτον ἄλλον εἰρίνεον κιθῶνα ἐπενδύνει καὶ χλανίδιον λευκὸν περιβαλλόμενος, ὑποδήματα ἔχων ἐπιχώρια, παραπλήσια τῇσι Βοιωτίῃσι ἐμβάσι. κομῶντες δὲ τὰς κεφαλὰς μίτρῃσι ἀναδέονται, μεμυρισμένοι πᾶν τὸ σῶμα.",
+        "translations": [
+          "Such then are their boats. For clothing, they wear a linen tunic, reaching to the feet; over this the Babylonian puts on another tunic, of wool, and wraps himself in a white mantle; he wears the shoes of his country, which are like Boeotian sandals. Their hair is worn long, and covered by caps; the whole body is perfumed."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "σφρηγῖδα δὲ ἕκαστος ἔχει καὶ σκῆπτρον χειροποίητον· ἐπʼ ἑκάστῳ δὲ σκήπτρῳ ἔπεστι πεποιημένον ἢ μῆλον ἢ ῥόδον ἢ κρίνον ἢ αἰετὸς ἢ ἄλλο τι· ἄνευ γὰρ ἐπισήμου οὔ σφι νόμος ἐστὶ ἔχειν σκῆπτρον.",
+        "translations": [
+          "Every man has a seal and a carved staff, and on every staff is some image, such as that of an apple or a rose or a lily or an eagle: no one carries a staff without an image."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

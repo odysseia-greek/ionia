@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.193",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.193/",
+    "rhemai": [
+      {
+        "greek": "ἡ δὲ γῆ τῶν Ἀσσυρίων ὕεται μὲν ὀλίγῳ, καὶ τὸ ἐκτρέφον τὴν ῥίζαν τοῦ σίτου ἐστὶ τοῦτο· ἀρδόμενον μέντοι ἐκ τοῦ ποταμοῦ ἁδρύνεταί τε τὸ λήιον καὶ παραγίνεται ὁ σῖτος, οὐ κατὰ περ ἐν Αἰγύπτῳ αὐτοῦ τοῦ ποταμοῦ ἀναβαίνοντος ἐς τὰς ἀρούρας, ἀλλὰ χερσί τε καὶ κηλωνηίοισι ἀρδόμενος.",
+        "translations": [
+          "There is little rain in Assyria. This nourishes the roots of the grain; but it is irrigation from the river that ripens the crop and brings the grain to fullness. In Egypt, the river itself rises and floods the fields; in Assyria, they are watered by hand and by swinging beams."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἡ γὰρ Βαβυλωνίη χώρη πᾶσα, κατά περ ἡ Αἰγυπτίη, κατατέτμηται ἐς διώρυχας· καὶ ἡ μεγίστη τῶν διωρύχων ἐστὶ νηυσιπέρητος, πρὸς ἥλιον τετραμμένη τὸν χειμερινόν, ἐσέχει δὲ ἐς ἄλλον ποταμὸν ἐκ τοῦ Εὐφρήτεω, ἐς τὸν Τίγρην, παρʼ ὃν Νίνος πόλις οἴκητο. ἔστι δὲ χωρέων αὕτη πασέων μακρῷ ἀρίστη τῶν ἡμεῖς ἴδμεν Δήμητρος καρπὸν ἐκφέρειν",
+        "translations": [
+          "For the whole land of Babylon, like Egypt, is cut across by canals. The greatest of these is navigable: it runs towards where the sun rises in winter, from the Euphrates to another river, the Tigris, on which stood the city of Ninus. This land is by far the most fertile in grain which we know."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τὰ γὰρ δὴ ἄλλα δένδρεα οὐδὲ πειρᾶται ἀρχὴν φέρειν, οὔτε συκέην οὔτε ἄμπελον οὔτε ἐλαίην. τὸν δὲ τῆς Δήμητρος καρπὸν ὧδε ἀγαθὴ ἐκφέρειν ἐστὶ ὥστε ἐπὶ διηκόσια μὲν τὸ παράπαν ἀποδιδοῖ, ἐπειδὰν δὲ ἄριστα αὐτὴ ἑωυτῆς ἐνείκῃ, ἐπὶ τριηκόσια ἐκφέρει. τὰ δὲ φύλλα αὐτόθι τῶν τε πυρῶν καὶ τῶν κριθέων τὸ πλάτος γίνεται τεσσέρων εὐπετέως δακτύλων.",
+        "translations": [
+          "It does not even try to bear trees, fig, vine, or olive, but Demeter 's grain is so abundant there that it yields for the most part two hundred fold, and even three hundred fold when the harvest is best. The blades of the wheat and barley there are easily four fingers broad;"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἐκ δὲ κέγχρου καὶ σησάμου ὅσον τι δένδρον μέγαθος γίνεται, ἐξεπιστάμενος μνήμην οὐ ποιήσομαι, εὖ εἰδὼς ὅτι τοῖσι μὴ ἀπιγμένοισι ἐς τὴν Βαβυλωνίην χώρην καὶ τὰ εἰρημένα καρπῶν ἐχόμενα ἐς ἀπιστίην πολλὴν ἀπῖκται. χρέωνται δὲ οὐδὲν ἐλαίῳ ἀλλʼ ἢ ἐκ τῶν σησάμων ποιεῦντες. εἰσὶ δέ σφι φοίνικες πεφυκότες ἀνὰ πᾶν τὸ πεδίον, οἱ πλεῦνες αὐτῶν καρποφόροι, ἐκ τῶν καὶ σιτία καὶ οἶνον καὶ μέλι ποιεῦνται·",
+        "translations": [
+          "and for millet and sesame, I will not say to what height they grow, though it is known to me; for I am well aware that even what I have said regarding grain is wholly disbelieved by those who have never visited Babylonia. They use no oil except what they make from sesame. There are palm trees there growing all over the plain, most of them yielding fruit, from which food is made and wine and honey."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "τοὺς συκέων τρόπον θεραπεύουσι τά τε ἄλλα καὶ φοινίκων τοὺς ἔρσενας Ἕλληνὲς καλέουσι, τούτων τὸν καρπὸν περιδέουσι τῇσι βαλανηφόροισι τὸν φοινίκων, ἵνα πεπαίνῃ τε σφι ὁ ψὴν τὴν βάλανον ἐσδύνων καὶ μὴ ἀπορρέῃ ὁ καρπὸς τοῦ φοίνικος· ψῆνας γὰρ δὴ φέρουσι ἐν τῷ καρπῷ οἱ ἔρσενες κατά περ δὴ οἱ ὄλυνθοι.",
+        "translations": [
+          "The Assyrians tend these like figs, and chiefly in this respect, that they tie the fruit of the palm called male by the Greeks to the date-bearing palm, so that the gall-fly may enter the dates and cause them to ripen, and that the fruit of the palm may not fall; for the male palms, like unripened figs, have gall-flies in their fruit."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

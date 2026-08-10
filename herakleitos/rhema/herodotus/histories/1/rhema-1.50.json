@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.50",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.50/",
+    "rhemai": [
+      {
+        "greek": "μετὰ δὲ ταῦτα θυσίῃσι μεγάλῃσι τὸν ἐν Δελφοῖσι θεὸν ἱλάσκετο· κτήνεά τε γὰρ τὰ θύσιμα πάντα τρισχίλια ἔθυσε, κλίνας τε ἐπιχρύσους καὶ ἐπαργύρους καὶ φιάλας χρυσέας καὶ εἵματα πορφύρεα καὶ κιθῶνας, νήσας πυρὴν μεγάλην, κατέκαιε, ἐλπίζων τὸν θεὸν μᾶλλον τι τούτοισι ἀνακτήσεσθαι· Λυδοῖσι τε πᾶσι προεῖπε θύειν πάντα τινὰ αὐτῶν τούτῳ ὅ τι ἔχοι ἕκαστος.",
+        "translations": [
+          "After this, he tried to win the favor of the Delphian god with great sacrifices. He offered up three thousand beasts from all the kinds fit for sacrifice, and on a great pyre burnt couches covered with gold and silver, golden goblets, and purple cloaks and tunics; by these means he hoped the better to win the aid of the god, to whom he also commanded that every Lydian sacrifice what he could."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὡς δὲ ἐκ τῆς θυσίης ἐγένετο, καταχεάμενος χρυσὸν ἄπλετον ἡμιπλίνθια ἐξ αὐτοῦ ἐξήλαυνε, ἐπὶ μὰν τὰ μακρότερα ποιέων ἑξαπάλαιστα, ἐπὶ δὲ τὰ βραχύτερα τριπάλαιστα, ὕψος δὲ παλαιστιαῖα. ἀριθμὸν δὲ ἑπτακαίδεκα καὶ ἑκατόν, καὶ τούτων ἀπέφθου χρυσοῦ τέσσερα, τρίτον ἡμιτάλαντον ἕκαστον ἕλκοντα, τὰ δὲ ἄλλα ἡμιπλίνθια λευκοῦ χρυσοῦ, σταθμὸν διτάλαντα.",
+        "translations": [
+          "When the sacrifice was over, he melted down a vast store of gold and made ingots of it, the longer sides of which were of six and the shorter of three palms' length, and the height was one palm. There were a hundred and seventeen of these. Four of them were of refined gold, each weighing two talents and a half; the rest were of gold with silver alloy, each of two talents' weight."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐποιέετο δὲ καὶ λέοντος εἰκόνα χρυσοῦ ἀπέφθου ἕλκουσαν σταθμὸν τάλαντα δέκα. οὗτος ὁ λέων, ἐπείτε κατεκαίετο ὁ ἐν Δελφοῖσι νηός, κατέπεσε ἀπὸ τῶν ἡμιπλινθίων (ἐπὶ γὰρ τούτοισι ἵδρυτο), καὶ νῦν κεῖται ἐν τῷ Κορινθίων θησαυρῷ, ἕλκων σταθμὸν ἕβδομον ἡμιτάλαντον· ἀπετάκη γὰρ αὐτοῦ τέταρτον ἡμιτάλαντον.",
+        "translations": [
+          "He also had a figure of a lion made of refined gold, weighing ten talents. When the temple of Delphi was burnt, this lion fell from the ingots which were the base on which it stood; and now it is in the treasury of the Corinthians, but weighs only six talents and a half, for the fire melted away three and a half talents."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

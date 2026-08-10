@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.39",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.39/",
+    "rhemai": [
+      {
+        "greek": "ἀμείβεται ὁ νεηνίης τοῖσιδε. συγγνώμη μὲν ὦ πάτερ τοι, ἰδόντι γε ὄψιν τοιαύτην, περὶ ἐμὲ φυλακὴν ἔχειν· τὸ δὲ οὐ μανθάνεις ἀλλὰ λέληθέ σε τὸ ὄνειρον, ἐμέ τοί δίκαιον ἐστί φράζειν.",
+        "translations": [
+          "“Father,” the youth replied, “no one can blame you for keeping guard over me, when you have seen such a vision; but it is my right to show you what you do not perceive, and why you mistake the meaning of the dream."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "φής τοι τὸ ὄνειρον ὑπὸ αἰχμῆς σιδηρέης φάναι ἐμὲ τελευτήσειν. ὑὸς δὲ κοῖαι μὲν εἰσὶ χεῖρες, κοίη δὲ αἰχμὴ σιδηρέη τὴν σὺ φοβέαι; εἰ μὲν γὰρ ὑπὸ ὀδόντος τοι εἶπε τελευτήσειν με, ἢ ἄλλου τευ ὅ τι τούτῳ ἔοικε, χρῆν δή σε ποιέειν τὰ ποιέεις· νῦν δὲ ὑπὸ αἰχμῆς. ἐπείτε ὦν οὐ πρὸς ἄνδρας ἡμῖν γίνεται ἡ μάχη, μέτες με.",
+        "translations": [
+          "You say that the dream told you that I should be killed by a spear of iron? But has a boar hands? Has it that iron spear which you dread? Had the dream said I should be killed by a tusk or some other thing proper to a boar, you would be right in acting as you act; but no, it was to be by a spear. Therefore, since it is not against men that we are to fight, let me go.”"
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

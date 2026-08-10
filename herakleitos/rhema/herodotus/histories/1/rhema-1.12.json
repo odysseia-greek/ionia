@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.12",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.12/",
+    "rhemai": [
+      {
+        "greek": "ὡς δὲ ἤρτυσαν τὴν ἐπιβουλήν, νυκτὸς γενομένης (οὐ γὰρ ἐμετίετο ὁ Γύγης, οὐδέ οἱ ἦν ἀπαλλαγὴ οὐδεμία, ἀλλʼ ἔδεε ἤ αὐτὸν ἀπολωλέναι ἢ Κανδαύλεα) εἵπετο ἐς τὸν θάλαμον τῇ γυναικί, καί μιν ἐκείνη, ἐγχειρίδιον δοῦσα, κατακρύπτει ὑπὸ τὴν αὐτὴν θύρην.",
+        "translations": [
+          "When they had prepared this plot, and night had fallen, Gyges followed the woman into the chamber (for Gyges was not released, nor was there any means of deliverance, but either he or Candaules must die). She gave him a dagger and hid him behind the same door;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "καὶ μετὰ ταῦτα ἀναπαυομένου Κανδαύλεω ὑπεκδύς τε καὶ ἀποκτείνας αὐτὸν ἔσχε καὶ τὴν γυναῖκα καὶ τὴν βασιληίην Γύγης τοῦ καὶ Ἀρχίλοχος ὁ Πάριος κατὰ τὸν αὐτὸν χρόνον γενόμενος ἐν ἰάμβῳ τριμέτρῳ ἐπεμνήσθη.",
+        "translations": [
+          "and presently he stole out and killed Candaules as he slept. Thus he made himself master of the king's wife and sovereignty. He is mentioned in the iambic verses of Archilochus of Parus who lived about the same time."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

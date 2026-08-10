@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.40",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.40/",
+    "rhemai": [
+      {
+        "greek": "ἀμείβεται Κροῖσος ὦ παῖ, ἔστι τῇ με νικᾷς γνώμην ἀποφαίνων περὶ τοῦ ἐνυπνίου. ὡς ὦν νενικημένος ὑπὸ σέο μεταγινώσκω, μετίημί τε σὲ ἰέναι ἐπὶ τὴν ἄγρην.",
+        "translations": [
+          "Croesus answered, “My son, your judgment concerning the dream has somewhat reassured me; and being reassured by you, I change my thinking and permit you to go to the chase.”"
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

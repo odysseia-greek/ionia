@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.165",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.165/",
+    "rhemai": [
+      {
+        "greek": "οἱ δὲ Φωκαιέες, ἐπείτε σφι Χῖοι τὰς νήσους τὰς Οἰνούσσας καλεομένας οὐκ ἐβούλοντο ὠνευμένοισι πωλέειν, δειμαίνοντες μὴ αἳ μὲν ἐμπόριον γένωνται, ἡ δὲ αὐτῶν νῆσος ἀποκληισθῇ τούτου εἵνεκα, πρὸς ταῦτα οἱ Φωκαίες ἐστέλλοντο ἐς Κύρνον· ἐν γὰρ τῇ Κύρνῳ εἴκοσι ἔτεσι πρότερον τούτων ἐκ θεοπροπίου ἀνεστήσαντο πόλιν, τῇ οὔνομα ἦν Ἀλαλίη.",
+        "translations": [
+          "The Phocaeans would have bought the islands called Oenussae from the Chians; but the Chians would not sell them, because they feared that the islands would become a market and so their own island be cut off from trade: so the Phocaeans prepared to sail to Cyrnus, where at the command of an oracle they had built a city called Alalia twenty years before."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Ἀργανθώνιος δὲ τηνικαῦτα ἤδη τετελευτήκεε. στελλόμενοι δὲ ἐπὶ τὴν Κύρνον, πρῶτα καταπλεύσαντες ἐς τὴν Φωκαίην κατεφόνευσαν τῶν Περσέων τὴν φυλακήν, ἣ ἐφρούρεε παραδεξαμένη παρὰ Ἁρπάγου τὴν πόλιν. μετὰ δέ, ὡς τοῦτο σφι ἐξέργαστο, ἐποιήσαντο ἰσχυρὰς κατάρας τῷ ὑπολειπομένῳ ἑωυτῶν τοῦ στόλου,",
+        "translations": [
+          "Arganthonius was by this time dead. While getting ready for their voyage, they first sailed to Phocaea, where they destroyed the Persian guard to whom Harpagus had entrusted the defense of the city; and when this was done, they called down mighty curses on any one of them who should stay behind when the rest sailed."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "πρὸς δὲ ταύτῃσι καὶ μύδρον σιδήρεον κατεπόντωσαν καὶ ὤμοσαν μὴ πρὶν ἐς Φωκαίην ἥξειν πρὶν ἢ τὸν μύδρον τοῦτον ἀναφανῆναι. στελλομένων δὲ αὐτῶν ἐπὶ τὴν Κύρνον, ὑπερημίσεας τῶν ἀστῶν ἔλαβε πόθος τε καὶ οἶκτος τῆς πόλιος καὶ τῶν ἠθέων τῆς χώρης, ψευδόρκιοι δὲ γενόμενοι ἀπέπλεον ὀπίσω ἐς τὴν Φωκαίην. οἳ δὲ αὐτῶν τὸ ὅρκιον ἐφύλασσον, ἀερθέντες ἐκ τῶν Οἰνουσσέων ἔπλεον.",
+        "translations": [
+          "Not only this, but they sank a mass of iron in the sea, and swore never to return to Phocaea before the iron should appear again. But while they prepared to sail to Cyrnus, more than half of the citizens were overcome with longing and pitiful sorrow for the city and the life of their land, and they broke their oath and sailed back to Phocaea. Those of them who kept the oath put out to sea from the Oenussae."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

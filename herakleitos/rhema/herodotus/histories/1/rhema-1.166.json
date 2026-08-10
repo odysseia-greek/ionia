@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.166",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.166/",
+    "rhemai": [
+      {
+        "greek": "ἐπείτε δὲ ἐς τὴν Κύρνον ἀπίκοντο, οἴκεον κοινῇ μετὰ τῶν πρότερον ἀπικομένων ἐπʼ ἔτεα πέντε, καὶ ἱρὰ ἐνιδρύσαντο. καὶ ἦγον γὰρ δὴ καὶ ἔφερον τοὺς περιοίκους ἅπαντας, στρατεύονται ὦν ἐπʼ αὐτοὺς κοινῷ λόγῳ χρησάμενοι Τυρσηνοὶ καὶ Καρχηδόνιοι, νηυσὶ ἑκάτεροι ἑξήκόντα.",
+        "translations": [
+          "And when they came to Cyrnus they lived there for five years as one community with those who had come first, and they founded temples there. But they harassed and plundered all their neighbors, as a result of which the Tyrrhenians and Carthaginians made common cause against them, and sailed to attack them with sixty ships each."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οἱ δὲ Φωκαιέες πληρώσαντες καὶ αὐτοὶ τὰ πλοῖα, ἐόντα ἀριθμὸν ἑξήκοντα, ἀντίαζον ἐς τὸ Σαρδόνιον καλεόμενον πέλαγος. συμμισγόντων δὲ τῇ ναυμαχίῃ Καδμείη τις νίκη τοῖσι Φωκαιεῦσι ἐγένετο· αἱ μὲν γὰρ τεσσεράκοντά σφι νέες διεφθάρησαν, αἱ δὲ εἴκοσι αἱ περιεοῦσαι ἦσαν ἄχρηστοι· ἀπεστράφατο γὰρ τοὺς ἐμβόλους.",
+        "translations": [
+          "The Phocaeans also manned their ships, sixty in number, and met the enemy in the sea called Sardonian. They engaged and the Phocaeans won, yet it was only a kind of Cadmean victory; for they lost forty of their ships, and the twenty that remained were useless, their rams twisted awry."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "καταπλώσαντες δὲ ἐς τὴν Ἀλαλίην ἀνέλαβον τὰ τέκνα καὶ τὰς γυναῖκας καὶ τὴν ἄλλην κτῆσιν ὅσην οἷαι τε ἐγίνοντο αἱ νέες σφι ἄγειν, καὶ ἔπειτα ἀπέντες τὴν Κύρνον ἔπλεον ἐς Ῥήγιον.",
+        "translations": [
+          "Then sailing to Alalia they took their children and women and all of their possessions that their ships could hold on board, and leaving Cyrnus they sailed to Rhegium."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

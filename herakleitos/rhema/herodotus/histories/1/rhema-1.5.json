@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.5",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.5/",
+    "rhemai": [
+      {
+        "greek": "οὕτω μὲν Πέρσαι λέγουσι γενέσθαι, καὶ διὰ τὴν Ἰλίου ἅλωσιν εὑρίσκουσι σφίσι ἐοῦσαν τὴν ἀρχήν τῆς ἔχθρης τῆς ἐς τοὺς Ἕλληνας.",
+        "translations": [
+          "Such is the Persian account; in their opinion, it was the taking of Troy which began their hatred of the Greeks."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "περὶ δὲ τῆς Ἰοῦς οὐκ ὁμολογέουσι Πέρσῃσι οὕτω Φοίνικες· οὐ γὰρ ἁρπαγῇ σφέας χρησαμένους λέγουσι ἀγαγεῖν αὐτήν ἐς Αἴγυπτον, ἀλλʼ ὡς ἐν τῷ Ἄργεϊ ἐμίσγετο τῷ ναυκλήρῳ τῆς νέος· ἐπεὶ δʼ ἔμαθε ἔγκυος ἐοῦσα, αἰδεομένη τοὺς τοκέας οὕτω δὴ ἐθελοντήν αὐτήν τοῖσι Φοίνιξι συνεκπλῶσαι, ὡς ἂν μὴ κατάδηλος γένηται.",
+        "translations": [
+          "But the Phoenicians do not tell the same story about Io as the Persians. They say that they did not carry her off to Egypt by force. She had intercourse in Argos with the captain of the ship. Then, finding herself pregnant, she was ashamed to have her parents know it, and so, lest they discover her condition, she sailed away with the Phoenicians of her own accord."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ταῦτα μέν νυν Πέρσαι τε καὶ Φοίνικες λέγουσι· ἐγὼ δὲ περὶ μὲν τούτων οὐκ ἔρχομαι ἐρέων ὡς οὕτω ἢ ἄλλως κως ταῦτα ἐγένετο, τὸν δὲ οἶδα αὐτὸς πρῶτον ὑπάρξαντα ἀδίκων ἔργων ἐς τοὺς Ἕλληνας, τοῦτον σημήνας προβήσομαι ἐς τὸ πρόσω τοῦ λόγου, ὁμοίως σμικρὰ καὶ μεγάλα ἄστεα ἀνθρώπων ἐπεξιών.",
+        "translations": [
+          "These are the stories of the Persians and the Phoenicians. For my part, I shall not say that this or that story is true, but I shall identify the one who I myself know did the Greeks unjust deeds, and thus proceed with my history, and speak of small and great cities of men alike."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τὰ γὰρ τὸ πάλαι μεγάλα ἦν, τὰ πολλὰ σμικρὰ αὐτῶν γέγονε· τὰ δὲ ἐπʼ ἐμεῦ ἦν μεγάλα, πρότερον ἦν σμικρά. τὴν ἀνθρωπηίην ὤν ἐπιστάμενος εὐδαιμονίην οὐδαμὰ ἐν τὠυτῷ μένουσαν, ἐπιμνήσομαι ἀμφοτέρων ὁμοίως.",
+        "translations": [
+          "For many states that were once great have now become small; and those that were great in my time were small before. Knowing therefore that human prosperity never continues in the same place, I shall mention both alike."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

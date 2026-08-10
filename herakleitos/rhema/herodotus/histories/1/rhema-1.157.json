@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.157",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.157/",
+    "rhemai": [
+      {
+        "greek": "ὃ μὲν δὴ ταῦτα ἐκ τῆς ὁδοῦ ἐντειλάμενος ἀπήλαυνε ἐς ἤθεα τὰ Περσέων, Πακτύης δὲ πυθόμενος ἀγχοῦ εἶναι στρατὸν ἐπʼ ἑωυτὸν ἰόντα δείσας οἴχετο φεύγων ἐς Κύμην.",
+        "translations": [
+          "After giving these commands on his journey, he marched away into the Persian country. But Pactyes, learning that an army sent against him was approaching, was frightened and fled to Cyme."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Μαζάρης δὲ ὁ Μῆδος ἐλάσας ἐπὶ τὰς Σάρδις τοῦ Κύρου στρατοῦ μοῖραν ὅσην δή κοτε ἔχων, ὡς οὐκ εὗρε ἔτι ἐόντας τοὺς ἀμφὶ Πακτύην ἐν Σάρδισι, πρῶτα μὲν τοὺς Λυδοὺς ἠνάγκασε τὰς Κύρου ἐντολὰς ἐπιτελέειν, ἐκ τούτου δὲ κελευσμοσύνης Λυδοὶ τὴν πᾶσαν δίαιταν τῆς ζόης μετέβαλον.",
+        "translations": [
+          "Mazares the Mede, when he came to Sardis with the part that he had of Cyrus ' host and found Pactyes ' followers no longer there, first of all compelled the Lydians to carry out Cyrus ' commands; and by his order they changed their whole way of life."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Μαζάρης δὲ μετὰ τοῦτο ἔπεμπε ἐς τὴν Κύμην ἀγγέλους ἐκδιδόναι κελεύων Πακτύην. οἱ δὲ Κυμαῖοι ἔγνωσαν συμβουλῆς πέρι ἐς θεὸν ἀνοῖσαι τὸν ἐν Βραγχίδῃσι· ἦν γὰρ αὐτόθι μαντήιον ἐκ παλαιοῦ ἱδρυμένον, τῷ Ἴωνές τε πάντες καὶ Αἰολέες ἐώθεσαν χρᾶσθαι. ὁ δὲ χῶρος οὗτος ἐστὶ τῆς Μιλησίης ὑπὲρ Πανόρμου λιμένος.",
+        "translations": [
+          "After this, he sent messengers to Cyme demanding that Pactyes be surrendered. The Cymaeans resolved to make the god at Branchidae their judge as to what course they should take; for there was an ancient place of divination there, which all the Ionians and Aeolians used to consult; the place is in the land of Miletus, above the harbor of Panormus."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

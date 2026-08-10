@@ -1,0 +1,8 @@
+version: v2
+modules:
+  - path: diodoros/proto
+  - path: thoukydides/proto
+lint:
+  use: [DEFAULT]
+breaking:
+  use: [FILE]
