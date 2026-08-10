@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.203",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.203/",
+    "rhemai": [
+      {
+        "greek": "ἡ δὲ Κασπίη θάλασσα ἐστὶ ἐπʼ ἑωυτῆς, οὐ συμμίσγουσα τῇ ἑτέρῃ θαλάσσῃ. τὴν μὲν γὰρ Ἕλληνὲς ναυτίλλονται πᾶσα καὶ ἡ ἔξω στηλέων θάλασσα ἡ Ἀτλαντὶς καλεομένη καὶ ἡ Ἐρυθρὴ μία ἐοῦσα τυγχάνει. ἡ δὲ Κασπίη ἐστὶ ἑτέρη ἐπʼ ἑωυτῆς, ἐοῦσα μῆκος μὲν πλόου εἰρεσίῃ χρεωμένῳ πεντεκαίδεκα ἡμερέων, εὖρος δέ, τῇ εὐρυτάτη ἐστὶ αὐτὴ ἑωυτῆς, ὀκτὼ ἡμερέων. καὶ τὰ μὲν πρὸς τὴν ἑσπέρην φέροντα τῆς θαλάσσης ταύτης ὁ Καύκασος παρατείνει, ἐὸν ὀρέων καὶ πλήθεϊ μέγιστον καὶ μεγάθεϊ ὑψηλότατον. ἔθνεα δὲ ἀνθρώπων πολλὰ καὶ παντοῖα ἐν ἑωυτῷ ἔχει ὁ Καύκασος, τὰ πολλὰ πάντα ἀπʼ ὕλης ἀγρίης ζώοντα·",
+        "translations": [
+          "but the Caspian is separate and by itself. Its length is what a ship rowed by oars can traverse in fifteen days, and its breadth, where it is broadest, is an eight days' journey. Along its western shore stretches the range of Caucasus, which has more and higher peaks than any other range. Many and all kinds of nations dwell in the Caucasus, and the most of them live on the fruits of the forest."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐν τοῖσι καὶ δένδρεα φύλλα τοιῆσδε ἰδέης παρεχόμενα εἶναι λέγεται, τὰ τρίβοντάς τε καὶ παραμίσγοντας ὕδωρ ζῷα ἑωυτοῖσι ἐς τὴν ἐσθῆτα ἐγγράφειν· τὰ δὲ ζῷα οὐκ ἐκπλύνεσθαι, ἀλλὰ συγκαταγηράσκειν τῷ ἄλλῳ εἰρίῳ κατὰ περ ἐνυφανθέντα ἀρχήν. μῖξιν δὲ τούτων τῶν ἀνθρώπων εἶναι ἐμφανέα κατὰ περ τοῖσι προβάτοισι.",
+        "translations": [
+          "Here, it is said, are trees growing leaves that men crush and mix with water and use for painting figures on their clothing; these figures cannot be washed out, but last as long as the wool, as if they had been woven into it from the first. Men and women here (they say) have intercourse openly, like beasts of the flock."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

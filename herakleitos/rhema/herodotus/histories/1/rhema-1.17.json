@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.17",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.17/",
+    "rhemai": [
+      {
+        "greek": "ἐπολέμησε Μιλησίοισι, παραδεξάμενος τὸν πόλεμον παρὰ τοῦ πατρός. ἐπελαύνων γὰρ ἐπολιόρκεε τὴν Μίλητον τρόπῳ τοιῷδε· ὅκως μὲν εἴη ἐν τῇ γῇ καρπὸς ἁδρός, τηνικαῦτα ἐσέβαλλε τὴν στρατιήν· ἐστρατεύετο δὲ ὑπὸ συρίγγων τε καὶ πηκτίδων καὶ αὐλοῦ γυναικηίου τε καὶ ἀνδρηίου.",
+        "translations": [
+          "He continued the war against the Milesians which his father had begun. This was how he attacked and besieged Miletus: he sent his army, marching to the sound of pipes and harps and bass and treble flutes, to invade when the crops in the land were ripe;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὡς δὲ ἐς τὴν Μιλησίην ἀπίκοιτο, οἰκήματα μὲν τὰ ἐπὶ τῶν ἀγρῶν οὔτε κατέβαλλε οὔτε ἐνεπίμπρη οὔτε θύρας ἀπέσπα, ἔα δὲ κατὰ χώρην ἑστάναι· ὁ δὲ τὰ τε δένδρεα καὶ τὸν καρπὸν τὸν ἐν τῇ γῇ ὅκως διαφθείρειε, ἀπαλλάσσετο ὀπίσω.",
+        "translations": [
+          "and whenever he came to the Milesian territory, he neither demolished nor burnt nor tore the doors off the country dwellings, but let them stand unharmed; but he destroyed the trees and the crops of the land, and so returned to where he came from;"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τῆς γὰρ θαλάσσης οἱ Μιλήσιοι ἐπεκράτεον, ὥστε ἐπέδρης μὴ εἶναι ἔργον τῇ στρατιῇ. τὰς δὲ οἰκίας οὐ κατέβαλλε ὁ Λυδὸς τῶνδε εἵνεκα, ὅκως ἔχοιεν ἐνθεῦτεν ὁρμώμενοι τὴν γῆν σπείρειν τε καὶ ἐργάζεσθαι οἱ Μιλήσιοι, αὐτὸς δὲ ἐκείνων ἐργαζομένων ἔχοι τι καὶ σίνεσθαι ἐσβάλλων.",
+        "translations": [
+          "for as the Milesians had command of the sea, it was of no use for his army to besiege their city. The reason that the Lydian did not destroy the houses was this: that the Milesians might have homes from which to plant and cultivate their land, and that there might be the fruit of their toil for his invading army to lay waste."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

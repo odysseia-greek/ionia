@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.23",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.23/",
+    "rhemai": [
+      {
+        "greek": "Περίανδρος δὲ ἦν Κυψέλου παῖς οὗτος ὁ τῷ Θρασυβούλῳ τὸ χρηστήριον μηνύσας· ἐτυράννευε δὲ ὁ Περίανδρος Κορίνθου· τῷ δὴ λέγουσι Κορίνθιοι (ὁμολογέουσι δέ σφι Λέσβιοι) ἐν τῷ βίῳ θῶμα μέγιστον παραστῆναι, Ἀρίονα τὸν Μηθυμναῖον ἐπὶ δελφῖνος ἐξενειχθέντα ἐπὶ Ταίναρον, ἐόντα κιθαρῳδὸν τῶν τότε ἐόντων οὐδενὸς δεύτερον, καὶ διθύραμβον πρῶτον ἀνθρώπων τῶν ἡμεῖς ἴδμεν ποιήσαντά τε καὶ ὀνομάσαντα καὶ διδάξαντα ἐν Κορίνθῳ.",
+        "translations": [
+          "Periander, who disclosed the oracle's answer to Thrasybulus, was the son of Cypselus, and sovereign of Corinth. The Corinthians say (and the Lesbians agree) that the most marvellous thing that happened to him in his life was the landing on Taenarus of Arion of Methymna, brought there by a dolphin. This Arion was a lyre-player second to none in that age; he was the first man whom we know to compose and name the dithyramb which he afterwards taught at Corinth."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

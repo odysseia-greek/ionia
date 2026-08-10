@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.150",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.150/",
+    "rhemai": [
+      {
+        "greek": "σμύρνην δὲ ὧδε ἀπέβαλον Αἰολέες. Κολοφωνίους ἄνδρας στάσι ἑσσωθέντας καὶ ἐκπεσόντας ἐκ τῆς πατρίδος ὑπεδέξαντο. μετὰ δὲ οἱ φυγάδες τῶν Κολοφωνίων φυλάξαντες τοὺς Σμυρναίους ὁρτὴν ἔξω τείχεος ποιευμένους Διονύσῳ, τὰς πύλας ἀποκληίσαντες ἔσχον τὴν πόλιν.",
+        "translations": [
+          "Now this is how the Aeolians lost Smyrna. Some men of Colophon, the losers in civil strife and exiles from their country, had been received by them into the town. These Colophonian exiles waited for the time when the men of Smyrna were holding a festival to Dionysus outside the walls; then they shut the gates and so got the city."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "βοηθησάντων δὲ πάντων Αἰολέων, ὁμολογίῃ ἐχρήσαντο τὰ ἔπιπλα ἀποδόντων τῶν Ἰώνων ἐκλιπεῖν Σμύρνην Αἰολέας. ποιησάντων δὲ ταῦτα Σμυρναίων ἐπιδιείλοντο σφέας αἱ ἕνδεκα πόλιες καὶ ἐποιήσαντο σφέων αὐτέων πολιήτας.",
+        "translations": [
+          "Then all the Aeolians came to recover it; and an agreement was made, whereby the Aeolians would receive back their movable goods from the Ionians, and leave the city. After this was done, the other eleven cities divided the Smyrnaeans among themselves and made them citizens of their own."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

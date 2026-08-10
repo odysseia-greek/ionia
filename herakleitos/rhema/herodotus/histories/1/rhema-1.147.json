@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.147",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.147/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα δὲ ἦν γινόμενα ἐν Μιλήτῳ. βασιλέας δὲ ἐστήσαντο οἳ μὲν αὐτῶν Λυκίους ἀπὸ Γλαύκου τοῦ Ἱππολόχου γεγονότας, οἳ δὲ Καύκωνας Πυλίους ἀπὸ Κόδρου τοῦ Μελάνθου, οἳ δὲ καὶ συναμφοτέρους. ἀλλὰ γὰρ περιέχονται τοῦ οὐνόματος μᾶλλόν τι τῶν ἄλλων Ἰώνων, ἔστωσαν δὴ καὶ οἱ καθαρῶς γεγονότες Ἴωνες.",
+        "translations": [
+          "And as kings, some of them chose Lycian descendants of Glaucus son of Hippolochus, and some Caucones of Pylus, descendants of Codrus son of Melanthus, and some both. Yet since they set more store by the name than the rest of the Ionians, let it be granted that those of pure birth are Ionians;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "εἰσὶ δὲ πάντες Ἴωνες ὅσοι ἀπʼ Ἀθηνέων γεγόνασι καὶ Ἀπατούρια ἄγουσι ὁρτήν. ἄγουσι δὲ πάντες πλὴν Ἐφεσίων καὶ Κολοφωνίων· οὗτοι γὰρ μοῦνοι Ἰώνων οὐκ ἄγουσι Ἀπατούρια, καὶ οὗτοι κατὰ φόνου τινὰ σκῆψιν.",
+        "translations": [
+          "and all are Ionians who are of Athenian descent and keep the feast Apaturia. All do keep it, except the men of Ephesus and Colophon; these are the only Ionians who do not keep it, and these because, they say, of a certain pretext of murder."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

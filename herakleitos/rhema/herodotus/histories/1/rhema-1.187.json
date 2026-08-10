@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.187",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.187/",
+    "rhemai": [
+      {
+        "greek": "ἡ δʼ αὐτὴ αὕτη βασίλεια καὶ ἀπάτην τοιήνδε τινὰ ἐμηχανήσατο· ὕπερ τῶν μάλιστα λεωφόρων πυλέων τοῦ ἄστεος τάφον ἑωυτῇ κατεσκευάσατο μετέωρον ἐπιπολῆς αὐτέων τῶν πυλέων, ἐνεκόλαψε δὲ ἐς τὸν τάφον γράμματα λέγοντα τάδε.",
+        "translations": [
+          "There was a trick, too, that this same queen contrived. She had a tomb made for herself and set high over the very gate of that entrance of the city which was used most, with writing engraved on the tomb, which read:"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τῶν τις ἐμεῦ ὕστερον γινομένων Βαβυλῶνος βασιλέων ἢν σπανίσῃ χρημάτων, ἀνοίξας τὸν τάφον λαβέτω ὁκόσα βούλεται χρήματα· μὴ μέντοι γε μὴ σπανίσας γε ἄλλως ἀνοίξῃ· οὐ γὰρ ἄμεινον·",
+        "translations": [
+          "“If any king of Babylon in the future is in need of money, let him open this tomb and take as much as he likes: but let him not open it unless he is in need; for it will be the worse for him.”"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οὗτος ὁ τάφος ἦν ἀκίνητος μέχρι οὗ ἐς Δαρεῖον περιῆλθε ἡ βασιληίη· Δαρείῳ δὲ καὶ δεινὸν ἐδόκεε εἶναι τῇσι πύλῃσι ταύτῃσι μηδὲν χρᾶσθαι, καὶ χρημάτων κειμένων καὶ αὐτῶν τῶν γραμμάτων ἐπικαλεομένων, μὴ οὐ λαβεῖν αὐτά·",
+        "translations": [
+          "This tomb remained untouched until the kingship fell to Darius. He thought it a very strange thing that he should never use this gate, or take the money when it lay there and the writing itself invited him to."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τῇσι δὲ πύλῃσι ταύτῃσι οὐδὲν ἐχρᾶτο τοῦδε εἵνεκα, ὅτι ὕπερ κεφαλῆς οἱ ἐγίνετο ὁ νεκρὸς διεξελαύνοντι.",
+        "translations": [
+          "The reason he did not use the gate was that the dead body would be over his head as he passed through."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἀνοίξας δὲ τὸν τάφον εὗρε χρήματα μὲν οὔ, τὸν δὲ νεκρὸν καὶ γράμματα λέγοντα τάδε· εἰ μὴ ἄπληστός τε ἔας χρημάτων καὶ αἰσχροκερδής, οὐκ ἂν νεκρῶν θήκας ἀνέῳγες. αὕτη μέν νυν ἡ βασίλεια τοιαύτη τις λέγεται γενέσθαι.",
+        "translations": [
+          "After opening the tomb, he found no money there, only the dead body, with writing which read: “If you were ever satisfied with what you had and did not disgrace yourself seeking more, you would not have opened the coffins of the dead.” Such a woman, it is recorded, was this queen."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

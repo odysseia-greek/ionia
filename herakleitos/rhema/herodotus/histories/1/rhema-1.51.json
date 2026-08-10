@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.51",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.51/",
+    "rhemai": [
+      {
+        "greek": "ἐπιτελέσας δὲ ὁ Κροῖσος ταῦτα ἀπέπεμπε ἐς Δελφούς, καὶ τάδε ἄλλα ἅμα τοῖσι, κρητῆρας δύο μεγάθεϊ μεγάλους, χρύσεον καὶ ἀργύρεον, τῶν ὁ μὲν χρύσεος ἔκειτο ἐπὶ δεξιὰ ἐσιόντι ἐς τὸν νηόν, ὁ δὲ ἀργύρεος ἐπʼ ἀριστερά.",
+        "translations": [
+          "When these offerings were ready, Croesus sent them to Delphi, with other gifts besides: namely, two very large bowls, one of gold and one of silver. The golden bowl stood to the right, the silver to the left of the temple entrance."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "μετεκινήθησαν δὲ καὶ οὗτοι ὑπὸ τὸν νηὸν κατακαέντα καὶ ὁ μὲν χρύσεος κεῖται ἐν τῷ Κλαζομενίων θησαυρῷ, ἕλκων σταθμὸν εἴνατον ἡμιτάλαντον καὶ ἔτι δυώδεκα μνέας, ὁ δὲ ἀργύρεος ἐπὶ τοῦ προνηίου τῆς γωνίης, χωρέων ἀμφορέας ἑξακοσίους· ἐπικίρναται γὰρ ὑπὸ Δελφῶν Θεοφανίοισι.",
+        "translations": [
+          "These too were removed about the time of the temple's burning, and now the golden bowl, which weighs eight and a half talents and twelve minae, is in the treasury of the Clazomenians, and the silver bowl at the corner of the forecourt of the temple. This bowl holds six hundred nine-gallon measures: for the Delphians use it for a mixing-bowl at the feast of the Divine Appearance."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "φασὶ δὲ μιν Δελφοὶ Θεοδώρου τοῦ Σαμίου ἔργον εἶναι, καὶ ἐγὼ δοκέω· οὐ γὰρ τὸ συντυχὸν φαίνεταί μοι ἔργον εἶναι. καὶ πίθους τε ἀργυρέους τέσσερας ἀπέπεμψε, οἳ ἐν τῷ Κορινθίων θησαυρῷ ἑστᾶσι, καὶ περιρραντήρια δύο ἀνέθηκε, χρύσεόν τε καὶ ἀργύρεον, τῶν τῷ χρυσέῳ ἐπιγέγραπται Λακεδαιμονίων φαμένων εἶναι ἀνάθημα, οὐκ ὀρθῶς λέγοντες·",
+        "translations": [
+          "It is said by the Delphians to be the work of Theodorus of Samos, and I agree with them, for it seems to me to be of no common workmanship. Moreover, Croesus sent four silver casks, which stand in the treasury of the Corinthians, and dedicated two sprinkling-vessels, one of gold, one of silver. The golden vessel bears the inscription “Given by the Lacedaemonians,” who claim it as their offering. But they are wrong,"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἔστι γὰρ καὶ τοῦτο Κροίσου, ἐπέγραψε δὲ τῶν τις Δελφῶν Λακεδαιμονίοισι βουλόμενος χαρίζεσθαι, τοῦ ἐπιστάμενος τὸ οὔνομα οὐκ ἐπιμνήσομαι. ἀλλʼ ὁ μὲν παῖς, διʼ οὗ τῆς χειρὸς ῥέει τὸ ὕδωρ, Λακεδαιμονίων ἐστί, οὐ μέντοι τῶν γε περιρραντηρίων οὐδέτερον.",
+        "translations": [
+          "for this, too, is Croesus ' gift. The inscription was made by a certain Delphian, whose name I know but do not mention, out of his desire to please the Lacedaemonians. The figure of a boy, through whose hand the water runs, is indeed a Lacedaemonian gift; but they did not give either of the sprinkling-vessels."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἄλλα τε ἀναθήματα οὐκ ἐπίσημα πολλὰ ἀπέπεμψε ἅμα τούτοισι ὁ Κροῖσος, καὶ χεύματα ἀργύρεα κυκλοτερέα, καὶ δὴ καὶ γυναικὸς εἴδωλον χρύσεον τρίπηχυ, τὸ Δελφοὶ τῆς ἀρτοκόπου τῆς Κροίσου εἰκόνα λέγουσι εἶναι. πρὸς δὲ καὶ τῆς ἑωυτοῦ γυναικὸς τὰ ἀπὸ τῆς δειρῆς ἀνέθηκε ὁ Κροῖσος καὶ τὰς ζώνας.",
+        "translations": [
+          "Along with these Croesus sent, besides many other offerings of no great distinction, certain round basins of silver, and a female figure five feet high, which the Delphians assert to be the statue of the woman who was Croesus ' baker. Moreover, he dedicated his own wife's necklaces and girdles."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

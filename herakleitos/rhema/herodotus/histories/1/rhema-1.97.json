@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.97",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.97/",
+    "rhemai": [
+      {
+        "greek": "πλεῦνος δὲ αἰεὶ γινομένου τοῦ ἐπιφοιτέοντος, οἷα πυνθανομένων τὰς δίκας ἀποβαίνειν κατὰ τὸ ἐόν, γνοὺς ὁ Δηιόκης ἐς ἑωυτὸν πᾶν ἀνακείμενον οὔτε κατίζειν ἔτι ἤθελε ἔνθα περ πρότερον προκατίζων ἐδίκαζε, οὔτʼ ἔφη δίκαν ἔτι· οὐ γὰρ οἱ λυσιτελέειν τῶν ἑωυτοῦ ἐξημεληκότα τοῖσι πέλας διʼ ἡμέρης δικάζειν.",
+        "translations": [
+          "The number of those who came grew ever greater, for they heard that each case turned out in accord with the truth. Then Deioces, seeing that everything now depended on him, would not sit in his former seat of judgment, and said he would give no more decisions; for it was of no advantage to him (he said) to leave his own business and spend all day judging the cases of his neighbors."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐούσης ὦν ἁρπαγῆς καὶ ἀνομίης ἔτι πολλῷ μᾶλλον ἀνὰ τὰς κώμας ἢ πρότερον ἦν, συνελέχθησαν οἱ Μῆδοι ἐς τὠυτὸ καὶ ἐδίδοσαν σφίσι λόγον, λέγοντες περὶ τῶν κατηκόντων. ὡς δʼ ἐγὼ δοκέω, μάλιστα ἔλεγον οἱ τοῦ Δηιόκεω φίλοι",
+        "translations": [
+          "This caused robbery and lawlessness to increase greatly in the towns; and, gathering together, the Medes conferred about their present affairs, and said (here, as I suppose, the main speakers were Deioces ' friends),"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οὐ γὰρ δὴ τρόπῳ τῷ παρεόντι χρεώμενοι δυνατοὶ εἰμὲν οἰκέειν τὴν χώρην, φέρε στήσωμεν ἡμέων αὐτῶν βασιλέα· καὶ οὕτω ἥ τε χώρη εὐνομήσεται καὶ αὐτοὶ πρὸς ἔργα τρεψόμεθα, οὐδὲ ὑπʼ ἀνομίης ἀνάστατοι ἐσόμεθα. ταῦτά κῃ λέγοντες πείθουσι ἑωυτοὺς βασιλεύεσθαι.",
+        "translations": [
+          "“Since we cannot go on living in the present way in the land, come, let us set up a king over us; in this way the land will be well governed, and we ourselves shall attend to our business and not be routed by lawlessness.” With such words they persuaded themselves to be ruled by a king."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

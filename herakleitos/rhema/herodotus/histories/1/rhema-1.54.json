@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.54",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.54/",
+    "rhemai": [
+      {
+        "greek": "ἐπείτε δὲ ἀνενειχθέντα τὰ θεοπρόπια ἐπύθετο ὁ Κροῖσος, ὑπερήσθη τε τοῖσι χρηστηρίοισι, πάγχυ τε ἐλπίσας καταλύσειν τὴν Κύρου βασιληίην, πέμψας αὖτις ἐς Πυθὼ Δελφοὺς δωρέεται, πυθόμενος αὐτῶν τὸ πλῆθος, κατʼ ἄνδρα δύο στατῆρσι ἕκαστον χρυσοῦ.",
+        "translations": [
+          "When the divine answers had been brought back and Croesus learned of them, he was very pleased with the oracles. So, altogether expecting that he would destroy the kingdom of Cyrus, he sent once again to Pytho and endowed the Delphians, whose number he had learned, with two gold staters apiece."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Δελφοὶ δὲ ἀντὶ τούτων ἔδοσαν Κροίσῳ καὶ Λυδοῖσι προμαντηίην καὶ ἀτελείην καὶ προεδρίην, καὶ ἐξεῖναι τῷ βουλομένῳ αὐτῶν γίνεσθαι Δελφὸν ἐς τὸν αἰεὶ χρόνον.",
+        "translations": [
+          "The Delphians, in return, gave Croesus and all Lydians the right of first consulting the oracle, exemption from all charges, the chief seats at festivals, and perpetual right of Delphian citizenship to whoever should wish it."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

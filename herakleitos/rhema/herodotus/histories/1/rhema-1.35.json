@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.35",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.35/",
+    "rhemai": [
+      {
+        "greek": "ἔχοντι δέ οἱ ἐν χερσὶ τοῦ παιδὸς τὸν γάμον, ἀπικνέεται ἐς τὰς Σάρδις ἀνὴρ συμφορῇ ἐχόμενος καὶ οὐ καθαρὸς χεῖρας, ἐὼν Φρὺξ μὲν γενεῇ, γένεος δὲ τοῦ βασιληίου. παρελθὼν δὲ οὗτος ἐς τὰ Κροίσου οἰκία κατὰ νόμους τοὺς ἐπιχωρίους καθαρσίου ἐδέετο κυρῆσαι, Κροῖσος δέ μιν ἐκάθηρε.",
+        "translations": [
+          "Now while Croesus was occupied with the marriage of his son, a Phrygian of the royal house came to Sardis, in great distress and with unclean hands. This man came to Croesus ' house, and asked to be purified according to the custom of the country; so Croesus purified him ("
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἔστι δὲ παραπλησίη ἡ κάθαρσις τοῖσι Λυδοῖσι καὶ τοῖσι Ἕλλησι. ἐπείτε δὲ τὰ νομιζόμενα ἐποίησε ὁ Κροῖσος, ἐπυνθάνετο ὁκόθεν τε καὶ τίς εἴη, λέγων τάδε·",
+        "translations": [
+          "the Lydians have the same manner of purification as the Greeks ), and when he had done everything customary, he asked the Phrygian where he came from and who he was:"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὤνθρωπε, τίς τε ἐὼν καὶ κόθεν τῆς Φρυγίης ἥκων ἐπίστιός μοι ἐγένεο; τίνα τε ἀνδρῶν ἢ γυναικῶν ἐφόνευσας; ὁ δὲ ἀμείβετο ὦ βασιλεῦ, Γορδίεω μὲν τοῦ Μίδεω εἰμὶ παῖς, ὀνομάζομαι δὲ Ἄδρηστος, φονεύσας δὲ ἀδελφεὸν ἐμεωυτοῦ ἀέκων πάρειμι ἐξεληλαμένος τε ὑπὸ τοῦ πατρὸς καὶ ἐστερημένος πάντων.",
+        "translations": [
+          "“Friend,” he said, “who are you, and from what place in Phrygia do you come as my suppliant? And what man or woman have you killed?” “O King,” the man answered, “I am the son of Gordias the son of Midas, and my name is Adrastus; I killed my brother accidentally, and I come here banished by my father and deprived of all.”"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "Κροῖσος δέ μιν ἀμείβετο τοῖσιδε· ἀνδρῶν τε φίλων τυγχάνεις ἔκγονος ἐὼν καὶ ἐλήλυθας ἐς φίλους, ἔνθα ἀμηχανήσεις χρήματος οὐδενὸς μένων ἐν ἡμετέρου, συμφορήν τε ταύτην ὡς κουφότατα φέρων κερδανέεις πλεῖστον.",
+        "translations": [
+          "Croesus answered, “All of your family are my friends, and you have come to friends, where you shall lack nothing, staying in my house. As for your misfortune, bear it as lightly as possible and you will gain most.”"
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

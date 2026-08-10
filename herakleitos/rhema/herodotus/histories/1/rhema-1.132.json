@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.132",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.132/",
+    "rhemai": [
+      {
+        "greek": "θυσίη δὲ τοῖσι Πέρσῃσι περὶ τοὺς εἰρημένους θεοὺς ἥδε κατέστηκε· οὔτε βωμοὺς ποιεῦνται οὔτε πῦρ ἀνακαίουσι μέλλοντες θύειν, οὐ σπονδῇ χρέωνται, οὐκὶ αὐλῷ, οὐ στέμμασι, οὐκὶ οὐλῇσι· τῶν δὲ ὡς ἑκάστῳ θύειν θέλῃ, ἐς χῶρον καθαρὸν ἀγαγὼν τὸ κτῆνος καλέει τὸν θεόν, ἐστεφανωμένος τὸν τιάραν μυρσίνῃ μάλιστα.",
+        "translations": [
+          "And this is their method of sacrifice to the aforesaid gods: when about to sacrifice, they do not build altars or kindle fire, employ libations, or music, or fillets, or barley meal: when a man wishes to sacrifice to one of the gods, he leads a beast to an open space and then, wearing a wreath on his tiara, of myrtle usually, calls on the god."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἑωυτῷ μὲν δὴ τῷ θύοντι ἰδίῃ μούνῳ οὔ οἱ ἐγγίνεται ἀρᾶσθαι ἀγαθά, ὁ δὲ τοῖσι πᾶσι Πέρσῃσι κατεύχεται εὖ γίνεσθαι καὶ τῷ βασιλέι· ἐν γὰρ δὴ τοῖσι ἅπασι Πέρσῃσι καὶ αὐτὸς γίνεται. ἐπεὰν δὲ διαμιστύλας κατὰ μέλεα τὸ ἱρήιον ἑψήσῃ τὰ κρέα ὑποπάσας ποίην ὡς ἁπαλωτάτην, μάλιστα δὲ τὸ τρίφυλλον, ἐπὶ ταύτης ἔθηκε ὦν πάντα τὰ κρέα.",
+        "translations": [
+          "To pray for blessings for himself alone is not lawful for the sacrificer; rather, he prays that the king and all the Persians be well; for he reckons himself among them. He then cuts the victim limb from limb into portions, and, after boiling the flesh, spreads the softest grass, trefoil usually, and places all of it on this."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "διαθέντος δὲ αὐτοῦ Μάγος ἀνὴρ παρεστεὼς ἐπαείδει θεογονίην, οἵην δὴ ἐκεῖνοι λέγουσι εἶναι τὴν ἐπαοιδήν· ἄνευ γὰρ δὴ Μάγου οὔ σφι νόμος ἐστὶ θυσίας ποιέεσθαι. ἐπισχὼν δὲ ὀλίγον χρόνον ἀποφέρεται ὁ θύσας τὰ κρέα καὶ χρᾶται ὅ τι μιν λόγος αἱρέει.",
+        "translations": [
+          "When he has so arranged it, a Magus comes near and chants over it the song of the birth of the gods, as the Persian tradition relates it; for no sacrifice can be offered without a Magus. Then after a little while the sacrificer carries away the flesh and uses it as he pleases."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

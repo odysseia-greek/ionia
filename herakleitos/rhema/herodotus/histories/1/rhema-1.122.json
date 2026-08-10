@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.122",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.122/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα εἶπας ὁ Ἀστυάγης ἀποπέμπει τὸν Κῦρον. νοστήσαντα δέ μιν ἐς τοῦ Καμβύσεω τὰ οἰκία ἐδέξαντο οἱ γεινάμενοι, καὶ δεξάμενοι ὡς ἐπύθοντο, μεγάλως ἀσπάζοντο οἷα δὴ ἐπιστάμενοι αὐτίκα τότε τελευτῆσαι, ἱστόρεόν τε ὅτεῳ τρόπῳ περιγένοιτο.",
+        "translations": [
+          "After saying this, Astyages sent Cyrus away. When he returned to Cambyses ' house, his parents received him there, and learning who he was they welcomed him enthusiastically, for they had supposed that long ago he had been killed, and they asked him how his life had been saved."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὁ δέ σφι ἔλεγε, φὰς πρὸ τοῦ μὲν οὐκ εἰδέναι ἀλλʼ ἡμαρτηκέναι πλεῖστον, κατʼ ὁδὸν δὲ πυθέσθαι πᾶσαν τὴν ἑωυτοῦ πάθην· ἐπίστασθαι μὲν γὰρ ὡς βουκόλου τοῦ Ἀστυάγεος εἴη παῖς, ἀπὸ δὲ τῆς κεῖθεν ὁδοῦ τὸν πάντα λόγον τῶν πομπῶν πυθέσθαι.",
+        "translations": [
+          "Then he told them, and said that until now he had known nothing but been very deceived, but that on the way he had heard the whole story of his misfortune; for he had thought, he said, that Astyages ' cowherd was his father, but in his journey from the city his escort had told him the whole story."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τραφῆναι δὲ ἔλεγε ὑπὸ τῆς τοῦ βουκόλου γυναικός, ἤιέ τε ταύτην αἰνέων διὰ παντός, ἦν τέ οἱ ἐν τῷ λόγῳ τὰ πάντα ἡ Κυνώ. οἱ δὲ τοκέες παραλαβόντες τὸ οὔνομα τοῦτο, ἵνα θειοτέρως δοκέῃ τοῖσι Πέρσῃσι περιεῖναί σφι ὁ παῖς, κατέβαλον φάτιν ὡς ἐκκείμενον Κῦρον κύων ἐξέθρεψε.",
+        "translations": [
+          "And he had been raised, he said, by the cowherd's wife, and he was full of her praises, and in his tale he was constantly speaking of Cyno. Hearing this name, his parents circulated a story that Cyrus was suckled by a dog when exposed, thinking in this way to make the story of his salvation seem more marvellous to the Persians."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

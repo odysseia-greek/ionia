@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.27",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.27/",
+    "rhemai": [
+      {
+        "greek": "ὡς δὲ ἄρα οἱ ἐν τῇ Ἀσίῃ Ἕλληνες κατεστράφατο ἐς φόρου ἀπαγωγήν, τὸ ἐνθεῦτεν ἐπενόεε νέας ποιησάμενος ἐπιχειρέειν τοῖσι νησιώτῃσι.",
+        "translations": [
+          "Then, when he had subjugated all the Asiatic Greeks of the mainland and made them tributary to him, he planned to build ships and attack the islanders;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐόντων δέ οἱ πάντων ἑτοίμων ἐς τὴν ναυπηγίην, οἳ μὲν Βίαντα λέγουσι τὸν Πριηνέα ἀπικόμενον ἐς Σάρδις, οἳ δὲ Πιττακὸν τὸν Μυτιληναῖον, εἰρομένου Κροίσου εἴ τι εἴη νεώτερον περὶ τὴν Ἑλλάδα, εἰπόντα τάδε καταπαῦσαι τὴν ναυπηγίην·",
+        "translations": [
+          "but when his preparations for shipbuilding were underway, either Bias of Priene or Pittacus of Mytilene (the story is told of both) came to Sardis and, asked by Croesus for news about Hellas, put an end to the shipbuilding by giving the following answer:"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὦ βασιλεῦ, νησιῶται ἵππον συνωνέονται μυρίην, ἐς Σάρδις τε καὶ ἐπὶ σὲ ἐν νόῳ ἔχοντες στρατεύεσθαι. Κροῖσον δὲ ἐλπίσαντα λέγειν ἐκεῖνον ἀληθέα εἰπεῖν αἲ γὰρ τοῦτο θεοὶ ποιήσειαν ἐπὶ νόον νησιώτῃσι, ἐλθεῖν ἐπὶ Λυδῶν παῖδας σὺν ἵπποισι.",
+        "translations": [
+          "“O King, the islanders are buying ten thousand horse, intending to march to Sardis against you.” Croesus, thinking that he spoke the truth, said: “Would that the gods would put this in the heads of the islanders, to come on horseback against the sons of the Lydians!” Then the other answered and said:"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τὸν δὲ ὑπολαβόντα φάναι ὦ βασιλεῦ, προθύμως μοι φαίνεαι εὔξασθαι νησιώτας ἱππευομένους λαβεῖν ἐν ἠπείρῳ, οἰκότα ἐλπίζων. νησιώτας δὲ τί δοκέεις εὔχεσθαι ἄλλο ἤ, ἐπείτε τάχιστα ἐπύθοντό σε μέλλοντα ἐπὶ σφίσι ναυπηγέεσθαι νέας, λαβεῖν ἀρώμενοι Λυδούς ἐν θαλάσσῃ, ἵνα ὓπερ τῶν ἐν τῇ ἠπείρῳ οἰκημένων Ἑλλήνων τίσωνταί σε, τοὺς σὺ δουλώσας ἔχεις;",
+        "translations": [
+          "“O King, you appear to me earnestly to wish to catch the islanders riding horses on the mainland, a natural wish. And what else do you suppose the islanders wished, as soon as they heard that you were building ships to attack them, than to catch Lydians on the seas, so as to be revenged on you for the Greeks who dwell on the mainland, whom you enslaved?”"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "κάρτα τε ἡσθῆναι Κροῖσον τῷ ἐπιλόγῳ καί οἱ, προσφυέως γὰρ δόξαι λέγειν, πειθόμενον παύσασθαι τῆς ναυπηγίης. καὶ οὕτω τοῖσι τὰς νήσους οἰκημένοισι Ἴωσι ξεινίην συνεθήκατο.",
+        "translations": [
+          "Croesus was quite pleased with this conclusion, for he thought the man spoke reasonably and, heeding him, stopped building ships. Thus he made friends with the Ionians inhabiting the islands."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

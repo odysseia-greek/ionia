@@ -1,0 +1,53 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.126",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.126/",
+    "rhemai": [
+      {
+        "greek": "ὡς δὲ παρῆσαν ἅπαντες ἔχοντες τὸ προειρημένον, ἐνθαῦτα ὁ Κῦρος, ἦν γάρ τις χῶρος τῆς Περσικῆς ἀκανθώδης ὅσον τε ἐπὶ ὀκτωκαίδεκα σταδίους ἢ εἴκοσι πάντῃ, τοῦτον σφι τὸν χῶρον προεῖπε ἐξημερῶσαι ἐν ἡμέρῃ.",
+        "translations": [
+          "So when they all came with sickles as ordered, Cyrus commanded them to reclaim in one day a thorny tract of Persia, of two and one quarter or two and one half miles each way in extent."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐπιτελεσάντων δὲ τῶν Περσέων τὸν προκείμενον ἄεθλον, δεύτερα σφι προεῖπε ἐς τὴν ὑστεραίην παρεῖναι λελουμένους. ἐν δὲ τούτῳ τά τε αἰπόλια καὶ τὰς ποίμνας καὶ τὰ βουκόλια ὁ Κῦρος πάντα τοῦ πατρὸς συναλίσας ἐς τὠυτὸ ἔθυσε καὶ παρεσκεύαζε ὡς δεξόμενος τὸν Περσέων στρατόν, πρὸς δὲ οἴνῳ τε καὶ σιτίοισι ὡς ἐπιτηδεοτάτοισι.",
+        "translations": [
+          "The Persians accomplished the task appointed; Cyrus then commanded them to wash themselves and come the next day; meanwhile, collecting his father's goats and sheep and oxen in one place, he slaughtered and prepared them as a feast for the Persian host, providing also wine and all the foods that were most suitable."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἀπικομένους δὲ τῇ ὑστεραίῃ τοὺς Πέρσας κατακλίνας ἐς λειμῶνα εὐώχεε. ἐπείτε δὲ ἀπὸ δείπνου ἦσαν, εἴρετο σφέας ὁ Κῦρος κότερα τὰ τῇ προτεραίῃ εἶχον ἢ τὰ παρεόντα σφι εἴη αἱρετώτερα.",
+        "translations": [
+          "When the Persians came on the next day he had them sit and feast in a meadow. After dinner he asked them which they liked more: their task of yesterday or their present pastime."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "οἳ δὲ ἔφασαν πολλὸν εἶναι αὐτῶν τὸ μέσον· τὴν μὲν γὰρ προτέρην ἡμέρην πάντα σφι κακὰ ἔχειν, τὴν δὲ τότε παρεοῦσαν πάντα ἀγαθά. παραλαβὼν δὲ τοῦτο τὸ ἔπος ὁ Κῦρος παρεγύμνου τὸν πάντα λόγον, λέγων",
+        "translations": [
+          "They answered that the difference was great: all yesterday they had had nothing but evil, to-day nothing but good. Then, taking up their word, Cyrus laid bare his whole purpose, and said:"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἄνδρες Πέρσαι, οὕτω ὑμῖν ἔχει. βουλομένοισι μὲν ἐμέο πείθεσθαί ἔστι τάδε τε καὶ ἄλλα μυρία ἀγαθά, οὐδένα πόνον δουλοπρεπέα ἔχουσι, μὴ βουλομένοισι δὲ ἐμέο πείθεσθαι εἰσὶ ὑμῖν πόνοι τῷ χθιζῷ παραπλήσιοι ἀναρίθμητοι.",
+        "translations": [
+          "“This is your situation, men of Persia: obey me and you shall have these good things and ten thousand others besides with no toil and slavery; but if you will not obey me, you will have labors unnumbered like your toil of yesterday."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "νῦν ὦν ἐμέο πειθόμενοι γίνεσθε ἐλεύθεροι. αὐτός τε γὰρ δοκέω θείῃ τύχῃ γεγονὼς τάδε ἐς χεῖρας ἄγεσθαι, καὶ ὑμέας ἥγημαι ἄνδρας Μήδων εἶναι οὐ φαυλοτέρους οὔτε τἄλλα οὔτε τὰ πολέμια. ὡς ὦν ἐχόντων ὧδε, ἀπίστασθε ἀπʼ Ἀστυάγεος τὴν ταχίστην.",
+        "translations": [
+          "Now, then, do as I tell you, and win your freedom. For I think that I myself was born by a divine chance to undertake this work; and I hold you fully as good men as the Medes in war and in everything else. All this is true; therefore revolt from Astyages quickly now!”"
+        ],
+        "section": "6"
+      }
+    ]
+  }
+]

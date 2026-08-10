@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.136",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.136/",
+    "rhemai": [
+      {
+        "greek": "ἀνδραγαθίη δὲ αὕτη ἀποδέδεκται, μετὰ τὸ μάχεσθαι εἶναι ἀγαθόν, ὃς ἂν πολλοὺς ἀποδέξῃ παῖδας· τῷ δὲ τοὺς πλείστους ἀποδεικνύντι δῶρα ἐκπέμπει βασιλεὺς ἀνὰ πᾶν ἔτος. τὸ πολλὸν δʼ ἡγέαται ἰσχυρὸν εἶναι.",
+        "translations": [
+          "After valor in battle it is accounted noble to father the greatest number of sons: the king sends gifts yearly to him who gets most. Strength, they believe, is in numbers."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "παιδεύουσι δὲ τοὺς παῖδας ἀπὸ πενταέτεος ἀρξάμενοι μέχρι εἰκοσαέτεος τρία μοῦνα, ἰππεύειν καὶ τοξεύειν καὶ ἀληθίζεσθαι. πρὶν δὲ ἢ πενταέτης γένηται, οὐκ ἀπικνέεται ἐς ὄψιν τῷ πατρί, ἀλλὰ παρὰ τῇσι γυναιξὶ δίαιταν ἔχει. τοῦδε δὲ εἵνεκα τοῦτο οὕτω ποιέεται, ἵνα ἢν ἀποθάνῃ τρεφόμενος, μηδεμίαν ἄσην τῷ πατρὶ προσβάλῃ.",
+        "translations": [
+          "They educate their boys from five to twenty years old, and teach them only three things: riding and archery and honesty. A boy is not seen by his father before he is five years old, but lives with the women: the point of this is that, if the boy should die in the interval of his rearing, the father would suffer no grief."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

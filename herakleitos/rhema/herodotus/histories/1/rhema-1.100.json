@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.100",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.100/",
+    "rhemai": [
+      {
+        "greek": "ἐπείτε δὲ ταῦτα διεκόσμησε καὶ ἐκράτυνε ἑωυτὸν τῇ τυραννίδι, ἦν τὸ δίκαιον φυλάσσων χαλεπός· καὶ τάς τε δίκας γράφοντες ἔσω παρʼ ἐκεῖνον ἐσπέμπεσκον, καὶ ἐκεῖνος διακρίνων τὰς ἐσφερομένας ἐκπέμπεσκε.",
+        "translations": [
+          "When he had made these arrangements and strengthened himself with sovereign power, he was a hard man in the protection of justice. They would write down their pleas and send them in to him; then he would pass judgment on what was brought to him and send his decisions out."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ταῦτα μὲν κατὰ τὰς δίκας ἐποίεε, τάδε δὲ ἄλλα ἐκεκοσμέατὸ οἱ· εἴ τινα πυνθάνοιτο ὑβρίζοντα, τοῦτον ὅκως μεταπέμψαιτο κατʼ ἀξίην ἑκάστου ἀδικήματος ἐδικαίευ, καὶ οἱ κατάσκοποί τε καὶ κατήκοοι ἦσαν ἀνὰ πᾶσαν τὴν χώρην τῆς ἦρχε.",
+        "translations": [
+          "This was his manner of deciding cases at law, and he had other arrangements too; for when he heard that a man was doing violence he would send for him and punish him as each offense deserved: and he had spies and eavesdroppers everywhere in his domain."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

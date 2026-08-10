@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.83",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.83/",
+    "rhemai": [
+      {
+        "greek": "τοιούτων δὲ τοῖσι Σπαρτιήτῃσι ἐνεστεώτων πρηγμάτων ἧκε ὁ Σαρδιηνὸς κῆρυξ δεόμενος Κροίσῳ βοηθέειν πολιορκεομένῳ. οἳ δὲ ὅμως, ἐπείτε ἐπύθοντο τοῦ κήρυκος, ὁρμέατο βοηθέειν. καί σφι ἤδη παρεσκευασμένοισι καὶ νεῶν ἐουσέων ἑτοίμων ἦλθε ἄλλη ἀγγελίη, ὡς ἡλώκοι τὸ τεῖχος τῶν Λυδῶν καὶ ἔχοιτο Κροῖσος ζωγρηθείς. οὕτω δὴ οὗτοι μὲν συμφορὴν ποιησάμενοι μεγάλην ἐπέπαυντο.",
+        "translations": [
+          "The Sardian herald came after this had happened to the Spartans to ask for their help for Croesus, now besieged; nonetheless, when they heard the herald, they prepared to send help; but when they were already equipped and their ships ready, a second message came that the fortification of the Lydians was taken and Croesus a prisoner. Then, though very sorry indeed, they ceased their efforts."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

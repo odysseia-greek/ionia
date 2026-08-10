@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.189",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.189/",
+    "rhemai": [
+      {
+        "greek": "ἐπείτε δὲ ὁ Κῦρος πορευόμενος ἐπὶ τὴν Βαβυλῶνα ἐγίνετο ἐπὶ Γύνδῃ ποταμῷ, τοῦ αἱ μὲν πηγαὶ ἐν Ματιηνοῖσι ὄρεσι, ῥέει δὲ διὰ Δαρδανέων, ἐκδιδοῖ δὲ ἐς ἕτερον ποταμὸν Τίγρην, ὁ δὲ παρὰ Ὦπιν πόλιν ῥέων ἐς τὴν Ἐρυθρὴν θάλασσαν ἐκδιδοῖ, τοῦτον δὴ τὸν Γύνδην ποταμὸν ὡς διαβαίνειν ἐπειρᾶτο ὁ Κῦρος ἐόντα νηυσιπέρητον, ἐνθαῦτά οἱ τῶν τις ἱρῶν ἵππων τῶν λευκῶν ὑπὸ ὕβριος ἐσβὰς ἐς τὸν ποταμὸν διαβαίνειν ἐπειρᾶτο, ὁ δέ μιν συμψήσας ὑποβρύχιον οἰχώκεε φέρων.",
+        "translations": [
+          "When Cyrus reached the Gyndes river on his march to Babylon, which rises in the mountains of the Matieni and flows through the Dardanean country into another river, the Tigris, that again passes the city of Opis and empties into the Red Sea —when, I say, Cyrus tried to cross the Gyndes, which was navigable there, one of his sacred white horses dashed recklessly into the river trying to get through it, but the current overwhelmed him and swept him under and away."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "κάρτα τε δὴ ἐχαλέπαινε τῷ ποταμῷ ὁ Κῦρος τοῦτο ὑβρίσαντι, καί οἱ ἐπηπείλησε οὕτω δή μιν ἀσθενέα ποιήσειν ὥστε τοῦ λοιποῦ καὶ γυναῖκας μιν εὐπετέως τὸ γόνυ οὐ βρεχούσας διαβήσεσθαι.",
+        "translations": [
+          "At this violence of the river Cyrus was very angry, and he threatened to make it so feeble that women could ever after cross it easily without wetting their knees."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "μετὰ δὲ τὴν ἀπειλὴν μετεὶς τὴν ἐπὶ Βαβυλῶνα στράτευσιν διαίρεε τὴν στρατιὴν δίχα, διελὼν δὲ κατέτεινε σχοινοτενέας ὑποδέξας διώρυχας ὀγδώκοντα καὶ ἑκατὸν παρʼ ἑκάτερον τὸ χεῖλος τοῦ Γύνδεω τετραμμένας πάντα τρόπον, διατάξας δὲ τὸν στρατὸν ὀρύσσειν ἐκέλευε.",
+        "translations": [
+          "After uttering this threat, he paused in his march against Babylon, and, dividing his army into two parts, drew lines planning out a hundred and eighty canals running every way from either bank of the Gyndes; then he organized his army along the lines and made them dig."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "οἷα δὲ ὁμίλου πολλοῦ ἐργαζομένου ἤνετο μὲν τὸ ἔργον, ὅμως μέντοι τὴν θερείην πᾶσαν αὐτοῦ ταύτῃ διέτριψαν ἐργαζόμενοι.",
+        "translations": [
+          "Since a great multitude was at work, it went quickly; but they spent the whole summer there before it was finished."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

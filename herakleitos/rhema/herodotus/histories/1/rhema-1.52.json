@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.52",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.52/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα μὲν ἐς Δελφοὺς ἀπέπεμψε, τῷ δὲ Ἀμφιάρεῳ, πυθόμενος αὐτοῦ τήν τε ἀρετὴν καὶ τὴν πάθην, ἀνέθηκε σάκος τε χρύσεον πᾶν ὁμοίως καὶ αἰχμὴν στερεὴν πᾶσαν χρυσέην, τὸ ξυστὸν τῇσι λόγχῃσι ἐὸν ὁμοίως χρύσεον· τὰ ἔτι καὶ ἀμφότερα ἐς ἐμὲ ἦν κείμενα ἐν Θήβῃσι καὶ Θηβέων ἐν τῳ νηῷ τοῦ Ἰσμηνίου Ἀπόλλωνος.",
+        "translations": [
+          "Such were the gifts which he sent to Delphi. To Amphiaraus, of whose courage and fate he had heard, he dedicated a shield made entirely of gold and a spear all of solid gold, point and shaft alike. Both of these were until my time at Thebes, in the Theban temple of Ismenian Apollo."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

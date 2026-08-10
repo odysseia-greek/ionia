@@ -1,0 +1,707 @@
+[
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"1.1",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:1.1",
+    "rhemai":[
+      {
+        "greek":"Θουκυδίδης Ἀθηναῖος ξυνέγραψε τὸν πόλεμον τῶν Πελοποννησίων καὶ Ἀθηναίων, ὡς ἐπολέμησαν πρὸς ἀλλήλους, ἀρξάμενος εὐθὺς καθισταμένου καὶ ἐλπίσας μέγαν τε ἔσεσθαι καὶ ἀξιολογώτατον τῶν προγεγενημένων, τεκμαιρόμενος ὅτι ἀκμάζοντές τε ᾖσαν ἐς αὐτὸν ἀμφότεροι παρασκευῇ τῇ πάσῃ καὶ τὸ ἄλλο Ἑλληνικὸν ὁρῶν ξυνιστάμενον πρὸς ἑκατέρους, τὸ μὲν εὐθύς, τὸ δὲ καὶ διανοούμενον. [2] κίνησις γὰρ αὕτη μεγίστη δὴ τοῖς Ἕλλησιν ἐγένετο καὶ μέρει τινὶ τῶν βαρβάρων, ὡς δὲ εἰπεῖν καὶ ἐπὶ πλεῖστον ἀνθρώπων. [3] τὰ γὰρ πρὸ αὐτῶν καὶ τὰ ἔτι παλαίτερα σαφῶς μὲν εὑρεῖν διὰ χρόνου πλῆθος ἀδύνατα ἦν, ἐκ δὲ τεκμηρίων ὧν ἐπὶ μακρότατον σκοποῦντί μοι πιστεῦσαι ξυμβαίνει οὐ μεγάλα νομίζω γενέσθαι οὔτε κατὰ τοὺς πολέμους οὔτε ἐς τὰ ἄλλα.",
+        "translations":[
+          "Thucydides, an Athenian, wrote the history of the war between the Peloponnesians and the Athenians, beginning at the moment that it broke out, and believing that it would be a great war, and more worthy of relation than any that had preceded it. This belief was not without its grounds. The preparations of both the combatants were in every department in the last state of perfection; and he could see the rest of the Hellenic race taking sides in the quarrel; those who delayed doing so at once having it in contemplation.",
+          "Thucydides, an Athenian, wrote the history of the war waged by the Peloponnesians and the Athenians against one another. He began the task at the very outset of the war, in the belief that it would be great and noteworthy above all the wars that had gone before, inferring this from the fact that both powers were then at their best in preparedness for war in every way, and seeing the rest of the Hellenic race taking sides with one state or the other, some at once, others planning to do so."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"κίνησις γὰρ αὕτη μεγίστη δὴ τοῖς Ἕλλησιν ἐγένετο καὶ μέρει τινὶ τῶν βαρβάρων, ὡς δὲ εἰπεῖν καὶ ἐπὶ πλεῖστον ἀνθρώπων.",
+        "translations":[
+          "No movement ever stirred Hellas more deeply than this; it was shared by many of the Barbarians, and might be said even to affect the world at large.",
+          "For this was the greatest movement that had ever stirred the Hellenes, extending also to some of the Barbarians, one might say even to a very large part of mankind."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"τὰ γὰρ πρὸ αὐτῶν καὶ τὰ ἔτι παλαίτερα σαφῶς μὲν εὑρεῖν διὰ χρόνου πλῆθος ἀδύνατα ἦν, ἐκ δὲ τεκμηρίων ὧν ἐπὶ μακρότατον σκοποῦντί μοι πιστεῦσαι ξυμβαίνει οὐ μεγάλα νομίζω γενέσθαι οὔτε κατὰ τοὺς πολέμους οὔτε ἐς τὰ ἄλλα.",
+        "translations":[
+          "Indeed, as to the events of the period just preceding this, and those of a still earlier date, it was impossible to get clear information on account of lapse of time; but from evidence which, on pushing my inquiries to the furthest point, I find that I can trust, I think that they were not really great either as regards the wars then waged or in other particulars.",
+          "For the events that preceded this, and those again that are yet more ancient, it was impossible, through length of time, to ascertain with certainty; but [ ] from such evidence as I am led to trust, on looking back as far as possible, I do not think they were great, either with respect to wars or otherwise."
+        ],
+        "section":"3"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"1.9",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.9",
+    "rhemai":[
+      {
+        "greek":"Ἀγαμέμνων τέ μοι δοκεῖ τῶν τότε δυνάμει προύχων καὶ οὐ τοσοῦτον τοῖς Τυνδάρεω ὅρκοις κατειλημμένους τοὺς Ἑλένης μνηστῆρας ἄγων τὸν στόλον ἀγεῖραι.",
+        "translations":[
+          "And it was, as I think, because Agamemnon surpassed in power the princes of his time that he was able to assemble his fleet, and not so much because Helen's suitors, whom he led, were bound by oath to Tyndareus.",
+          "What enabled Agamemnon to raise the armament was more, in my opinion, his superiority in strength, than the oaths of Tyndareus, which bound the Suitors to follow him."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"λέγουσι δὲ καὶ οἱ τὰ σαφέστατα Πελοποννησίων μνήμῃ παρὰ τῶν πρότερον δεδεγμένοι Πέλοπά τε πρῶτον πλήθει χρημάτων, ἃ ἦλθεν ἐκ τῆς Ἀσίας ἔχων ἐς ἀνθρώπους ἀπόρους, δύναμιν περιποιησάμενον τὴν ἐπωνυμίαν τῆς χώρας ἔπηλυν ὄντα ὅμως σχεῖν, καὶ ὕστερον τοῖς ἐκγόνοις ἔτι μείζω ξυνενεχθῆναι, Εὐρυσθέως μὲν ἐν τῇ Ἀττικῇ ὑπὸ Ἡρακλειδῶν ἀποθανόντος, Ἀτρέως δὲ μητρὸς ἀδελφοῦ ὄντος αὐτῷ, καὶ ἐπιτρέψαντος Εὐρυσθέως, ὅτ ἐστράτευε, Μυκήνας τε καὶ τὴν ἀρχὴν κατὰ τὸ οἰκεῖον Ἀτρεῖ (τυγχάνειν δὲ αὐτὸν φεύγοντα τὸν πατέρα διὰ τὸν Χρυσίππου θάνατον), καὶ ὡς οὐκέτι ἀνεχώρησεν Εὐρυσθεύς, βουλομένων καὶ τῶν Μυκηναίων φόβῳ τῶν Ἡρακλειδῶν καὶ ἅμα δυνατὸν δοκοῦντα εἶναι καὶ τὸ πλῆθος τεθεραπευκότα τῶν Μυκηναίων τε καὶ ὅσων Εὐρυσθεὺς ἦρχε τὴν βασιλείαν Ἀτρέα παραλαβεῖν, καὶ τῶν Περσειδῶν τοὺς Πελοπίδας μείζους καταστῆναι.",
+        "translations":[
+          "It is said, furthermore, by those of the Peloponnesians who have received the clearest traditional accounts from men of former times, that it was by means of the great wealth which he brought with him from Asia into the midst of a poor people that Pelops first acquired power, and, consequently, stranger though he was, gave his name to the country, and that yet greater things fell to the lot of his descendants. For when Eurystheus set out on the expedition that resulted in his death in Attica at the hands of the Heracleidae, Atreus, his mother's brother, who chanced to have been banished by his father for the death of Chrysippus,[ ] was intrusted by Eurystheus with Mycenae and the sovereignty because he was a kinsman; and when Eurystheus did not return, Atreus, in accordance with the wish of the Mycenaeans, who feared the Heracleidae, and because he seemed to be a man of power and had won the favour of the multitude, received the sovereignty over the Mycenaeans and all who were under the sway of Eurystheus. And so the house of Pelops became greater than the house of Perseus.",
+          "Indeed, the account given by those Peloponnesians who have been the recipients of the most credible tradition is this. First of all Pelops, arriving among a needy population from Asia with vast wealth, acquired such power that, stranger though he was, the country was called after him; and this power fortune saw fit materially to increase in the hands of his descendants. Eurystheus had been killed in Attica by the Heraclids. Atreus was his mother's brother; and to the hands of his relation, who had left his father on account of the death of Chrysippus, Eurystheus, when he set out on his expedition, had committed Mycenae and the government. As time went on and Eurystheus did not return, Atreus complied with the wishes of the Mycenaeans, who were influenced by fear of the Heraclids,—besides, his power seemed considerable, and he had not neglected to court the favour of the populace,—and assumed the sceptre of Mycenae and the rest of the dominions of Eurystheus. And so the power of the descendants of Pelops came to be greater than that of the descendants of Perseus."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"ἅ μοι δοκεῖ Ἀγαμέμνων παραλαβὼν καὶ ναυτικῷ [τε] ἅμα ἐπὶ πλέον τῶν ἄλλων ἰσχύσας, τὴν στρατείαν οὐ χάριτι τὸ πλέον ἢ φόβῳ ξυναγαγὼν ποιήσασθαι.",
+        "translations":[
+          "To all this Agamemnon succeeded. He had also a navy far stronger than his contemporaries, so that, in my opinion, fear was quite as strong an element as love in the formation of the confederate expedition."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"φαίνεται γὰρ ναυσί τε πλείσταις αὐτὸς ἀφικόμενος καὶ Ἀρκάσι προσπαρασχών, ὡς Ὅμηρος τοῦτο δεδήλωκεν, εἴ τῳ ἱκανὸς τεκμηριῶσαι. καὶ ἐν τοῦ σκήπτρου ἅμα τῇ παραδόσει εἴρηκεν αὐτὸν\n\nπολλῇσι νήσοισι καὶ Ἄργεϊ παντὶ ἀνάσσειν·\nHom. Il. 2.108\nοὐκ ἂν οὖν νήσων ἔξω τῶν περιοικίδων (αὗται δὲ οὐκ ἂν πολλαὶ εἶεν) ἠπειρώτης ὢν ἐκράτει, εἰ μή τι καὶ ναυτικὸν εἶχεν. εἰκάζειν δὲ χρὴ καὶ ταύτῃ τῇ στρατείᾳ οἷα ἦν τὰ πρὸ αὐτῆς.",
+        "translations":[
+          "The strength of his navy is shown by the fact that his own was the largest contingent, and that of the Arcadians was furnished by him; this at least is what Homer says, if his testimony is deemed sufficient. Besides, in his account of the transmission of the sceptre, he calls him\n\nOf many an isle, and of all Argos king.\nHom. Il. 2.108\nNow Agamemnon's was a continental power; and he could not have been master of any except the adjacent islands (and these would not be many), but through the possession of a fleet.\nAnd from this expedition we may infer the character of earlier enterprises."
+        ],
+        "section":"4"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"1.31",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.31",
+    "rhemai":[
+      {
+        "greek":"τὸν δ’ ἐνιαυτὸν πάντα τὸν μετὰ τὴν ναυμαχίαν καὶ τὸν ὕστερον οἱ Κορίνθιοι ὀργῇ φέροντες τὸν πρὸς Κερκυραίους πόλεμον ἐναυπηγοῦντο καὶ παρεσκευάζοντο τὰ κράτιστα νεῶν στόλον, ἔκ τε αὐτῆς Πελοποννήσου ἀγείροντες καὶ τῆς ἄλλης Ἑλλάδος ἐρέτας, μισθῷ πείθοντες.",
+        "translations":[
+          "Corinth, exasperated by the war with the Corcyraeans, spent the whole of the year after the engagement and that succeeding it in building ships, and in straining every nerve to form an efficient fleet; rowers being drawn from Peloponnese and the rest of Hellas by the inducement of large bounties."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"πυνθανόμενοι δὲ οἱ Κερκυραῖοι τὴν παρασκευὴν αὐτῶν ἐφοβοῦντο, καί (ἦσαν γὰρ οὐδενὸς Ἑλλήνων ἔνσπονδοι οὐδὲ ἐσεγράψαντο ἑαυτοὺς οὔτε ἐς τὰς Ἀθηναίων σπονδὰς οὔτε ἐς τὰς Λακεδαιμονίων) ἔδοξεν αὐτοῖς ἐλθοῦσιν ὡς τοὺς Ἀθηναίους ξυμμάχους γενέσθαι καὶ ὠφελίαν τινὰ πειρᾶσθαι ἀπ’ αὐτῶν εὑρίσκεσθαι.",
+        "translations":[
+          "The Corcyraeans, alarmed at the news of their preparations, being without a single ally in Hellas (for they had not enrolled themselves either in the Athenian or in the Lacedaemonian confederacy), decided to repair to Athens in order to enter into alliance, and to endeavor to procure support from her."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"οἱ δὲ Κορίνθιοι πυθόμενοι ταῦτα ἦλθον καὶ αὐτοὶ ἐς τὰς Ἀθήνας πρεσβευσόμενοι, ὅπως μὴ σφίσι πρὸς τῷ Κερκυραίων ναυτικῷ καὶ τὸ αὐτῶν προσγενόμενον ἐμπόδιον γένηται θέσθαι τὸν πόλεμον ᾗ βούλονται.",
+        "translations":[
+          "Corinth also, hearing of their intentions, sent an embassy to Athens to prevent the Corcyraean navy being joined by the Athenian, and her prospect of ordering the war according to her wishes being thus impeded."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"καταστάσης δὲ ἐκκλησίας ἐς ἀντιλογίαν ἦλθον, καὶ οἱ μὲν Κερκυραῖοι ἔλεξαν τοιάδε.",
+        "translations":[
+          "An assembly was convoked, and the rival advocates appeared: the Corcyraeans spoke as follows:—"
+        ],
+        "section":"4"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"1.49",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.49",
+    "rhemai":[
+      {
+        "greek":"ξυμμείξαντες δέ, ἐπειδὴ τὰ σημεῖα ἑκατέροις ἤρθη, ἐναυμάχουν, πολλοὺς μὲν ὁπλίτας ἔχοντες ἀμφότεροι ἐπὶ τῶν καταστρωμάτων, πολλοὺς δὲ τοξότας τε καὶ ἀκοντιστάς, τῷ παλαιῷ τρόπῳ ἀπειρότερον ἔτι παρεσκευασμένοι.",
+        "translations":[
+          "As soon as the signals were raised on either side, they joined battle. Both sides had a large number of heavy infantry on their decks, and a large number of archers and darters, the old imperfect armament still prevailing."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"ἦν τε ἡ ναυμαχία καρτερά, τῇ μὲν τέχνῃ οὐχ ὁμοίως, πεζομαχίᾳ δὲ τὸ πλέον προσφερὴς οὖσα.",
+        "translations":[
+          "The sea-fight was an obstinate one, though not remarkable for its science; indeed it was more like a battle by land."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"ἐπειδὴ γὰρ προσβάλοιεν ἀλλήλοις, οὐ ῥᾳδίως ἀπελύοντο ὑπό τε τοῦ πλήθους καὶ ὄχλου τῶν νεῶν, καὶ μᾶλλόν τι πιστεύοντες τοῖς ἐπὶ τοῦ καταστρώματος ὁπλίταις ἐς τὴν νίκην, οἳ καταστάντες ἐμάχοντο ἡσυχαζουσῶν τῶν νεῶν· διέκπλοι δ’ οὐκ ἦσαν, ἀλλὰ θυμῷ καὶ ῥώμῃ τὸ πλέον ἐναυμάχουν ἢ ἐπιστήμῃ.",
+        "translations":[
+          "Whenever they charged each other, the multitude and crush of the vessels made it by no means easy to get loose; besides, their hopes of victory lay principally in the heavy infantry on the decks, who stood and fought in order, the ships remaining stationary. The manoeuvre of breaking the line was not tried: in short, strength and pluck had more share in the fight than science."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"πανταχῇ μὲν οὖν πολὺς θόρυβος καὶ ταραχώδης ἦν ἡ ναυμαχία, ἐν ᾗ αἱ Ἀττικαὶ νῆες παραγιγνόμεναι τοῖς Κερκυραίοις, εἴ πῃ πιέζοιντο, φόβον μὲν παρεῖχον τοῖς ἐναντίοις, μάχης δὲ οὐκ ἦρχον δεδιότες οἱ στρατηγοὶ τὴν πρόρρησιν τῶν Ἀθηναίων.",
+        "translations":[
+          "Everywhere tumult reigned, the battle being one scene of confusion; meanwhile the Athenian ships, by coming up to the Corcyraeans whenever they were pressed, served to alarm the enemy, though their commanders could not join in the battle from fear of their instructions."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"μάλιστα δὲ τὸ δεξιὸν κέρας τῶν Κορινθίων ἐπόνει· οἱ γὰρ Κερκυραῖοι εἴκοσι ναυσὶν αὐτοὺς τρεψάμενοι καὶ καταδιώξαντες σποράδας ἐς τὴν ἤπειρον καὶ μέχρι τοῦ στρατοπέδου πλεύσαντες αὐτῶν καὶ ἐπεκβάντες ἐνέπρησάν τε τὰς σκηνὰς ἐρήμους καὶ τὰ χρήματα διήρπασαν.",
+        "translations":[
+          "The right wing of the Corinthians suffered most. The Corcyraeans routed it, and chased them in disorder to the continent with twenty ships, sailed up to their camp, and burnt the tents which they found empty, and plundered the stuff."
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"ταύτῃ μὲν οὖν οἱ Κορίνθιοι καὶ οἱ ξύμμαχοι ἡσσῶντό [τε] καὶ οἱ Κερκυραῖοι ἐπεκράτουν· ᾗ δὲ αὐτοὶ ἦσαν οἱ Κορίνθιοι, ἐπὶ τῷ εὐωνύμῳ, πολὺ ἐνίκων, τοῖς Κερκυραίοις τῶν εἴκοσι νεῶν ἀπὸ ἐλάσσονος πλήθους ἐκ τῆς διώξεως οὐ παρουσῶν.",
+        "translations":[
+          "So in this quarter the Corinthians and their allies were defeated, and the Corcyraeans were victorious. But where the Corinthians themselves were, on the left, they gained a decided success; the scanty forces of the Corcyraeans being further weakened by the want of the twenty ships absent on the pursuit."
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"οἱ δὲ Ἀθηναῖοι ὁρῶντες τοὺς Κερκυραίους πιεζομένους μᾶλλον ἤδη ἀπροφασίστως ἐπεκούρουν, τὸ μὲν πρῶτον ἀπεχόμενοι ὥστε μὴ ἐμβάλλειν τινί· ἐπειδὴ δὲ ἡ τροπὴ ἐγίγνετο λαμπρῶς καὶ ἐνέκειντο οἱ Κορίνθιοι, τότε δὴ ἔργου πᾶς εἴχετο ἤδη καὶ διεκέκριτο οὐδὲν ἔτι, ἀλλὰ ξυνέπεσεν ἐς τοῦτο ἀνάγκης ὥστε ἐπιχειρῆσαι ἀλλήλοις τοὺς Κορινθίους καὶ Ἀθηναίους.",
+        "translations":[
+          "Seeing the Corcyraeans hard pressed, the Athenians began at length to assist them more unequivocally. At first, it is true, they refrained from charging any ships; but when the rout was becoming patent, and the Corinthians were pressing on, the time at last came when every one set to, and all distinction was laid aside, and it came to this point, that the Corinthians and Athenians raised their hands against each other."
+        ],
+        "section":"7"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"1.71",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.71",
+    "rhemai":[
+      {
+        "greek":"‘ταύτης μέντοι τοιαύτης ἀντικαθεστηκυίας πόλεως, ὦ Λακεδαιμόνιοι, διαμέλλετε καὶ οἴεσθε τὴν ἡσυχίαν οὐ τούτοις τῶν ἀνθρώπων ἐπὶ πλεῖστον ἀρκεῖν οἳ ἂν τῇ μὲν παρασκευῇ δίκαια πράσσωσι, τῇ δὲ γνώμῃ, ἢν ἀδικῶνται, δῆλοι ὦσι μὴ ἐπιτρέψοντες, ἀλλ’ ἐπὶ τῷ μὴ λυπεῖν τε τοὺς ἄλλους καὶ αὐτοὶ ἀμυνόμενοι μὴ βλάπτεσθαι τὸ ἴσον νέμετε.",
+        "translations":[
+          "Such is Athens, your antagonist. And yet, Lacedaemonians, you still delay, and fail to see that peace stays longest with those, who are not more careful to use their power justly than to show their determination not to submit to injustice. On the contrary, your ideal of fair dealing is based on the principle that if you do not injure others, you need not risk your own fortunes in preventing others from injuring you."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"μόλις δ’ ἂν πόλει ὁμοίᾳ παροικοῦντες ἐτυγχάνετε τούτου· νῦν δ, ὅπερ καὶ ἄρτι ἐδηλώσαμεν, ἀρχαιότροπα ὑμῶν τὰ ἐπιτηδεύματα πρὸς αὐτούς ἐστιν.",
+        "translations":[
+          "Now you could scarcely have succeeded in such a policy even with a neighbor like yourselves; but in the present instance, as we have just shown, your habits are old-fashioned as compared with theirs."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"ἀνάγκη δὲ ὥσπερ τέχνης αἰεὶ τὰ ἐπιγιγνόμενα κρατεῖν· καὶ ἡσυχαζούσῃ μὲν πόλει τὰ ἀκίνητα νόμιμα ἄριστα, πρὸς πολλὰ δὲ ἀναγκαζομένοις ἰέναι πολλῆς καὶ τῆς ἐπιτεχνήσεως δεῖ. δι’ ὅπερ καὶ τὰ τῶν Ἀθηναίων ἀπὸ τῆς πολυπειρίας ἐπὶ πλέον ὑμῶν κεκαίνωται.",
+        "translations":[
+          "It is the law as in art, so in politics, that improvements ever prevail; and though fixed usages may be best for undisturbed communities, constant necessities of action must be accompanied by the constant improvement of methods. Thus it happens that the vast experience of Athens has carried her further than you on the path of innovation."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"μέχρι μὲν οὖν τοῦδε ὡρίσθω ὑμῶν ἡ βραδυτής· νῦν δὲ τοῖς τε ἄλλοις καὶ Ποτειδεάταις, ὥσπερ ὑπεδέξασθε, βοηθήσατε κατὰ τάχος ἐσβαλόντες ἐς τὴν Ἀττικήν, ἵνα μὴ ἄνδρας τε φίλους καὶ ξυγγενεῖς τοῖς ἐχθίστοις προῆσθε καὶ ἡμᾶς τοὺς ἄλλους ἀθυμίᾳ πρὸς ἑτέραν τινὰ ξυμμαχίαν τρέψητε.",
+        "translations":[
+          "Here, at least, let your procrastination end. For the present, assist your allies and Potidaea in particular, as you promised, by a speedy invasion of Attica, and do not sacrifice friends and kindred to their bitterest enemies, and drive the rest of us in despair to some other alliance."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"δρῷμεν δ’ ἂν ἄδικον οὐδὲν οὔτε πρὸς θεῶν τῶν ὁρκίων οὔτε πρὸς ἀνθρώπων τῶν αἰσθανομένων· λύουσι γὰρ σπονδὰς οὐχ οἱ δι’ ἐρημίαν ἄλλοις προσιόντες, ἀλλ’ οἱ μὴ βοηθοῦντες οἷς ἂν ξυνομόσωσιν.",
+        "translations":[
+          "Such a step would not be condemned either by the gods who received our oaths, or by the men who witnessed them. The breach of a treaty cannot be laid to the people whom desertion compels to seek new relations, but to the power that fails to assist its confederate."
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"βουλομένων δὲ ὑμῶν προθύμων εἶναι μενοῦμεν· οὔτε γὰρ ὅσια ἂν ποιοῖμεν μεταβαλλόμενοι οὔτε ξυνηθεστέρους ἂν ἄλλους εὕροιμεν.",
+        "translations":[
+          "But if you will only act, we will stand by you; it would be unnatural for us to change, and never should we meet with such a congenial ally."
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"πρὸς τάδε βουλεύεσθε εὖ καὶ τὴν Πελοπόννησον πειρᾶσθε μὴ ἐλάσσω ἐξηγεῖσθαι ἢ οἱ πατέρες ὑμῖν παρέδοσαν.’",
+        "translations":[
+          "For these reasons choose the right course, and endeavor not to let Peloponnese under your supremacy degenerate from the prestige that it enjoyed under that of your ancestors."
+        ],
+        "section":"7"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"1.90",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.90",
+    "rhemai":[
+      {
+        "greek":"Λακεδαιμόνιοι δὲ αἰσθόμενοι τὸ μέλλον ἦλθον πρεσβείᾳ, τὰ μὲν καὶ αὐτοὶ ἥδιον ἂν ὁρῶντες μήτ’ ἐκείνους μήτ’ ἄλλον μηδένα τεῖχος ἔχοντα, τὸ δὲ πλέον τῶν ξυμμάχων ἐξοτρυνόντων καὶ φοβουμένων τοῦ τε ναυτικοῦ αὐτῶν τὸ πλῆθος, ὃ πρὶν οὐχ ὑπῆρχε, καὶ τὴν ἐς τὸν Μηδικὸν πόλεμον τόλμαν γενομένην.",
+        "translations":[
+          "Perceiving what they were going to do, the Lacedaemonians sent an embassy to Athens. They would have themselves preferred to see neither her nor any other city in possession of a wall; though here they acted principally at the instigation of their allies, who were alarmed at the strength of her newly acquired navy, and the valor which she had displayed in the war with the Medes."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"ἠξίουν τε αὐτοὺς μὴ τειχίζειν, ἀλλὰ καὶ τῶν ἔξω Πελοποννήσου μᾶλλον ὅσοις εἱστήκει ξυγκαθελεῖν μετὰ σφῶν τοὺς περιβόλους, τὸ μὲν βουλόμενον καὶ ὕποπτον τῆς γνώμης οὐ δηλοῦντες ἐς τοὺς Ἀθηναίους, ὡς δὲ τοῦ βαρβάρου, εἰ αὖθις ἐπέλθοι, οὐκ ἂν ἔχοντος ἀπὸ ἐχυροῦ ποθέν, ὥσπερ νῦν ἐκ τῶν Θηβῶν, ὁρμᾶσθαι· τήν τε Πελοπόννησον πᾶσιν ἔφασαν ἀναχώρησίν τε καὶ ἀφορμὴν ἱκανὴν εἶναι.",
+        "translations":[
+          "They begged her not only to abstain from building walls for herself, but also to join them in throwing down the walls that still held together of the ultra-Peloponnesian cities. The real meaning of their advice, the suspicion that it contained against the Athenians, was not proclaimed; it was urged that so the barbarian, in the event of a third invasion, would not have any strong place, such as he now had in Thebes, for his base of operations; and that Peloponnese would suffice for all as a base both for retreat and offence."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"οἱ δ’ Ἀθηναῖοι Θεμιστοκλέους γνώμῃ τοὺς μὲν Λακεδαιμονίους ταῦτ’ εἰπόντας ἀποκρινάμενοι ὅτι πέμψουσιν ὡς αὐτοὺς πρέσβεις περὶ ὧν λέγουσιν εὐθὺς ἀπήλλαξαν· ἑαυτὸν δ’ ἐκέλευεν ἀποστέλλειν ὡς τάχιστα ὁ Θεμιστοκλῆς ἐς τὴν Λακεδαίμονα, ἄλλους δὲ πρὸς ἑαυτῷ ἑλομένους πρέσβεις μὴ εὐθὺς ἐκπέμπειν, ἀλλ’ ἐπισχεῖν μέχρι τοσούτου ἕως ἂν τὸ τεῖχος ἱκανὸν ἄρωσιν ὥστε ἀπομάχεσθαι ἐκ τοῦ ἀναγκαιοτάτου ὕψους· τειχίζειν δὲ πάντας πανδημεὶ τοὺς ἐν τῇ πόλει [καὶ αὐτοὺς καὶ γυναῖκας καὶ παῖδας ], φειδομένους μήτε ἰδίου μήτε δημοσίου οἰκοδομήματος ὅθεν τις ὠφελία ἔσται ἐς τὸ ἔργον, ἀλλὰ καθαιροῦντας πάντα.",
+        "translations":[
+          "After the Lacedaemonians had thus spoken, they were, on the advice of Themistocles, immediately dismissed by the Athenians, with the answer that ambassadors should be sent to Sparta to discuss the question. Themistocles told the Athenians to send him off with all speed to Lacedaemon, but not to despatch his colleagues as soon as they had selected them, but to wait until they had raised their wall to the height from which defence was possible. Meanwhile the whole population in the city was to labour at the wall, the Athenians, their wives and their children, sparing no edifice, private or public, which might be of any use to the work, but throwing all down."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"καὶ ὁ μὲν ταῦτα διδάξας καὶ ὑπειπὼν τἆλλα ὅτι αὐτὸς τἀκεῖ πράξοι ᾤχετο.",
+        "translations":[
+          "After giving these instructions, and adding that he would be responsible for all other matters there, he departed."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"καὶ ἐς τὴν Λακεδαίμονα ἐλθὼν οὐ προσῄει πρὸς τὰς ἀρχάς, ἀλλὰ διῆγε καὶ προυφασίζετο. καὶ ὁπότε τις αὐτὸν ἔροιτο τῶν ἐν τέλει ὄντων ὅτι οὐκ ἐπέρχεται ἐπὶ τὸ κοινόν, ἔφη τοὺς ξυμπρέσβεις ἀναμένειν, ἀσχολίας δέ τινος οὔσης αὐτοὺς ὑπολειφθῆναι, προσδέχεσθαι μέντοι ἐν τάχει ἥξειν καὶ θαυμάζειν ὡς οὔπω πάρεισιν.",
+        "translations":[
+          "Arrived at Lacedaemon he did not seek an audience with the authorities, but tried to gain time and made excuses. When any of the government asked him why he did not appear in the assembly, he would say that he was waiting for his colleagues, who had been detained in Athens by some engagement; however, that he expected their speedy arrival, and wondered that they were not yet there."
+        ],
+        "section":"5"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"1.91",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.91",
+    "rhemai":[
+      {
+        "greek":"οἱ δὲ ἀκούοντες τῷ μὲν Θεμιστοκλεῖ ἐπείθοντο διὰ φιλίαν αὐτοῦ, τῶν δὲ ἄλλων ἀφικνουμένων καὶ σαφῶς κατηγορούντων ὅτι τειχίζεταί τε καὶ ἤδη ὕψος λαμβάνει, οὐκ εἶχον ὅπως χρὴ ἀπιστῆσαι.",
+        "translations":[
+          "At first the Lacedaemonians trusted the words of Themistocles, through their friendship for him; but when others arrived, all distinctly declaring that the work was going on and already attaining some elevation, they did not know how to disbelieve it."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"γνοὺς δὲ ἐκεῖνος κελεύει αὐτοὺς μὴ λόγοις μᾶλλον παράγεσθαι ἢ πέμψαι σφῶν αὐτῶν ἄνδρας οἵτινες χρηστοὶ καὶ πιστῶς ἀναγγελοῦσι σκεψάμενοι.",
+        "translations":[
+          "Aware of this, he told them that rumors are deceptive, and should not be trusted; they should send some reputable persons from Sparta to inspect, whose report might be trusted."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"ἀποστέλλουσιν οὖν, καὶ περὶ αὐτῶν ὁ Θεμιστοκλῆς τοῖς Ἀθηναίοις κρύφα πέμπει κελεύων ὡς ἥκιστα ἐπιφανῶς κατασχεῖν καὶ μὴ ἀφεῖναι πρὶν ἂν αὐτοὶ πάλιν κομισθῶσιν (ἤδη γὰρ καὶ ἧκον αὐτῷ οἱ ξυμπρέσβεις, Ἁβρώνιχός τε ὁ Λυσικλέους καὶ Ἀριστείδης ὁ Λυσιμάχου, ἀγγέλλοντες ἔχειν ἱκανῶς τὸ τεῖχος) ἐφοβεῖτο γὰρ μὴ οἱ Λακεδαιμόνιοι σφᾶς, ὁπότε σαφῶς ἀκούσειαν, οὐκέτι ἀφῶσιν.",
+        "translations":[
+          "They despatched them accordingly. Concerning these Themistocles secretly sent word to the Athenians to detain them as far as possible without putting them under open constraint, and not to let them go until they had themselves returned. For his colleagues had now joined him, Abronichus, son of Lysicles, and Aristides, son of Lysimachus, with the news that the wall was sufficiently advanced; and he feared that when the Lacedaemonians heard the facts, they might refuse to let them go."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"οἵ τε οὖν Ἀθηναῖοι τοὺς πρέσβεις, ὥσπερ ἐπεστάλη, κατεῖχον, καὶ ὁ Θεμιστοκλῆς ἐπελθὼν τοῖς Λακεδαιμονίοις ἐνταῦθα δὴ φανερῶς εἶπεν ὅτι ἡ μὲν πόλις σφῶν τετείχισται ἤδη ὥστε ἱκανὴ εἶναι σῴζειν τοὺς ἐνοικοῦντας, εἰ δέ τι βούλονται Λακεδαιμόνιοι ἢ οἱ ξύμμαχοι πρεσβεύεσθαι παρὰ σφᾶς, ὡς πρὸς διαγιγνώσκοντας τὸ λοιπὸν ἰέναι τά τε σφίσιν αὐτοῖς ξύμφορα καὶ τὰ κοινά.",
+        "translations":[
+          "So the Athenians detained the envoys according to his message, and Themistocles had an audience with the Lacedaemonians, and at last openly told them that Athens was now fortified sufficiently to protect its inhabitants; that any embassy which the Lacedaemonians or their allies might wish to send to them, should in future proceed on the assumption that the people to whom they were going was able to distinguish both its own and the general interests."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"τήν τε γὰρ πόλιν ὅτε ἐδόκει ἐκλιπεῖν ἄμεινον εἶναι καὶ ἐς τὰς ναῦς ἐσβῆναι, ἄνευ ἐκείνων ἔφασαν γνόντες τολμῆσαι, καὶ ὅσα αὖ μετ’ ἐκείνων βουλεύεσθαι, οὐδενὸς ὕστεροι γνώμῃ φανῆναι.",
+        "translations":[
+          "That when the Athenians thought fit to abandon their city and to embark in their ships, they ventured on that perilous step without consulting them; and that on the other hand, wherever they had deliberated with the Lacedaemonians, they had proved themselves to be in judgment second to none."
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"δοκεῖν οὖν σφίσι καὶ νῦν ἄμεινον εἶναι τὴν ἑαυτῶν πόλιν τεῖχος ἔχειν, καὶ ἰδίᾳ τοῖς πολίταις καὶ ἐς τοὺς πάντας ξυμμάχους ὠφελιμώτερον ἔσεσθαι·",
+        "translations":[
+          "That they now thought it fit that their city should have a wall, and that this would be more for the advantage of both the citizens of Athens and the Hellenic confederacy;"
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"οὐ γὰρ οἷόν τ’ εἶναι μὴ ἀπὸ ἀντιπάλου παρασκευῆς ὁμοῖόν τι ἢ ἴσον ἐς τὸ κοινὸν βουλεύεσθαι. ἢ πάντας οὖν ἀτειχίστους ἔφη χρῆναι ξυμμαχεῖν ἢ καὶ τάδε νομίζειν ὀρθῶς ἔχειν.",
+        "translations":[
+          "That they now thought it fit that their city should have a wall, and that this would be more for the advantage of both the citizens of Athens and the Hellenic confederacy;"
+        ],
+        "section":"7"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"1.93",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.93?right=perseus-eng6",
+    "rhemai":[
+      {
+        "greek": "τούτῳ τῷ τρόπῳ οἱ Ἀθηναῖοι τὴν πόλιν ἐτείχισαν ἐν ὀλίγῳ χρόνῳ.",
+        "translations":[
+          "In this way the Athenians walled their city in a little while."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "καὶ δήλη ἡ οἰκοδομία ἔτι καὶ νῦν ἐστὶν ὅτι κατὰ σπουδὴν ἐγένετο· οἱ γὰρ θεμέλιοι παντοίων λίθων ὑπόκεινται καὶ οὐ ξυνειργασμένων ἔστιν ᾗ, ἀλλ’ ὡς ἕκαστόν ποτε προσέφερον, πολλαί τε στῆλαι ἀπὸ σημάτων καὶ λίθοι εἰργασμένοι ἐγκατελέγησαν. μείζων γὰρ ὁ περίβολος πανταχῇ ἐξήχθη τῆς πόλεως, καὶ διὰ τοῦτο πάντα ὁμοίως κινοῦντες ἠπείγοντο.",
+        "translations":[
+          "To this day the building shows signs of the haste of its execution; the foundations are laid of stones of all kinds, and in some places not wrought or fitted, but placed just in the order in which they were brought by the different hands; and many columns, too, from tombs and sculptured stones were put in with the rest. For the bounds of the city were extended at every point of the circumference; and so they laid hands on everything without exception in their haste."
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "ἔπεισε δὲ καὶ τοῦ Πειραιῶς τὰ λοιπὰ ὁ Θεμιστοκλῆς οἰκοδομεῖν (ὑπῆρκτο δ’ αὐτοῦ πρότερον ἐπὶ τῆς ἐκείνου ἀρχῆς ἧς κατ’ ἐνιαυτὸν Ἀθηναίοις ἦρξε) νομίζων τό τε χωρίον καλὸν εἶναι, λιμένας ἔχον τρεῖς αὐτοφυεῖς, καὶ αὐτοὺς ναυτικοὺς γεγενημένους μέγα προφέρειν ἐς τὸ",
+        "translations":[
+          "Themistocles also persuaded them to finish the walls of Piraeus, which had been begun before, in his year of office as archon; being influenced alike by the fineness of a locality that has three natural harbors, and by the great start which the Athenians would gain in the acquisition of power by becoming a naval people."
+        ],
+        "section":"3"
+      },
+      {
+        "greek": "κτήσασθαι δύναμιν (τῆς γὰρ δὴ θαλάσσης πρῶτος ἐτόλμησεν εἰπεῖν ὡς ἀνθεκτέα ἐστί), καὶ τὴν ἀρχὴν εὐθὺς ξυγκατεσκεύαζεν.",
+        "translations":[
+          "For he first ventured to tell them to stick to the sea and forthwith began to lay the foundations of the empire."
+        ],
+        "section":"4"
+      },
+      {
+        "greek": "καὶ ᾠκοδόμησαν τῇ ἐκείνου γνώμῃ τὸ πάχος τοῦ τείχους ὅπερ νῦν ἔτι δῆλόν ἐστι περὶ τὸν Πειραιᾶ· δύο γὰρ ἅμαξαι ἐναντίαι ἀλλήλαις τοὺς λίθους ἐπῆγον. ἐντὸς δὲ οὔτε χάλιξ οὔτε πηλὸς ἦν, ἀλλὰ ξυνῳκοδομημένοι μεγάλοι λίθοι καὶ ἐντομῇ ἐγγώνιοι, σιδήρῳ πρὸς ἀλλήλους τὰ ἔξωθεν καὶ μολύβδῳ δεδεμένοι. τὸ δὲ ὕψος ἥμισυ μάλιστα ἐτελέσθη οὗ διενοεῖτο.",
+        "translations":[
+          "It was by his advice, too, that they built the walls of that thickness which can still be discerned round Piraeus, the stones being brought up by two wagons meeting each other. Between the walls thus formed there was neither rubble nor mortar, but great stones hewn square and fitted together, cramped to each other on the outside with iron and lead. About half the height that he intended was finished."
+        ],
+        "section":"5"
+      },
+      {
+        "greek": "ἐβούλετο γὰρ τῷ μεγέθει καὶ τῷ πάχει ἀφιστάναι τὰς τῶν πολεμίων ἐπιβουλάς, ἀνθρώπων τε ἐνόμιζεν ὀλίγων καὶ τῶν ἀχρειοτάτων ἀρκέσειν τὴν φυλακήν, τοὺς δ’ ἄλλους ἐς τὰς ναῦς ἐσβήσεσθαι.",
+        "translations":[
+          "His idea was by their size and thickness to keep off the attacks of an enemy; he thought that they might be adequately defended by a small garrison of invalids, and the rest be freed for service in the fleet."
+        ],
+        "section":"6"
+      },
+      {
+        "greek": "ταῖς γὰρ ναυσὶ μάλιστα προσέκειτο, ἰδών, ὡς ἐμοὶ δοκεῖ, τῆς βασιλέως στρατιᾶς τὴν κατὰ θάλασσαν ἔφοδον εὐπορωτέραν τῆς κατὰ γῆν οὖσαν· τόν τε Πειραιᾶ ὠφελιμώτερον ἐνόμιζε τῆς ἄνω πόλεως, καὶ πολλάκις τοῖς Ἀθηναίοις παρῄνει, ἢν ἄρα ποτὲ κατὰ γῆν βιασθῶσι, καταβάντας ἐς αὐτὸν ταῖς ναυσὶ πρὸς ἅπαντας ἀνθίστασθαι.",
+        "translations":[
+          "For the fleet claimed most of his attention. He saw, as I think, that the approach by sea was easier for the king's army than that by land: he also thought Piraeus more valuable than the upper city; indeed, he was always advising the Athenians, if a day should come when they were hard pressed by land, to go down into Piraeus, and defy the world with their fleet."
+        ],
+        "section":"7"
+      },
+      {
+        "greek": "Ἀθηναῖοι μὲν οὖν οὕτως ἐτειχίσθησαν καὶ τἆλλα κατεσκευάζοντο εὐθὺς μετὰ τὴν Μήδων ἀναχώρησιν.",
+        "translations":[
+          "Thus, therefore, the Athenians completed their wall, and commenced their other buildings immediately after the retreat of the Mede."
+        ],
+        "section":"8"
+      }
+    ]
+  },
+  {
+    "book": "History of the Peloponnesian War",
+    "author": "Thucydides",
+    "type": "work",
+    "reference": "1.94",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.94?right=perseus-eng6",
+    "rhemai": [
+      {
+        "greek": "Παυσανίας δὲ ὁ Κλεομβρότου ἐκ Λακεδαίμονος στρατηγὸς τῶν Ἑλλήνων ἐξεπέμφθη μετὰ εἴκοσι νεῶν ἀπὸ Πελοποννήσου· ξυνέπλεον δὲ καὶ Ἀθηναῖοι τριάκοντα ναυσὶ καὶ τῶν ἄλλων ξυμμάχων πλῆθος.",
+        "translations": [
+          "Meanwhile Pausanias, son of Cleombrotus, was sent out from Lacedaemon as commander-in-chief of the Hellenes, with twenty ships from Peloponnese. With him sailed the Athenians with thirty ships, and a number of the other allies."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "καὶ ἐστράτευσαν ἐς Κύπρον καὶ αὐτῆς τὰ πολλὰ κατεστρέψαντο, καὶ ὕστερον ἐς Βυζάντιον Μήδων ἐχόντων, καὶ ἐξεπολιόρκησαν ἐν τῇδε τῇ ἡγεμονίᾳ.",
+        "translations": [
+          "They made an expedition against Cyprus and subdued most of the island, and afterwards against Byzantium, which was in the hands of the Medes, and compelled it to surrender. This event took place while the Spartans were still supreme."
+        ],
+        "section": "2"
+      }
+    ]
+  },
+  {
+    "book": "History of the Peloponnesian War",
+    "author": "Thucydides",
+    "type": "work",
+    "reference": "1.95",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.95/?right=perseus-eng6",
+    "rhemai": [
+      {
+        "greek": "ἤδη δὲ βιαίου ὄντος αὐτοῦ οἵ τε ἄλλοι Ἕλληνες ἤχθοντο καὶ οὐχ ἥκιστα οἱ Ἴωνες καὶ ὅσοι ἀπὸ βασιλέως νεωστὶ ἠλευθέρωντο· φοιτῶντές τε πρὸς τοὺς Ἀθηναίους ἠξίουν αὐτοὺς ἡγεμόνας σφῶν γίγνεσθαι κατὰ τὸ ξυγγενὲς καὶ Παυσανίᾳ μὴ ἐπιτρέπειν, ἤν που βιάζηται.",
+        "translations": [
+          "But the violence of Pausanias had already begun to be disagreeable to the Hellenes, particularly to the Ionians and the newly liberated populations. These resorted to the Athenians and requested them as their kinsmen to become their leaders, and to stop any attempt at violence on the part of Pausanias."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οἱ δὲ Ἀθηναῖοι ἐδέξαντό τε τοὺς λόγους καὶ προσεῖχον τὴν γνώμην ὡς οὐ περιοψόμενοι τἆλλά τε καταστησόμενοι ᾗ φαίνοιτο ἄριστα αὐτοῖς.",
+        "translations": [
+          "The Athenians accepted their overtures, and determined to put down any attempt of the kind and to settle everything else as their interests might seem to demand."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐν τούτῳ δὲ οἱ Λακεδαιμόνιοι μετεπέμποντο Παυσανίαν ἀνακρινοῦντες ὧν πέρι ἐπυνθάνοντο· καὶ γὰρ ἀδικία πολλὴ κατηγορεῖτο αὐτοῦ ὑπὸ τῶν Ἑλλήνων τῶν ἀφικνουμένων, καὶ τυραννίδος μᾶλλον ἐφαίνετο μίμησις ἢ στρατηγία.",
+        "translations": [
+          "In the meantime the Lacedaemonians recalled Pausanias for an investigation of the reports which had reached them. Manifold and grave accusations had been brought against him by Hellenes arriving in Sparta; and, to all appearance, there had been in him more of the mimicry of a despot than of the attitude of a general."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ξυνέβη τε αὐτῷ καλεῖσθαί τε ἅμα καὶ τοὺς ξυμμάχους τῷ ἐκείνου ἔχθει παρ’ Ἀθηναίους μετατάξασθαι πλὴν τῶν ἀπὸ Πελοποννήσου στρατιωτῶν.",
+        "translations": [
+          "As it happened, his recall came just at the time when the hatred which he had inspired had induced the allies to desert him, the soldiers from Peloponnese excepted, and to range themselves by the side of the Athenians."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἐλθὼν δὲ ἐς Λακεδαίμονα τῶν μὲν ἰδίᾳ πρός τινα ἀδικημάτων ηὐθύνθη, τὰ δὲ μέγιστα ἀπολύεται μὴ ἀδικεῖν· κατηγορεῖτο δὲ αὐτοῦ οὐχ ἥκιστα μηδισμὸς καὶ ἐδόκει σαφέστατον εἶναι.",
+        "translations": [
+          "On his arrival at Lacedaemon, he was censured for his private acts of oppression, but was acquitted on the heaviest counts and pronounced not guilty; it must be known that the charge of Medism formed one of the principal, and to all appearance one of the best-founded articles against him."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "καὶ ἐκεῖνον μὲν οὐκέτι ἐκπέμπουσιν ἄρχοντα, Δόρκιν δὲ καὶ ἄλλους τινὰς μετ’ αὐτοῦ στρατιὰν ἔχοντας οὐ πολλήν· οἷς οὐκέτι ἐφίεσαν οἱ ξύμμαχοι τὴν ἡγεμονίαν.",
+        "translations": [
+          "The Lacedaemonians did not, however, restore him to his command, but sent out Dorkis and certain others with a small force; who found the allies no longer inclined to concede to them the supremacy."
+        ],
+        "section": "6"
+      },
+      {
+        "greek": "οἱ δὲ αἰσθόμενοι ἀπῆλθον, καὶ ἄλλους οὐκέτι ὕστερον ἐξέπεμψαν οἱ Λακεδαιμόνιοι, φοβούμενοι μὴ σφίσιν οἱ ἐξιόντες χείρους γίγνωνται, ὅπερ καὶ ἐν τῷ Παυσανίᾳ ἐνεῖδον, ἀπαλλαξείοντες δὲ καὶ τοῦ Μηδικοῦ πολέμου καὶ τοὺς Ἀθηναίους νομίζοντες ἱκανοὺς ἐξηγεῖσθαι καὶ σφίσιν ἐν τῷ τότε παρόντι ἐπιτηδείους.",
+        "translations": [
+          "Perceiving this they departed, and the Lacedaemonians did not send out any to succeed them. They feared for those who went out a deterioration similar to that observable in Pausanias; besides, they desired to be rid of the Median war, and were satisfied of the competency of the Athenians for the position, and of their friendship at the time towards themselves."
+        ],
+        "section": "7"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"1.142",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:1.142",
+    "rhemai":[
+      {
+        "greek":"μέγιστον δέ, τῇ τῶν χρημάτων σπάνει κωλύσονται, ὅταν σχολῇ αὐτὰ ποριζόμενοι διαμέλλωσιν· τοῦ δὲ πολέμου οἱ καιροὶ οὐ μενετοί.",
+        "translations":[
+          "But the principal point is the hindrance that they will experience from want of money. The slowness with which it comes in will cause delay; but the opportunities of war wait for no man."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"καὶ μὴν οὐδ’ ἡ ἐπιτείχισις οὐδὲ τὸ ναυτικὸν αὐτῶν ἄξιον φοβηθῆναι.",
+        "translations":[
+          "Again, we need not be alarmed either at the possibility of their raising fortifications in Attica, or at their navy."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"τὴν μὲν γὰρ χαλεπὸν καὶ ἐν εἰρήνῃ πόλιν ἀντίπαλον κατασκευάσασθαι, ἦ που δὴ ἐν πολεμίᾳ τε καὶ οὐχ ἧσσον ἐκείνοις ἡμῶν ἀντεπιτετειχισμένων·",
+        "translations":[
+          "It would be difficult for any system of fortifications to establish a rival city, even in time of peace, much more, surely, in an enemy's country, with Athens just as much fortified against it, as it against Athens;"
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"φρούριον δ’ εἰ ποιήσονται, τῆς μὲν γῆς βλάπτοιεν ἄν τι μέρος καταδρομαῖς καὶ αὐτομολίαις, οὐ μέντοι ἱκανόν γε ἔσται ἐπιτειχίζειν τε κωλύειν ἡμᾶς πλεύσαντας ἐς τὴν ἐκείνων καί, ᾗπερ ἰσχύομεν, ταῖς ναυσὶν ἀμύνεσθαι·",
+        "translations":[
+          "while a mere post might be able to do some harm to the country by incursions and by the facilities which it would afford for desertion, but can never prevent our sailing into their country and raising fortifications there, and making reprisals with our powerful fleet."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"πλέον γὰρ ἡμεῖς ἔχομεν τοῦ κατὰ γῆν ἐκ τοῦ ναυτικοῦ ἐμπειρίας ἢ ἐκεῖνοι ἐκ τοῦ κατ ἤπειρον ἐς τὰ ναυτικά.",
+        "translations":[
+          "For our naval skill is of more use to us for service on land, than their military skill for service at sea."
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"τὸ δὲ τῆς θαλάσσης ἐπιστήμονας γενέσθαι οὐ ῥᾳδίως αὐτοῖς προσγενήσεται.",
+        "translations":[
+          "Familiarity with the sea they will not find an easy acquisition."
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"οὐδὲ γὰρ ὑμεῖς μελετῶντες αὐτὸ εὐθὺς ἀπὸ τῶν Μηδικῶν ἐξείργασθέ πω· πῶς δὴ ἄνδρες γεωργοὶ καὶ οὐ θαλάσσιοι, καὶ προσέτι οὐδὲ μελετῆσαι ἐασόμενοι διὰ τὸ ὑφ’ ἡμῶν πολλαῖς ναυσὶν αἰεὶ ἐφορμεῖσθαι, ἄξιον ἄν τι δρῷεν;",
+        "translations":[
+          "If you who have been practising at it ever since the Median invasion have not yet brought it to perfection, is there any chance of anything considerable being effected by an agricultural, unseafaring population, who will besides be prevented from practising by the constant presence of strong squadrons of observation from Athens?"
+        ],
+        "section":"7"
+      },
+      {
+        "greek":"πρὸς μὲν γὰρ ὀλίγας ἐφορμούσας κἂν διακινδυνεύσειαν πλήθει τὴν ἀμαθίαν θρασύνοντες, πολλαῖς δὲ εἰργόμενοι ἡσυχάσουσι καὶ ἐν τῷ μὴ μελετῶντι ἀξυνετώτεροι ἔσονται καὶ δι’ αὐτὸ καὶ ὀκνηρότεροι.",
+        "translations":[
+          "With a small squadron they might hazard an engagement, encouraging their ignorance by numbers; but the restraint of a strong force will prevent their moving, and through want of practice they will grow more clumsy, and consequently more timid."
+        ],
+        "section":"8"
+      },
+      {
+        "greek":"τὸ δὲ ναυτικὸν τέχνης ἐστίν, ὥσπερ καὶ ἄλλο τι, καὶ οὐκ ἐνδέχεται, ὅταν τύχῃ, ἐκ παρέργου μελετᾶσθαι, ἀλλὰ μᾶλλον μηδὲν ἐκείνῳ πάρεργον ἄλλο γίγνεσθαι.",
+        "translations":[
+          "It must be kept in mind that seamanship, just like anything else, is a matter of art, and will not admit of being taken up occasionally as an occupation for times of leisure; on the contrary, it is so exacting as to leave leisure for nothing else."
+        ],
+        "section":"9"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"2.37",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:2.37",
+    "rhemai":[
+      {
+        "greek":"‘χρώμεθα γὰρ πολιτείᾳ οὐ ζηλούσῃ τοὺς τῶν πέλας νόμους, παράδειγμα δὲ μᾶλλον αὐτοὶ ὄντες τισὶν ἢ μιμούμενοι ἑτέρους. καὶ ὄνομα μὲν διὰ τὸ μὴ ἐς ὀλίγους ἀλλ’ ἐς πλείονας οἰκεῖν δημοκρατία κέκληται· μέτεστι δὲ κατὰ μὲν τοὺς νόμους πρὸς τὰ ἴδια διάφορα πᾶσι τὸ ἴσον, κατὰ δὲ τὴν ἀξίωσιν, ὡς ἕκαστος ἔν τῳ εὐδοκιμεῖ, οὐκ ἀπὸ μέρους τὸ πλέον ἐς τὰ κοινὰ ἢ ἀπ’ ἀρετῆς προτιμᾶται, οὐδ’ αὖ κατὰ πενίαν, ἔχων γέ τι ἀγαθὸν δρᾶσαι τὴν πόλιν, ἀξιώματος ἀφανείᾳ κεκώλυται.",
+        "translations":[
+          "Our constitution does not copy the laws of neighboring states; we are rather a pattern to others than imitators ourselves. Its administration favors the many instead of the few; this is why it is called a democracy. If we look to the laws, they afford equal justice to all in their private differences; if to social standing, advancement in public life falls to reputation for capacity, class considerations not being allowed to interfere with merit; nor again does poverty bar the way, if a man is able to serve the state, he is not hindered by the obscurity of his condition."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"ἐλευθέρως δὲ τά τε πρὸς τὸ κοινὸν πολιτεύομεν καὶ ἐς τὴν πρὸς ἀλλήλους τῶν καθ ἡμέραν ἐπιτηδευμάτων ὑποψίαν, οὐ δι’ ὀργῆς τὸν πέλας, εἰ καθ’ ἡδονήν τι δρᾷ, ἔχοντες, οὐδὲ ἀζημίους μέν, λυπηρὰς δὲ τῇ ὄψει ἀχθηδόνας προστιθέμενοι.",
+        "translations":[
+          "The freedom which we enjoy in our government extends also to our ordinary life. There, far from exercising a jealous surveillance over each other, we do not feel called upon to be angry with our neighbor for doing what he likes, or even to indulge in those injurious looks which cannot fail to be offensive, although they inflict no positive penalty."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"ἀνεπαχθῶς δὲ τὰ ἴδια προσομιλοῦντες τὰ δημόσια διὰ δέος μάλιστα οὐ παρανομοῦμεν, τῶν τε αἰεὶ ἐν ἀρχῇ ὄντων ἀκροάσει καὶ τῶν νόμων, καὶ μάλιστα αὐτῶν ὅσοι τε ἐπ’ ὠφελίᾳ τῶν ἀδικουμένων κεῖνται καὶ ὅσοι ἄγραφοι ὄντες αἰσχύνην ὁμολογουμένην φέρουσιν.",
+        "translations":[
+          "But all this ease in our private relations does not make us lawless as citizens. Against this fear is our chief safeguard, teaching us to obey the magistrates and the laws, particularly such as regard the protection of the injured, whether they are actually on the statute book, or belong to that code which, although unwritten, yet cannot be broken without acknowledged disgrace."
+        ],
+        "section":"3"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"2.65",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:2.65",
+    "rhemai":[
+      {
+        "greek":"τοιαῦτα ὁ Περικλῆς λέγων ἐπειρᾶτο τοὺς Ἀθηναίους τῆς τε ἐς αὑτὸν ὀργῆς παραλύειν καὶ ἀπὸ τῶν παρόντων δεινῶν ἀπάγειν τὴν γνώμην.",
+        "translations":[
+          "In this speech did Pericles endeavour to appease the anger of the Athenians towards himself and withal to withdraw their thoughts from the present affliction."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"οἱ δὲ δημοσίᾳ μὲν τοῖς λόγοις ἀνεπείθοντο καὶ οὔτε πρὸς τοὺς Λακεδαιμονίους ἔτι ἔπεμπον ἔς τε τὸν πόλεμον μᾶλλον ὥρμηντο, ἰδίᾳ δὲ τοῖς παθήμασιν ἐλυποῦντο, ὁ μὲν δῆμος ὅτι ἀπ’ ἐλασσόνων ὁρμώμενος ἐστέρητο καὶ τούτων, οἱ δὲ δυνατοὶ καλὰ κτήματα κατὰ τὴν χώραν οἰκοδομίαις τε καὶ πολυτελέσι κατασκευαῖς ἀπολωλεκότες, τὸ δὲ μέγιστον, πόλεμον ἀντ’ εἰρήνης ἔχοντες.",
+        "translations":[
+          "But they, though for the state in general they were won and sent to the Lacedaemonians no more but rather inclined to the war, yet they were everyone in particular grieved for their several losses: the poor because entering the war with little, they lost that little; and the rich because they had lost fair possessions, together with goodly houses and costly furniture in them, in the country; but the greatest matter of all was that they had war instead of peace."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"οὐ μέντοι πρότερόν γε οἱ ξύμπαντες ἐπαύσαντο ἐν ὀργῇ ἔχοντες αὐτὸν πρὶν ἐζημίωσαν χρήμασιν.",
+        "translations":[
+          "And altogether, they deposed not their anger till they had first fined him in a sum of money."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"ὕστερον δ’ αὖθις οὐ πολλῷ, ὅπερ φιλεῖ ὅμιλος ποιεῖν, στρατηγὸν εἵλοντο καὶ πάντα τὰ πράγματα ἐπέτρεψαν, ὧν μὲν περὶ τὰ οἰκεῖα ἕκαστος ἤλγει ἀμβλύτεροι ἤδη ὄντες, ὧν δὲ ἡ ξύμπασα πόλις προσεδεῖτο πλείστου ἄξιον νομίζοντες εἶναι.",
+        "translations":[
+          "Nevertheless, not long after (as is the fashion of the multitude) they made him general again and committed the whole state to his administration. For the sense of their domestic losses was now dulled, and for the need of the commonwealth they prized him more than any other whatsoever."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"ὅσον τε γὰρ χρόνον προύστη τῆς πόλεως ἐν τῇ εἰρήνῃ, μετρίως ἐξηγεῖτο καὶ ἀσφαλῶς διεφύλαξεν αὐτήν, καὶ ἐγένετο ἐπ’ ἐκείνου μεγίστη, ἐπειδή τε ὁ πόλεμος κατέστη, ὁ δὲ φαίνεται καὶ ἐν τούτῳ προγνοὺς τὴν δύναμιν.",
+        "translations":[
+          "For as long as he was in authority in the city in time of peace, he governed the same with moderation and was a faithful watchman of it; and in his time it was at the greatest."
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"ἐπεβίω δὲ δύο ἔτη καὶ ἓξ μῆνας· καὶ ἐπειδὴ ἀπέθανεν, ἐπὶ πλέον ἔτι ἐγνώσθη ἡ πρόνοια αὐτοῦ ἡ ἐς τὸν πόλεμον.",
+        "translations":[
+          "And after the war was on foot, it is manifest that he therein also foresaw what it could do. He lived after the war began two years and six months."
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"ὁ μὲν γὰρ ἡσυχάζοντάς τε καὶ τὸ ναυτικὸν θεραπεύοντας καὶ ἀρχὴν μὴ ἐπικτωμένους ἐν τῷ πολέμῳ μηδὲ τῇ πόλει κινδυνεύοντας ἔφη περιέσεσθαι· οἱ δὲ ταῦτά τε πάντα ἐς τοὐναντίον ἔπραξαν καὶ ἄλλα ἔξω τοῦ πολέμου δοκοῦντα εἶναι κατὰ τὰς ἰδίας φιλοτιμίας καὶ ἴδια κέρδη κακῶς ἔς τε σφᾶς αὐτοὺς καὶ τοὺς ξυμμάχους ἐπολίτευσαν, ἃ κατορθούμενα μὲν τοῖς ἰδιώταις τιμὴ καὶ ὠφελία μᾶλλον ἦν, σφαλέντα δὲ τῇ πόλει ἐς τὸν πόλεμον βλάβη καθίστατο.",
+        "translations":[
+          "And his foresight in the war was best known after his death. For he told them that if they would be quiet and look to their navy, and during this war seek no further dominion nor hazard the city itself, they should then have the upper hand. But they did contrary in all, and in such other things besides as seemed not to concern the war managed the state, according to their private ambition and covetousness, perniciously both for themselves and their confederates. What succeeded well the honour and profit of it came most to private men, and what miscarried was to the city's detriment in the war."
+        ],
+        "section":"7"
+      },
+      {
+        "greek":"αἴτιον δ’ ἦν ὅτι ἐκεῖνος μὲν δυνατὸς ὢν τῷ τε ἀξιώματι καὶ τῇ γνώμῃ χρημάτων τε διαφανῶς ἀδωρότατος γενόμενος κατεῖχε τὸ πλῆθος ἐλευθέρως, καὶ οὐκ ἤγετο μᾶλλον ὑπ αὐτοῦ ἢ αὐτὸς ἦγε, διὰ τὸ μὴ κτώμενος ἐξ οὐ προσηκόντων τὴν δύναμιν πρὸς ἡδονήν τι λέγειν, ἀλλ’ ἔχων ἐπ’ ἀξιώσει καὶ πρὸς ὀργήν τι ἀντειπεῖν.",
+        "translations":[
+          "The reason whereof was this: that being a man of great power both for his dignity and wisdom, and for bribes manifestly the most incorrupt, he freely controlled the multitude and was not so much led by them as he led them. Because, having gotten his power by no evil arts, he would not humour them in his speeches but out of his authority durst anger them with contradiction."
+        ],
+        "section":"8"
+      },
+      {
+        "greek":"ὁπότε γοῦν αἴσθοιτό τι αὐτοὺς παρὰ καιρὸν ὕβρει θαρσοῦντας, λέγων κατέπλησσεν ἐπὶ τὸ φοβεῖσθαι, καὶ δεδιότας αὖ ἀλόγως ἀντικαθίστη πάλιν ἐπὶ τὸ θαρσεῖν. ἐγίγνετό τε λόγῳ μὲν δημοκρατία, ἔργῳ δὲ ὑπὸ τοῦ πρώτου ἀνδρὸς ἀρχή.",
+        "translations":[
+          "Therefore, whensoever he saw them out of season insolently bold, he would with his orations put them into a fear; and again, when they were afraid without reason, he would likewise erect their spirits and embolden them."
+        ],
+        "section":"9"
+      },
+      {
+        "greek":"οἱ δὲ ὕστερον ἴσοι μᾶλλον αὐτοὶ πρὸς ἀλλήλους ὄντες καὶ ὀρεγόμενοι τοῦ πρῶτος ἕκαστος γίγνεσθαι ἐτράποντο καθ’ ἡδονὰς τῷ δήμῳ καὶ τὰ πράγματα ἐνδιδόναι.",
+        "translations":[
+          "It was in name a state democratical, but in fact a government of the principal man. But they that came after, being more equal amongst themselves and affecting everyone to be the chief, applied themselves to the people and let go the care of the commonwealth."
+        ],
+        "section":"10"
+      },
+      {
+        "greek":"ἐξ ὧν ἄλλα τε πολλά, ὡς ἐν μεγάλῃ πόλει καὶ ἀρχὴν ἐχούσῃ, ἡμαρτήθη καὶ ὁ ἐς Σικελίαν πλοῦς, ὃς οὐ τοσοῦτον γνώμης ἁμάρτημα ἦν πρὸς οὓς ἐπῇσαν, ὅσον οἱ ἐκπέμψαντες οὐ τὰ πρόσφορα τοῖς οἰχομένοις ἐπιγιγνώσκοντες, ἀλλὰ κατὰ τὰς ἰδίας διαβολὰς περὶ τῆς τοῦ δήμου προστασίας τά τε ἐν τῷ στρατοπέδῳ ἀμβλύτερα ἐποίουν καὶ τὰ περὶ τὴν πόλιν πρῶτον ἐν ἀλλήλοις ἐταράχθησαν.",
+        "translations":[
+          "From whence amongst many other errors, as was likely in a great and dominant city, proceeded also the voyage into Sicily, which was not so much upon mistaking those whom they went against as for want of knowledge in the senders of what was necessary for those that went the voyage. For through private quarrels about who should bear the greatest sway with the people they both abated the vigour of the army and then also first troubled the state at home with division."
+        ],
+        "section":"11"
+      },
+      {
+        "greek":"σφαλέντες δὲ ἐν Σικελίᾳ ἄλλῃ τε παρασκευῇ καὶ τοῦ ναυτικοῦ τῷ πλέονι μορίῳ καὶ κατὰ τὴν πόλιν ἤδη ἐν στάσει ὄντες ὅμως † τρία † μὲν ἔτη ἀντεῖχον τοῖς τε πρότερον ὑπάρχουσι πολεμίοις καὶ τοῖς ἀπὸ Σικελίας μετ’ αὐτῶν, καὶ τῶν ξυμμάχων ἔτι τοῖς πλέοσιν ἀφεστηκόσι, Κύρῳ τε ὕστερον βασιλέως παιδὶ προσγενομένῳ, ὃς παρεῖχε χρήματα Πελοποννησίοις ἐς τὸ ναυτικόν, καὶ οὐ πρότερον ἐνέδοσαν ἢ αὐτοὶ ἐν σφίσι κατὰ τὰς ἰδίας διαφορὰς περιπεσόντες ἐσφάλησαν.",
+        "translations":[
+          "Being overthrown in Sicily and having lost, besides other ammunition, the greatest part of their navy, and the city being then in sedition, yet they held out three years both against their first enemies and the Sicilians with them and against most of their revolted confederates besides, and also afterwards against Cyrus the king's son, who took part with and sent money to the Peloponnesians to maintain their fleet and never shrunk till they had overthrown themselves with private dissensions."
+        ],
+        "section":"12"
+      },
+      {
+        "greek":"τοσοῦτον τῷ Περικλεῖ ἐπερίσσευσε τότε ἀφ’ ὧν αὐτὸς προέγνω καὶ πάνυ ἂν ῥᾳδίως περιγενέσθαι τὴν πόλιν Πελοποννησίων αὐτῶν τῷ πολέμῳ.",
+        "translations":[
+          "So much was in Pericles above other men at that time that he could foresee by what means the city might easily have outlasted the Peloponnesians in this war."
+        ],
+        "section":"13"
+      }
+    ]
+  },
+  {
+    "book":"History of the Peloponnesian War",
+    "author":"Thucydides",
+    "type":"work",
+    "reference":"4.12",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:4.12?q=&qk=form&right=perseus-eng6",
+    "rhemai":[
+      {
+        "greek": "καὶ ὁ μὲν τούς τε ἄλλους τοιαῦτα ἐπέσπερχε καὶ τὸν ἑαυτοῦ κυβερνήτην ἀναγκάσας ὀκεῖλαι τὴν ναῦν ἐχώρει ἐπὶ τὴν ἀποβάθραν· καὶ πειρώμενος ἀποβαίνειν ἀνεκόπη ὑπὸ τῶν Ἀθηναίων, καὶ τραυματισθεὶς πολλὰ ἐλιποψύχησέ τε καὶ πεσόντος αὐτοῦ ἐς τὴν παρεξειρεσίαν ἡ ἀσπὶς περιερρύη ἐς τὴν θάλασσαν, καὶ ἐξενεχθείσης αὐτῆς ἐς τὴν γῆν οἱ Ἀθηναῖοι ἀνελόμενοι ὕστερον πρὸς τὸ τροπαῖον ἐχρήσαντο ὃ ἔστησαν τῆς προσβολῆς ταύτης.",
+        "translations":[
+          "Not content with this exhortation, he forced his own steersman to run his ship ashore, and stepping on to the gangway, was endeavoring to land, when he was cut down by the Athenians, and after receiving many wounds fainted away. Falling into the bows, his shield slipped off his arm into the sea, and being thrown ashore was picked up by the Athenians, and afterwards used for the trophy which they set up for this attack."
+        ],
+        "section":"1"
+      },
+      {
+        "greek": "οἱ δ’ ἄλλοι προυθυμοῦντο μέν, ἀδύνατοι δ’ ἦσαν ἀποβῆναι τῶν τε χωρίων χαλεπότητι καὶ τῶν Ἀθηναίων μενόντων καὶ οὐδὲν ὑποχωρούντων.",
+        "translations":[
+          "The rest also did their best, but were not able to land, owing to the difficulty of the ground and the unflinching tenacity of the Athenians."
+        ],
+        "section":"2"
+      },
+      {
+        "greek": "ἐς τοῦτό τε περιέστη ἡ τύχη ὥστε Ἀθηναίους μὲν ἐκ γῆς τε καὶ ταύτης Λακωνικῆς ἀμύνεσθαι ἐκείνους ἐπιπλέοντας, Λακεδαιμονίους δὲ ἐκ νεῶν τε καὶ ἐς τὴν ἑαυτῶν πολεμίαν οὖσαν ἐπ’ Ἀθηναίους ἀποβαίνειν· ἐπὶ πολὺ γὰρ ἐποίει τῆς δόξης ἐν τῷ τότε τοῖς μὲν ἠπειρώταις μάλιστα εἶναι καὶ τὰ πεζὰ κρατίστοις, τοῖς δὲ θαλασσίοις τε καὶ ταῖς ναυσὶ πλεῖστον προύχειν.",
+        "translations":[
+          "It was a strange reversal of the order of things for Athenians to be fighting from the lands and from Laconian land too, against Lacedaemonians coming from the sea; while Lacedaemonians were trying to land from shipboard in their own country, now become hostile, to attack Athenians, although the former were chiefly famous at the time as an inland people and superior by land, the latter as a maritime people with a navy that had no equal."
+        ],
+        "section":"3"
+      }
+    ]
+  }
+]

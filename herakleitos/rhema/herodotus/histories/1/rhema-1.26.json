@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.26",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.26/",
+    "rhemai": [
+      {
+        "greek": "τελευτήσαντος δὲ Ἀλυάττεω ἐξεδέξατο τὴν βασιληίην Κροῖσος ὁ Ἀλυάττεω, ἐτέων ἐὼν ἡλικίην πέντε καὶ τριήκοντα· ὃς δὴ Ἑλλήνων πρώτοισι ἐπεθήκατο Ἐφεσίοισι.",
+        "translations": [
+          "After the death of Alyattes, his son Croesus, then thirty-five years of age, came to the throne. The first Greeks whom he attacked were the Ephesians."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἔνθα δὴ οἱ Ἐφέσιοι πολιορκεόμενοι ὑπʼ αὐτοῦ ἀνέθεσαν τὴν πόλιν τῇ Ἀρτέμιδι, ἐξάψαντες ἐκ τοῦ νηοῦ σχοινίον ἐς τὸ τεῖχος. ἔστι δὲ μεταξὺ τῆς τε παλαιῆς πόλιος, ἣ τότε ἐπολιορκέετο, καὶ τοῦ νηοῦ ἑπτὰ στάδιοι.",
+        "translations": [
+          "These, besieged by him, dedicated their city to Artemis; they did this by attaching a rope to the city wall from the temple of the goddess, which stood seven stades away from the ancient city which was then besieged."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "πρώτοισι μὲν δὴ τούτοισι ἐπεχείρησε ὁ Κροῖσος, μετὰ δὲ ἐν μέρεϊ ἑκάστοισι Ἰώνων τε καὶ Αἰολέων, ἄλλοισι ἄλλας αἰτίας ἐπιφέρων, τῶν μὲν ἐδύνατο μέζονας παρευρίσκειν, μέζονα ἐπαιτιώμενος, τοῖσι δὲ αὐτῶν καὶ φαῦλα ἐπιφέρων.",
+        "translations": [
+          "These were the first whom Croesus attacked; afterwards he made war on the Ionian and Aeolian cities in turn, upon different pretexts: he found graver charges where he could, but sometimes alleged very petty grounds of offense."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

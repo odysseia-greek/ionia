@@ -1,0 +1,60 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.185",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.185/",
+    "rhemai": [
+      {
+        "greek": "ἡ δὲ δὴ δεύτερον γενομένη ταύτης βασίλεια, τῇ οὔνομα ἦν Νίτωκρις, αὕτη δὲ συνετωτέρη γενομένη τῆς πρότερον ἀρξάσης τοῦτο μὲν μνημόσυνα ἐλίπετο τὰ ἐγὼ ἀπηγήσομαι, τοῦτο δὲ τὴν Μήδων ὁρῶσα ἀρχὴν μεγάλην τε καὶ οὐκ ἀτρεμίζουσαν, ἀλλʼ ἄλλα τε ἀραιρημένα ἄστεα αὐτοῖσι, ἐν δὲ δὴ καὶ τὴν Νίνον, προεφυλάξατο ὅσα ἐδύνατο μάλιστα.",
+        "translations": [
+          "The second queen, whose name was Nitocris, was a wiser woman than the first. She left such monuments as I shall record; and moreover, seeing that the kingdom of Media was great and restless and Ninus itself among other cities had fallen to it, she took such precautions as she could for her protection."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "πρῶτα μὲν τὸν Εὐφρήτην ποταμὸν ῥέοντα πρότερον ἰθύν, ὅς σφι διὰ τῆς πόλιος μέσης ῥέει, τοῦτον ἄνωθεν διώρυχας ὀρύξασα οὕτω δή τι ἐποίησε σκολιὸν ὥστε δὴ τρὶς ἐς τῶν τινα κωμέων τῶν ἐν τῇ Ἀσσυρίῃ ἀπικνέεται ῥέων· τῇ δὲ κώμῃ οὔνομα ἐστί, ἐς τὴν ἀπικνέεται ὁ Εὐφρήτης, Ἀρδέρικκα. καὶ νῦν οἳ ἂν κομίζωνται ἀπὸ τῆσδε τῆς θαλάσσης ἐς Βαβυλῶνα, καταπλέοντες τὸν Εὐφρήτην ποταμὸν τρίς τε ἐς τὴν αὐτὴν ταύτην κώμην παραγίνονται καὶ ἐν τρισὶ ἡμέρῃσι.",
+        "translations": [
+          "First she dealt with the river Euphrates, which flows through the middle of her city; this had been straight before; but by digging canals higher up she made the river so crooked that its course now passes one of the Assyrian villages three times; the village which is so approached by the Euphrates is called Ardericca. And now those who travel from our sea to Babylon must spend three days as they float down the Euphrates coming three times to the same village."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τοῦτο μὲν δὴ τοιοῦτον ἐποίησε, χῶμα δὲ παρέχωσε παρʼ ἑκάτερον τοῦ ποταμοῦ τὸ χεῖλος ἄξιον θώματος μέγαθος καὶ ὕψος ὅσον τι ἐστί.",
+        "translations": [
+          "Such was this work; and she built an embankment along either shore of the river, marvellous for its greatness and height."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "κατύπερθε δὲ πολλῷ Βαβυλῶνος ὤρυσσε ἔλυτρον λίμνῃ, ὀλίγον τι παρατείνουσα ἀπὸ τοῦ ποταμοῦ, βάθος μὲν ἐς τὸ ὕδωρ αἰεὶ ὀρύσσουσα, εὖρος δὲ τὸ περίμετρον αὐτοῦ ποιεῦσα εἴκοσί τε καὶ τετρακοσίων σταδίων· τὸν δὲ ὀρυσσόμενον χοῦν ἐκ τούτου τοῦ ὀρύγματος ἀναισίμου παρὰ τὰ χείλεα τοῦ ποταμοῦ παραχέουσα.",
+        "translations": [
+          "Then a long way above Babylon she dug the reservoir of a lake, a little way off from the river, always digging deep enough to find water, and making the circumference a distance of fifty two miles; what was dug out of this hole, she used to embank either edge of the river;"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἐπείτε δέ οἱ ὀρώρυκτο, λίθους ἀγαγομένη κρηπῖδα κύκλῳ περὶ αὐτὴν ἤλασε.",
+        "translations": [
+          "and when she had it all dug, she brought stones and made a quay all around the lake."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "ἐποίεε δὲ ἀμφότερα ταῦτα, τόν τε ποταμὸν σκολιὸν καὶ τὸ ὄρυγμα πᾶν ἕλος, ὡς ὅ τε ποταμὸς βραδύτερος εἴη περὶ καμπὰς πολλὰς ἀγνύμενος, καὶ οἱ πλόοι ἔωσι σκολιοὶ ἐς τὴν Βαβυλῶνα, ἔκ τε τῶν πλόων ἐκδέκηται περίοδος τῆς λίμνης μακρή.",
+        "translations": [
+          "Her purpose in making the river wind and turning the hole into marsh was this: that the current might be slower because of the many windings that broke its force, and that the passages to Babylon might be crooked, and that right after them should come also the long circuit of the lake."
+        ],
+        "section": "6"
+      },
+      {
+        "greek": "κατὰ τοῦτο δὲ ἐργάζετο τῆς χώρης τῇ αἵ τε ἐσβολαὶ ἦσαν καὶ τὰ σύντομα τῆς ἐκ Μήδων ὁδοῦ, ἵνα μὴ ἐπιμισγόμενοι οἱ Μῆδοι ἐκμανθάνοιεν αὐτῆς τὰ πρήγματα.",
+        "translations": [
+          "All this work was done in that part of the country where the passes are and the shortest road from Media, so that the Medes might not mix with her people and learn of her affairs."
+        ],
+        "section": "7"
+      }
+    ]
+  }
+]

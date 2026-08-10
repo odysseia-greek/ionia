@@ -1,0 +1,53 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.171",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.171/",
+    "rhemai": [
+      {
+        "greek": "Ἅρπαγος δὲ καταστρεψάμενος Ἰωνίην ἐποιέετο στρατηίην ἐπὶ Κᾶρας καὶ Καυνίους καὶ Λυκίους, ἅμα ἀγόμενος καὶ Ἴωνας καὶ Αἰολέας.",
+        "translations": [
+          "Harpagus, after subjugating Ionia, made an expedition against the Carians, Caunians, and Lycians, taking Ionians and Aeolians with him."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "εἰσὶ δὲ τούτων Κᾶρες μὲν ἀπιγμένοι ἐς τὴν ἤπειρον ἐκ τῶν νήσων. τὸ γὰρ παλαιὸν ἐόντες Μίνω κατήκοοι καὶ καλεόμενοι Λέλεγες εἶχον τὰς νήσους, φόρον μὲν οὐδένα ὑποτελέοντες, ὅσον καὶ ἐγὼ δυνατός εἰμι ἐπὶ μακρότατον ἐξικέσθαι ἀκοῇ· οἳ δέ, ὅκως Μίνως δέοιτο, ἐπλήρουν οἱ τὰς νέας.",
+        "translations": [
+          "Of these, the Carians have come to the mainland from the islands; for in the past they were islanders, called Leleges and under the rule of Minos, not (as far as I can learn by report) paying tribute, but manning ships for him when he needed them."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἅτε δὴ Μίνω τε κατεστραμμένου γῆν πολλὴν καὶ εὐτυχέοντος τῷ πολέμῳ, τὸ Καρικὸν ἦν ἔθνος λογιμώτατον τῶν ἐθνέων ἁπάντων κατὰ τοῦτον ἅμα τὸν χρόνον μακρῷ μάλιστα.",
+        "translations": [
+          "Since Minos had subjected a good deal of territory for himself and was victorious in war, this made the Carians too at that time by far the most respected of all nations."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "καί σφι τριξὰ ἐξευρήματα ἐγένετο, τοῖσι οἱ Ἕλληνες ἐχρήσαντο· καὶ γὰρ ἐπὶ τὰ κράνεα λόφους ἐπιδέεσθαι Κᾶρες εἰσὶ οἱ καταδέξαντες καὶ ἐπὶ τὰς ἀσπίδας τὰ σημήια ποιέεσθαι, καὶ ὄχανα ἀσπίσι οὗτοι εἰσὶ οἱ ποιησάμενοι πρῶτοι· τέως δὲ ἄνευ ὀχάνων ἐφόρεον τὰς ἀσπίδας πάντες οἳ περ ἐώθεσαν ἀσπίσι χρᾶσθαι, τελαμῶσι σκυτίνοισι οἰηκίζοντες, περὶ τοῖσι αὐχέσι τε καὶ τοῖσι ἀριστεροῖσι ὤμοισι περικείμενοι.",
+        "translations": [
+          "They invented three things in which they were followed by the Greeks: it was the Carians who originated wearing crests on their helmets and devices on their shields, and who first made grips for their shields; until then all who used shields carried them without these grips, and guided them with leather belts which they slung round the neck and over the left shoulder."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "μετὰ δὲ τοὺς Κᾶρας χρόνῳ ὕστερον πολλῷ Δωριέες τε καὶ Ἴωνες ἐξανέστησαν ἐκ τῶν νήσων, καὶ οὕτω ἐς τὴν ἤπειρον ἀπίκοντο. κατὰ μὲν δὴ Κᾶρας οὕτω Κρῆτες λέγουσι γενέσθαι· οὐ μέντοι αὐτοί γε ὁμολογέουσι τούτοισι οἱ Κᾶρες, ἀλλὰ νομίζουσι αὐτοὶ ἑωυτοὺς εἶναι αὐτόχθονας ἠπειρώτας, καὶ τῷ οὐνόματι τῷ αὐτῷ αἰεὶ διαχρεωμένους τῷ περ νῦν.",
+        "translations": [
+          "Then, a long time afterwards, the Carians were driven from the islands by Dorians and Ionians and so came to the mainland. This is the Cretan story about the Carians; but the Carians themselves do not subscribe to it, but believe that they are aboriginal inhabitants of the mainland and always bore the name which they bear now;"
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "ἀποδείκνῦσι δὲ ἐν Μυλάσοισι Διὸς Καρίου ἱρὸν ἀρχαῖον, τοῦ Μυσοῖσι μὲν καὶ Λυδοῖσι μέτεστι ὡς κασιγνήτοισι ἐοῦσι τοῖσι Καρσί· τὸν γὰρ Λυδὸν καὶ τὸν Μυσὸν λέγουσι εἶναι Καρὸς ἀδελφεούς. τούτοισι μὲν δὴ μέτεστι, ὅσοι δὲ ἐόντες ἄλλου ἔθνεος ὁμόγλωσσοι τοῖσι Καρσὶ ἐγένοντο, τούτοισι δὲ οὐ μέτα.",
+        "translations": [
+          "and they point to an ancient shrine of Carian Zeus at Mylasa, to which Mysians and Lydians, as brethren of the Carians (for Lydus and Mysus, they say, were brothers of Car ), are admitted, but not those who spoke the same language as the Carians but were of another people."
+        ],
+        "section": "6"
+      }
+    ]
+  }
+]

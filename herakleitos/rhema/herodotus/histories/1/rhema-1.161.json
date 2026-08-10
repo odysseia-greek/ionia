@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.161",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.161/",
+    "rhemai": [
+      {
+        "greek": "Χῖοι μέν νυν Πακτύην ἐξέδοσαν. Μαζάρης δὲ μετὰ ταῦτα ἐστρατεύετο ἐπὶ τοὺς συμπολιορκήσαντας Τάβαλον, καὶ τοῦτο μὲν Πριηνέας ἐξηνδραποδίσατο, τοῦτο δὲ Μαιάνδρου πεδίον πᾶν ἐπέδραμε ληίην ποιεύμενος τῷ στρατῷ, Μαγνησίην τε ὡσαύτως. μετὰ δὲ ταῦτα αὐτίκα νούσῳ τελευτᾷ.",
+        "translations": [
+          "The Chians, then, surrendered Pactyes, and afterwards Mazares led his army against those who had helped to besiege Tabalus, and he enslaved the people of Priene, and overran the plain of the Maeandrus, giving it to his army to pillage and Magnesia likewise. Immediately after this he died of an illness."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

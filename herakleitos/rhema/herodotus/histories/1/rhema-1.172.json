@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.172",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.172/",
+    "rhemai": [
+      {
+        "greek": "οἱ δὲ Καύνιοι αὐτόχθονες δοκέειν ἐμοὶ εἰσί, αὐτοὶ μέντοι ἐκ Κρήτης φασὶ εἶναι. προσκεχωρήκασι δὲ γλῶσσαν μὲν πρὸς τὸ Καρικὸν ἔθνος, ἢ οἱ Κᾶρες πρὸς τὸ Καυνικόν (τοῦτο γὰρ οὐκ ἔχω ἀτρεκέως διακρῖναι), νόμοισι δὲ χρέωνται κεχωρισμένοισι πολλὸν τῶν τε ἄλλων ἀνθρώπων καὶ Καρῶν. τοῖσι γὰρ κάλλιστον ἐστὶ κατʼ ἡλικίην τε καὶ φιλότητα εἰλαδὸν συγγίνεσθαι ἐς πόσιν, καὶ ἀνδράσι καὶ γυναιξὶ καὶ παισί.",
+        "translations": [
+          "I think the Caunians are aborigines of the soil, but they say that they came from Crete. Their speech has become like the Carian, or the Carian like theirs (for I cannot clearly decide), but in their customs they diverge widely from the Carians, as from all other men. Their chief pleasure is to assemble for drinking-bouts in groups according to their ages and friendships: men, women, and children."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἱδρυθέντων δέ σφι ἱρῶν ξεινικῶν, μετέπειτα ὥς σφι ἀπέδοξε, ἔδοξέ δὲ τοῖσι πατρίοισι μοῦνον χέασθαι θεοῖσι, ἐνδύντες τὰ ὅπλα ἅπαντες Καύνιοι ἡβηδόν, τύπτοντες δόρασι τὸν ἠέρα, μέχρι οὔρων τῶν Καλυνδικῶν εἵποντο, καὶ ἔφασαν ἐκβάλλειν τοὺς ξεινικοὺς θεούς.",
+        "translations": [
+          "Certain foreign rites of worship were established among them; but afterwards, when they were inclined otherwise, and wanted to worship only the gods of their fathers, all Caunian men of full age put on their armor and went together as far as the boundaries of Calynda, striking the air with their spears and saying that they were casting out the alien gods."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

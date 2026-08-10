@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.159",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.159/",
+    "rhemai": [
+      {
+        "greek": "ἀπικομένων δὲ ἐς Βραγχίδας ἐχρηστηριάζετο ἐκ πάντων Ἀριστόδικος ἐπειρωτῶν τάδε. ὦναξ, ἦλθε παρʼ ἡμέας ἱκέτης Πακτύης ὁ Λυδός, φεύγων θάνατον βίαιον πρὸς Περσέων· οἳ δέ μιν ἐξαιτέονται, προεῖναι Κυμαίους κελεύοντες.",
+        "translations": [
+          "When they came to Branchidae, Aristodicus, speaking for all, put this question to the oracle: “Lord, Pactyes the Lydian has come to us a suppliant fleeing a violent death at the hands of the Persians; and they demand him of us, telling the men of Cyme to surrender him."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἡμεῖς δὲ δειμαίνοντες τὴν Περσέων δύναμιν τὸν ἱκέτην ἐς τόδε οὐ τετολμήκαμεν ἐκδιδόναι, πρὶν ἂν τὸ ἀπὸ σεῦ ἡμῖν δηλωθῇ ἀτρεκέως ὁκότερα ποιέωμεν. ὃ μὲν ταῦτα ἐπειρώτα, ὃ δʼ αὖτις τὸν αὐτόν σφι χρησμὸν ἔφαινε, κελεύων ἐκδιδόναι Πακτύην Πέρσῃσι.",
+        "translations": [
+          "But we, as much as we fear the Persian power, have not dared give up this suppliant of ours until it is clearly made known to us by you whether we are to do this or not.” Thus Aristodicus inquired; and the god again gave the same answer, that Pactyes should be surrendered to the Persians."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "πρὸς ταῦτα ὁ Ἀριστόδικος ἐκ προνοίης ἐποίεε τάδε· περιιὼν τὸν νηὸν κύκλῳ ἐξαίρεε τοὺς στρουθοὺς καὶ ἄλλα ὅσα ἦν νενοσσευμένα ὀρνίθων γένεα ἐν τῷ νηῷ. ποιέοντος δὲ αὐτοῦ ταῦτα λέγεται φωνὴν ἐκ τοῦ ἀδύτου γενέσθαι φέρουσαν μὲν πρὸς τὸν Ἀριστόδικον, λέγουσαν δὲ τάδε ἀνοσιώτατε ἀνθρώπων, τί τάδε τολμᾷς ποιέειν; τοὺς ἱκέτας μου ἐκ τοῦ νηοῦ κεραΐζεις;",
+        "translations": [
+          "With that Aristodicus did as he had already decided; he went around the temple, and took away the sparrows and all the families of nesting birds that were in it. But while he was doing so, a voice (they say) came out of the inner shrine calling to Aristodicus, and saying, “Vilest of men, how dare you do this? Will you rob my temple of those that take refuge with me?”"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "Ἀριστόδικον δὲ οὐκ ἀπορήσαντα πρὸς ταῦτα εἰπεῖν ὦναξ, αὐτὸς μὲν οὕτω τοῖσι ἱκέτῃσι βοηθέεις, Κυμαίους δὲ κελεύεις τὸν ἱκέτην ἐκδιδόναι; τὸν δὲ αὖτις ἀμείψασθαι τοῖσιδε ναὶ κελεύω, ἵνα γε ἀσεβήσαντες θᾶσσον ἀπόλησθε, ὡς μὴ τὸ λοιπὸν περὶ ἱκετέων ἐκδόσιος ἔλθητε ἐπὶ τὸ χρηστήριον.",
+        "translations": [
+          "Then Aristodicus had his answer ready: “Lord,” he said, “will you save your own suppliants, yet tell the men of Cyme to deliver up theirs?” But the god replied, “Yes, I do command them, so that you may perish all the sooner for your impiety, and never again come to inquire of my oracle about giving up those that seek refuge with you.”"
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

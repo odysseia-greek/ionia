@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.181",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.181/",
+    "rhemai": [
+      {
+        "greek": "τοῦτο μὲν δὴ τὸ τεῖχος θώρηξ ἐστί, ἕτερον δὲ ἔσωθεν τεῖχος περιθέει, οὐ πολλῷ τεῳ ἀσθενέστερον τοῦ ἑτέρου τείχεος, στεινότερον δέ.",
+        "translations": [
+          "These walls are the city's outer armor; within them there is another encircling wall, nearly as strong as the other, but narrower."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐν δὲ φάρσεϊ ἑκατέρῳ τῆς πόλιος ἐτετείχιστο ἐν μέσῳ ἐν τῷ μὲν τὰ βασιλήια περιβόλῳ μεγάλῳ τε καὶ ἰσχυρῷ, ἐν δὲ τῷ ἑτέρῳ Διὸς Βήλου ἱρὸν χαλκόπυλον, καὶ ἐς ἐμὲ ἔτι τοῦτο ἐόν, δύο σταδίων πάντῃ, ἐὸν τετράγωνον.",
+        "translations": [
+          "In the middle of one division of the city stands the royal palace, surrounded by a high and strong wall; and in the middle of the other is still to this day the sacred enclosure of Zeus Belus, a square of four hundred and forty yards each way, with gates of bronze."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐν μέσῳ δὲ τοῦ ἱροῦ πύργος στερεὸς οἰκοδόμηται, σταδίου καὶ τὸ μῆκος καὶ τὸ εὖρος, καὶ ἐπὶ τούτῳ τῷ πύργῳ ἄλλος πύργος ἐπιβέβηκε, καὶ ἕτερος μάλα ἐπὶ τούτῳ, μέχρι οὗ ὀκτὼ πύργων.",
+        "translations": [
+          "In the center of this sacred enclosure a solid tower has been built, two hundred and twenty yards long and broad; a second tower rises from this and from it yet another, until at last there are eight."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἀνάβασις δὲ ἐς αὐτοὺς ἔξωθεν κύκλῳ περὶ πάντας τοὺς πύργους ἔχουσα πεποίηται. μεσοῦντι δέ κου τῆς ἀναβάσιος ἐστὶ καταγωγή τε καὶ θῶκοι ἀμπαυστήριοι, ἐν τοῖσι κατίζοντες ἀμπαύονται οἱ ἀναβαίνοντες.",
+        "translations": [
+          "The way up them mounts spirally outside the height of the towers; about halfway up is a resting place, with seats for repose, where those who ascend sit down and rest."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἐν δὲ τῷ τελευταίῳ πύργῳ νηὸς ἔπεστι μέγας· ἐν δὲ τῷ νηῷ κλίνη μεγάλη κέεται εὖ ἐστρωμένη, καὶ οἱ τράπεζα παρακέεται χρυσέη. ἄγαλμα δὲ οὐκ ἔνι οὐδὲν αὐτόθι ἐνιδρυμένον, οὐδὲ νύκτα οὐδεὶς ἐναυλίζεται ἀνθρώπων ὅτι μὴ γυνὴ μούνη τῶν ἐπιχωρίων, τὴν ἂν ὁ θεὸς ἕληται ἐκ πασέων, ὡς λέγουσι οἱ Χαλδαῖοι ἐόντες ἱρέες τούτου τοῦ θεοῦ.",
+        "translations": [
+          "In the last tower there is a great shrine; and in it stands a great and well-covered couch, and a golden table nearby. But no image has been set up in the shrine, nor does any human creature lie there for the night, except one native woman, chosen from all women by the god, as the Chaldaeans say, who are priests of this god."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

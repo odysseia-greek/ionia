@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.202",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.202/",
+    "rhemai": [
+      {
+        "greek": "ὁ δὲ Ἀράξης λέγεται καὶ μέζων καὶ ἐλάσσων εἶναι τοῦ Ἴστρου· νήσους δὲ ἐν αὐτῷ Λέσβῳ μεγάθεα παραπλησίας συχνάς φασι εἶναι, ἐν δὲ αὐτῇσι ἀνθρώπους οἳ σιτέονται μὲν ῥίζας τὸ θέρος ὀρύσσοντες παντοίας· καρποὺς δὲ ἀπὸ δενδρέων ἐξευρημένους σφι ἐς φορβὴν κατατίθεσθαι ὡραίους, καὶ τούτους σιτέεσθαι τὴν χειμερινήν.",
+        "translations": [
+          "The Araxes is said by some to be greater and by some to be less than the Ister. It is reported that there are many islands in it as big as Lesbos, and men on them who in summer live on roots of all kinds that they dig up, and in winter on fruit that they have got from trees when it was ripe and stored for food;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἄλλα δέ σφι ἐξευρῆσθαι δένδρεα καρποὺς τοιούσδε τινὰς φέροντα, τοὺς ἐπείτε ἂν ἐς τὠυτὸ συνέλθωσι κατὰ εἴλας καὶ πῦρ ἀνακαύσωνται κύκλῳ περιιζομένους ἐπιβάλλειν ἐπὶ τὸ πῦρ, ὀσφραινομένους δὲ καταγιζομένου τοῦ καρποῦ τοῦ ἐπιβαλλομένου μεθύσκεσθαι τῇ ὀσμῇ κατά περ Ἕλληνας τῷ οἴνῳ πλεῦνος δὲ ἐπιβαλλομένου τοῦ καρποῦ μᾶλλον μεθύσκεσθαι, ἐς ὃ ἐς ὄρχησίν τε ἀνίστασθαι καὶ ἐς ἀοιδὴν ἀπικνέεσθαι. τούτων μὲν αὕτη λέγεται δίαιτᾳ εἶναι.",
+        "translations": [
+          "and they know (it is said) of trees bearing a fruit whose effect is this: gathering in groups and kindling a fire, the people sit around it and throw the fruit into the flames; then the fumes of it as it burns make them drunk as the Greeks are with wine, and more and more drunk as more fruit is thrown on the fire, until at last they rise up to dance and even sing. Such is said to be their way of life."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὁ δὲ Ἀράξης ποταμὸς ῥέει μὲν ἐκ Ματιηνῶν, ὅθεν περ ὁ Γύνδης τὸν ἐς τὰς διώρυχας τὰς ἑξήκοντά τε καὶ τριηκοσίας διέλαβε ὁ Κῦρος, στόμασι δὲ ἐξερεύγεται τεσσεράκοντα, τῶν τὰ πάντα πλὴν ἑνὸς ἐς ἕλεά τε καὶ τενάγεα ἐκδιδοῖ· ἐν τοῖσι ἀνθρώπους κατοικῆσθαι λέγουσι ἰχθῦς ὠμοὺς σιτεομένους, ἐσθῆτι δὲ νομίζοντας χρᾶσθαι φωκέων δέρμασι.",
+        "translations": [
+          "The Araxes flows from the country of the Matieni (as does the Gyndes, which Cyrus divided into the three hundred and sixty channels) and empties itself through forty mouths, of which all except one issue into bogs and swamps, where men are said to live whose food is raw fish, and their customary dress sealskins."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τὸ δὲ ἓν τῶν στομάτων τοῦ Ἀράξεω ῥέει διὰ καθαροῦ ἐς τὴν Κασπίην θάλασσαν.",
+        "translations": [
+          "The one remaining stream of the Araxes flows in a clear channel into the Caspian sea. This is a sea by itself, not joined to the other sea. For that on which the Greeks sail, and the sea beyond the pillars of Heracles, which they call Atlantic, and the Red Sea, are all one:"
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

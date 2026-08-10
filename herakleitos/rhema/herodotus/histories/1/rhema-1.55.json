@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.55",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.55/",
+    "rhemai": [
+      {
+        "greek": "δωρησάμενος δὲ τοὺς Δελφοὺς ὁ Κροῖσος ἐχρηστηριάζετο τὸ τρίτον· ἐπείτε γὰρ δὴ παρέλαβε τοῦ μαντείου ἀληθείην, ἐνεφορέετο αὐτοῦ. ἐπειρώτα δὲ τάδε χρηστηριαζόμενος, εἴ οἱ πολυχρόνιος ἔσται ἡ μουναρχίη.",
+        "translations": [
+          "After his gifts to the Delphians, Croesus made a third inquiry of the oracle, for he wanted to use it to the full, having received true answers from it; and the question which he asked was whether his sovereignty would be of long duration. To this the Pythian priestess answered as follows:"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἡ δὲ Πυθίη οἱ χρᾷ τάδε. ἀλλʼ ὅταν ἡμίονος βασιλεὺς Μήδοισι γένηται, καὶ τότε, Λυδὲ ποδαβρέ, πολυψήφιδα παρʼ Ἕρμον φεύγειν μηδὲ μένειν μηδʼ αἰδεῖσθαι κακός εἶναι.",
+        "translations": [
+          "“When the Medes have a mule as king, Just then, tender-footed Lydian, by the stone-strewn Hermus Flee and do not stay, and do not be ashamed to be a coward.”"
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

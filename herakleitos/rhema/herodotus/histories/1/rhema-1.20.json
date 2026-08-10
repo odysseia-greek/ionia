@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.20",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.20/",
+    "rhemai": [
+      {
+        "greek": "Δελφῶν οἶδα ἐγὼ οὕτω ἀκούσας γενέσθαι· Μιλήσιοι δὲ τάδε προστιθεῖσι τούτοισι, Περίανδρον τὸν Κυψέλου ἐόντα Θρασυβούλῳ τῷ τότε Μιλήτου τυραννεύοντι ξεῖνον ἐς τὰ μάλιστα, πυθόμενον τὸ χρηστήριον τὸ τῷ Ἀλυάττῃ γενόμενον, πέμψαντα ἄγγελον κατειπεῖν, ὅκως ἄν τι προειδὼς πρὸς τὸ παρεὸν βουλεύηται.",
+        "translations": [
+          "I know this much to be so because the Delphians told me. The Milesians add that Periander son of Cypselus, a close friend of the Thrasybulus who then was sovereign of Miletus, learned what reply the oracle had given to Alyattes, and sent a messenger to tell Thrasybulus so that his friend, forewarned, could make his plans accordingly."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

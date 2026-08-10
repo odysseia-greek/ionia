@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.57",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.57/",
+    "rhemai": [
+      {
+        "greek": "ἥντινα δὲ γλῶσσαν ἵεσαν οἱ Πελασγοί, οὐκ ἔχω ἀτρεκέως εἰπεῖν. εἰ δὲ χρεόν ἐστι τεκμαιρόμενον λέγειν τοῖσι νῦν ἔτι ἐοῦσι Πελασγῶν τῶν ὑπὲρ Τυρσηνῶν Κρηστῶνα πόλιν οἰκεόντων, οἳ ὅμουροι κοτὲ ἦσαν τοῖσι νῦν Δωριεῦσι καλεομένοισι (οἴκεον δὲ τηνικαῦτα γῆν τὴν νῦν Θεσσαλιῶτιν καλεομένην),",
+        "translations": [
+          "What language the Pelasgians spoke I cannot say definitely. But if one may judge by those that still remain of the Pelasgians who live above the Tyrrheni in the city of Creston —who were once neighbors of the people now called Dorians, and at that time inhabited the country which now is called Thessalian —"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "καὶ τῶν Πλακίην τε καὶ Σκυλάκην Πελασγῶν οἰκησάντων ἐν Ἑλλησπόντῳ, οἳ σύνοικοι ἐγένοντο Ἀθηναίοισι, καὶ ὅσα ἄλλα Πελασγικὰ ἐόντα πολίσματα τὸ οὔνομα μετέβαλε· εἰ τούτοισι τεκμαιρόμενον δεῖ λέγειν, ἦσαν οἱ Πελασγοὶ βάρβαρον γλῶσσαν ἱέντες.",
+        "translations": [
+          "and of the Pelasgians who inhabited Placia and Scylace on the Hellespont, who came to live among the Athenians, and by other towns too which were once Pelasgian and afterwards took a different name: if, as I said, one may judge by these, the Pelasgians spoke a language which was not Greek."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "εἰ τοίνυν ἦν καὶ πᾶν τοιοῦτο τὸ Πελασγικόν, τὸ Ἀττικὸν ἔθνος ἐὸν Πελασγικὸν ἅμα τῇ μεταβολῇ τῇ ἐς Ἕλληνας καὶ τὴν γλῶσσαν μετέμαθε. καὶ γὰρ δὴ οὔτε οἱ Κρηστωνιῆται οὐδαμοῖσι τῶν νῦν σφέας περιοικεόντων εἰσὶ ὁμόγλωσσοι οὔτε οἱ Πλακιηνοί, σφίσι δὲ ὁμόγλωσσοι· δηλοῦσί τε ὅτι τὸν ἠνείκαντο γλώσσης χαρακτῆρα μεταβαίνοντες ἐς ταῦτα τὰ χωρία, τοῦτον ἔχουσι ἐν φυλακῇ.",
+        "translations": [
+          "If, then, all the Pelasgian stock spoke so, then the Attic nation, being of Pelasgian blood, must have changed its language too at the time when it became part of the Hellenes. For the people of Creston and Placia have a language of their own in common, which is not the language of their neighbors; and it is plain that they still preserve the manner of speech which they brought with them in their migration into the places where they live."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

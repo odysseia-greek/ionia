@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.53",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.53/",
+    "rhemai": [
+      {
+        "greek": "τοῖσι δὲ ἄγειν μέλλουσι τῶν Λυδῶν ταῦτα τὰ δῶρα ἐς τὰ ἱρὰ ἐνετέλλετο ὁ Κροῖσος ἐπειρωτᾶν τὰ χρηστήρια εἰ στρατεύηται ἐπὶ Πέρσας Κροῖσος καὶ εἴ τινα στρατὸν ἀνδρῶν προσθέοιτο φίλον,",
+        "translations": [
+          "The Lydians who were to bring these gifts to the temples were instructed by Croesus to inquire of the oracles whether he was to send an army against the Persians and whether he was to add an army of allies."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὡς δὲ ἀπικόμενοι ἐς τὰ ἀπεπέμφθησαν, οἱ Λυδοὶ ἀνέθεσαν τὰ ἀναθήματα, ἐχρέωντο τοῖσι χρηστηρίοισι λέγοντες Κροῖσος ὁ Λυδῶν τε καὶ ἄλλων ἐθνέων βασιλεύς, νομίσας τάδε μαντήια εἶναι μοῦνα ἐν ἀνθρώποισι, ὑμῖν τε ἄξια δῶρα ἔδωκε τῶν ἐξευρημάτων, καὶ νῦν ὑμέας ἐπειρωτᾷ εἰ στρατεύηται ἐπὶ Πέρσας καὶ εἴ τινα στρατὸν ἀνδρῶν προσθέοιτο σύμμαχον.",
+        "translations": [
+          "When the Lydians came to the places where they were sent, they presented the offerings, and inquired of the oracles, in these words: “ Croesus, king of Lydia and other nations, believing that here are the only true places of divination among men, endows you with such gifts as your wisdom deserves. And now he asks you whether he is to send an army against the Persians, and whether he is to add an army of allies.”"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οἳ μὲν ταῦτα ἐπειρώτων, τῶν δὲ μαντηίων ἀμφοτέρων ἐς τὠυτὸ αἱ γνῶμαι συνέδραμον, προλέγουσαι Κροίσῳ, ἢν στρατεύηται ἐπὶ Πέρσας, μεγάλην ἀρχὴν μιν καταλύσειν· τοὺς δὲ Ἑλλήνων δυνατωτάτους συνεβούλευόν οἱ ἐξευρόντα φίλους προσθέσθαι.",
+        "translations": [
+          "Such was their inquiry; and the judgment given to Croesus by each of the two oracles was the same: namely, that if he should send an army against the Persians he would destroy a great empire. And they advised him to discover the mightiest of the Greeks and make them his friends."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

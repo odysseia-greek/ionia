@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.180",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.180/",
+    "rhemai": [
+      {
+        "greek": "ἐτετείχιστο μέν νυν ἡ Βαβυλὼν τρόπῳ τοιῷδε, ἔστι δὲ δύο φάρσεα τῆς πόλιος. τὸ γὰρ μέσον αὐτῆς ποταμὸς διέργει, τῷ οὔνομα ἐστὶ Εὐφρήτης· ῥέει δὲ ἐξ Ἀρμενίων, ἐὼν μέγας καὶ βαθὺς καὶ ταχύς· ἐξιεῖ δὲ οὗτος ἐς τὴν Ἐρυθρὴν θάλασσαν.",
+        "translations": [
+          "Thus, then, this wall was built; the city is divided into two parts; for it is cut in half by a river named Euphrates, a wide, deep, and swift river, flowing from Armenia and issuing into the Red Sea."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τὸ ὦν δὴ τεῖχος ἑκάτερον τοὺς ἀγκῶνας ἐς τὸν ποταμὸν ἐλήλαται· τὸ δὲ ἀπὸ τούτου αἱ ἐπικαμπαὶ παρὰ χεῖλος ἑκάτερον τοῦ ποταμοῦ αἱμασιὴ πλίνθων ὀπτέων παρατείνει.",
+        "translations": [
+          "The angles of the wall, then, on either side are built quite down to the river; here they turn, and from here a fence of baked bricks runs along each bank of the stream."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τὸ δὲ ἄστυ αὐτό, ἐὸν πλῆρες οἰκιέων τριωρόφων καὶ τετρωρόφων, κατατέτμηται τὰς ὁδοὺς ἰθέας τάς τε ἄλλας καὶ τὰς ἐπικαρσίας τὰς ἐπὶ τὸν ποταμὸν ἐχούσας.",
+        "translations": [
+          "The city itself is full of houses three and four stories high; and the ways that traverse it, those that run crosswise towards the river and the rest, are all straight."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "κατὰ δὴ ὦν ἑκάστην ὁδὸν ἐν τῇ αἱμασιῇ τῇ παρὰ τὸν ποταμὸν πυλίδες ἐπῆσαν, ὅσαι περ αἱ λαῦραι, τοσαῦται ἀριθμόν· ἦσαν δὲ καὶ αὗται χάλκεαι φέρουσαι καὶ αὐταὶ ἐς αὐτὸν τὸν ποταμόν.",
+        "translations": [
+          "Further, at the end of each road there was a gate in the riverside fence, one gate for each alley; these gates also were of bronze, and these too opened on the river."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.124",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.124/",
+    "rhemai": [
+      {
+        "greek": "ταῦτά τε δὴ ὦν ἐπιτελέα ἐγίνετο καὶ ὁ Κῦρος παραλαβὼν τὸν λαγὸν ἀνέσχισε· εὑρὼν δὲ ἐν αὐτῷ τὸ βυβλίον ἐνεὸν λαβὼν ἐπελέγετο, τὰ δὲ γράμματα ἔλεγε τάδε. ὦ παῖ Καμβύσεω, σὲ γὰρ θεοὶ ἐπορῶσι· οὐ γὰρ ἂν κοτὲ ἐς τοσοῦτο τύχης ἀπίκευ· σύ νυν Ἀστυάγεα τὸν σεωυτοῦ φονέα τῖσαι.",
+        "translations": [
+          "All this was done. Cyrus took the hare and slit it and read the paper which was in it; the writing was as follows: “Son of Cambyses, since the gods watch over you (otherwise you would not have prospered so) avenge yourself now on Astyages, your murderer;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "κατὰ μὲν γὰρ τὴν τούτου προθυμίην τέθνηκας, τὸ δὲ κατὰ θεούς τε καὶ ἐμὲ περίεις· τά σε καὶ πάλαι δοκέω πάντα ἐκμεμαθηκέναι, σέο τε αὐτοῦ περὶ ὡς ἐπρήχθη, καὶ οἷα ἐγὼ ὑπὸ Ἀστυάγεος πέπονθα, ὅτι σε οὐκ ἀπέκτεινα ἀλλὰ ἔδωκα τῷ βουκόλῳ. σύ νυν, ἢν βούλῃ ἐμοὶ πείθεσθαι, τῆς περ Ἀστυάγης ἄρχει χώρης, ταύτης ἁπάσης ἄρξεις. Πέρσας γὰρ ἀναπείσας ἀπίστασθαι στρατηλάτεε ἐπὶ Μήδους·",
+        "translations": [
+          "for thanks to his intention you are dead, while thanks to the gods, and me, you live. I expect that long ago you heard the story of what was done concerning you and how Astyages treated me because I did not kill you but gave you to the cowherd. If, then, you will listen to me, you shall rule all the country which is now ruled by Astyages. Persuade the Persians to rebel, and lead their army against the Medes;"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "καὶ ἤν τε ἐγὼ ὑπὸ Ἀστυάγεος ἀποδεχθέω στρατηγὸς ἀντία σεῦ, ἔστι τοι τὰ σὺ βούλεαι, ἤν τε τῶν τις δοκίμων ἄλλος Μήδων· πρῶτοι γὰρ οὗτοι ἀποστάντες ἀπʼ ἐκείνου καὶ γενόμενοι πρὸς σέο Ἀστυάγεα καταιρέειν πειρήσονται. ὡς ὦν ἑτοίμου τοῦ γε ἐνθάδε ἐόντος, ποίεε ταῦτα καὶ ποίεε κατὰ τάχος.",
+        "translations": [
+          "then you have your wish, whether I am appointed to command the army against you or some other notable man among the Medes: for they will of themselves revolt from Astyages and join you and try to pull him down. Seeing then that all is ready here, do as I say and do it quickly.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

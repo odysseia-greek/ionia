@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.6",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.6/",
+    "rhemai": [
+      {
+        "greek": "Κροῖσος ἦν Λυδὸς μὲν γένος, παῖς δὲ Ἀλυάττεω, τύραννος δὲ ἐθνέων τῶν ἐντός Ἅλυος ποταμοῦ, ὃς ῥέων ἀπὸ μεσαμβρίης μεταξὺ Συρίων τε καὶ Παφλαγόνων ἐξιεῖ πρὸς βορέην ἄνεμον ἐς τὸν Εὔξεινον καλεόμενον πόντον.",
+        "translations": [
+          "Croesus was a Lydian by birth, son of Alyattes, and sovereign of all the nations west of the river Halys, which flows from the south between Syria and Paphlagonia and empties into the sea called Euxine."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὗτος ὁ Κροῖσος βαρβάρων πρῶτος τῶν ἡμεῖς ἴδμεν τοὺς μὲν κατεστρέψατο Ἑλλήνων ἐς φόρου ἀπαγωγήν, τοὺς δὲ φίλους προσεποιήσατο. κατεστρέψατο μὲν Ἴωνάς τε καὶ Αἰολέας καὶ Δωριέας τοὺς ἐν τῇ Ἀσίῃ, φίλους δὲ προσεποιήσατο Λακεδαιμονίους.",
+        "translations": [
+          "This Croesus was the first foreigner whom we know who subjugated some Greeks and took tribute from them, and won the friendship of others: the former being the Ionians, the Aeolians, and the Dorians of Asia, and the latter the Lacedaemonians."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "πρὸ δὲ τῆς Κροίσου ἀρχῆς πάντες Ἕλληνες ἦσαν ἐλεύθεροι· τὸ γὰρ Κιμμερίων στράτευμα τὸ ἐπὶ τὴν Ἰωνίην ἀπικόμενον Κροίσου ἐὸν πρεσβύτερον οὐ καταστροφὴ ἐγένετο τῶν πολίων ἀλλʼ ἐξ ἐπιδρομῆς ἁρπαγή.",
+        "translations": [
+          "Before the reign of Croesus, all Greeks were free: for the Cimmerian host which invaded Ionia before his time did not subjugate the cities, but raided and robbed them."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

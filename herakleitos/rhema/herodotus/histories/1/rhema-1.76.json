@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.76",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.76/",
+    "rhemai": [
+      {
+        "greek": "Κροῖσος δὲ ἐπείτε διαβὰς σὺν τῷ στρατῷ ἀπίκετο τῆς Καππαδοκίης ἐς τὴν Πτερίην καλεομένην (ἡ δὲ Πτερίη ἐστὶ τῆς χώρης ταύτης τὸ ἰσχυρότατον, κατὰ Σινώπην πόλιν τὴν ἐν Εὐξείνῳ πόντῳ μάλιστά κῃ κειμένη), ἐνθαῦτα ἐστρατοπεδεύετο φθείρων τῶν Συρίων τοὺς κλήρους·",
+        "translations": [
+          "Passing over with his army, Croesus then came to the part of Cappadocia called Pteria (it is the strongest part of this country and lies on the line of the city of Sinope on the Euxine sea ), where he encamped and devastated the farms of the Syrians;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "καὶ εἷλε μὲν τῶν Πτερίων τὴν πόλιν καὶ ἠνδραποδίσατο, εἷλε δὲ τὰς περιοικίδας αὐτῆς πάσας, Συρίους τε οὐδὲν ἐόντας αἰτίους ἀναστάτους ἐποίησε. Κῦρος δὲ ἀγείρας τὸν ἑωυτοῦ στρατὸν καὶ παραλαβὼν τοὺς μεταξὺ οἰκέοντας πάντας ἠντιοῦτο Κροίσῳ.",
+        "translations": [
+          "and he took and enslaved the city of the Pterians, and took all the places around it also, and drove the Syrians from their homes, though they had done him no harm. Cyrus, mustering his army, advanced to oppose Croesus, gathering to him all those who lived along the way."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "πρὶν δὲ ἐξελαύνειν ὁρμῆσαι τὸν στρατόν, πέμψας κήρυκας ἐς τοὺς Ἴωνας ἐπειρᾶτο σφέας ἀπὸ Κροίσου ἀπιστάναι. Ἴωνες μέν νυν οὐκ ἐπείθοντο. Κῦρος δὲ ὡς ἀπίκετο καὶ ἀντεστρατοπεδεύσατο Κροίσῳ, ἐνθαῦτα ἐν τῇ Πτερίῃ χωρῇ ἐπειρῶντο κατὰ τὸ ἰσχυρὸν ἀλλήλων.",
+        "translations": [
+          "But before beginning his march, he sent heralds to the Ionians to try to draw them away from Croesus. The Ionians would not be prevailed on; but when Cyrus arrived and encamped face to face with Croesus, there in the Pterian country the armies had a trial of strength."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "μάχης δὲ καρτερῆς γενομένης καὶ πεσόντων ἀμφοτέρων πολλῶν, τέλος οὐδέτεροι νικήσαντες διέστησαν νυκτὸς ἐπελθούσης. καὶ τὰ μὲν στρατόπεδα ἀμφότερα οὕτω ἠγωνίσατο.",
+        "translations": [
+          "The fighting was fierce, many on both sides fell, and at nightfall they disengaged with neither side victorious. The two sides contended thus."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

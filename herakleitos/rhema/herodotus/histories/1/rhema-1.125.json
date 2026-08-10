@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.125",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.125/",
+    "rhemai": [
+      {
+        "greek": "ἀκούσας ταῦτα ὁ Κῦρος ἐφρόντιζε ὅτεῳ τρόπῳ σοφωτάτῳ Πέρσας ἀναπείσει ἀπίστασθαι, φροντίζων δὲ εὑρίσκεται ταῦτα καιριώτατα εἶναι· ἐποίεε δὴ ταῦτα.",
+        "translations": [
+          "When Cyrus read this, he deliberated as to what was the shrewdest way to persuade the Persians to revolt; and what he thought to be most effective, he did:"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "γράψας ἐς βυβλίον τὰ ἐβούλετο, ἁλίην τῶν Περσέων ἐποιήσατο, μετὰ δὲ ἀναπτύξας τὸ βυβλίον καὶ ἐπιλεγόμενος ἔφη Ἀστυάγεά μιν στρατηγὸν Περσέων ἀποδεικνύναι. νῦν τε, ἔφη λέγων, ὦ Πέρσαι, προαγορεύω ὑμῖν παρεῖναι ἕκαστον ἔχοντα δρέπανον. Κῦρος μὲν ταῦτα προηγόρευσε. ἔστι δὲ Πέρσεων συχνὰ γένεα, καὶ τὰ μὲν αὐτῶν ὁ Κῦρος συνάλισε καὶ ἀνέπεισε ἀπίστασθαι ἀπὸ Μήδων.",
+        "translations": [
+          "writing what he liked on a paper, he assembled the Persians, and then unfolded the paper and declared that in it Astyages appointed him leader of the Persian armies. “Now,” he said in his speech, “I command you, men of Persia, to come, each provided with a sickle.” This is what Cyrus said."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἔστι δὲ τάδε, ἐξ ὧν ὧλλοι πάντες ἀρτέαται Πέρσαι, Πασαργάδαι Μαράφιοι Μάσπιοι. τούτων Πασαργάδαι εἰσὶ ἄριστοι, ἐν τοῖσι καὶ Ἀχαιμενίδαι εἰσὶ φρήτρη, ἔνθεν οἱ βασιλέες οἱ Περσεῖδαι γεγόνασι.",
+        "translations": [
+          "Now there are many tribes in Persia: those of them that Cyrus assembled and persuaded to revolt from the Medes were the Pasargadae, the Maraphii, and the Maspii. On these all the other Persians depend. The chief tribe is that of the Pasargadae; to them belongs the clan of the Achaemenidae, the royal house of Persia."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἄλλοι δὲ Πέρσαι εἰσὶ οἵδε, Πανθιαλαῖοι Δηρουσιαῖοι Γερμάνιοι. οὗτοι μὲν πάντες ἀροτῆρες εἰσί, οἱ δὲ ἄλλοι νομάδες, Δάοι Μάρδοι Δροπικοὶ Σαγάρτιοι.",
+        "translations": [
+          "The other Persian tribes are the Panthialaei, the Derusiaei, and the Germanii, all tillers of the soil, and the Dai, the Mardi, the Dropici, the Sagartii, all wandering herdsmen."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

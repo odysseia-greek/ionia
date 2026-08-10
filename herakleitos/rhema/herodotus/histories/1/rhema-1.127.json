@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.127",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.127/",
+    "rhemai": [
+      {
+        "greek": "πέρσαι μέν νυν προστάτεω ἐπιλαβόμενοι ἄσμενοὶ ἐλευθεροῦντο, καὶ πάλαι δεινὸν ποιεύμενοι ὑπὸ Μήδων ἄρχεσθαι. Ἀστυάγης δὲ ὡς ἐπύθετο Κῦρον ταῦτα πρήσσοντα, πέμψας ἄγγελον ἐκάλεε αὐτόν.",
+        "translations": [
+          "The Persians had long been discontent that the Medes ruled them, and now having got a champion they were glad to win their freedom. But when Astyages heard that Cyrus was about this business, he sent a messenger to summon him;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὁ δὲ Κῦρος ἐκέλευε τὸν ἄγγελον ἀπαγγέλλειν ὅτι πρότερον ἥξοι παρʼ ἐκεῖνον ἢ Ἀστυάγης αὐτὸς βουλήσεται. ἀκούσας δὲ ταῦτα ὁ Ἀστυάγης Μήδους τε ὥπλισε πάντας, καὶ στρατηγὸν αὐτῶν ὥστε θεοβλαβὴς ἐὼν Ἅρπαγον ἀπέδεξε, λήθην ποιεύμενος τά μιν ἐόργεε.",
+        "translations": [
+          "Cyrus told the messenger to take back word that Astyages would see him sooner than he liked. Hearing this, Astyages armed all his Medes, and was distracted by Providence so that he forgot what he had done to Harpagus, and appointed him to command the army."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὡς δὲ οἱ Μῆδοι στρατευσάμενοι τοῖσι Πέρσῃσι συνέμισγον, οἳ μέν τινὲς αὐτῶν ἐμάχοντο, ὅσοι μὴ τοῦ λόγου μετέσχον, οἳ δὲ αὐτομόλεον πρὸς τοὺς Πέρσας, οἱ δὲ πλεῖστοι ἐθελοκάκεόν τε καὶ ἔφευγον.",
+        "translations": [
+          "So when the Medes marched out and engaged with the Persians, those who were not in on the plan fought, while others deserted to the enemy, and most were deliberate cowards and ran."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

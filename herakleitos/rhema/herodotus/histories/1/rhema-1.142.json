@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.142",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.142/",
+    "rhemai": [
+      {
+        "greek": "οἱ δὲ Ἴωνες οὗτοι, τῶν καὶ τὸ Πανιώνιον ἐστί, τοῦ μὲν οὐρανοῦ καὶ τῶν ὡρέων ἐν τῷ καλλίστῳ ἐτύγχανον ἱδρυσάμενοι πόλιας πάντων ἀνθρώπων τῶν ἡμεῖς ἴδμεν·",
+        "translations": [
+          "Now these Ionians possessed the Panionion, and of all men whom we know, they happened to found their cities in places with the loveliest of climate and seasons."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὔτε γὰρ τὰ ἄνω αὐτῆς χωρία τὠυτὸ ποιέει τῇ Ἰωνίῃ οὔτε τὰ κάτω οὔτε τὰ πρὸς τὴν ἠῶ οὔτε τὰ πρὸς τὴν ἑσπέρην, τὰ μὲν ὑπὸ τοῦ ψυχροῦ τε καὶ ὑγροῦ πιεζόμενα, τὰ δὲ ὑπὸ τοῦ θερμοῦ τε καὶ αὐχμώδεος.",
+        "translations": [
+          "For neither to the north of them nor to the south does the land effect the same thing as in Ionia [nor to the east nor to the west], affected here by the cold and wet, there by the heat and drought."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "γλῶσσαν δὲ οὐ τὴν αὐτὴν οὗτοι νενομίκασι, ἀλλὰ τρόπους τέσσερας παραγωγέων. Μίλητος μὲν αὐτέων πρώτη κέεται πόλις πρὸς μεσαμβρίην, μετὰ δὲ Μυοῦς τε καὶ Πριήνη.",
+        "translations": [
+          "They do not all have the same speech but four different dialects. Miletus lies farthest south among them, and next to it come Myus and Priene; these are settlements in Caria, and they have a common language; Ephesus, Colophon, Lebedos, Teos, Clazomenae, Phocaea, all of them in Lydia,"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "αὗται μὲν ἐν τῇ Καρίῃ κατοίκηνται κατὰ ταὐτὰ διαλεγόμεναι σφίσι, αἵδε δὲ ἐν τῇ Λυδίῃ, Ἔφεσος Κολοφὼν Λέβεδος Τέως Κλαζομεναὶ Φώκαια· αὗται δὲ αἱ πόλιες τῇσι πρότερον λεχθείσῃσι ὁμολογέουσι κατὰ γλῶσσαν οὐδέν, σφισι δὲ ὁμοφωνέουσι. ἔτι δὲ τρεῖς ὑπόλοιποι Ἰάδες πόλιες, τῶν αἱ δύο μὲν νήσους οἰκέαται, Σάμον τε καὶ Χίον, ἡ δὲ μία ἐν τῇ ἠπείρῳ ἵδρυται, Ἐρυθραί. Χῖοι μέν νυν καὶ Ἐρυθραῖοι κατὰ τὠυτὸ διαλέγονται, Σάμιοι δὲ ἐπʼ ἑωυτῶν μοῦνοι. οὗτοι χαρακτῆρες γλώσσης τέσσερες γίνονται.",
+        "translations": [
+          "have a language in common which is wholly different from the speech of the three former cities. There are yet three Ionian cities, two of them situated on the islands of Samos and Chios, and one, Erythrae, on the mainland; the Chians and Erythraeans speak alike, but the Samians have a language which is their own and no one else's. It is thus seen that there are four modes of speech."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

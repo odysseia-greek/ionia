@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.72",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.72/",
+    "rhemai": [
+      {
+        "greek": "οἱ δὲ Καππαδόκαι ὑπὸ Ἑλλήνων Σύριοι ὀνομάζονται· ἦσαν δὲ οἱ Σύριοι οὗτοι τὸ μὲν πρότερον ἢ Πέρσας ἄρξαι Μήδων κατήκοοι, τότε δὲ Κύρου.",
+        "translations": [
+          "Now the Cappadocians are called by the Greeks Syrians, and these Syrians before the Persian rule were subjects of the Medes, and, at this time, of Cyrus."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὁ γὰρ οὖρος ἦν τῆς τε Μηδικῆς ἀρχῆς καὶ τῆς Λυδικῆς ὁ Ἅλυς ποταμός, ὃς ῥέει ἐξ Ἀρμενίου ὄρεος διὰ Κιλίκων, μετὰ δὲ Ματιηνοὺς μὲν ἐν δεξιῇ ἔχει ῥέων, ἐκ δὲ τοῦ ἑτέρου Φρύγας· παραμειβόμενος δὲ τούτους καὶ ῥέων ἄνω πρὸς βορέην ἄνεμον ἔνθεν μὲν Συρίους Καππαδόκας ἀπέργει, ἐξ εὐωνύμου δὲ Παφλαγόνας.",
+        "translations": [
+          "For the boundary of the Median and Lydian empires was the river Halys, which flows from the Armenian mountains first through Cilicia and afterwards between the Matieni on the right and the Phrygians on the other hand; then, passing these and still flowing north, it separates the Cappadocian Syrians on the right from the Paphlagonians on the left."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οὕτω ὁ Ἅλυς ποταμὸς ἀποτάμνει σχεδὸν πάντα τῆς Ἀσίης τὰ κάτω ἐκ θαλάσσης τῆς ἀντίον Κύπρου ἐς τὸν Εὔξεινον πόντον. ἔστι δὲ αὐχὴν οὗτος τῆς χώρης ταύτης ἁπάσης· μῆκος ὁδοῦ εὐζώνῳ ἀνδρὶ πέντε ἡμέραι ἀναισιμοῦνται.",
+        "translations": [
+          "Thus the Halys river cuts off nearly the whole of the lower part of Asia from the Cyprian to the Euxine sea. Here is the narrowest neck of all this land; the length of the journey across for a man traveling unencumbered is five days."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

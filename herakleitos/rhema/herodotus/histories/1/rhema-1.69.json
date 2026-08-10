@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.69",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.69/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα δὴ ὦν πάντα πυνθανόμενος ὁ Κροῖσος ἔπεμπε ἐς Σπάρτην ἀγγέλους δῶρά τε φέροντας καὶ δεησομένους συμμαχίης, ἐντειλάμενός τε τὰ λέγειν χρῆν. οἳ δὲ ἐλθόντες ἔλεγον",
+        "translations": [
+          "Croesus, then, aware of all this, sent messengers to Sparta with gifts to ask for an alliance, having instructed them what to say. They came and said:"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἔπεμψε ἡμέας Κροῖσος ὁ Λυδῶν τε καὶ ἄλλων ἐθνέων βασιλεύς, λέγων τάδε. ὦ Λακεδαιμόνιοι, χρήσαντος τοῦ θεοῦ τὸν Ἕλληνα φίλον προσθέσθαι, ὑμέας γὰρ πυνθάνομαι προεστάναι τῆς Ἑλλάδος, ὑμέας ὦν κατὰ τὸ χρηστήριον προσκαλέομαι φίλος τε θέλων γενέσθαι καὶ σύμμαχος ἄνευ τε δόλου καὶ ἀπάτης.",
+        "translations": [
+          "“ Croesus, King of Lydia and other nations, has sent us with this message: ‘ Lacedaemonians, the god has declared that I should make the Greek my friend; now, therefore, since I learn that you are the leaders of Hellas, I invite you, as the oracle bids; I would like to be your friend and ally, without deceit or guile.’”"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Κροῖσος μὲν δὴ ταῦτα διʼ ἀγγέλων ἐπεκηρυκεύετο, Λακεδαιμόνιοι δὲ ἀκηκοότες καὶ αὐτοὶ τὸ θεοπρόπιον τὸ Κροίσῳ γενόμενον ἥσθησάν τε τῇ ἀπίξι τῶν Λυδῶν καὶ ἐποιήσαντο ὅρκια ξεινίης πέρι καὶ συμμαχίης· καὶ γὰρ τινὲς αὐτοὺς εὐεργεσίαι εἶχον ἐκ Κροίσου πρότερον ἔτι γεγονυῖαι.",
+        "translations": [
+          "Croesus proposed this through his messengers; and the Lacedaemonians, who had already heard of the oracle given to Croesus, welcomed the coming of the Lydians and swore to be his friends and allies; and indeed they were obliged by certain benefits which they had received before from the king."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "πέμψαντες γὰρ οἱ Λακεδαιμόνιοι ἐς Σάρδις χρυσὸν ὠνέοντο, ἐς ἄγαλμα βουλόμενοι χρήσασθαι τοῦτο τὸ νῦν τῆς Λακωνικῆς ἐν Θόρνακι ἵδρυται Ἀπόλλωνος· Κροῖσος δέ σφι ὠνεομένοισι ἔδωκε δωτίνην.",
+        "translations": [
+          "For the Lacedaemonians had sent to Sardis to buy gold, intending to use it for the statue of Apollo which now stands on Thornax in Laconia; and Croesus, when they offered to buy it, made them a free gift of it."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

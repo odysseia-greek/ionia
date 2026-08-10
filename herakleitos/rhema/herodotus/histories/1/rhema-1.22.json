@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.22",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.22/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα δὲ ἐποίεέ τε καὶ προηγόρευε Θρασύβουλος τῶνδε εἵνεκεν, ὅκως ἂν δὴ ὁ κῆρυξ ὁ Σαρδιηνὸς ἰδών τε σωρὸν μέγαν σίτου κεχυμένον καὶ τοὺς ἀνθρώπους ἐν εὐπαθείῃσι ἐόντας ἀγγείλῃ Ἀλυάττῃ·",
+        "translations": [
+          "Thrasybulus did this so that when the herald from Sardis saw a great heap of food piled up, and the citizens celebrating, he would bring word of it to Alyattes:"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τὰ δὴ καὶ ἐγένετο. ὡς γὰρ δὴ ἰδών τε ἐκεῖνα ὁ κῆρυξ καὶ εἶπας πρὸς Θρασύβουλον τοῦ Λυδοῦ τὰς ἐντολὰς ἀπῆλθε ἐς τὰς Σάρδις, ὡς ἐγὼ πυνθάνομαι, διʼ οὐδὲν ἄλλο ἐγένετο ἡ διαλλαγή.",
+        "translations": [
+          "and so it happened. The herald saw all this, gave Thrasybulus the message he had been instructed by the Lydian to deliver, and returned to Sardis; and this, as I learn, was the sole reason for the reconciliation."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐλπίζων γὰρ ὁ Ἀλυάττης σιτοδείην τε εἶναι ἰσχυρὴν ἐν τῇ Μιλήτῳ καὶ τὸν λεὼν τετρῦσθαι ἐς τὸ ἔσχατον κακοῦ, ἤκουε τοῦ κήρυκος νοστήσαντος ἐκ τῆς Μιλήτου τοὺς ἐναντίους λόγους ἢ ὡς αὐτὸς κατεδόκεε.",
+        "translations": [
+          "For Alyattes had supposed that there was great scarcity in Miletus and that the people were reduced to the last extremity of misery; but now on his herald's return from the town he heard an account contrary to his expectations;"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "μετὰ δὲ ἥ τε διαλλαγή σφι ἐγένετο ἐπʼ ᾧ τε ξείνους ἀλλήλοισι εἶναι καὶ συμμάχους, καὶ δύο τε ἀντὶ ἑνὸς νηοὺς τῇ Ἀθηναίῃ οἰκοδόμησε ὁ Ἀλυάττης ἐν τῇ Ἀσσησῷ, αὐτός τε ἐκ τῆς νούσου ἀνέστη. κατὰ μέν τὸν πρὸς Μιλησίους τε καὶ Θρασύβουλον πόλεμον Ἀλυάττῃ ὧδε ἔσχε.",
+        "translations": [
+          "so presently the Lydians and Milesians ended the war and agreed to be friends and allies, and Alyattes built not one but two temples of Athena at Assesos, and recovered from his illness. That is the story of Alyattes ' war against Thrasybulus and the Milesians."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

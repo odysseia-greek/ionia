@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.90",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.90/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα ἀκούων ὁ Κῦρος ὑπερήδετο, ὥς οἱ ἐδόκεε εὖ ὑποτίθεσθαι· αἰνέσας δὲ πολλά, καὶ ἐντειλάμενος τοῖσι δορυφόροισι τὰ Κροῖσος ὑπεθήκατο ἐπιτελέειν, εἶπε πρὸς Κροῖσον τάδε. Κροῖσε, ἀναρτημένου σεῦ ἀνδρὸς βασιλέος χρηστὰ ἔργα καὶ ἔπεα ποιέειν, αἰτέο δόσιν ἥντινα βούλεαί τοι γενέσθαι παραυτίκα.",
+        "translations": [
+          "When Cyrus heard this, he was exceedingly pleased, for he believed the advice good; and praising him greatly, and telling his guard to act as Croesus had advised, he said: “ Croesus, now that you, a king, are determined to act and to speak with integrity, ask me directly for whatever favor you like.”"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὁ δὲ εἶπε ὦ δέσποτα, ἐάσας με χαριεῖ μάλιστα τὸν θεὸν τῶν Ἑλλήνων, τὸν ἐγὼ ἐτίμησα θεῶν μάλιστα, ἐπειρέσθαι πέμψαντα τάσδε τὰς πέδας, εἰ ἐξαπατᾶν τοὺς εὖ ποιεῦντας νόμος ἐστί οἱ. Κῦρος δὲ εἴρετο ὅ τι οἱ τοῦτο ἐπηγορέων παραιτέοιτο.",
+        "translations": [
+          "“Master,” said Croesus, “you will most gratify me if you will let me send these chains of mine to that god of the Greeks whom I especially honored and to ask him if it is his way to deceive those who serve him well.” When Cyrus asked him what grudge against the god led him to make this request,"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Κροῖσος δέ οἱ ἐπαλιλλόγησε πᾶσαν τὴν ἑωυτοῦ διάνοιαν καὶ τῶν χρηστηρίων τὰς ὑποκρίσιας καὶ μάλιστα τὰ ἀναθήματα, καὶ ὡς ἐπαερθεὶς τῷ μαντηίῳ ἐστρατεύσατο ἐπὶ Πέρσας· λέγων δὲ ταῦτα κατέβαινε αὖτις παραιτεόμενος ἐπεῖναί οἱ τῷ θεῷ τοῦτο ὀνειδίσαι. Κῦρος δὲ γελάσας εἶπε καὶ τούτου τεύξεαι παρʼ ἐμεῦ, Κροῖσε, καὶ ἄλλου παντὸς τοῦ ἂν ἑκάστοτε δέῃ.",
+        "translations": [
+          "Croesus repeated to him the story of all his own aspirations, and the answers of the oracles, and more particularly his offerings, and how the oracle had encouraged him to attack the Persians; and so saying he once more insistently pled that he be allowed to reproach the god for this. At this Cyrus smiled, and replied, “This I will grant you, Croesus, and whatever other favor you may ever ask me.”"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ὡς δὲ ταῦτα ἤκουσε ὁ Κροῖσος, πέμπων τῶν Λυδῶν ἐς Δελφοὺς ἐνετέλλετο τιθέντας τὰς πέδας ἐπὶ τοῦ νηοῦ τὸν οὐδὸν εἰρωτᾶν εἰ οὔ τι ἐπαισχύνεται τοῖσι μαντηίοισι ἐπαείρας Κροῖσον στρατεύεσθαι ἐπὶ Πέρσας ὡς καταπαύσοντα τὴν Κύρου δύναμιν, ἀπʼ ἧς οἱ ἀκροθίνια τοιαῦτα γενέσθαι, δεικνύντας τὰς πέδας· ταῦτά τε ἐπειρωτᾶν, καὶ εἰ ἀχαρίστοισι νόμος εἶναι τοῖσι Ἑλληνικοῖσι θεοῖσι.",
+        "translations": [
+          "When Croesus heard this, he sent Lydians to Delphi, telling them to lay his chains on the doorstep of the temple, and to ask the god if he were not ashamed to have persuaded Croesus to attack the Persians, telling him that he would destroy Cyrus ' power; of which power (they were to say, showing the chains) these were the first-fruits. They should ask this; and further, if it were the way of the Greek gods to be ungrateful."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

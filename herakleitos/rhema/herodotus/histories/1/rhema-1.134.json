@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.134",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.134/",
+    "rhemai": [
+      {
+        "greek": "ἐντυγχάνοντες δʼ ἀλλήλοισι ἐν τῇσι ὁδοῖσι, τῷδε ἄν τις διαγνοίη εἰ ὅμοιοί εἰσὶ οἱ συντυγχάνοντες· ἀντὶ γὰρ τοῦ προσαγορεύειν ἀλλήλους φιλέουσι τοῖσι στόμασι· ἢν δὲ ᾖ οὕτερος ὑποδεέστερος ὀλίγῳ, τὰς παρειὰς φιλέονται· ἢν δὲ πολλῷ ᾖ οὕτερος ἀγεννέστερος, προσπίπτων προσκυνέει τὸν ἕτερον.",
+        "translations": [
+          "When one man meets another on the road, it is easy to see if the two are equals; for, if they are, they kiss each other on the lips without speaking; if the difference in rank is small, the cheek is kissed; if it is great, the humbler bows and does obeisance to the other."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τιμῶσι δὲ ἐκ πάντων τοὺς ἄγχιστα ἑωυτῶν οἰκέοντας μετά γε ἑωυτούς, δευτέρα δὲ τοὺς δευτέρους· μετὰ δὲ κατὰ λόγον προβαίνοντες τιμῶσι· ἥκιστα δὲ τοὺς ἑωυτῶν ἑκαστάτω οἰκημένους ἐν τιμῇ ἄγονται, νομίζοντες ἑωυτοὺς εἶναι ἀνθρώπων μακρῷ τὰ πάντα ἀρίστους, τοὺς δὲ ἄλλους κατὰ λόγον τῆς ἀρετῆς ἀντέχεσθαι, τοὺς δὲ ἑκαστάτω οἰκέοντας ἀπὸ ἑωυτῶν κακίστους εἶναι.",
+        "translations": [
+          "They honor most of all those who live nearest them, next those who are next nearest, and so going ever onwards they assign honor by this rule: those who dwell farthest off they hold least honorable of all; for they think that they are themselves in all regards by far the best of all men, that the rest have only a proportionate claim to merit, until those who live farthest away have least merit of all."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐπὶ δὲ Μήδων ἀρχὸν τῶν καὶ ἦρχε τὰ ἔθνεα ἀλλήλων, συναπάντων μὲν Μῆδοι καὶ τῶν ἄγχιστα οἰκεόντων σφίσι, οὗτοι δὲ καὶ τῶν ὁμούρων, οἳ δὲ μάλα τῶν ἐχομένων, κατὰ τὸν αὐτὸν δὴ λόγον καὶ οἱ Πέρσαι τιμῶσι· προέβαινε γὰρ δὴ τὸ ἔθνος ἄρχον τε καὶ ἐπιτροπεῦον.",
+        "translations": [
+          "Under the rule of the Medes, one tribe would even govern another; the Medes held sway over all alike and especially over those who lived nearest to them; these ruled their neighbors, and the neighbors in turn those who came next to them, on the same scheme by which the Persians assign honor; for the nation kept advancing its rule and dominion."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.61",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.61/",
+    "rhemai": [
+      {
+        "greek": "ἀπολαβὼν δὲ τὴν τυραννίδα τρόπῳ τῷ εἰρημένῳ ὁ Πεισίστρατος κατὰ τὴν ὁμολογίην τὴν πρὸς Μεγακλέα γενομένην γαμέει τοῦ Μεγακλέος τὴν θυγατέρα. οἷα δὲ παίδων τέ οἱ ὑπαρχόντων νεηνιέων καὶ λεγομένων ἐναγέων εἶναι τῶν Ἀλκμεωνιδέων, οὐ βουλόμενός οἱ γενέσθαι ἐκ τῆς νεογάμου γυναικὸς τέκνα ἐμίσγετό οἱ οὐ κατὰ νόμον.",
+        "translations": [
+          "Having got back his sovereignty in the manner which I have described, Pisistratus married Megacles ' daughter according to his agreement with Megacles. But as he already had young sons, and as the Alcmeonid family were said to be under a curse, he had no wish that his newly-wedded wife bear him children, and therefore had unusual intercourse with her."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τὰ μέν νυν πρῶτα ἔκρυπτε ταῦτα ἡ γυνή, μετὰ δὲ εἴτε ἱστορεύσῃ εἴτε καὶ οὒ φράζει τῇ ἑωυτῆς μητρί, ἣ δὲ τῷ ἀνδρί. ὀργῇ δὲ ὡς εἶχε καταλλάσσετο τὴν ἔχθρην τοῖσι στασιώτῃσι. μαθὼν δὲ ὁ Πεισίστρατος τὰ ποιεύμενα ἐπʼ ἑωυτῷ ἀπαλλάσσετο ἐκ τῆς χώρης τὸ παράπαν, ἀπικόμενος δὲ ἐς Ἐρέτριαν ἐβουλεύετο ἅμα τοῖσι παισί.",
+        "translations": [
+          "At first the woman hid the fact: presently she told her mother (whether interrogated or not, I do not know) and the mother told her husband. Megacles was very angry to be dishonored by Pisistratus; and in his anger he patched up his quarrel with the other faction. Pisistratus, learning what was going on, went alone away from the country altogether, and came to Eretria where he deliberated with his sons."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Ἱππίεω δὲ γνώμῃ νικήσαντος ἀνακτᾶσθαι ὀπίσω τὴν τυραννίδα, ἐνθαῦτα ἤγειρον δωτίνας ἐκ τῶν πολίων αἵτινές σφι προαιδέοντό κού τι. πολλῶν δὲ μεγάλα παρασχόντων χρήματα, Θηβαῖοι ὑπερεβάλοντο τῇ δόσι τῶν χρημάτων.",
+        "translations": [
+          "The opinion of Hippias prevailing, that they should recover the sovereignty, they set out collecting contributions from all the cities that owed them anything. Many of these gave great amounts, the Thebans more than any,"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "μετὰ δέ, οὐ πολλῷ λόγῳ εἰπεῖν, χρόνος διέφυ καὶ πάντα σφι ἐξήρτυτο ἐς τὴν κάτοδον· καὶ γὰρ Ἀργεῖοι μισθωτοὶ ἀπίκοντο ἐκ Πελοποννήσου, καὶ Νάξιός σφι ἀνὴρ ἀπιγμένος ἐθελοντής, τῷ οὔνομα ἦν Λύγδαμις, προθυμίην πλείστην παρείχετο, κομίσας καὶ χρήματα καὶ ἄνδρας.",
+        "translations": [
+          "and in course of time, not to make a long story, everything was ready for their return: for they brought Argive mercenaries from the Peloponnese, and there joined them on his own initiative a man of Naxos called Lygdamis, who was most keen in their cause and brought them money and men."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

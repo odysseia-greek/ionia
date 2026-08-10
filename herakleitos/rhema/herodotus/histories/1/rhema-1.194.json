@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.194",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.194/",
+    "rhemai": [
+      {
+        "greek": "τὸ δὲ ἁπάντων θῶμα μέγιστόν μοι ἐστὶ τῶν ταύτῃ μετά γε αὐτὴν τὴν πόλιν, ἔρχομαι φράσων· τὰ πλοῖα αὐτοῖσι ἐστὶ τὰ κατὰ τὸν ποταμὸν πορευόμενα ἐς τὴν Βαβυλῶνα, ἐόντα κυκλοτερέα, πάντα σκύτινα.",
+        "translations": [
+          "I am going to indicate what seems to me to be the most marvellous thing in the country, next to the city itself. Their boats which ply the river and go to Babylon are all of skins, and round."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐπεὰν γὰρ ἐν τοῖσι Ἀρμενίοισι τοῖσι κατύπερθε Ἀσσυρίων οἰκημένοισι νομέας ἰτέης ταμόμενοι ποιήσωνται, περιτείνουσι τούτοισι διφθέρας στεγαστρίδας ἔξωθεν ἐδάφεος τρόπον, οὔτε πρύμνην ἀποκρίνοντες οὔτε πρῴρην συνάγοντες, ἀλλʼ ἀσπίδος τρόπον κυκλοτερέα ποιήσαντες καὶ καλάμης πλήσαντες πᾶν τὸ πλοῖον τοῦτο ἀπιεῖσι κατὰ τὸν ποταμὸν φέρεσθαι, φορτίων πλήσαντες· μάλιστα δὲ βίκους φοινικηίους κατάγουσι οἴνου πλέους.",
+        "translations": [
+          "They make these in Armenia, higher up the stream than Assyria. First they cut frames of willow, then they stretch hides over these for a covering, making as it were a hold; they neither broaden the stern nor narrow the prow, but the boat is round, like a shield. They then fill it with reeds and send it floating down the river with a cargo; and it is for the most part palm wood casks of wine that they carry down."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἰθύνεται δὲ ὑπό τε δύο πλήκτρων καὶ δύο ἀνδρῶν ὀρθῶν ἑστεώτων, καὶ ὃ μὲν ἔσω ἕλκει τὸ πλῆκτρον ὁ δὲ ἔξω ὠθέει. ποιέεται δὲ καὶ κάρτα μεγάλα ταῦτα τὰ πλοῖα καὶ ἐλάσσω· τὰ δὲ μέγιστα αὐτῶν καὶ πεντακισχιλίων ταλάντων γόμον ἔχει. ἐν ἑκάστῳ δὲ πλοίῳ ὄνος ζωὸς ἔνεστι, ἐν δὲ τοῖσι μέζοσι πλεῦνες.",
+        "translations": [
+          "Two men standing upright steer the boat, each with a paddle, one drawing it to him, the other thrusting it from him. These boats are of all sizes, some small, some very large; the largest of them are of as much as five thousand talents burden. There is a live ass in each boat, or more than one in the larger."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἐπεὰν ὦν ἀπίκωνται πλέοντες ἐς τὴν Βαβυλῶνα καὶ διαθέωνται τὸν φόρτον, νομέας μὲν τοῦ πλοίου καὶ τὴν καλάμην πᾶσαν ἀπʼ ὦν ἐκήρυξαν, τὰς δὲ διφθέρας ἐπισάξαντες ἐπὶ τοὺς ὄνους ἀπελαύνουσι ἐς τοὺς Ἀρμενίους.",
+        "translations": [
+          "So when they have floated down to Babylon and disposed of their cargo, they sell the framework of the boat and all the reeds; the hides are set on the backs of asses, which are then driven back to Armenia,"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἀνὰ τὸν ποταμὸν γὰρ δὴ οὐκ οἷά τε ἐστὶ πλέειν οὐδενὶ τρόπῳ ὑπὸ τάχεος τοῦ ποταμοῦ· διὰ γὰρ ταῦτα καὶ οὐκ ἐκ ξύλων ποιεῦνται τὰ πλοῖα ἀλλʼ ἐκ διφθερέων. ἐπεὰν δὲ τοὺς ὄνους ἐλαύνοντες ἀπίκωνται ὀπίσω ἐς τοὺς Ἀρμενίους, ἄλλα τρόπῳ τῷ αὐτῷ ποιεῦνται πλοῖα.",
+        "translations": [
+          "for it is not by any means possible to go upstream by water, because of the swiftness of the current; it is for this reason that they make their boats of hides and not of wood. When they have driven their asses back into Armenia, they make more boats in the same way."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

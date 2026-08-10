@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.42",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.42/",
+    "rhemai": [
+      {
+        "greek": "ἀμείβεται ὁ Ἄδρηστος ὦ βασιλεῦ, ἄλλως μὲν ἔγωγε ἂν οὐκ ἤια ἐς ἄεθλον τοιόνδε· οὔτε γὰρ συμφορῇ τοιῇδε κεχρημένον οἰκός ἐστι ἐς ὁμήλικας εὖ πρήσσοντας ἰέναι, οὔτε τὸ βούλεσθαι πάρα, πολλαχῇ τε ἂν ἶσχον ἐμεωυτόν.",
+        "translations": [
+          "“O King,” Adrastus answered, “I would not otherwise have gone into such an arena. One so unfortunate as I should not associate with the prosperous among his peers; nor have I the wish so to do, and for many reasons I would have held back."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "νῦν δέ, ἐπείτε σὺ σπεύδεις καὶ δεῖ τοί χαρίζεσθαι, ὀφείλω γάρ σε ἀμείβεσθαι χρηστοῖσἰ, ποιέειν εἰμὶ ἕτοιμος ταῦτα, παῖδα τε σόν, τὸν διακελεύεαι φυλάσσειν, ἀπήμονα τοῦ φυλάσσοντος εἵνεκεν προσδόκα τοι ἀπονοστήσειν.",
+        "translations": [
+          "But now, since you urge it and I must please you (since I owe you a return of good service), I am ready to do this; and as for your son, in so far as I can protect him, look for him to come back unharmed.”"
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

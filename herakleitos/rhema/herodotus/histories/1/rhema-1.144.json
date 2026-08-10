@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.144",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.144/",
+    "rhemai": [
+      {
+        "greek": "κατά περ οἱ ἐκ τῆς πενταπόλιος νῦν χώρης Δωριέες, πρότερον δὲ ἑξαπόλιος τῆς αὐτῆς ταύτης καλεομένης, φυλάσσονται ὦν μηδαμοὺς ἐσδέξασθαι τῶν προσοίκων Δωριέων ἐς τὸ Τριοπικὸν ἱρόν, ἀλλὰ καὶ σφέων αὐτῶν τοὺς περὶ τὸ ἱρόν ἀνομήσαντας ἐξεκλήισαν τῆς μετοχῆς,",
+        "translations": [
+          "just as the Dorians of what is now the country of the “ Five Cities ”—formerly the country of the “ Six Cities ”—forbid admitting any of the neighboring Dorians to the Triopian temple, and even barred from using it those of their own group who had broken the temple law."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐν γὰρ τῷ ἀγῶνι τοῦ Τριοπίου Ἀπόλλωνος ἐτίθεσαν τὸ πάλαι τρίποδας χαλκέους τοῖσι νικῶσι, καὶ τούτους χρῆν τοὺς λαμβάνοντας ἐκ τοῦ ἱροῦ μὴ ἐκφέρειν ἀλλʼ αὐτοῦ ἀνατιθέναι τῷ θεῷ.",
+        "translations": [
+          "For long ago, in the games in honor of Triopian Apollo, they offered certain bronze tripods to the victors; and those who won these were not to carry them away from the temple but dedicate them there to the god."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἀνὴρ ὦν Ἁλικαρνησσεύς, τῷ οὔνομα ἦν Ἀγασικλέης, νικήσας τὸν νόμον κατηλόγησε, φέρων δὲ πρὸς τὰ ἑωυτοῦ οἰκία προσεπασσάλευσε τὸν τρίποδα. διὰ ταύτην τὴν αἰτίην αἱ πέντε πόλιες, Λίνδος καὶ Ἰήλυσός τε καὶ Κάμειρος καὶ Κῶς τε καὶ Κνίδος ἐξεκλήισαν τῆς μετοχῆς τὴν ἕκτην πόλιν Ἁλικαρνησσόν. τούτοισι μέν νυν οὗτοι ταύτην τὴν ζημίην ἐπέθηκαν.",
+        "translations": [
+          "Now when a man of Halicarnassus called Agasicles won, he disregarded this law, and, carrying the tripod away, nailed it to the wall of his own house. For this offense the five cities— Lindus, Ialysus, Camirus, Cos, and Cnidus —forbade the sixth city— Halicarnassus —to share in the use of the temple. Such was the penalty imposed on the Halicarnassians."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

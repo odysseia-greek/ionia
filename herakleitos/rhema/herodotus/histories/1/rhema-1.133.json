@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.133",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.133/",
+    "rhemai": [
+      {
+        "greek": "ἡμέρην δὲ ἁπασέων μάλιστα ἐκείνην τιμᾶν νομίζουσι τῇ ἕκαστος ἐγένετο. ἐν ταύτῃ δὲ πλέω δαῖτα τῶν ἀλλέων δικαιεῦσι προτίθεσθαι· ἐν τῇ οἱ εὐδαίμονες αὐτῶν βοῦν καὶ ἵππον καὶ κάμηλον καὶ ὄνον προτιθέαται ὅλους ὀπτοὺς ἐν καμίνοισι, οἱ δὲ πένητες αὐτῶν τὰ λεπτὰ τῶν προβάτων προτιθέαται.",
+        "translations": [
+          "The day which every man values most is his own birthday. On this day, he thinks it right to serve a more abundant meal than on other days: oxen or horses or camels or asses, roasted whole in ovens, are set before the rich; the poorer serve the lesser kinds of cattle."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "σίτοισι δὲ ὀλίγοισι χρέωνται, ἐπιφορήμασι δὲ πολλοῖσι καὶ οὐκ ἁλέσι· καὶ διὰ τοῦτο φασὶ Πέρσαι τοὺς Ἕλληνας σιτεομένους πεινῶντας παύεσθαι, ὅτι σφι ἀπὸ δείπνου παραφορέεται οὐδὲν λόγου ἄξιον· εἰ δέ τι παραφέροιτο, ἐσθίοντας ἂν οὐ παύεσθαι.",
+        "translations": [
+          "Their courses are few, the dainties that follow many, and not all served together. This is why the Persians say of Greeks that they rise from table still hungry, because not much dessert is set before them: were this too given to Greeks (the Persians say) they would never stop eating."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οἴνῳ δὲ κάρτα προσκέαται, καί σφι οὐκ ἐμέσαι ἔξεστι, οὐκὶ οὐρῆσαι ἀντίον ἄλλου. ταῦτα μέν νυν οὕτω φυλάσσεται, μεθυσκόμενοι δὲ ἐώθασι βουλεύεσθαι τὰ σπουδαιέστατα τῶν πρηγμάτων·",
+        "translations": [
+          "They are very partial to wine. No one may vomit or urinate in another's presence: this is prohibited among them. Moreover, it is their custom to deliberate about the gravest matters when they are drunk;"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τὸ δʼ ἂν ἅδῃ σφι βουλευομένοισι, τοῦτο τῇ ὑστεραίῃ νήφουσι προτιθεῖ ὁ στέγαρχος, ἐν τοῦ ἂν ἐόντες βουλεύωνται, καὶ ἢν μὲν ἅδῃ καὶ νήφουσι, χρέωνται αὐτῷ, ἢν δὲμὴ ἅδῃ, μετιεῖσι. τὰ δʼ ἂν νήφοντες προβουλεύσωνται, μεθυσκόμενοι ἐπιδιαγινώσκουσι.",
+        "translations": [
+          "and what they approve in their deliberations is proposed to them the next day, when they are sober, by the master of the house where they deliberate; and if, being sober, they still approve it, they act on it, but if not, they drop it. And if they have deliberated about a matter when sober, they decide upon it when they are drunk."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

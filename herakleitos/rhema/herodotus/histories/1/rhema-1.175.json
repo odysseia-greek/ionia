@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.175",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.175/",
+    "rhemai": [
+      {
+        "greek": "ἦσαν δὲ Πηδασέες οἰκέοντες ὑπὲρ Ἁλικαρνησσοῦ μεσόγαιαν· τοῖσι ὅκως τι μέλλοι ἀνεπιτήδεον ἔσεσθαι, αὐτοῖσί τε καὶ τοῖσι περιοίκοισι, ἡ ἱρείη τῆς Ἀθηναίης πώγωνα μέγαν ἴσχε. τρὶς σφι τοῦτο ἐγένετο. οὗτοι τῶν περὶ Καρίην ἀνδρῶν μοῦνοί τε ἀντέσχον χρόνον Ἁρπάγῳ καὶ πρήγματα παρέσχον πλεῖστα, ὄρος τειχίσαντες τῷ οὔνομα ἐστὶ Λίδη.",
+        "translations": [
+          "There were Pedaseans dwelling inland above Halicarnassus; when any misfortune was approaching them or their neighbors, the priestess of Athena grew a long beard. This had happened to them thrice. These were the only men near Caria who held out for long against Harpagus, and they gave him the most trouble; they fortified a hill called Lide."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

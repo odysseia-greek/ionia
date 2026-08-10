@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.107",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.107/",
+    "rhemai": [
+      {
+        "greek": "μετὰ δὲ ταῦτα Κυαξάρης μέν, βασιλεύσας τεσσεράκοντα ἔτεα σὺν τοῖσι Σκύθαι ἦρξαν, τελευτᾷ, ἐκδέκεται δὲ Ἀστυάγης Κυαξάρεω παῖς τὴν βασιληίην. Καὶ οἱ ἐγένετο θυγάτηρ τῇ οὔνομα ἔθετο Μανδάνην· τὴν ἐδόκεε Ἀστυάγης ἐν τῷ ὕπνῳ οὐρῆσαι τοσοῦτον ὥστε πλῆσαι μὲν τὴν ἑωυτοῦ πόλιν, ἐπικατακλύσαι δὲ καὶ τὴν Ἀσίην πᾶσαν. ὑπερθέμενος δὲ τῶν Μάγων τοῖσι ὀνειροπόλοισι τὸ ἐνύπνιον, ἐφοβήθη παρʼ αὐτῶν αὐτὰ ἕκαστα μαθών.",
+        "translations": [
+          "Afterwards, Cyaxares died after a reign of forty years (among which I count the years of the Scythian domination) and his son Astyages inherited the sovereignty. Astyages had a daughter, whom he called Mandane: he dreamed that she urinated so much that she filled his city and flooded all of Asia. He communicated this vision to those of the Magi who interpreted dreams, and when he heard what they told him he was terrified;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "μετὰ δὲ τὴν Μανδάνην ταύτην ἐοῦσαν ἤδη ἀνδρὸς ὡραίην Μήδων μὲν τῶν ἑωυτοῦ ἀξίων οὐδενὶ διδοῖ γυναῖκα, δεδοικὼς τὴν ὄψιν· ὁ δὲ Πέρσῃ διδοῖ τῷ οὔνομα ἦν Καμβύσης, τὸν εὕρισκε οἰκίης μὲν ἐόντα ἀγαθῆς τρόπου δὲ ἡσυχίου, πολλῷ ἔνερθε ἄγων αὐτὸν μέσου ἀνδρὸς Μήδου.",
+        "translations": [
+          "and presently, when Mandane was of marriageable age, he feared the vision too much to give her to any Mede worthy to marry into his family, but married her to a Persian called Cambyses, a man whom he knew to be wellborn and of a quiet temper: for Astyages held Cambyses to be much lower than a Mede of middle rank."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

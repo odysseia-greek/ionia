@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.44",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.44/",
+    "rhemai": [
+      {
+        "greek": "ὁ δὲ Κροῖσος τῳ θανάτῳ τοῦ παιδὸς συντεταραγμένος μᾶλλον τι ἐδεινολογέετο ὅτι μιν ἀπέκτεινε τὸν αὐτὸς φόνου ἐκάθηρε·",
+        "translations": [
+          "Distraught by the death of his son, Croesus cried out the more vehemently because the killer was one whom he himself had cleansed of blood,"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "περιημεκτέων δὲ τῇ συμφορῇ δεινῶς ἐκάλεε μὲν Δία καθάρσιον μαρτυρόμενος τὰ ὑπὸ τοῦ ξείνου πεπονθὼς εἴη ἐκάλεε δὲ ἐπίστιόν τε καὶ ἑταιρήιον, τὸν αὐτὸν τοῦτον ὀνομάζων θεόν, τὸν μὲν ἐπίστιον καλέων, διότι δὴ οἰκίοισι ὑποδεξάμενος τὸν ξεῖνον φονέα τοῦ παιδὸς ἐλάνθανε βόσκων, τὸν δὲ ἑταιρήιον, ὡς φύλακα συμπέμψας αὐτὸν εὑρήκοι πολεμιώτατον.",
+        "translations": [
+          "and in his great and terrible grief at this mischance he called on Zeus by three names— Zeus the Purifier, Zeus of the Hearth, Zeus of Comrades: the first, because he wanted the god to know what evil his guest had done him; the second, because he had received the guest into his house and thus unwittingly entertained the murderer of his son; and the third, because he had found his worst enemy in the man whom he had sent as a protector."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

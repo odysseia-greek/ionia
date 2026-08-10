@@ -1,0 +1,64 @@
+type Health {
+  healthy: Boolean!
+  time: String!
+  version: String!
+}
+
+type Passage {
+  greek: String!
+  translations: [String!]!
+  section: String!
+}
+
+type Text {
+  author: String!
+  book: String!
+  type: String!
+  reference: String!
+  perseusTextLink: String!
+  passages: [Passage!]!
+}
+
+input TextInput {
+  author: String!
+  book: String!
+  reference: String
+  section: String
+}
+
+type ReadingSession {
+  id: ID!
+  userId: String!
+  author: String!
+  book: String!
+  reference: String!
+  section: String!
+  createdAt: String!
+}
+
+# Opaque form payload while the learning-form design is still evolving.
+type Form {
+  id: ID!
+  blob: String!
+}
+
+input StartReadingInput {
+  userId: String!
+  author: String!
+  book: String!
+  reference: String
+  section: String
+}
+
+type Query {
+  health: Health!
+  corpusHealth: Health!
+  forms(size: Int = 20): [Form!]!
+  form(id: ID!): Form!
+  text(input: TextInput!): Text!
+  reading(id: ID!): ReadingSession!
+}
+
+type Mutation {
+  startReading(input: StartReadingInput!): ReadingSession!
+}

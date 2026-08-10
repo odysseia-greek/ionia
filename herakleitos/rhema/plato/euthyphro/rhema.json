@@ -1,0 +1,167 @@
+[
+  {
+    "author":"Plato",
+    "book":"Euthyphro",
+    "type":"dialogue",
+    "reference":"2",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg001.perseus-grc1:2?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"ΕΥΘ. τί νεώτερον, ὦ Σώκρατες, γέγονεν, ὅτι σὺ τὰς ἐν Λυκείῳ καταλιπὼν διατριβὰς ἐνθάδε νῦν διατρίβεις περὶ τὴν τοῦ βασιλέως στοάν; οὐ γάρ που καὶ σοί γε δίκη τις οὖσα τυγχάνει πρὸς τὸν βασιλέα ὥσπερ ἐμοί.",
+        "translations":[
+          "Euthyphro. What strange thing has happened, Socrates, that you have left your accustomed haunts in the Lyceum and are now haunting the portico where the king archon sits? For it cannot be that you have an action before the king, as I have."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"ΣΩ. οὔτοι δὴ Ἀθηναῖοί γε, ὦ Εὐθύφρων, δίκην αὐτὴν καλοῦσιν ἀλλὰ γραφήν.",
+        "translations":[
+          "Socrates. Our Athenians, Euthyphro, do not call it an action, but an indictment."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"ΕΥΘ. τί φῄς; γραφὴν σέ τις, ὡς ἔοικε, γέγραπται· οὐ γὰρ ἐκεῖνό γε καταγνώσομαι, ὡς σὺ ἕτερον",
+        "translations":[
+          "Euthyphro. What? Somebody has, it seems, brought an indictment against you; for I don’t accuse you of having brought one against anyone else."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"ΣΩ. οὐ γὰρ οὖν.",
+        "translations":[
+          "Socrates. Certainly not."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"ΕΥΘ. ἀλλὰ σὲ ἄλλος;",
+        "translations":[
+          "Euthyphro. But someone else against you?"
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"ΣΩ. πάνυ γε.",
+        "translations":[
+          "Socrates. Quite so."
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"ΕΥΘ. τίς οὗτος;",
+        "translations":[
+          "Euthyphro. Who is he?"
+        ],
+        "section":"7"
+      },
+      {
+        "greek":"ΣΩ. οὐδʼ αὐτὸς πάνυ τι γιγνώσκω, ὦ Εὐθύφρων, τὸν ἄνδρα, νέος γάρ τίς μοι φαίνεται καὶ ἀγνώς· ὀνομάζουσι μέντοι αὐτόν, ὡς ἐγᾦμαι, Μέλητον. ἔστι δὲ τῶν δήμων Πιτθεύς, εἴ τινα νῷ ἔχεις Πιτθέα Μέλητον οἷον τετανότριχα καὶ οὐ πάνυ εὐγένειον, ἐπίγρυπον δέ.",
+        "translations":[
+          "Socrates. I don’t know the man very well myself, Euthyphro, for he seems to be a young and unknown person. His name, however, is Meletus, I believe. And he is of the deme of Pitthus, if you remember any Pitthian Meletus, with long hair and only a little beard, but with a hooked nose."
+        ],
+        "section":"8"
+      },
+      {
+        "greek":"ΕΥΘ. οὐκ ἐννοῶ, ὦ Σώκρατες· ἀλλὰ δὴ τίνα γραφήν σε γέγραπται;",
+        "translations":[
+          "Euthyphro. I don’t remember him, Socrates. But what sort of an indictment has he brought against you?"
+        ],
+        "section":"9"
+      },
+      {
+        "greek":"ΣΩ. ἥντινα; οὐκ ἀγεννῆ, ἔμοιγε δοκεῖ· τὸ γὰρ νέον ὄντα τοσοῦτον πρᾶγμα ἐγνωκέναι οὐ φαῦλόν ἐστιν. ἐκεῖνος γάρ, ὥς φησιν, οἶδε τίνα τρόπον οἱ νέοι διαφθείρονται καὶ τίνες οἱ διαφθείροντες αὐτούς. καὶ κινδυνεύει σοφός τις εἶναι, καὶ τὴν ἐμὴν ἀμαθίαν κατιδὼν ὡς διαφθείροντος τοὺς ἡλικιώτας αὐτοῦ, ἔρχεται κατηγορήσων μου ὥσπερ πρὸς μητέρα πρὸς τὴν πόλιν. καὶ φαίνεταί μοι τῶν πολιτικῶν μόνος ἄρχεσθαι ὀρθῶς· ὀρθῶς γάρ ἐστι τῶν νέων πρῶτον ἐπιμεληθῆναι ὅπως ἔσονται ὅτι ἄριστοι, ὥσπερ γεωργὸν ἀγαθὸν τῶν νέων φυτῶν εἰκὸς πρῶτον ἐπιμεληθῆναι, μετὰ δὲ τοῦτο καὶ τῶν ἄλλων.",
+        "translations":[
+          "Socrates. What sort? No mean one, it seems to me; for the fact that, young as he is, he has apprehended so important a matter reflects no small credit upon him. For he says he knows how the youth are corrupted and who those are who corrupt them. He must be a wise man; who, seeing my lack of wisdom and that I am corrupting his fellows, comes to the State, as a boy runs to his mother, to accuse me. And he seems to me to be the only one of the public men who begins in the right way; for the right way is to take care of the young men first, to make them as good as possible, just as a good husbandman will naturally take care of the young plants first and afterwards of the rest."
+        ],
+        "section":"10"
+      }
+    ]
+  },
+  {
+    "author":"Plato",
+    "book":"Euthyphro",
+    "type":"dialogue",
+    "reference":"3",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg001.perseus-grc1:3?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"ΣΩ. καὶ δὴ καὶ Μέλητος ἴσως πρῶτον μὲν ἡμᾶς ἐκκαθαίρει τοὺς τῶν νέων τὰς βλάστας διαφθείροντας, ὥς φησιν· ἔπειτα μετὰ τοῦτο δῆλον ὅτι τῶν πρεσβυτέρων ἐπιμεληθεὶς πλείστων καὶ μεγίστων ἀγαθῶν αἴτιος τῇ πόλει γενήσεται, ὥς γε τὸ εἰκὸς συμβῆναι ἐκ τοιαύτης ἀρχῆς ἀρξαμένῳ.",
+        "translations":[
+          "Socrates. And so Meletus, perhaps, is first clearing away us who corrupt the young plants, as he says; then after this, when he has turned his attention to the older men, he will bring countless most precious blessings upon the State,—at least, that is the natural outcome of the beginning he has made."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"ΕΥΘ. βουλοίμην ἄν, ὦ Σώκρατες, ἀλλʼ ὀρρωδῶ μὴ τοὐναντίον γένηται· ἀτεχνῶς γάρ μοι δοκεῖ ἀφʼ ἑστίας ἄρχεσθαι κακουργεῖν τὴν πόλιν, ἐπιχειρῶν ἀδικεῖν σέ. καί μοι λέγε, τί καὶ ποιοῦντά σέ φησι διαφθείρειν τοὺς νέους;",
+        "translations":[
+          "Euthyphro. I hope it may be so, Socrates; but I fear the opposite may result. For it seems to me that he begins by injuring the State at its very heart, when he undertakes to harm you. Now tell me, what does he say you do that corrupts the young?"
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"ΣΩ. ἄτοπα, ὦ θαυμάσιε, ὡς οὕτω γʼ ἀκοῦσαι. φησὶ γάρ με ποιητὴν εἶναι θεῶν, καὶ ὡς καινοὺς ποιοῦντα θεοὺς τοὺς δʼ ἀρχαίους οὐ νομίζοντα ἐγράψατο τούτων αὐτῶν ἕνεκα, ὥς φησιν.",
+        "translations":[
+          "Socrates. Absurd things, my friend, at first hearing. For he says I am a maker of gods; and because I make new gods and do not believe in the old ones, he indicted me for the sake of these old ones, as he says."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"ΕΥΘ. μανθάνω, ὦ Σώκρατες· ὅτι δὴ σὺ τὸ δαιμόνιον φῂς σαυτῷ ἑκάστοτε γίγνεσθαι. ὡς οὖν καινοτομοῦντός σου περὶ τὰ θεῖα γέγραπται ταύτην τὴν γραφήν, καὶ ὡς διαβαλῶν δὴ ἔρχεται εἰς τὸ δικαστήριον, εἰδὼς ὅτι εὐδιάβολα τὰ τοιαῦτα πρὸς τοὺς πολλούς. καὶ ἐμοῦ γάρ τοι, ὅταν τι λέγω ἐν τῇ ἐκκλησίᾳ περὶ τῶν θείων, προλέγων αὐτοῖς τὰ μέλλοντα, καταγελῶσιν ὡς μαινομένου· καίτοι οὐδὲν ὅτι οὐκ ἀληθὲς εἴρηκα ὧν προεῖπον, ἀλλʼ ὅμως φθονοῦσιν ἡμῖν πᾶσι τοῖς τοιούτοις. ἀλλʼ οὐδὲν αὐτῶν χρὴ φροντίζειν, ἀλλʼ ὁμόσε ἰέναι.",
+        "translations":[
+          "Euthyphro. I understand, Socrates; it is because you say the divine monitor keeps coming to you. So he has brought the indictment against you for making innovations in religion, and he is going into court to slander you, knowing that slanders on such subjects are readily accepted by the people. Why, they even laugh at me and say I am crazy when I say anything in the assembly about divine things and foretell the future to them. And yet there is not one of the things I have foretold that is not true; but they are jealous of all such men as you and I are. However, we must not be disturbed, but must come to close quarters with them."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"ΣΩ. ὦ φίλε Εὐθύφρων, ἀλλὰ τὸ μὲν καταγελασθῆναι ἴσως οὐδὲν πρᾶγμα. Ἀθηναίοις γάρ τοι, ὡς ἐμοὶ δοκεῖ, οὐ σφόδρα μέλει ἄν τινα δεινὸν οἴωνται εἶναι, μὴ μέντοι διδασκαλικὸν τῆς αὑτοῦ σοφίας· ὃν δʼ ἂν καὶ ἄλλους οἴωνται ποιεῖν τοιούτους, θυμοῦνται, εἴτʼ οὖν φθόνῳ ὡς σὺ λέγεις, εἴτε διʼ ἄλλο τι.",
+        "translations":[
+          "Socrates. My dear Euthyphro, their ridicule is perhaps of no consequence. For the Athenians, I fancy, are not much concerned, if they think a man is clever, provided he does not impart his clever notions to others; but when they think he makes others to be like himself, they are angry with him, either through jealousy, as you say, or for some other reason."
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"ΕΥΘ. τούτου οὖν πέρι ὅπως ποτὲ πρὸς ἐμὲ ἔχουσιν, οὐ πάνυ ἐπιθυμῶ πειραθῆναι.",
+        "translations":[
+          "Euthyphro. I don’t much desire to test their sentiments toward me in this matter."
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"ΣΩ. ἴσως γὰρ σὺ μὲν δοκεῖς σπάνιον σεαυτὸν παρέχειν καὶ διδάσκειν οὐκ ἐθέλειν τὴν σεαυτοῦ σοφίαν· ἐγὼ δὲ φοβοῦμαι μὴ ὑπὸ φιλανθρωπίας δοκῶ αὐτοῖς ὅτιπερ ἔχω ἐκκεχυμένως παντὶ ἀνδρὶ λέγειν, οὐ μόνον ἄνευ μισθοῦ, ἀλλὰ καὶ προστιθεὶς ἂν ἡδέως εἴ τίς μου ἐθέλει ἀκούειν. εἰ μὲν οὖν, ὃ νυνδὴ ἔλεγον, μέλλοιέν μου καταγελᾶν ὥσπερ σὺ φῂς σαυτοῦ, οὐδὲν ἂν εἴη ἀηδὲς παίζοντας καὶ γελῶντας ἐν τῷ δικαστηρίῳ διαγαγεῖν· εἰ δὲ σπουδάσονται, τοῦτʼ ἤδη ὅπῃ ἀποβήσεται ἄδηλον πλὴν ὑμῖν τοῖς μάντεσιν.",
+        "translations":[
+          "Socrates. No, for perhaps they think that you are reserved and unwilling to impart your wisdom. But I fear that because of my love of men they think that I not only pour myself out copiously to anyone and everyone without payment, but that I would even pay something myself, if anyone would listen to me. Now if, as I was saying just now, they were to laugh at me, as you say they do at you, it would not be at all unpleasant to pass the time in the court with jests and laughter; but if they are in earnest, then only soothsayers like you can tell how this will end.\n"
+        ],
+        "section":"7"
+      },
+      {
+        "greek":"ΕΥΘ. ἀλλʼ ἴσως οὐδὲν ἔσται, ὦ Σώκρατες, πρᾶγμα, ἀλλὰ σύ τε κατὰ νοῦν ἀγωνιῇ τὴν δίκην, οἶμαι δὲ καὶ ἐμὲ τὴν ἐμήν.",
+        "translations":[
+          "Euthyphro. Well, Socrates, perhaps it won’t amount to much, and you will bring your case to a satisfactory ending, as I think I shall mine."
+        ],
+        "section":"8"
+      },
+      {
+        "greek":"ΣΩ. ἔστιν δὲ δὴ σοί, ὦ Εὐθύφρων, τίς ἡ δίκη; φεύγεις αὐτὴν ἢ διώκεις;",
+        "translations":[
+          "Socrates. What is your case, Euthyphro? Are you defending or prosecuting?"
+        ],
+        "section":"9"
+      },
+      {
+        "greek":"ΕΥΘ. διώκω.",
+        "translations":[
+          "Euthyphro. Prosecuting."
+        ],
+        "section":"10"
+      },
+      {
+        "greek":"ΣΩ. τίνα;",
+        "translations":[
+          "Socrates. Whom?"
+        ],
+        "section":"11"
+      }
+    ]
+  }
+]

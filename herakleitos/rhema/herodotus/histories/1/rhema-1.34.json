@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.34",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.34/",
+    "rhemai": [
+      {
+        "greek": "μετὰ δὲ Σόλωνα οἰχόμενον ἔλαβέ ἐκ θεοῦ νέμεσις μεγάλη Κροῖσον, ὡς εἰκάσαι, ὅτι ἐνόμισε ἑωυτὸν εἶναι ἀνθρώπων ἁπάντων ὀλβιώτατον. αὐτίκα δέ οἱ εὕδοντι ἐπέστη ὄνειρος, ὅς οἱ τὴν ἀληθείην ἔφαινε τῶν μελλόντων γενέσθαι κακῶν κατὰ τὸν παῖδα.",
+        "translations": [
+          "But after Solon 's departure divine retribution fell heavily on Croesus; as I guess, because he supposed himself to be blessed beyond all other men. Directly, as he slept, he had a dream, which showed him the truth of the evil things which were going to happen concerning his son."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἦσαν δὲ τῷ Κροίσῳ δύο παῖδες, τῶν οὕτερος μὲν διέφθαρτο, ἦν γὰρ δὴ κωφός, ὁ δὲ ἕτερος τῶν ἡλίκων μακρῷ τὰ πάντα πρῶτος· οὔνομα δέ οἱ ἦν Ἄτυς. τοῦτον δὴ ὦν τὸν Ἄτυν σημαίνει τῷ Κροίσῳ ὁ ὄνειρος, ὡς ἀπολέει μιν αἰχμῇ σιδηρέῃ βληθέντα.",
+        "translations": [
+          "He had two sons, one of whom was ruined, for he was mute, but the other, whose name was Atys, was by far the best in every way of all of his peers. The dream showed this Atys to Croesus, how he would lose him struck and killed by a spear of iron."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὃ δʼ ἐπείτε ἐξηγέρθη καὶ ἑωυτῷ λόγον ἔδωκε, καταρρωδήσας τὸν ὄνειρον ἄγεται μὲν τῷ παιδὶ γυναῖκα, ἐωθότα δὲ στρατηγέειν μιν τῶν Λυδῶν οὐδαμῇ ἔτι ἐπὶ τοιοῦτο πρῆγμα ἐξέπεμπε· ἀκόντια δὲ καὶ δοράτια καὶ τά τοιαῦτα πάντα τοῖσι χρέωνται ἐς πόλεμον ἄνθρωποι, ἐκ τῶν ἀνδρεώνων ἐκκομίσας ἐς τοὺς θαλάμους συνένησε, μή τί οἱ κρεμάμενον τῷ παιδὶ ἐμπέσῃ.",
+        "translations": [
+          "So Croesus, after he awoke and considered, being frightened by the dream, brought in a wife for his son, and although Atys was accustomed to command the Lydian armies, Croesus now would not send him out on any such enterprise, while he took the javelins and spears and all such things that men use for war from the men's apartments and piled them in his store room, lest one should fall on his son from where it hung."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

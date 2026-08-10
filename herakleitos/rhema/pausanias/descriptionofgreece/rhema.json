@@ -1,0 +1,95 @@
+[
+  {
+    "author":"Pausanias",
+    "book":"Description of Greece",
+    "type":"work",
+    "reference":"8.37",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0525.tlg001.perseus-grc2:8.37?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"ἀπὸ δὲ Ἀκακησίου τέσσαρας σταδίους ἀπέχει τὸ ἱερὸν τῆς Δεσποίνης. πρῶτα μὲν δὴ αὐτόθι Ἡγεμόνης ναός ἐστιν Ἀρτέμιδος καὶ χαλκοῦν ἄγαλμα ἔχον δᾷδας —ποδῶν ἓξ εἶναι μάλιστα αὐτὸ εἰκάζομεν—, ἐντεῦθεν δὲ ἐς τὸν ἱερὸν περίβολον τῆς Δεσποίνης ἐστὶν ἔσοδος. ἰόντων δὲ ἐπὶ τὸν ναὸν στοά τέ ἐστιν ἐν δεξιᾷ καὶ ἐν τῷ τοίχῳ λίθου λευκοῦ τύποι πεποιημένοι, καὶ τῷ μέν εἰσιν ἐπειργασμέναι Μοῖραι καὶ Ζεὺς ἐπίκλησιν Μοιραγέτης, δευτέρῳ δὲ Ἡρακλῆς τρίποδα Ἀπόλλωνα ἀφαιρούμενος· ὁποῖα δὲ ἐς αὐτοὺς ἐπυνθανόμην γενέσθαι, δηλώσω καὶ τοῦτο, ἢν ἐς τοῦ Φωκικοῦ λόγου τὰ ἔχοντα ἐς Δελφοὺς ἀφικώμεθα.",
+        "translations":[
+          "From Acacesium it is four stades to the sanctuary of the Mistress. First in this place is a temple of Artemis Leader, with a bronze image, holding torches, which I conjecture to be about six feet high. From this place there is an entrance into the sacred enclosure of the Mistress. As you go to the temple there is a portico on the right, with reliefs of white marble on the wall. On the first relief are wrought Fates and Zeus surnamed Guide of Fate, and on the second Heracles wresting a tripod from Apollo. What I learned about the story of the two latter I will tell if I get as far as an account of Delphi in my history of Phocis."
+        ],
+        "section":"1"
+      },
+      {
+        "greek":"ἐν δὲ τῇ στοᾷ τῇ παρὰ τῇ Δεσποίνῃ μεταξὺ τῶν τύπων τῶν κατειλεγμένων πινάκιόν ἐστι γεγραμμένον, ἔχον τὰ ἐς τὴν τελετήν· Νύμφαι δέ εἰσι καὶ Πᾶνες ἐπὶ τῷ τρίτῳ, ἐπὶ δὲ τῷ τετάρτῳ Πολύβιος ὁ Λυκόρτα· καί οἱ ἐπίγραμμά ἐστιν ἐξ ἀρχῆς τε μὴ ἂν σφαλῆναι τὴν Ἑλλάδα, εἰ Πολυβίῳ τὰ πάντα ἐπείθετο, καὶ ἁμαρτούσῃ διʼ ἐκείνου βοήθειαν αὐτῇ γενέσθαι μόνου. πρὸ δὲ τοῦ ναοῦ Δήμητρί τέ ἐστι βωμὸς καὶ ἕτερος Δεσποίνῃ, μετʼ αὐτὸν δὲ μεγάλης Μητρός.",
+        "translations":[
+          "In the portico by the Mistress there is, between the reliefs I have mentioned, a tablet with descriptions of the mysteries. On the third relief are nymphs and Pans; on the fourth is Polybius, the son of Lycortas. On the latter is also an inscription, declaring that Greece would never have fallen at all, if she had obeyed Polybius in everything, and when she met disaster her only help came from him. In front of the temple is an altar to Demeter and another to the Mistress, after which is one of the Great Mother."
+        ],
+        "section":"2"
+      },
+      {
+        "greek":"θεῶν δὲ αὐτὰ τὰ ἀγάλματα, Δέσποινα καὶ ἡ Δημήτηρ τε καὶ ὁ θρόνος ἐν ᾧ καθέζονται, καὶ τὸ ὑπόθημα τὸ ὑπὸ τοῖς ποσίν ἐστιν ἑνὸς ὁμοίως λίθου· καὶ οὔτε τῶν ἐπὶ τῇ ἐσθῆτι οὔτε ὁπόσα εἴργασται περὶ τὸν θρόνον οὐδέν ἐστιν ἑτέρου λίθου προσεχὲς σιδήρῳ καὶ κόλλῃ, ἀλλὰ τὰ πάντα ἐστὶν",
+        "translations":[
+          "The actual images of the goddesses, Mistress and Demeter, the throne on which they sit, along with the footstool under their feet, are all made out of one piece of stone. No part of the drapery, and no part of the carvings about the throne, is fastened to another stone by iron or cement, but the whole is from one block. This stone was not brought in by them, but they say that in obedience to a dream they dug up the earth within the enclosure and so found it. The size of both images just about corresponds to the image of the Mother at Athens."
+        ],
+        "section":"3"
+      },
+      {
+        "greek":"Δαμοφῶντος δὲ καὶ ταῦτα ἔργα. ἡ μὲν οὖν Δημήτηρ δᾷδα ἐν δεξιᾷ φέρει, τὴν δὲ ἑτέραν χεῖρα ἐπιβέβληκεν ἐπὶ τὴν Δέσποιναν· ἡ δὲ Δέσποινα σκῆπτρόν τε καὶ τὴν καλουμένην κίστην ἐπὶ τοῖς γόνασιν ἔχει, τῆς δὲ ἔχεται τῇ δεξιᾷ τῆς κίστης. τοῦ θρόνου δὲ ἑκατέρωθεν Ἄρτεμις μὲν παρὰ τὴν Δήμητρα ἕστηκεν ἀμπεχομένη δέρμα ἐλάφου καὶ ἐπὶ τῶν ὤμων φαρέτραν ἔχουσα, ἐν δὲ ταῖς χερσὶ τῇ μὲν λαμπάδα ἔχει, τῇ δὲ δράκοντας δύο. παρὰ δὲ τὴν Ἄρτεμιν κατάκειται κύων, οἷαι θηρεύειν εἰσὶν ἐπιτήδειοι.",
+        "translations":[
+          "These too are works of Damophon. Demeter carries a torch in her right hand; her other hand she has laid upon the Mistress. The Mistress has on her knees a staff and what is called the box, which she holds in her right hand. On both sides of the throne are images. By the side of Demeter stands Artemis wrapped in the skin of a deer, and carrying a quiver on her shoulders, while in one hand she holds a torch, in the other two serpents; by her side a bitch, of a breed suitable for hunting, is lying down."
+        ],
+        "section":"4"
+      },
+      {
+        "greek":"πρὸς δὲ τῆς Δεσποίνης τῷ ἀγάλματι ἕστηκεν Ἄνυτος σχῆμα ὡπλισμένου παρεχόμενος· φασὶ δὲ οἱ περὶ τὸ ἱερὸν τραφῆναι τὴν Δέσποιναν ὑπὸ τοῦ Ἀνύτου, καὶ εἶναι τῶν Τιτάνων καλουμένων καὶ τὸν Ἄνυτον. Τιτᾶνας δὲ πρῶτος ἐς ποίησιν ἐσήγαγεν Ὅμηρος, θεοὺς εἶναι σφᾶς ὑπὸ τῷ καλουμένῳ Ταρτάρῳ, καὶ ἔστιν ἐν Ἥρας ὅρκῳ τὰ ἔπη· παρὰ δὲ Ὁμήρου Ὀνομάκριτος παραλαβὼν τῶν Τιτάνων τὸ ὄνομα Διονύσῳ τε συνέθηκεν ὄργια καὶ εἶναι τοὺς Τιτᾶνας τῷ Διονύσῳ τῶν παθημάτων ἐποίησεν αὐτουργούς.",
+        "translations":[
+          "By the image of the Mistress stands Anytus, represented as a man in armour. Those about the sanctuary say that the Mistress was brought up by Anytus, who was one of the Titans, as they are called. The first to introduce Titans into poetry was Homer,[ ] representing them as gods down in what is called Tartarus; the lines are in the passage about Hera's oath. From Homer the name of the Titans was taken by Onomacritus, who in the orgies he composed for Dionysus made the Titans the authors of the god's sufferings."
+        ],
+        "section":"5"
+      },
+      {
+        "greek":"τὰ μὲν δὴ ἐς τὸν Ἄνυτον ὑπὸ Ἀρκάδων λέγεται· Δήμητρος δὲ Ἄρτεμιν θυγατέρα εἶναι καὶ οὐ Λητοῦς, ὄντα Αἰγυπτίων τὸν λόγον Αἰσχύλος ἐδίδαξεν Εὐφορίωνος τοὺς Ἕλληνας. τὰ δὲ ἐς Κούρητας—οὗτοι γὰρ ὑπὸ τῶν ἀγαλμάτων πεποίηνται—καὶ τὰ ἐς Κορύβαντας ἐπειργασμένους ἐπὶ τοῦ βάθρου—γένος δὲ οἵδε ἀλλοῖον καὶ οὐ Κούρητες—, τὰ ἐς τούτους παρίημι ἐπιστάμενος.",
+        "translations":[
+          "This is the story of Anytus told by the Arcadians. That Artemis was the daughter, not of Leto but of Demeter, which is the Egyptian account, the Greeks learned from Aeschylus the son of Euphorion. The story of the Curetes, who are represented under the images, and that of the Corybantes (a different race from the Curetes), carved in relief upon the base, I know, but pass them by."
+        ],
+        "section":"6"
+      },
+      {
+        "greek":"τῶν δὲ ἡμέρων οἱ Ἀρκάδες δένδρων ἁπάντων πλὴν ῥοιᾶς ἐσκομίζουσιν ἐς τὸ ἱερόν. ἐν δεξιᾷ δὲ ἐξιόντι ἐκ τοῦ ναοῦ κάτοπτρον ἡρμοσμένον ἐστὶν ἐν τῷ τοίχῳ· τοῦτο ἤν τις προσβλέπῃ τὸ κάτοπτρον, ἑαυτὸν μὲν ἤτοι παντάπασιν ἀμυδρῶς ἢ οὐδὲ ὄψεται τὴν ἀρχήν, τὰ δὲ ἀγάλματα τῶν θεῶν καὶ αὐτὰ καὶ τὸν θρόνον ἔστιν ἐναργῶς θεάσασθαι.",
+        "translations":[
+          "The Arcadians bring into the sanctuary the fruit of all cultivated trees except the pomegranate. On the right as you go out of the temple there is a mirror fitted into the wall. If anyone looks into this mirror, he will see himself very dimly indeed or not at all, but the actual images of the gods and the throne can be seen quite clearly."
+        ],
+        "section":"7"
+      },
+      {
+        "greek":"παρὰ δὲ τὸν ναὸν τῆς Δεσποίνης ὀλίγον ἐπαναβάντι ἐν δεξιᾷ Μέγαρόν ἐστι καλούμενον, καὶ τελετήν τε δρῶσιν ἐνταῦθα καὶ τῇ Δεσποίνῃ θύουσιν ἱερεῖα οἱ Ἀρκάδες πολλά τε καὶ ἄφθονα. θύει μὲν δὴ αὐτῶν ἕκαστος ὅ τι κέκτηται· τῶν ἱερείων δὲ οὐ τὰς φάρυγγας ἀποτέμνει ὥσπερ ἐπὶ ταῖς ἄλλαις θυσίαις, κῶλον δὲ ὅ τι ἂν τύχῃ, τοῦτο ἕκαστος ἀπέκοψε τοῦ θύματος.",
+        "translations":[
+          "When you have gone up a little, beside the temple of the Mistress on the right is what is called the Hall, where the Arcadians celebrate mysteries, and sacrifice to the Mistress many victims in generous fashion. Every man of them sacrifices what he possesses. But he does not cut the throats of the victims, as is done in other sacrifices; each man chops off a limb of the sacrifice, just that which happens to come to hand."
+        ],
+        "section":"8"
+      },
+      {
+        "greek":"ταύτην μάλιστα θεῶν σέβουσιν οἱ Ἀρκάδες τὴν Δέσποιναν, θυγατέρα δὲ αὐτὴν Ποσειδῶνός φασιν εἶναι καὶ Δήμητρος. ἐπίκλησις ἐς τοὺς πολλούς ἐστιν αὐτῇ Δέσποινα, καθάπερ καὶ τὴν ἐκ Διὸς Κόρην ἐπονομάζουσιν, ἰδίᾳ δέ ἐστιν ὄνομα Περσεφόνη, καθὰ Ὅμηρος καὶ ἔτι πρότερον Πάμφως ἐποίησαν· τῆς δὲ Δεσποίνης τὸ ὄνομα ἔδεισα ἐς τοὺς ἀτελέστους γράφειν.",
+        "translations":[
+          "This Mistress the Arcadians worship more than any other god, declaring that she is a daughter of Poseidon and Demeter. Mistress is her surname among the many, just as they surname Demeter's daughter by Zeus the Maid. But whereas the real name of the Maid is Persephone, as Homer and Pamphos before him say in their poems, the real name of the Mistress I am afraid to write to the uninitiated."
+        ],
+        "section":"9"
+      },
+      {
+        "greek":"ὑπὲρ δὲ τὸ καλούμενον Μέγαρόν ἐστιν ἄλσος τῆς Δεσποίνης ἱερὸν θριγκῷ λίθων περιεχόμενον, ἐντὸς δὲ αὐτοῦ δένδρα καὶ ἄλλα καὶ ἐλαία καὶ πρῖνος ἐκ ῥίζης μιᾶς πεφύκασι· τοῦτο οὐ γεωργοῦ σοφίας ἐστὶν ἔργον. ὑπὲρ δὲ τὸ ἄλσος καὶ Ἱππίου Ποσειδῶνος, ἅτε πατρὸς τῆς Δεσποίνης, καὶ θεῶν ἄλλων εἰσὶ βωμοί· τῷ τελευταίῳ δὲ ἐπίγραμμά ἐστι θεοῖς αὐτὸν τοῖς πᾶσιν εἶναι κοινόν.",
+        "translations":[
+          "Beyond what is called the Hall is a grove, sacred to the Mistress and surrounded by a wall of stones, and within it are trees, including an olive and an evergreen oak growing out of one root, and that not the result of a clever piece of gardening. Beyond the grove are altars of Horse Poseidon, as being the father of the Mistress, and of other gods as well. On the last of them is an inscription saying that it is common to all the gods."
+        ],
+        "section":"10"
+      },
+      {
+        "greek":"ἐντεῦθεν δὲ ἀναβήσῃ διὰ κλίμακος ἐς ἱερὸν Πανός· πεποίηται δὲ καὶ στοὰ ἐς τὸ ἱερὸν καὶ ἄγαλμα οὐ μέγα, θεῶν δὲ ὁμοίως τοῖς δυνατωτάτοις καὶ τούτῳ μέτεστι τῷ Πανὶ ἀνθρώπων τε εὐχὰς ἄγειν ἐς τέλος καὶ ὁποῖα ἔοικεν ἀποδοῦναι πονηροῖς. παρὰ τούτῳ τῷ Πανὶ πῦρ οὔ ποτε ἀποσβεννύμενον καίεται. λέγεται δὲ ὡς τὰ ἔτι παλαιότερα καὶ μαντεύοιτο οὗτος ὁ θεός, προφῆτιν δὲ Ἐρατὼ Νύμφην αὐτῷ γενέσθαι ταύτην ἣ Ἀρκάδι τῷ Καλλιστοῦς συνῴκησε·",
+        "translations":[
+          "Thence you will ascend by stairs to a sanctuary of Pan. Within the sanctuary has been made a portico, and a small image; and this Pan too, equally with the most powerful gods, can bring men's prayers to accomplishment and repay the wicked as they deserve. Beside this Pan a fire is kept burning which is never allowed to go out. It is said that in days of old this god also gave oracles, and that the nymph Erato became his prophetess, she who wedded Arcas, the son of Callisto."
+        ],
+        "section":"11"
+      },
+      {
+        "greek":"μνημονεύουσι δὲ καὶ ἔπη τῆς Ἐρατοῦς, ἃ δὴ καὶ αὐτὸς ἐπελεξάμην. ἐνταῦθα ἔστι μὲν βωμὸς Ἄρεως, ἔστι δὲ ἀγάλματα Ἀφροδίτης ἐν ναῷ, λίθου τὸ ἕτερον λευκοῦ, τὸ δὲ ἀρχαιότερον αὐτῶν ξύλου. ὡσαύτως δὲ καὶ Ἀπόλλωνός τε καὶ Ἀθηνᾶς ξόανά ἐστι· τῇ δὲ Ἀθηνᾷ καὶ ἱερὸν πεποίηται.",
+        "translations":[
+          "They also remember verses of Erato, which I too myself have read. Here is an altar of Ares, and there are two images of Aphrodite in a temple, one of white marble, and the other, the older, of wood. There are also wooden images of Apollo and of Athena. Of Athena a sanctuary also has been made."
+        ],
+        "section":"12"
+      }
+    ]
+  }
+]

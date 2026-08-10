@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.117",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.117/",
+    "rhemai": [
+      {
+        "greek": "Ἀστυάγης δὲ τοῦ μὲν βουκόλου τὴν ἀληθείην ἐκφήναντος λόγον ἤδη καὶ ἐλάσσω ἐποιέετο, Ἁρπάγῳ δὲ καὶ μεγάλως μεμφόμενος καλέειν αὐτὸν τοὺς δορυφόρους ἐκέλευε.",
+        "translations": [
+          "When the cowherd had disclosed the true story, Astyages took less interest in him, but he was very angry with Harpagus and had the guards summon him."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὡς δέ οἱ παρῆν ὁ Ἅρπαγος, εἴρετό μιν ὁ Ἀστυάγης Ἅρπαγε, τέῳ δὴ μόρῳ τὸν παῖδα κατεχρήσαο τόν τοι παρέδωκα ἐκ θυγατρὸς γεγονότα τῆς ἐμῆς; ὁ δὲ Ἅρπαγος ὡς εἶδε τὸν βουκόλον ἔνδον ἐόντα, οὐ τρέπεται ἐπὶ ψευδέα ὁδόν, ἵνα μὴ ἐλεγχόμενος ἁλίσκηται, ἀλλὰ λέγει τάδε.",
+        "translations": [
+          "Harpagus came, and Astyages asked him “ Harpagus, how did you kill the boy, my daughter's son, whom I gave you?” Harpagus, when he saw the cowherd was there, did not take the way of falsehood, lest he be caught and confuted:"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὦ βασιλεῦ, ἐπείτε παρέλαβον τὸ παιδίον, ἐβούλευον σκοπέων ὅκως σοί τε ποιήσω κατὰ νόον, καὶ ἐγὼ πρὸς σὲ γινόμενος ἀναμάρτητος μήτε θυγατρὶ τῇ σῇ μήτε αὐτῷ σοὶ εἴην αὐθέντης.",
+        "translations": [
+          "“O King,” he said,” when I took the boy, I thought and considered how to do what you wanted and not be held a murderer by your daughter or by you even though I was blameless toward you."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ποιέω δὴ ὧδε· καλέσας τὸν βουκόλον τόνδε παραδίδωμι τὸ παιδίον, φὰς σέ τε εἶναι τὸν κελεύοντα ἀποκτεῖναι αὐτό. καὶ λέγων τοῦτό γε οὐκ ἐψευδόμην· σὺ γὰρ ἐνετέλλεο οὕτω. παραδίδωμι μέντοι τῷδε κατὰ τάδε ἐντειλάμενος, θεῖναὶ μιν ἐς ἔρημον ὄρος καὶ παραμένοντα φυλάσσειν ἄχρι οὗ τελευτήσῃ, ἀπειλήσας παντοῖα τῷδε ἢν μὴ τάδε ἐπιτελέα ποιήσῃ.",
+        "translations": [
+          "So I did this: I summoned this cowherd here, and gave the child to him, telling him that it was you who gave the command to kill it. And that was the truth; for such was your command. But I gave the child with the instructions that the cowherd was to lay it on a desolate mountainside and wait there and watch until it was dead; and I threatened all sorts of things if he did not accomplish this."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἐπείτε δὲ ποιήσαντος τούτου τὰ κελευόμενα ἐτελεύτησε τὸ παιδίον, πέμψας τῶν εὐνούχων τοὺς πιστοτάτους καὶ εἶδον διʼ ἐκείνων καὶ ἔθαψά μιν. οὕτω ἔσχε ὦ βασιλεῦ περὶ τοῦ πρήγματος τούτου, καὶ τοιούτῳ μόρῳ ἐχρήσατο ὁ παῖς.",
+        "translations": [
+          "Then, when he had done what he was told, and the child was dead, I sent the most trusted of my eunuchs and had the body viewed and buried. This, O king, is the story, and such was the end of the boy.”"
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

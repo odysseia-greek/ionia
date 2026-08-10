@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.131",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.131/",
+    "rhemai": [
+      {
+        "greek": "Πέρσας δὲ οἶδα νόμοισι τοιοῖσιδε χρεωμένους, ἀγάλματα μὲν καὶ νηοὺς καὶ βωμοὺς οὐκ ἐν νόμῳ ποιευμένους ἱδρύεσθαι, ἀλλὰ καὶ τοῖσι ποιεῦσι μωρίην ἐπιφέρουσι, ὡς μὲν ἐμοὶ δοκέειν, ὅτι οὐκ ἀνθρωποφυέας ἐνόμισαν τοὺς θεοὺς κατά περ οἱ Ἕλληνες εἶναι·",
+        "translations": [
+          "As to the customs of the Persians, I know them to be these. It is not their custom to make and set up statues and temples and altars, but those who do such things they think foolish, because, I suppose, they have never believed the gods to be like men, as the Greeks do;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οἳ δὲ νομίζουσι Διὶ μὲν ἐπὶ τὰ ὑψηλότατα τῶν ὀρέων ἀναβαίνοντες θυσίας ἔρδειν, τὸν κύκλον πάντα τοῦ οὐρανοῦ Δία καλέοντες· θύουσι δὲ ἡλίῳ τε καὶ σελήνῃ καὶ γῇ καὶ πυρὶ καὶ ὕδατι καὶ ἀνέμοισι.",
+        "translations": [
+          "but they call the whole circuit of heaven Zeus, and to him they sacrifice on the highest peaks of the mountains; they sacrifice also to the sun and moon and earth and fire and water and winds."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τούτοισι μὲν δὴ θύουσι μούνοισι ἀρχῆθεν, ἐπιμεμαθήκασι δὲ καὶ τῇ Οὐρανίῃ θύειν, παρά τε Ἀσσυρίων μαθόντες καὶ Ἀραβίων. καλέουσι δὲ Ἀσσύριοι τὴν Ἀφροδίτην Μύλιττα, Ἀράβιοι δὲ Ἀλιλάτ, Πέρσαι δὲ Μίτραν.",
+        "translations": [
+          "From the beginning, these are the only gods to whom they have ever sacrificed; they learned later to sacrifice to the “heavenly” Aphrodite from the Assyrians and Arabians. She is called by the Assyrians Mylitta, by the Arabians Alilat, by the Persians Mitra."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

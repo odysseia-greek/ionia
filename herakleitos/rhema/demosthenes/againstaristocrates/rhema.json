@@ -1,0 +1,17 @@
+[
+  {
+    "author":"Demosthenes",
+    "book":"Against Aristocrates",
+    "type":"work",
+    "reference":"44",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg023.perseus-grc2:44",
+    "rhemai":[
+      {
+        "greek": "λέγε δὴ τὸν μετὰ ταῦτα νόμον.\n\nΝΟΜΟΣ.\n\nἐάν τίς τινα τῶν ἀνδροφόνων τῶν ἐξεληλυθότων, ὧν τὰ χρήματα ἐπίτιμα, πέρα ὅρου ἐλαύνῃ ἢ φέρῃ ἢ ἄγῃ, τὰ ἴσα ὀφείλειν ὅσα περ ἂν ἐν τῇ ἡμεδαπῇ δράσῃ.\nἄλλος οὗτος, ὦ ἄνδρες Ἀθηναῖοι, νόμος ἀνθρωπίνως καὶ καλῶς κείμενος, ὃν παραβὰς οὗτος ὁμοίως φανήσεται.",
+        "translations":[
+          "Read the next statute.\n\nStatute\n\nIf any man outside the frontier pursue or violently seize the person of any homicide who has quitted the country, and whose goods are not confiscate, he shall incur the same penalty as if he so acted within our own territory.\nHere is another law, men of Athens, humanely and excellently enacted; and this law the defendant shall in like manner be proved to have transgressed."
+        ]
+      }
+    ]
+  }
+]

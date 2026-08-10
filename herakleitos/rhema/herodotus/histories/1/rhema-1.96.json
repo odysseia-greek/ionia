@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.96",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.96/",
+    "rhemai": [
+      {
+        "greek": "ἐόντων δὲ αὐτονόμων πάντων ἀνὰ τὴν ἤπειρον, ὧδε αὖτις ἐς τυραννίδα περιῆλθον. ἀνὴρ ἐν τοῖσι Μήδοισι ἐγένετο σοφὸς τῷ οὔνομα ἦν Δηιόκης, παῖς δʼ ἦν Φραόρτεω.",
+        "translations": [
+          "All of those on the mainland were now free men; but they came to be ruled by monarchs again, as I will now relate. There was among the Medes a clever man called Deioces: he was the son of Phraortes."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὗτος ὁ Δηιόκης ἐρασθεὶς τυραννίδος ἐποίεε τοιάδε. κατοικημένων τῶν Μήδων κατὰ κώμας, ἐν τῇ ἑωυτοῦ ἐὼν καὶ πρότερον δόκιμος καὶ μᾶλλόν τι καὶ προθυμότερον δικαιοσύνην ἐπιθέμενος ἤσκεε· καὶ ταῦτα μέντοι ἐούσης ἀνομίης πολλῆς ἀνὰ πᾶσαν τὴν Μηδικὴν ἐποίεε, ἐπιστάμενος ὅτι τῷ δικαίῳ τὸ ἄδικον πολέμιον ἐστί. οἱ δʼ ἐκ τῆς αὐτῆς κώμης Μῆδοι ὁρῶντες αὐτοῦ τοὺς τρόπους δικαστήν μιν ἑωυτῶν αἱρέοντο. ὁ δὲ δή, οἷα μνώμενος ἀρχήν, ἰθύς τε καὶ δίκαιος ἦν,",
+        "translations": [
+          "Deioces was infatuated with sovereignty, and so he set about gaining it. Already a notable man in his own town (one of the many towns into which Media was divided), he began to profess and practice justice more constantly and zealously than ever, and he did this even though there was much lawlessness throughout the land of Media, and though he knew that injustice is always the enemy of justice. Then the Medes of the same town, seeing his behavior, chose him to be their judge, and he (for he coveted sovereign power) was honest and just."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ποιέων τε ταῦτα ἔπαινον εἶχε οὐκ ὀλίγον πρὸς τῶν πολιητέων, οὕτω ὥστε πυνθανόμενοι οἱ ἐν τῇσι ἄλλῃσι κώμῃσι ὡς Δηιόκης εἴη ἀνὴρ μοῦνος κατὰ τὸ ὀρθὸν δικάζων, πρότερον περιπίπτοντες ἀδίκοισι γνώμῃσι, τότε ἐπείτε ἤκουσαν ἄσμενοι, ἐφοίτων παρὰ τὸν Δηιόκεα καὶ αὐτοὶ δικασόμενοι, τέλος δὲ οὐδενὶ ἄλλῳ ἐπετράποντο.",
+        "translations": [
+          "By acting so, he won no small praise from his fellow townsmen, to such an extent that when the men of the other towns learned that Deioces alone gave fair judgments (having before suffered from unjust decisions), they came often and gladly to plead before Deioces; and at last they would submit to no arbitration but his."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

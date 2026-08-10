@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.110",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.110/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα εἶπε καὶ αὐτίκα ἄγγελον ἔπεμπε ἐπὶ τῶν βουκόλων τῶν Ἀστυάγεος τὸν ἠπίστατο νομάς τε ἐπιτηδεοτάτας νέμοντα καὶ ὄρεα θηριωδέστατα· τῷ οὔνομα ἦν Μιτραδάτης, συνοίκεε δὲ ἑωυτοῦ συνδούλῃ, οὔνομα δὲ τῇ γυναικὶ ἦν τῇ συνοίκεε Κυνὼ κατὰ τὴν Ἑλλήνων γλῶσσαν, κατὰ δὲ τὴν Μηδικὴν Σπακώ· τὴν γὰρ κύνα καλέουσι σπάκα Μῆδοι.",
+        "translations": [
+          "So saying, he sent a messenger at once to one of Astyages ' cowherds, who he knew pastured his herds in the likeliest spots and where the mountains were most infested with wild beasts. The man's name was Mitradates, and his wife was a slave like him; her name was in the Greek language Cyno, in the Median Spako: for “spax” is the Median word for dog."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "αἱ δὲ ὑπώρεαί εἰσὶ τῶν ὀρέων, ἔνθα τὰς νομὰς τῶν βοῶν εἶχε οὗτος δὴ ὁ βουκόλος, πρὸς βορέω τε ἀνέμου τῶν Ἀγβατάνων καὶ πρὸς τοῦ πόντου τοῦ Εὐξείνου· ταύτῃ μὲν γὰρ ἡ Μηδικὴ χωρῇ πρὸς Σασπείρων ὀρεινή ἐστι κάρτα καὶ ὑψηλή τε καὶ ἴδῃσι συνηρεφής, ἡ δὲ ἄλλη Μηδικὴ χωρῇ ἐστὶ πᾶσα ἄπεδος.",
+        "translations": [
+          "The foothills of the mountains where this cowherd pastured his cattle are north of Ecbatana, towards the Euxine sea; for the rest of Media is everywhere a level plain, but here, on the side of the Saspires, the land is very high and mountainous and covered with woods."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐπεὶ ὦν ὁ βουκόλος σπουδῇ πολλῇ καλεόμενος ἀπίκετο, ἔλεγε ὁ Ἅρπαγος τάδε. κελεύει σε Ἀστυάγης τὸ παιδίον τοῦτο λαβόντα θεῖναι ἐς τὸ ἐρημότατον τῶν ὀρέων, ὅκως ἂν τάχιστα διαφθαρείη· καὶ τάδε τοὶ ἐκέλευσε εἰπεῖν, ἢν μὴ ἀποκτείνῃς αὐτὸ ἀλλὰ τεῷ τρόπῳ περιποιήσῃς, ὀλέθρῳ τῷ κακίστῳ σε διαχρήσεσθαι. ἐπορᾶν δὲ ἐκκείμενον τέταγμαι ἐγώ.",
+        "translations": [
+          "So when the cowherd came in haste at the summons, Harpagus said: “ Astyages wants you to take this child and leave it in the most desolate part of the mountains so that it will perish as quickly as possible. And he wants me to tell you that if you do not kill it, but preserve it somehow, you will undergo the most harrowing death; and I am ordered to see it exposed.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.47",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.47/",
+    "rhemai": [
+      {
+        "greek": "ἐντειλάμενος δὲ τοῖσι Λυδοῖσι τάδε ἀπέπεμπε ἐς τὴν διάπειραν τῶν χρηστηρίων, ἀπʼ ἧς ἂν ἡμέρης ὁρμηθέωσι ἐκ Σαρδίων, ἀπὸ ταύτης ἡμερολογέοντας τὸν λοιπὸν χρόνον ἑκατοστῇ ἡμέρῃ χρᾶσθαι τοῖσι χρηστηρίοισι, ἐπειρωτῶντας ὅ τι ποιέων τυγχάνοι ὁ Λυδῶν βασιλεὺς Κροῖσος ὁ Ἀλυάττεω· ἅσσα δʼ ἂν ἕκαστα τῶν χρηστηρίων θεσπίσῃ, συγγραψαμένους ἀναφέρειν παρʼ ἑωυτόν.",
+        "translations": [
+          "And when he sent to test these shrines he gave the Lydians these instructions: they were to keep track of the time from the day they left Sardis, and on the hundredth day inquire of the oracles what Croesus, king of Lydia, son of Alyattes, was doing then; then they were to write down whatever the oracles answered and bring the reports back to him."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὅ τι μέν νυν τὰ λοιπὰ τῶν χρηστηρίων ἐθέσπισε, οὐ λέγεται πρὸς οὐδαμῶν· ἐν δὲ Δελφοῖσι ὡς ἐσῆλθον τάχιστα ἐς τὸ μέγαρον οἱ Λυδοὶ χρησόμενοι τῷ θεῷ καὶ ἐπειρώτων τὸ ἐντεταλμένον, ἡ Πυθίη ἐν ἑξαμέτρῳ τόνῳ λέγει τάδε.",
+        "translations": [
+          "Now none relate what answer was given by the rest of the oracles. But at Delphi, no sooner had the Lydians entered the hall to inquire of the god and asked the question with which they were entrusted, than the Pythian priestess uttered the following hexameter verses:"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οἶδα δʼ ἐγὼ ψάμμου τʼ ἀριθμὸν καὶ μέτρα θαλάσσης, καὶ κωφοῦ συνίημι, καὶ οὐ φωνεῦντος ἀκούω. ὀδμή μʼ ἐς φρένας ἦλθε κραταιρίνοιο χελώνης ἑψομένης ἐν χαλκῷ ἅμʼ ἀρνείοισι κρέεσσιν, ᾗ χαλκὸς μὲν ὑπέστρωται, χαλκὸν δʼ ἐπιέσται.",
+        "translations": [
+          "“I know the number of the grains of sand and the extent of the sea, And understand the mute and hear the voiceless. The smell has come to my senses of a strong-shelled tortoise Boiling in a cauldron together with a lamb's flesh, Under which is bronze and over which is bronze.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

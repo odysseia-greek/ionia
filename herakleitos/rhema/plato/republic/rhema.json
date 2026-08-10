@@ -1,0 +1,140 @@
+[
+  {
+    "author":"Plato",
+    "book":"Republic",
+    "type":"work",
+    "reference":"1.348",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg030.perseus-grc2:1.348?q=&qk=form&right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek": "ἤκουσας, ἦν δʼ ἐγώ, ὅσα ἄρτι Θρασύμαχος ἀγαθὰ διῆλθεν τῷ τοῦ ἀδίκου; ἤκουσα, ἔφη, ἀλλʼ οὐ πείθομαι. βούλει οὖν αὐτὸν πείθωμεν, ἂν δυνώμεθά πῃ ἐξευρεῖν, ὡς οὐκ ἀληθῆ λέγει; πῶς γὰρ οὐ βούλομαι; ἦ δʼ ὅς. ἂν μὲν τοίνυν, ἦν δʼ ἐγώ, ἀντικατατείναντες λέγωμεν αὐτῷ λόγον παρὰ λόγον, ὅσα αὖ ἀγαθὰ ἔχει τὸ δίκαιον εἶναι, καὶ αὖθις οὗτος, καὶ ἄλλον ἡμεῖς, ἀριθμεῖν δεήσει",
+        "translations":[
+          "Did you hear, said I, all the goods that Thrasymachus just now enumerated for the life of the unjust man? I heard, he said, but I am not convinced. Do you wish us then to try to persuade him, supposing we can find a way, that what he says is not true? Of course I wish it, he said. If then we oppose[*] him in a set speech enumerating in turn the advantages of being just and he replies and we rejoin, we shall have to count up and measure the goods listed in the respective speeches"
+        ],
+        "section":"a"
+      },
+      {
+        "greek": "τἀγαθὰ καὶ μετρεῖν ὅσα ἑκάτεροι ἐν ἑκατέρῳ λέγομεν, καὶ ἤδη δικαστῶν τινων τῶν διακρινούντων δεησόμεθα· ἂν δὲ ὥσπερ ἄρτι ἀνομολογούμενοι πρὸς ἀλλήλους σκοπῶμεν, ἅμα αὐτοί τε δικασταὶ καὶ ῥήτορες ἐσόμεθα. πάνυ μὲν οὖν, ἔφη. ὁποτέρως οὖν σοι, ἦν δʼ ἐγώ, ἀρέσκει. οὕτως, ἔφη. ἴθι δή, ἦν δʼ ἐγώ, ὦ Θρασύμαχε, ἀπόκριναι ἡμῖν ἐξ ἀρχῆς. τὴν τελέαν ἀδικίαν τελέας οὔσης δικαιοσύνης λυσιτελεστέραν φῂς εἶναι;",
+        "translations":[
+          "and we shall forthwith be in need of judges to decide between us. But if, as in the preceding discussion, we come to terms with one another as to what we admit in the inquiry, we shall be ourselves both judges and pleaders. Quite so, he said. Which method do you like best? said I. This one, he said. Come then, Thrasymachus, I said, go back to the beginning and answer us. You affirm that perfect and complete injustice is more profitable than justice that is complete."
+        ],
+        "section":"b"
+      },
+      {
+        "greek": "πάνυ μὲν οὖν καὶ φημί, ἔφη, καὶ διʼ ἅ, εἴρηκα. φέρε δή, τὸ τοιόνδε περὶ αὐτῶν πῶς λέγεις; τὸ μέν που ἀρετὴν αὐτοῖν καλεῖς, τὸ δὲ κακίαν; πῶς γὰρ οὔ; οὐκοῦν τὴν μὲν δικαιοσύνην ἀρετήν, τὴν δὲ ἀδικίαν κακίαν; εἰκός γʼ, ἔφη, ὦ ἥδιστε, ἐπειδή γε καὶ λέγω ἀδικίαν μὲν λυσιτελεῖν, δικαιοσύνην δʼ οὔ. ἀλλὰ τί μήν; τοὐναντίον, ἦ δʼ ὅς. ἦ τὴν δικαιοσύνην κακίαν; οὔκ, ἀλλὰ πάνυ γενναίαν εὐήθειαν.",
+        "translations":[
+          "I affirm it, he said, and have told you my reasons. Tell me then how you would express yourself on this point about them. You call one of them, I presume, a virtue and the other a vice? Of course. Justice the virtue and injustice the vice? It is likely, you innocent, when I say that injustice pays and justice doesn’t pay. But what then, pray? The opposite, he replied. What! justice vice? No, but a most noble simplicity[*] or goodness of heart. Then do you call injustice badness of heart?"
+        ],
+        "section":"c"
+      },
+      {
+        "greek": "τὴν ἀδικίαν ἄρα κακοήθειαν καλεῖς; οὔκ, ἀλλʼ εὐβουλίαν, ἔφη. ἦ καὶ φρόνιμοί σοι, ὦ Θρασύμαχε, δοκοῦσιν εἶναι καὶ ἀγαθοὶ οἱ ἄδικοι; οἵ γε τελέως, ἔφη, οἷοί τε ἀδικεῖν, πόλεις τε καὶ ἔθνη δυνάμενοι ἀνθρώπων ὑφʼ ἑαυτοὺς ποιεῖσθαι· σὺ δὲ οἴει με ἴσως τοὺς τὰ βαλλάντια ἀποτέμνοντας λέγειν. λυσιτελεῖ μὲν οὖν, ἦ δʼ ὅς, καὶ τὰ τοιαῦτα, ἐάνπερ λανθάνῃ· ἔστι δὲ οὐκ ἄξια λόγου, ἀλλʼ ἃ νυνδὴ ἔλεγον.",
+        "translations":[
+          "No, but goodness of judgement. Do you also, Thrasymachus, regard the unjust as intelligent and good? Yes, if they are capable of complete injustice, he said, and are able to subject to themselves cities and tribes of men. But you probably suppose that I mean those who take purses. There is profit to be sure even in that sort of thing, he said, if it goes undetected. But such things are not worth taking into the account,"
+        ],
+        "section":"d"
+      },
+      {
+        "greek": "τοῦτο μέν, ἔφην, οὐκ ἀγνοῶ ὃ βούλει λέγειν, ἀλλὰ τόδε ἐθαύμασα, εἰ ἐν ἀρετῆς καὶ σοφίας τιθεῖς μέρει τὴν ἀδικίαν, τὴν δὲ δικαιοσύνην ἐν τοῖς ἐναντίοις. ἀλλὰ πάνυ οὕτω τίθημι. τοῦτο, ἦν δʼ ἐγώ, ἤδη στερεώτερον, ὦ ἑταῖρε, καὶ οὐκέτι ῥᾴδιον ἔχειν ὅτι τις εἴπῃ.",
+        "translations":[
+          "but only what I just described. I am not unaware of your meaning in that, I said; but this is what surprised me, that you should range injustice under the head of virtue and wisdom, and justice in the opposite class. Well, I do so class them, he said. That, said I, is a stiffer proposition,[*] my friend, and if you are going as far as that it is hard to know what to answer."
+        ],
+        "section":"e"
+      }
+    ]
+  },
+  {
+    "author":"Plato",
+    "book":"Republic",
+    "type":"work",
+    "reference":"2.378",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg030.perseus-grc2:2.378?right=perseus-eng2&q=&qk=form",
+    "rhemai":[
+      {
+        "greek":"πρῶτον μέν, ἦν δʼ ἐγώ, τὸ μέγιστον καὶ περὶ τῶν μεγίστων ψεῦδος ὁ εἰπὼν οὐ καλῶς ἐψεύσατο ὡς Οὐρανός τε ἠργάσατο ἅ φησι δρᾶσαι αὐτὸν Ἡσίοδος, ὅ τε αὖ Κρόνος",
+        "translations":[
+          "There is, first of all, I said, the greatest lie about the things of greatest concernment, which was no pretty invention of him who told how Uranus did what Hesiod says he did to Cronos, and how Cronos in turn took his revenge;"
+        ]
+      },
+      {
+        "greek":"ὡς ἐτιμωρήσατο αὐτόν. τὰ δὲ δὴ τοῦ Κρόνου ἔργα καὶ πάθη ὑπὸ τοῦ ὑέος, οὐδʼ ἂν εἰ ἦν ἀληθῆ ᾤμην δεῖν ῥᾳδίως οὕτως λέγεσθαι πρὸς ἄφρονάς τε καὶ νέους, ἀλλὰ μάλιστα μὲν σιγᾶσθαι, εἰ δὲ ἀνάγκη τις ἦν λέγειν, διʼ ἀπορρήτων ἀκούειν ὡς ὀλιγίστους, θυσαμένους οὐ χοῖρον ἀλλά τι μέγα καὶ ἄπορον θῦμα, ὅπως ὅτι ἐλαχίστοις συνέβη ἀκοῦσαι. καὶ γάρ, ἦ δʼ ὅς, οὗτοί γε οἱ λόγοι χαλεποί.",
+        "translations":[
+          "and then there are the doings and sufferings of Cronos at the hands of his son. Even if they were true I should not think that they ought to be thus lightly told to thoughtless young persons. But the best way would be to bury them in silence, and if there were some necessity for relating them, that only a very small audience should be admitted under pledge of secrecy and after sacrificing, not a pig, but some huge and unprocurable victim, to the end that as few as possible should have heard these tales. Why, yes, said he, such stories are hard sayings. Yes, and they are not to be told,"
+        ],
+        "section":"a"
+      },
+      {
+        "greek":"καὶ οὐ λεκτέοι γʼ, ἔφην, ὦ Ἀδείμαντε, ἐν τῇ ἡμετέρᾳ πόλει. οὐδὲ λεκτέον νέῳ ἀκούοντι ὡς ἀδικῶν τὰ ἔσχατα οὐδὲν ἂν θαυμαστὸν ποιοῖ, οὐδʼ αὖ ἀδικοῦντα πατέρα κολάζων παντὶ τρόπῳ, ἀλλὰ δρῴη ἂν ὅπερ θεῶν οἱ πρῶτοί τε καὶ μέγιστοι. οὐ μὰ τὸν Δία, ἦ δʼ ὅς, οὐδὲ αὐτῷ μοι δοκεῖ ἐπιτήδεια εἶναι λέγειν. οὐδέ γε, ἦν δʼ ἐγώ, τὸ παράπαν ὡς θεοὶ θεοῖς πολεμοῦσ",
+        "translations":[
+          "Adeimantus, in our city, nor is it to be said in the hearing of a young man, that in doing the utmost wrong he would do nothing to surprise anybody, nor again in punishing his father’s wrong-doings to the limit, but would only be following the example of the first and greatest of the gods. No, by heaven, said he, I do not myself think that they are fit to be told. Neither must we admit at all, said I, that gods war with gods and plot against one another and contend—for it is not true either—"
+        ],
+        "section":"b"
+      },
+      {
+        "greek":"τε καὶ ἐπιβουλεύουσι καὶ μάχονται—οὐδὲ γὰρ ἀληθῆ—εἴ γε δεῖ ἡμῖν τοὺς μέλλοντας τὴν πόλιν φυλάξειν αἴσχιστον νομίζειν τὸ ῥᾳδίως ἀλλήλοις ἀπεχθάνεσθαι—πολλοῦ δεῖ γιγαντομαχίας τε μυθολογητέον αὐτοῖς καὶ ποικιλτέον, καὶ ἄλλας ἔχθρας πολλὰς καὶ παντοδαπὰς θεῶν τε καὶ ἡρώων πρὸς συγγενεῖς τε καὶ οἰκείους αὐτῶν—ἀλλʼ εἴ πως μέλλομεν πείσειν ὡς οὐδεὶς πώποτε πολίτης ἕτερος ἑτέρῳ ἀπήχθετο οὐδʼ ἔστιν τοῦτο ὅσιον, τοιαῦτα λεκτέα μᾶλλον πρὸς",
+        "translations":[
+          "if we wish our future guardians to deem nothing more shameful than lightly to fall out with one another; still less must we make battles of gods and giants the subject for them of stories and embroideries, and other enmities many and manifold of gods and heroes toward their kith and kin. But if there is any likelihood of our persuading them that no citizen ever quarrelled with his fellow-citizen and that the very idea of it is an impiety,"
+        ],
+        "section":"c"
+      },
+      {
+        "greek":"τὰ παιδία εὐθὺς καὶ γέρουσι καὶ γραυσί, καὶ πρεσβυτέροις γιγνομένοις καὶ τοὺς ποιητὰς ἐγγὺς τούτων ἀναγκαστέον λογοποιεῖν. Ἥρας δὲ δεσμοὺς ὑπὸ ὑέος καὶ Ἡφαίστου ῥίψεις ὑπὸ πατρός, μέλλοντος τῇ μητρὶ τυπτομένῃ ἀμυνεῖν, καὶ θεομαχίας ὅσας Ὅμηρος πεποίηκεν οὐ παραδεκτέον εἰς τὴν πόλιν, οὔτʼ ἐν ὑπονοίαις πεποιημένας οὔτε ἄνευ ὑπονοιῶν. ὁ γὰρ νέος οὐχ οἷός τε κρίνειν ὅτι τε ὑπόνοια καὶ ὃ μή, ἀλλʼ ἃ ἂν τηλικοῦτος ὢν λάβῃ ἐν ταῖς δόξαις δυσέκνιπτά",
+        "translations":[
+          "that is the sort of thing that ought rather to be said by their elders, men and women, to children from the beginning and as they grow older, and we must compel the poets to keep close to this in their compositions. But Hera’s fetterings by her son and the hurling out of heaven of Hephaestus by his father when he was trying to save his mother from a beating, and the battles of the gods in Homer’s verse are things that we must not admit into our city either wrought in allegory or without allegory. For the young are not able to distinguish what is and what is not allegory, but whatever opinions are taken into the mind at that age are wont to prove"
+        ],
+        "section":"d"
+      },
+      {
+        "greek":"τε καὶ ἀμετάστατα φιλεῖ γίγνεσθαι· ὧν δὴ ἴσως ἕνεκα περὶ παντὸς ποιητέον ἃ πρῶτα ἀκούουσιν ὅτι κάλλιστα μεμυθολογημένα πρὸς ἀρετὴν ἀκούειν. ἔχει γάρ, ἔφη, λόγον. ἀλλʼ εἴ τις αὖ καὶ ταῦτα ἐρωτῴη ἡμᾶς, ταῦτα ἅττα τʼ ἐστὶν καὶ τίνες οἱ μῦθοι, τίνας ἂν φαῖμεν;",
+        "translations":[
+          "indelible and unalterable. For which reason, maybe, we should do our utmost that the first stories that they hear should be so composed as to bring the fairest lessons of virtue to their ears. Yes, that is reasonable, he said; but if again someone should ask us to be specific and say what these compositions may be and what are the tales, what could we name?"
+        ],
+        "section":"e"
+      }
+    ]
+  },
+  {
+    "author":"Plato",
+    "book":"Republic",
+    "type":"work",
+    "reference":"8.562",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg030.perseus-grc2:8.562?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"τί οὖν; τετάχθω ἡμῖν κατὰ δημοκρατίαν ὁ τοιοῦτος ἀνήρ, ὡς δημοκρατικὸς ὀρθῶς ἂν προσαγορευόμενος; τετάχθω, ἔφη. ἡ καλλίστη δή, ἦν δʼ ἐγώ, πολιτεία τε καὶ ὁ κάλλιστος ἀνὴρ λοιπὰ ἂν ἡμῖν εἴη διελθεῖν, τυραννίς τε καὶ τύραννος. κομιδῇ γʼ, ἔφη. φέρε δή, τίς τρόπος τυραννίδος, ὦ φίλε ἑταῖρε, γίγνεται; ὅτι μὲν γὰρ ἐκ δημοκρατίας μεταβάλλει σχεδὸν δῆλον. δῆλον. ἆρʼ οὖν τρόπον τινὰ τὸν αὐτὸν ἔκ τε ὀλιγαρχίας δημοκρατία",
+        "translations":[
+          "Shall we definitely assert, then, that such a man is to be ranged with democracy and would properly be designated as democratic?Let that be his place, he said. And now, said I, the fairest polity and the fairest man remain for us to describe, the tyranny and the tyrant. Certainly, he said. Come then, tell me, dear friend, how tyranny arises. That it is an outgrowth of democracy is fairly plain. Yes, plain. Is it, then, in a sense, in the same way in which democracy arises out of oligarchy that tyranny arises from democracy?"
+        ],
+        "section":"a"
+      },
+      {
+        "greek":"γίγνεται καὶ ἐκ δημοκρατίας τυραννίς; πῶς; ὃ προύθεντο, ἦν δʼ ἐγώ, ἀγαθόν, καὶ διʼ ὃ ἡ ὀλιγαρχία καθίστατο—τοῦτο δʼ ἦν ὑπερπλοῦτος· ἦ γάρ; —ναί. ἡ πλούτου τοίνυν ἀπληστία καὶ ἡ τῶν ἄλλων ἀμέλεια διὰ χρηματισμὸν αὐτὴν ἀπώλλυ. ἀληθῆ, ἔφη. ἆρʼ οὖν καὶ ὃ δημοκρατία ὁρίζεται ἀγαθόν, ἡ τούτου ἀπληστία καὶ ταύτην καταλύει; λέγεις δʼ αὐτὴν τί ὁρίζεσθαι; τὴν ἐλευθερίαν, εἶπον. τοῦτο γάρ που ἐν δημοκρατουμένῃ",
+        "translations":[
+          "How is that? The good that they proposed to themselves and that was the cause of the establishment of oligarchy—it was wealth, was it not? Yes. Well, then, the insatiate lust for wealth and the neglect of everything else for the sake of money-making was the cause of its undoing. True, he said. And is not the avidity of democracy for that which is its definition and criterion of good the thing which dissolves it too? What do you say its criterion to be? Liberty, I replied; for you may hear it said that this is best managed in a democratic city,"
+        ],
+        "section":"b"
+      },
+      {
+        "greek":"πόλει ἀκούσαις ἂν ὡς ἔχει τε κάλλιστον καὶ διὰ ταῦτα ἐν μόνῃ ταύτῃ ἄξιον οἰκεῖν ὅστις φύσει ἐλεύθερος. λέγεται γὰρ δή, ἔφη, καὶ πολὺ τοῦτο τὸ ῥῆμα. ἆρʼ οὖν, ἦν δʼ ἐγώ, ὅπερ ᾖα νυνδὴ ἐρῶν, ἡ τοῦ τοιούτου ἀπληστία καὶ ἡ τῶν ἄλλων ἀμέλεια καὶ ταύτην τὴν πολιτείαν μεθίστησίν τε καὶ παρασκευάζει τυραννίδος δεηθῆναι; πῶς; ἔφη. ὅταν οἶμαι δημοκρατουμένη πόλις ἐλευθερίας διψήσασα",
+        "translations":[
+          "and for this reason that is the only city in which a man of free spirit will care to live. Why, yes, he replied, you hear that saying everywhere. Then, as I was about to observe, is it not the excess and greed of this and the neglect of all other things that revolutionizes this constitution too and prepares the way for the necessity of a dictatorship? How? he said. Why, when a democratic city athirst for liberty gets bad cupbearers"
+        ],
+        "section":"c"
+      },
+      {
+        "greek":"κακῶν οἰνοχόων προστατούντων τύχῃ, καὶ πορρωτέρω τοῦ δέοντος ἀκράτου αὐτῆς μεθυσθῇ, τοὺς ἄρχοντας δή, ἂν μὴ πάνυ πρᾷοι ὦσι καὶ πολλὴν παρέχωσι τὴν ἐλευθερίαν, κολάζει αἰτιωμένη ὡς μιαρούς τε καὶ ὀλιγαρχικούς. δρῶσιν γάρ, ἔφη, τοῦτο. τοὺς δέ γε, εἶπον, τῶν ἀρχόντων κατηκόους προπηλακίζει ὡς ἐθελοδούλους τε καὶ οὐδὲν ὄντας, τοὺς δὲ ἄρχοντας μὲν ἀρχομένοις, ἀρχομένους δὲ ἄρχουσιν ὁμοίους ἰδίᾳ τε καὶ δημοσίᾳ ἐπαινεῖ τε καὶ τιμᾷ. ἆρʼ οὐκ ἀνάγκη ἐν τοιαύτῃ",
+        "translations":[
+          "for its leaders and is intoxicated by drinking too deep of that unmixed wine, and then, if its so-called governors are not extremely mild and gentle with it and do not dispense the liberty unstintedly,it chastises them and accuses them of being accursed oligarchs. Yes, that is what they do, he replied. But those who obey the rulers, I said, it reviles as willing slaves and men of naught, but it commends and honors in public and private rulers who resemble subjects and subjects who are like rulers."
+        ],
+        "section":"d"
+      },
+      {
+        "greek":"πόλει ἐπὶ πᾶν τὸ τῆς ἐλευθερίας ἰέναι; πῶς γὰρ οὔ; καὶ καταδύεσθαί γε, ἦν δʼ ἐγώ, ὦ φίλε, εἴς τε τὰς ἰδίας οἰκίας καὶ τελευτᾶν μέχρι τῶν θηρίων τὴν ἀναρχίαν ἐμφυομένην. πῶς, ἦ δʼ ὅς, τὸ τοιοῦτον λέγομεν;",
+        "translations":[
+          "Is it not inevitable that in such a state the spirit of liberty should go to all lengths? Of course. And this anarchical temper, said I, my friend, must penetrate into private homes and finally enter into the very animals. Just what do we mean by that? he said."
+        ],
+        "section":"e"
+      }
+    ]
+  }
+]

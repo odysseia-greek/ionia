@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.10",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.10/",
+    "rhemai": [
+      {
+        "greek": "ὃ μὲν δὴ ὡς οὐκ ἐδύνατο διαφυγεῖν, ἦν ἕτοιμος· ὁ δὲ Κανδαύλης, ἐπεὶ ἐδόκεε ὥρη τῆς κοίτης εἶναι, ἤγαγε τὸν Γύγεα ἐς τὸ οἴκημα. καὶ μετὰ ταῦτα αὐτίκα παρῆν καὶ ἡ γυνή. ἐσελθοῦσαν δὲ καὶ τιθεῖσαν τὰ εἵματα ἐθηεῖτο ὁ Γύγης.",
+        "translations": [
+          "As Gyges could not escape, he consented. Candaules, when he judged it to be time for bed, brought Gyges into the chamber; his wife followed presently, and when she had come in and was laying aside her garments, Gyges saw her;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὡς δὲ κατὰ νώτου ἐγένετο ἰούσης τῆς γυναικός ἐς τὴν κοίτην, ὑπεκδὺς ἐχώρεε ἔξω, καὶ ἡ γυνὴ ἐπορᾷ μιν ἐξιόντα. μαθοῦσὰ δὲ τὸ ποιηθέν ἐκ τοῦ ἀνδρὸς οὔτε ἀνέβωσε αἰσχυνθεῖσα οὔτε ἔδοξε μαθεῖν, ἐν νοῶ ἔχουσα τίσεσθαι τὸν Κανδαύλεα.",
+        "translations": [
+          "when she turned her back upon him to go to bed, he slipped from the room. The woman glimpsed him as he went out, and perceived what her husband had done. But though shamed, she did not cry out or let it be seen that she had perceived anything, for she meant to punish Candaules;"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "παρὰ γὰρ τοῖσι Λυδοῖσι, σχεδὸν δὲ καὶ παρὰ τοῖσι ἄλλοισι βαρβάροισι καὶ ἄνδρα ὀφθῆναι γυμνόν ἐς αἰσχύνην μεγάλην φέρει.",
+        "translations": [
+          "since among the Lydians and most of the foreign peoples it is felt as a great shame that even a man be seen naked."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

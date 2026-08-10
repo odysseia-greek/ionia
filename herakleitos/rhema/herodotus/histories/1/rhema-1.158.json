@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.158",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.158/",
+    "rhemai": [
+      {
+        "greek": "πέμψαντες ὦν οἱ Κυμαῖοι ἐς τοὺς Βραγχίδας θεοπρόπους εἰρώτευν περὶ Πακτύην ὁκοῖόν τι ποιέοντες θεοῖσι μέλλοιεν χαριεῖσθαι. ἐπειρωτῶσι δέ σφι ταῦτα χρηστήριον ἐγένετο ἐκδιδόναι Πακτύην Πέρσῃσι. ταῦτα δὲ ὡς ἀπενειχθέντα ἤκουσαν οἱ Κυμαῖοι, ὁρμέατο ἐκδιδόναι·",
+        "translations": [
+          "The men of Cyme, then, sent to Branchidae to inquire of the shrine what they should do in the matter of Pactyes that would be most pleasing to the gods; and the oracle replied that they must surrender Pactyes to the Persians."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὁρμημένου δὲ ταύτῃ τοῦ πλήθεος, Ἀριστόδικος ὁ Ἡρακλείδεω ἀνὴρ τῶν ἀστῶν ἐὼν δόκιμος ἔσχε μὴ ποιῆσαι ταῦτα Κυμαίους, ἀπιστέων τε τῷ χρησμῷ καὶ δοκέων τοὺς θεοπρόπους οὐ λέγειν ἀληθέως, ἐς ὃ τὸ δεύτερον περὶ Πακτύεω ἐπειρησόμενοι ἤισαν ἄλλοι θεοπρόποι, τῶν καὶ Ἀριστόδικος ἦν.",
+        "translations": [
+          "When this answer came back to them, they set about surrendering him. But while the greater part were in favor of doing this, Aristodicus son of Heraclides, a notable man among the citizens, stopped the men of Cyme from doing it; for he did not believe the oracle and thought that those who had inquired of the god spoke falsely; until at last a second band of inquirers was sent to inquire concerning Pactyes, among whom was Aristodicus."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

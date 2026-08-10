@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.48",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.48/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα οἱ Λυδοὶ θεσπισάσης τῆς Πυθίης συγγραψάμενοι οἴχοντο ἀπιόντες ἐς τὰς Σάρδις. ὡς δὲ καὶ ὧλλοι οἱ περιπεμφθέντες παρῆσαν φέροντες τοὺς χρησμούς, ἐνθαῦτα ὁ Κροῖσος ἕκαστα ἀναπτύσσων ἐπώρα τῶν συγγραμμάτων, τῶν μὲν δὴ οὐδὲν προσίετό μιν· ὁ δὲ ὡς τὸ ἐκ Δελφῶν ἤκουσε, αὐτίκα προσεύχετό τε καὶ προσεδέξατο, νομίσας μοῦνον εἶναι μαντήιον τὸ ἐν Δελφοῖσι, ὅτι οἱ ἐξευρήκεε τὰ αὐτὸς ἐποίησε.",
+        "translations": [
+          "Having written down this inspired utterance of the Pythian priestess, the Lydians went back to Sardis. When the others as well who had been sent to various places came bringing their oracles, Croesus then unfolded and examined all the writings. Some of them in no way satisfied him. But when he read the Delphian message, he acknowledged it with worship and welcome, considering Delphi as the only true place of divination, because it had discovered what he himself had done."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐπείτε γὰρ δὴ διέπεμψε παρὰ τὰ χρηστήρια τοὺς θεοπρόπους, φυλάξας τὴν κυρίην τῶν ἡμερέων ἐμηχανᾶτο τοιάδε· ἐπινοήσας τὰ ἦν ἀμήχανον ἐξευρεῖν τε καὶ ἐπιφράσασθαι, χελώνην καὶ ἄρνα κατακόψας ὁμοῦ ἧψε αὐτὸς ἐν λέβητι χαλκέῳ, χάλκεον ἐπίθημα ἐπιθείς.",
+        "translations": [
+          "For after sending his envoys to the oracles, he had thought up something which no conjecture could discover, and carried it out on the appointed day: namely, he had cut up a tortoise and a lamb, and then boiled them in a cauldron of bronze covered with a lid of the same."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

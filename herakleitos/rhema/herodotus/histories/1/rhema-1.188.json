@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.188",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.188/",
+    "rhemai": [
+      {
+        "greek": "ὁ δὲ δὴ Κῦρος ἐπὶ ταύτης τῆς γυναικὸς τὸν παῖδα ἐστρατεύετο, ἔχοντά τε τοῦ πατρὸς τοῦ ἑωυτοῦ τοὔνομα Λαβυνήτου καὶ τὴν Ἀσσυρίων ἀρχήν. στρατεύεται δὲ δὴ βασιλεὺς ὁ μέγας καὶ σιτίοισι εὖ ἐσκευασμένος ἐξ οἴκου καὶ προβάτοῖσι, καὶ δὴ καὶ ὕδωρ ἀπὸ τοῦ Χοάσπεω ποταμοῦ ἅμα ἄγεται τοῦ παρὰ Σοῦσα ῥέοντος, τοῦ μούνου πίνει βασιλεὺς καὶ ἄλλου οὐδενὸς ποταμοῦ.",
+        "translations": [
+          "Cyrus, then, marched against Nitocris ' son, who inherited the name of his father Labynetus and the sovereignty of Assyria. Now when the Great King campaigns, he marches well provided with food and flocks from home; and water from the Choaspes river that flows past Susa is carried with him, the only river from which the king will drink."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τούτου δὲ τοῦ Χοάσπεω τοῦ ὕδατος ἀπεψημένου πολλαὶ κάρτα ἅμαξαι τετράκυκλοι ἡμιόνεαι κομίζουσαι ἐν ἀγγηίοισι ἀργυρέοισι ἕπονται, ὅκῃ ἂν ἐλαύνῃ ἑκάστοτε.",
+        "translations": [
+          "This water of the Choaspes is boiled, and very many four-wheeled wagons drawn by mules carry it in silver vessels, following the king wherever he goes at any time."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

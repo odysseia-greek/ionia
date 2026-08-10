@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.173",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.173/",
+    "rhemai": [
+      {
+        "greek": "καὶ οὗτοι μὲν τρόποισι τοιούτοισι χρέωνται, οἱ δὲ Λύκιοι ἐκ Κρήτης τὠρχαῖον γεγόνασι (τὴν γὰρ Κρήτην εἶχον τὸ παλαιὸν πᾶσαν βάρβαροι)·",
+        "translations": [
+          "Such are their ways. The Lycians were from Crete in ancient times (for in the past none that lived on Crete were Greek )."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "διενειχθέντων δὲ ἐν Κρήτῃ περὶ τῆς βασιληίης τῶν Εὐρώπης παίδων Σαρπηδόνος τε καὶ Μίνω, ὡς ἐπεκράτησε τῇ στάσι Μίνως, ἐξήλασε αὐτόν τε Σαρπηδόνα καὶ τοὺς στασιώτας αὐτοῦ, οἳ δὲ ἀπωσθέντες ἀπίκοντο τῆς Ἀσίης ἐς γῆν τὴν Μιλυάδα· τὴν γὰρ νῦν Λύκιοι νέμονται, αὕτη τὸ παλαιὸν ἦν Μιλυάς, οἱ δὲ Μιλύαι τότε Σόλυμοι ἐκαλέοντο.",
+        "translations": [
+          "Now there was a dispute in Crete about the royal power between Sarpedon and Minos, sons of Europa; Minos prevailed in this dispute and drove out Sarpedon and his partisans; who, after being driven out, came to the Milyan land in Asia. What is now possessed by the Lycians was in the past Milyan, and the Milyans were then called Solymi."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἕως μὲν δὴ αὐτῶν Σαρπηδὼν ἦρχε, οἳ δὲ ἐκαλέοντο τό πέρ τε ἠνείκαντο οὔνομα καὶ νυν ἔτι καλέονται ὑπὸ τῶν περιοίκων οἱ Λύκιοι Τερμίλαι· ὡς δὲ ἐξ Ἀθηνέων Λύκος ὁ Πανδίονος, ἐξελασθεὶς καὶ οὗτος ὑπὸ τοῦ ἀδελφεοῦ Αἰγέος, ἀπίκετο ἐς τοὺς Τερμίλας παρὰ Σαρπηδόνα, οὕτω δὴ κατὰ τοῦ Λύκου τὴν ἐπωνυμίην Λύκιοι ἀνὰ χρόνον ἐκλήθησαν.",
+        "translations": [
+          "For a while Sarpedon ruled them, and the people were called Termilae, which was the name that they had brought with them and that is still given to the Lycians by their neighbors; but after Lycus son of Pandion came from Athens —banished as well by his brother, Aegeus —to join Sarpedon in the land of the Termilae, they came in time to be called Lycians after Lycus."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "νόμοισι δὲ τὰ μὲν Κρητικοῖσι τὰ δὲ Καρικοῖσι χρέωνται. ἓν δὲ τόδε ἴδιον νενομίκασι καὶ οὐδαμοῖσι ἄλλοισι συμφέρονται ἀνθρώπων· καλέουσι ἀπὸ τῶν μητέρων ἑωυτοὺς καὶ οὐκὶ ἀπὸ τῶν πατέρων·",
+        "translations": [
+          "Their customs are partly Cretan and partly Carian. But they have one which is their own and shared by no other men: they take their names not from their fathers but from their mothers,"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "εἰρομένου δὲ ἑτέρου τὸν πλησίον τίς εἴη, καταλέξει ἑωυτὸν μητρόθεν καὶ τῆς μητρὸς ἀνανεμέεται τὰς μητέρας. καὶ ἢν μέν γε γυνὴ ἀστὴ δούλῳ συνοικήσῃ, γενναῖα τὰ τέκνα νενόμισται· ἢν δὲ ἀνὴρ ἀστὸς καὶ ὁ πρῶτος αὐτῶν γυναῖκα ξείνην ἢ παλλακὴν ἔχῃ, ἄτιμα τὰ τέκνα γίνεται.",
+        "translations": [
+          "and when one is asked by his neighbor who he is, he will say that he is the son of such a mother, and rehearse the mothers of his mother. Indeed, if a female citizen marries a slave, her children are considered pure-blooded; but if a male citizen, even the most prominent of them, takes an alien wife or concubine, the children are dishonored."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

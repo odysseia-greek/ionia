@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.37",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.37/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα ἀμείψατο· ἀποχρεωμένων δὲ τούτοισι τῶν Μυσῶν, ἐπεσέρχεται ὁ τοῦ Κροίσου παῖς ἀκηκοὼς τῶν ἐδέοντο οἱ Μυσοί. οὐ φαμένου δὲ τοῦ Κροίσου τόν γε παῖδά σφι συμπέμψειν, λέγει πρὸς αὐτὸν ὁ νεηνίης τάδε.",
+        "translations": [
+          "This was his answer, and the Mysians were satisfied with it. But the son of Croesus now entered, having heard what the Mysians had asked for; and when Croesus refused to send his son with them, the young man said,"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὦ πάτερ, τὰ κάλλιστα πρότερον κοτὲ καὶ γενναιότατα ἡμῖν ἦν ἔς τε πολέμους καὶ ἐς ἄγρας φοιτέοντας εὐδοκιμέειν· νῦν δὲ ἀμφοτέρων με τούτων ἀποκληίσας ἔχεις, οὔτε τινὰ δειλίην μοι παριδὼν οὔτε ἀθυμίην νῦν τε τέοισί με χρὴ ὄμμασι ἔς τε ἀγορὴν καὶ ἐξ ἀγορῆς φοιτέοντα φαίνεσθαι;",
+        "translations": [
+          "“Father, it was once thought very fine and noble for us to go to war and the chase and win renown; but now you have barred me from both of these, although you have seen neither cowardice nor lack of spirit in me. With what face can I now show myself whenever I go to and from the market-place?"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "κοῖος μέν τις τοῖσι πολιήτῃσι δόξω εἶναι, κοῖος δέ τις τῇ νεογάμῳ γυναικί; κοίῳ δὲ ἐκείνη δόξει ἀνδρὶ συνοικέειν; ἐμὲ ὦν σὺ ἢ μέτες ἰέναι ἐπὶ τὴν θήρην, ἢ λόγῳ ἀνάπεισον ὅκως μοι ἀμείνω ἐστὶ ταῦτα οὕτω ποιεόμενα.",
+        "translations": [
+          "What will the men of the city think of me, and what my newly wedded wife? With what kind of man will she think that she lives? So either let me go to the hunt, or show me by reasoning that what you are doing is best for me.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

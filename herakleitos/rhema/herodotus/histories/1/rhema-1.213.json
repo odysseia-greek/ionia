@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.213",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.213/",
+    "rhemai": [
+      {
+        "greek": "Κῦρος μὲν ἐπέων οὐδένα τούτων ἀνενειχθέντων ἐποιέετο λόγον· ὁ δὲ τῆς βασιλείης Τομύριος παῖς Σπαργαπίσης, ὥς μιν ὅ τε οἶνος ἀνῆκε καὶ ἔμαθε ἵνα ἦν κακοῦ, δεηθεὶς Κύρου ἐκ τῶν δεσμῶν λυθῆναι ἔτυχε, ὡς δὲ ἐλύθη τε τάχιστα καὶ τῶν χειρῶν ἐκράτησε, διεργάζεται ἑωυτόν.",
+        "translations": [
+          "Cyrus dismissed this warning when it was repeated to him. But Spargapises, the son of the queen Tomyris, after the wine wore off and he recognized his evil plight, asked Cyrus to be freed from his bonds; and this was granted him; but as soon as he was freed and had the use of his hands, he did away with himself."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.45",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.45/",
+    "rhemai": [
+      {
+        "greek": "παρῆσαν δὲ μετὰ τοῦτο οἱ Λυδοὶ φέροντες τὸν νεκρόν, ὄπισθε δὲ εἵπετό οἱ ὁ φονεύς. στὰς δὲ οὗτος πρὸ τοῦ νεκροῦ παρεδίδου ἑωυτὸν Κροίσῳ προτείνων τὰς χεῖρας, ἐπικατασφάξαι μιν κελεύων τῷ νεκρῷ, λέγων τήν τε προτέρην ἑωυτοῦ συμφορήν, καὶ ὡς ἐπʼ ἐκείνῃ τὸν καθήραντα ἀπολωλεκὼς εἴη, οὐδέ οἱ εἴη βιώσιμον.",
+        "translations": [
+          "Soon the Lydians came, bearing the corpse, with the murderer following after. He then came and stood before the body and gave himself up to Croesus, holding out his hands and telling him to kill him over the corpse, mentioning his former misfortune, and that on top of that he had destroyed the one who purified him, and that he was not fit to live."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Κροῖσος δὲ τούτων ἀκούσας τόν τε Ἄδρηστον κατοικτείρει, καίπερ ἐὼν ἐν κακῷ οἰκηίῳ τοσούτῳ καὶ λέγει πρὸς αὐτόν ἔχω ὦ ξεῖνε παρὰ σεῦ πᾶσαν τὴν δίκην, ἐπειδὴ σεωυτοῦ καταδικάζεις θάνατον. εἶς δὲ οὐ σύ μοι τοῦδε τοῦ κακοῦ αἴτιος, εἰ μὴ ὅσον ἀέκων ἐξεργάσαο, ἀλλὰ θεῶν κού τις, ὅς μοι καὶ πάλαι προεσήμαινε τὰ μέλλοντα ἔσεσθαι.",
+        "translations": [
+          "On hearing this, Croesus took pity on Adrastus, though his own sorrow was so great, and said to him, “Friend, I have from you the entire penalty, since you sentence yourself to death. But it is not you that I hold the cause of this evil, except in so far as you were the unwilling doer of it, but one of the gods, the same one who told me long ago what was to be.”"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Κροῖσος μέν νυν ἔθαψε ὡς οἰκὸς ἦν τὸν ἑωυτοῦ παῖδα· Ἄδρηστος δὲ ὁ Γορδίεω τοῦ Μίδεω, οὗτος δὴ ὁ φονεὺς μὲν τοῦ ἑωυτοῦ ἀδελφεοῦ γενόμενος φονεὺς δὲ τοῦ καθήραντος, ἐπείτε ἡσυχίη τῶν ἀνθρώπων ἐγένετο περὶ τὸ σῆμα, συγγινωσκόμενος ἀνθρώπων εἶναι τῶν αὐτὸς ᾔδεε βαρυσυμφορώτατος, ἐπικατασφάζει τῷ τύμβῳ ἑωυτόν.",
+        "translations": [
+          "So Croesus buried his own son in such manner as was fitting. But Adrastus, son of Gordias who was son of Midas, this Adrastus, the destroyer of his own brother and of the man who purified him, when the tomb was undisturbed by the presence of men, killed himself there by the sepulcher, seeing clearly now that he was the most heavily afflicted of all whom he knew."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

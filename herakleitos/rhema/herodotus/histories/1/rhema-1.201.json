@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.201",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.201/",
+    "rhemai": [
+      {
+        "greek": "ὡς δὲ τῷ Κύρῳ καὶ τοῦτο τὸ ἔθνος κατέργαστο, ἐπεθύμησε Μασσαγέτας ὑπʼ ἑωυτῷ ποιήσασθαι. τὸ δὲ ἔθνος τοῦτο καὶ μέγα λέγεται εἶναι καὶ ἄλκιμον, οἰκημένον δὲ πρὸς ἠῶ τε καὶ ἡλίου ἀνατολάς, πέρην τοῦ Ἀράξεω ποταμοῦ, ἀντίον δὲ Ἰσσηδόνων ἀνδρῶν. εἰσὶ δὲ οἵτινες καὶ Σκυθικὸν λέγουσι τοῦτο τὸ ἔθνος εἶναι.",
+        "translations": [
+          "When Cyrus had conquered this nation, too, he wanted to subject the Massagetae. These are said to be a great and powerful people dwelling towards the east and the sunrise, beyond the Araxes and opposite the Issedones; and some say that they are a Scythian people."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

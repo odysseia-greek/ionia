@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.179",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.179/",
+    "rhemai": [
+      {
+        "greek": "δεῖ δή με πρὸς τούτοισι ἔτι φράσαι ἵνα τε ἐκ τῆς τάφρου ἡ γῆ ἀναισιμώθη, καὶ τὸ τεῖχος ὅντινα τρόπον ἔργαστο. ὀρύσσοντες ἅμα τὴν τάφρον ἐπλίνθευον τὴν γῆν τὴν ἐκ τοῦ ὀρύγματος ἐκφερομένην, ἑλκύσαντες δὲ πλίνθους ἱκανὰς ὤπτησαν αὐτὰς ἐν καμίνοισι·",
+        "translations": [
+          "Further, I must relate where the earth was used as it was dug from the moat and how the wall was constructed. As they dug the moat, they made bricks of the earth which was carried out of the place they dug, and when they had moulded bricks enough, they baked them in ovens;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "μετὰ δὲ τέλματι χρεώμενοι ἀσφάλτῳ θερμῇ καὶ διὰ τριήκοντα δόμων πλίνθου ταρσοὺς καλάμων διαστοιβάζοντες, ἔδειμαν πρῶτα μὲν τῆς τάφου τὰ χείλεα, δευτέρα δὲ αὐτὸ τὸ τεῖχος τὸν αὐτὸν τρόπον.",
+        "translations": [
+          "then using hot bitumen for cement and interposing layers of wattled reeds at every thirtieth course of bricks, they built first the border of the moat and then the wall itself in the same fashion."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐπάνω δὲ τοῦ τείχεος παρὰ τὰ ἔσχατα οἰκήματα μουνόκωλα ἔδειμαν, τετραμμένα ἐς ἄλληλα· τὸ μέσον δὲ τῶν οἰκημάτων ἔλιπον τεθρίππῳ περιέλασιν. πύλαι δὲ ἐνεστᾶσι πέριξ τοῦ τείχεος ἑκατόν, χάλκεαι πᾶσαι, καὶ σταθμοί τε καὶ ὑπέρθυρα ὡσαύτως.",
+        "translations": [
+          "On the top, along the edges of the wall, they built houses of a single room, facing each other, with space enough between to drive a four-horse chariot. There are a hundred gates in the circuit of the wall, all of bronze, with posts and lintels of the same."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἔστι δὲ ἄλλη πόλις ἀπέχουσα ὀκτὼ ἡμερέων ὁδὸν ἀπὸ Βαβυλῶνος· Ἲς οὔνομα αὐτῇ. ἔνθα ἐστὶ ποταμὸς οὐ μέγας· Ἲς καὶ τῷ ποταμῷ τὸ οὔνομα· ἐσβάλλει δὲ οὗτος ἐς τὸν Εὐφρήτην ποταμὸν τὸ ῥέεθρον. οὗτος ὦν ὁ Ἲς ποταμὸς ἅμα τῷ ὕδατι θρόμβους ἀσφάλτου ἀναδιδοῖ πολλούς, ἔνθεν ἡ ἄσφαλτος ἐς τὸ ἐν Βαβυλῶνι τεῖχος ἐκομίσθη.",
+        "translations": [
+          "There is another city, called Is, eight days' journey from Babylon, where there is a little river, also named Is, a tributary of the Euphrates river; from the source of this river Is, many lumps of bitumen rise with the water; and from there the bitumen was brought for the wall of Babylon."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

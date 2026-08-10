@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.58",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.58/",
+    "rhemai": [
+      {
+        "greek": "τὸ δὲ Ἑλληνικὸν γλώσσῃ μὲν ἐπείτε ἐγένετο αἰεί κοτε τῇ αὐτῇ διαχρᾶται, ὡς ἐμοὶ καταφαίνεται εἶναι· ἀποσχισθὲν μέντοι ἀπὸ τοῦ Πελασγικοῦ ἐόν ἀσθενές, ἀπό σμικροῦ τεο τὴν ἀρχὴν ὁρμώμενον αὔξηται ἐς πλῆθος τῶν ἐθνέων, Πελασγῶν μάλιστα προσκεχωρηκότων αὐτῷ καὶ ἄλλων ἐθνέων βαρβάρων συχνῶν. πρόσθε δὲ ὦν ἔμοιγε δοκέει οὐδὲ τὸ Πελασγικὸν ἔθνος, ἐὸν βάρβαρον, οὐδαμὰ μεγάλως αὐξηθῆναι.",
+        "translations": [
+          "But the Hellenic stock, it seems clear to me, has always had the same language since its beginning; yet being, when separated from the Pelasgians, few in number, they have grown from a small beginning to comprise a multitude of nations, chiefly because the Pelasgians and many other foreign peoples united themselves with them. Before that, I think, the Pelasgic stock nowhere increased much in number while it was of foreign speech."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

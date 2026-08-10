@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.70",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.70/",
+    "rhemai": [
+      {
+        "greek": "τούτων τε ὦν εἵνεκεν οἱ Λακεδαιμόνιοι τὴν συμμαχίην ἐδέξαντο, καὶ ὅτι ἐκ πάντων σφέας προκρίνας Ἑλλήνων αἱρέετο φίλους. καὶ τοῦτο μὲν αὐτοὶ ἦσαν ἕτοιμοι ἐπαγγείλαντι, τοῦτο δὲ ποιησάμενοι κρητῆρα χάλκεον ζῳδίων τε ἔξωθεν πλήσαντες περὶ τὸ χεῖλος καὶ μεγάθεϊ τριηκοσίους ἀμφορέας χωρέοντα ἦγον, δῶρον βουλόμενοι ἀντιδοῦναι Κροίσῳ.",
+        "translations": [
+          "For this reason, and because he had chosen them as his friends before all the other Greeks, the Lacedaemonians accepted the alliance. So they declared themselves ready to serve him when he should require, and moreover they made a bowl of bronze, engraved around the rim outside with figures, and large enough to hold twenty-seven hundred gallons, and brought it with the intention of making a gift in return to Croesus."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὗτος ὁ κρητὴρ οὐκ ἀπίκετο ἐς Σάρδις διʼ αἰτίας διφασίας λεγομένας τάσδε· οἱ μὲν Λακεδαιμόνιοι λέγουσι ὡς ἐπείτε ἀγόμενος ἐς τὰς Σάρδις ὁ κρητὴρ ἐγίνετο κατὰ τὴν Σαμίην, πυθόμενοι Σάμιοι ἀπελοίατο αὐτὸν νηυσὶ μακρῇσι ἐπιπλώσαντες·",
+        "translations": [
+          "This bowl never reached Sardis, for which two reasons are given: the Lacedaemonians say that when the bowl was near Samos on its way to Sardis, the Samians descended upon them in warships and carried it off;"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "αὐτοὶ δὲ Σάμιοι λέγουσι ὡς ἐπείτε ὑστέρησαν οἱ ἄγοντες τῶν Λακεδαιμονίων τὸν κρητῆρα, ἐπυνθάνοντο δὲ Σάρδις τε καὶ Κροῖσον ἡλωκέναι, ἀπέδοντο τὸν κρητῆρα ἐν Σάμῳ, ἰδιώτας δὲ ἄνδρας πριαμένους ἀναθεῖναί μιν ἐς τὸ Ἥραιον. τάχα δὲ ἂν καὶ οἱ ἀποδόμενοι λέγοιεν ἀπικόμενοι ἐς Σπάρτην ὡς ἀπαιρεθείησαν ὑπὸ Σαμίων. κατὰ μέν νυν τὸν κρητῆρα οὕτω ἔσχε.",
+        "translations": [
+          "but the Samians themselves say that the Lacedaemonians who were bringing the bowl, coming too late, and learning that Sardis and Croesus were taken, sold it in Samos to certain private men, who set it up in the the temple of Hera. And it may be that the sellers of the bowl, when they returned to Sparta, said that they had been robbed of it by the Samians. Such are the tales about the bowl."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

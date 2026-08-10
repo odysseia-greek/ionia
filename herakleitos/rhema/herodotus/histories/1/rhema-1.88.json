@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.88",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.88/",
+    "rhemai": [
+      {
+        "greek": "ὅ μὲν ταῦτα ἔλεγε, Κῦρος δὲ αὐτὸν λύσας κατεῖσέ τε ἐγγὺς ἑωυτοῦ καὶ κάρτα ἐν πολλῇ προμηθίῃ εἶχε, ἀπεθώμαζέ τε ὁρέων καὶ αὐτὸς καὶ οἱ περὶ ἐκεῖνον ἐόντες πάντες. ὁ δὲ συννοίῃ ἐχόμενος ἥσυχος ἦν·",
+        "translations": [
+          "Croesus said this, and Cyrus freed him and made him sit near and was very considerate to him, and both he and all that were with him were astonished when they looked at Croesus. He for his part was silent, deep in thought."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "μετὰ δὲ ἐπιστραφείς τε καὶ ἰδόμενος τοὺς Πέρσας τὸ τῶν Λυδῶν ἄστυ κεραΐζοντας εἶπε ὦ βασιλεῦ, κότερον λέγειν πρὸς σὲ τὰ νοέων τυγχάνω ἢ σιγᾶν ἐν τῷ παρεόντι χρή; Κῦρος δέ μιν θαρσέοντα ἐκέλευε λέγειν ὅ τι βούλοιτο. ὁ δὲ αὐτὸν εἰρώτα λέγων",
+        "translations": [
+          "Presently he turned and said (for he saw the Persians sacking the city of the Lydians ), “O King, am I to say to you what is in my mind now, or keep silent?” When Cyrus urged him to speak up boldly, Croesus asked,"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οὗτος ὁ πολλὸς ὅμιλος τί ταῦτα πολλῇ σπουδῇ ἐργάζεται; ὁ δὲ εἶπε πόλιν τε τὴν σὴν διαρπάζει καὶ χρήματα τὰ σὰ διαφορέει. Κροῖσος δὲ ἀμείβετο οὔτε πόλιν τὴν ἐμὴν οὔτε χρήματα τὰ ἐμὰ διαρπάζει· οὐδὲν γὰρ ἐμοὶ ἔτι τούτων μέτα· ἀλλὰ φέρουσί τε καὶ ἄγουσι τὰ σά.",
+        "translations": [
+          "“The multitude there, what is it at which they are so busily engaged?” “They are plundering your city,” said Cyrus, “and carrying off your possessions.” “No,” Croesus answered, “not my city, and not my possessions; for I no longer have any share of all this; it is your wealth that they are pillaging.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

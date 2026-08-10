@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.138",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.138/",
+    "rhemai": [
+      {
+        "greek": "ἅσσα δέ σφι ποιέειν οὐκ ἔξεστι, ταῦτα οὐδὲ λέγειν ἔξεστι. αἴσχιστον δὲ αὐτοῖσι τὸ ψεύδεσθαι νενόμισται, δεύτερα δὲ τὸ ὀφείλειν χρέος, πολλῶν μὲν καὶ ἄλλων εἵνεκα, μάλιστα δὲ ἀναγκαίην φασὶ εἶναι τὸν ὀφείλοντα καί τι ψεῦδος λέγειν. ὃς ἂν δὲ τῶν ἀστῶν λέπρην ἢ λεύκην ἔχῃ, ἐς πόλιν οὗτος οὐ κατέρχεται οὐδὲ συμμίσγεται τοῖσι ἄλλοισι Πέρσῃσι· φασὶ δέ μιν ἐς τὸν ἥλιον ἁμαρτόντα τι ταῦτα ἔχειν.",
+        "translations": [
+          "Furthermore, of what they may not do, they may not speak, either. They hold lying to be the most disgraceful thing of all and next to that debt; for which they have many other reasons, but this in particular: it is inevitable (so they say) that the debtor also speak some falsehood. The citizen who has leprosy or the white sickness may not come into town or mingle with other Persians. They say that he is so afflicted because he has sinned in some way against the sun."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ξεῖνον δὲ πάντα τὸν λαμβανόμενον ὑπὸ τουτέων πολλοὶ ἐξελαύνουσι ἐκ τῆς χώρης, καὶ τὰς λευκὰς περιστεράς, τὴν αὐτὴν αἰτίην ἐπιφέροντες. ἐς ποταμὸν δὲ οὔτε ἐνουρέουσι οὔτε ἐμπτύουσι, οὐ χεῖρας ἐναπονίζονται, οὐδὲ ἄλλον οὐδένα περιορῶσι, ἀλλὰ σέβονται ποταμοὺς μάλιστα.",
+        "translations": [
+          "Every stranger who gets such a disease, many drive out of the country; and they do the same to white doves, for the reason given. Rivers they especially revere; they will neither urinate nor spit nor wash their hands in them, nor let anyone else do so."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

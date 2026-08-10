@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.215",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.215/",
+    "rhemai": [
+      {
+        "greek": "Μασσαγέται δὲ ἐσθῆτά τε ὁμοίην τῇ Σκυθικῇ φορέουσι καὶ δίαιταν ἔχουσι, ἱππόται δὲ εἰσὶ καὶ ἄνιπποι (ἀμφοτέρων γὰρ μετέχουσι) καὶ τοξόται τε καὶ αἰχμοφόροι, σαγάρις νομίζοντες ἔχειν. χρυσῷ δὲ καὶ χαλκῷ τὰ πάντα χρέωνται· ὅσα μὲν γὰρ ἐς αἰχμὰς καὶ ἄρδις καὶ σαγάρις, χαλκῷ τὰ πάντα χρέωνται, ὅσα δὲ περὶ κεφαλὴν καὶ ζωστῆρας καὶ μασχαλιστῆρας, χρυσῷ κοσμέονται.",
+        "translations": [
+          "These Massagetae are like the Scythians in their dress and way of life. They are both cavalry and infantry (having some of each kind), and spearmen and archers; and it is their custom to carry battle-axes. They always use gold and bronze; all their spear-points and arrow-heads and battle-axes are bronze and the adornment of their headgear and belts and girdles is gold."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὣς δʼ αὕτως τῶν ἵππων τὰ μὲν περὶ τὰ στέρνα χαλκέους θώρηκας περιβάλλουσι, τὰ δὲ περὶ τοὺς χαλινοὺς καὶ στόμια καὶ φάλαρα χρυσῷ. σιδήρῳ δὲ οὐδʼ ἀργύρῳ χρέωνται οὐδέν· οὐδὲ γὰρ οὐδέ σφι ἐστὶ ἐν τῇ χωρῇ, ὁ δὲ χρυσὸς καὶ ὁ χαλκὸς ἄπλετος.",
+        "translations": [
+          "They equip their horses similarly, protecting their chests with bronze breastplates and putting gold on reins, bits, and cheekplates. But they never use iron and silver, for there is none at all in their country, but gold and bronze abound."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

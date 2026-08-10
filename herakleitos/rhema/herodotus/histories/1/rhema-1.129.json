@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.129",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.129/",
+    "rhemai": [
+      {
+        "greek": "ἐόντι δὲ αἰχμαλώτῳ τῷ Ἀστυάγεϊ προσστὰς ὁ Ἅρπαγος κατέχαιρέ τε καὶ κατεκερτόμεε, καὶ ἄλλα λέγων ἐς αὐτὸν θυμαλγέα ἔπεα, καὶ δὴ καὶ εἴρετό μιν πρὸς τὸ ἑωυτοῦ δεῖπνον, τὸ μιν ἐκεῖνος σαρξὶ τοῦ παιδὸς ἐθοίνησε, ὅ τι εἴη ἡ ἐκείνου δουλοσύνη ἀντὶ τῆς βασιληίης.",
+        "translations": [
+          "When Astyages was a captive, Harpagus came and exulted over him and taunted him, and besides much other bitter mockery he recalled his banquet, when Astyages had fed Harpagus his son's flesh, and asked Astyages what it was like to be a slave after having been a king."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὁ δέ μιν προσιδὼν ἀντείρετο εἰ ἑωυτοῦ ποιέεται τὸ Κύρου ἔργον. Ἅρπαγος δὲ ἔφη, αὐτὸς γὰρ γράψαι, τὸ πρῆγμα ἑωυτοῦ δὴ δικαίως εἶναι.",
+        "translations": [
+          "Fixing his gaze on Harpagus, Astyages asked, “Do you imagine that this, which Cyrus has done, is your work?” “It was I,” said the other, “who wrote the letter; the accomplishment of the work is rightly mine.”"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Ἀστυάγης δέ μιν ἀπέφαινε τῷ λόγῳ σκαιότατόν τε καὶ ἀδικώτατον ἐόντα πάντων ἀνθρώπων, σκαιότατον μέν γε, εἰ παρεὸν αὐτῷ βασιλέα γενέσθαι, εἰ δὴ διʼ ἑωυτοῦ γε ἐπρήχθη τὰ παρεόντα, ἄλλῳ περιέθηκε τὸ κράτος, ἀδικώτατον δέ, ὅτι τοῦ δείπνου εἵνεκεν Μήδους κατεδούλωσε.",
+        "translations": [
+          "“Then,” said Astyages, “you stand confessed the most foolish and most unjust man on earth; most foolish, in giving another the throne which you might have had for yourself, if the present business is indeed your doing; most unjust, in enslaving the Medes because of that banquet."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "εἰ γὰρ δὴ δεῖν πάντως περιθεῖναι ἄλλῳ τεῷ τὴν βασιληίην καὶ μὴ αὐτὸν ἔχειν, δικαιότερον εἶναι Μήδων τεῷ περιβαλεῖν τοῦτο τὸ ἀγαθὸν ἢ Περσέων. νῦν δὲ Μήδους μὲν ἀναιτίους τούτου ἐόντας δούλους ἀντὶ δεσποτέων γεγονέναι, Πέρσας δὲ δούλους ἐόντας τὸ πρὶν Μήδων νῦν γεγονέναι δεσπότας.",
+        "translations": [
+          "For if in any event another and not you had to possess the royal power, then in justice some Mede should have had it, not a Persian: but now you have made the Medes, who did you no harm, slaves instead of masters and the Persians, who were the slaves, are now the masters of the Medes.”"
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

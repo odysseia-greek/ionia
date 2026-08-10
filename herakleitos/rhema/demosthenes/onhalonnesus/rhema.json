@@ -1,0 +1,47 @@
+[
+  {
+    "author":"Demosthenes",
+    "book":"On Halonnesus",
+    "type":"work",
+    "reference":"24",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg007.perseus-grc2:24?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"ἐγὼ δʼ, ὦ ἄνδρες Ἀθηναῖοι, παράνομον μὲν οὐδὲν ἐτόλμησα γράψαι, τῷ δὲ Φιλοκράτους ψηφίσματι οὐκ ἦν παράνομον τἀναντία γράφειν, ὡς ἐγὼ ἐπιδείξω· τὸ γὰρ ψήφισμα τὸ Φιλοκράτους, καθʼ ὃ ὑμεῖς ἀπώλλυτε Ἀμφίπολιν, ἐναντίον ἦν τοῖς προτέροις ψηφίσμασι, καθʼ ἃ ὑμεῖς ἐκτήσασθε ταύτην τὴν χώραν.",
+        "translations":[
+          "As for me, men of Athens, I did not venture to propose anything that was unconstitutional, but it was not so to propose the direct contrary of Philocrates’ decree, as I can prove to you. For the decree of Philocrates, through which you lost Amphipolis, was itself contrary to the earlier decrees by which you claimed possession of that territory."
+        ]
+      }
+    ]
+  },
+  {
+    "author":"Demosthenes",
+    "book":"On Halonnesus",
+    "type":"work",
+    "reference":"25",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg007.perseus-grc2:25?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"τοῦτο μὲν οὖν παράνομον ἦν τὸ ψήφισμα, τὸ τοῦ Φιλοκράτους, καὶ οὐχ οἷόν τʼ ἦν τὸν τὰ ἔννομα γράφοντα ταὐτὰ τῷ παρανόμῳ ψηφίσματι γράφειν. ἐκείνοις δὲ τοῖς προτέροις ψηφίσμασι, τοῖς οὖσιν ἐννόμοις καὶ σῴζουσι τὴν ὑμετέραν χώραν, ταὐτὰ γράφων ἔννομά τʼ ἔγραψα καὶ ἐξήλεγχον τὸν Φίλιππον, ὅτι ἐξηπάτα ὑμᾶς καὶ οὐκ ἐπανορθώσασθαι ἐβούλετο τὴν εἰρήνην, ἀλλὰ τοὺς ὑπὲρ ὑμῶν λέγοντας ἀπίστους καταστῆσαι.",
+        "translations":[
+          "So it was this decree of Philocrates that was unconstitutional, nor would it have been possible to draft a constitutional proposal in conformity with his unconstitutional decree. By drafting mine to agree with the earlier decrees, which were constitutional and which also kept your territory intact, I both kept within the constitution and was able to convict Philip of trying to deceive you and of wishing, not to amend the peace, but to bring discredit on those who were pleading your cause.\n\n"
+        ]
+      }
+    ]
+  },
+  {
+    "author":"Demosthenes",
+    "book":"On Halonnesus",
+    "type":"work",
+    "reference":"26",
+    "perseusTextLink":"https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg007.perseus-grc2:26?right=perseus-eng2",
+    "rhemai":[
+      {
+        "greek":"καὶ ὅτι μὲν δοὺς τὴν ἐπανόρθωσιν νῦν ἔξαρνός ἐστιν, ἅπαντες ἴστε. φησὶ δʼ Ἀμφίπολιν ἑαυτοῦ εἶναι· ὑμᾶς γὰρ ψηφίσασθαι ἐκείνου εἶναι, ὅτʼ ἐψηφίζεσθε ἔχειν αὐτὸν ἃ εἶχεν. ὑμεῖς δὲ τὸ μὲν ψήφισμα τοῦτʼ ἐψηφίσασθε, οὐ μέντοι γʼ ἐκείνου εἶναι Ἀμφίπολιν· ἔστι γὰρ ἔχειν καὶ τἀλλότρια, καὶ οὐχ ἅπαντες οἱ ἔχοντες τὰ αὑτῶν ἔχουσιν, ἀλλὰ πολλοὶ καὶ ἀλλότρια κέκτηνται· ὥστε τοῦτό γε τὸ σοφὸν αὐτῷ ἠλίθιόν ἐστιν.",
+        "translations":[
+          "You are all aware that, after conceding the right to amend the peace, he now denies it. He says that Amphipolis is his, because your decree that he should keep what he held confirmed his right. It is true that you passed that decree, but you never admitted his right to Amphipolis, for it is possible to hold what belongs to another, and it is not all holders who hold what is their own, but many are in possession of what is really another’s. So his clever quibble is merely foolish."
+        ]
+      }
+    ]
+  }
+]

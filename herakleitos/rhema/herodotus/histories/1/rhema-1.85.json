@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.85",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.85/",
+    "rhemai": [
+      {
+        "greek": "κατʼ αὐτὸν δὲ Κροῖσον τάδε ἐγίνετο. ἦν οἱ παῖς, τοῦ καὶ πρότερον ἐπεμνήσθην, τὰ μὲν ἄλλα ἐπιεικής, ἄφωνος δέ. ἐν τῇ ὦν παρελθούσῃ εὐεστοῖ ὁ Κροῖσος τὸ πᾶν ἐς αὐτὸν ἐπεποιήκεε, ἄλλα τε ἐπιφραζόμενος, καὶ δὴ καὶ ἐς Δελφοὺς περὶ αὐτοῦ ἐπεπόμφεε χρησομένους.",
+        "translations": [
+          "I will now relate what happened to Croesus himself. He had a son, whom I have already mentioned, fine in other respects, but mute. Now in his days of prosperity past Croesus had done all that he could for his son; and besides resorting to other devices he had sent to Delphi to inquire of the oracle concerning him."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἡ δὲ Πυθίη οἱ εἶπε τάδε. Λυδὲ γένος, πολλῶν βασιλεῦ, μέγα νήπιε Κροῖσε, μὴ βούλου πολύευκτον ἰὴν ἀνὰ δώματʼ ἀκούειν παιδὸς φθεγγομένου. τὸ δέ σοι πολὺ λώιον ἀμφὶς ἔμμεναι· αὐδήσει γὰρ ἐν ἤματι πρῶτον ἀνόλβῳ.",
+        "translations": [
+          "The Pythian priestess answered him thus: “ Lydian, king of many, greatly foolish Croesus, Wish not to hear in the palace the voice often prayed for Of your son speaking. It were better for you that he remain mute as before; For on an unlucky day shall he first speak.”"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἁλισκομένου δὴ τοῦ τείχεος, ἤιε γὰρ τῶν τις Περσέων ἀλλογνώσας Κροῖσον ὡς ἀποκτενέων, Κροῖσος μέν νυν ὁρέων ἐπιόντα ὑπὸ τῆς παρεούσης συμφορῆς παρημελήκεε, οὐδὲ τί οἱ διέφερε πληγέντι ἀποθανεῖν·",
+        "translations": [
+          "So at the taking of the fortification a certain Persian, not knowing who Croesus was, came at him meaning to kill him. Croesus saw him coming, but because of the imminent disaster he was past caring, and it made no difference to him whether he were struck and killed."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ὁ δὲ παῖς οὗτος ὁ ἄφωνος ὡς εἶδε ἐπιόντα τὸν Πέρσην, ὑπὸ δέους τε καὶ κακοῦ ἔρρηξε φωνήν, εἶπε δὲ ὤνθρώπε, μὴ κτεῖνε Κροῖσον. οὗτος μὲν δὴ τοῦτο πρῶτον ἐφθέγξατο, μετὰ δὲ τοῦτο ἤδη ἐφώνεε τὸν πάντα χρόνον τῆς ζόης.",
+        "translations": [
+          "But this mute son, when he saw the Persian coming on, in fear and distress broke into speech and cried, “Man, do not kill Croesus!” This was the first word he uttered, and after that for all the rest of his life he had power of speech."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

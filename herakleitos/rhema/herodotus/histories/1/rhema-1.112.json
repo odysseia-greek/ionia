@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.112",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.112/",
+    "rhemai": [
+      {
+        "greek": "ἅμα δὲ ταῦτα ἔλεγε ὁ βουκόλος καὶ ἐκκαλύψας ἀπεδείκνυε. ἣ δὲ ὡς εἶδε τὸ παιδίον μέγα τε καὶ εὐειδὲς ἐόν, δακρύσασα καὶ λαβομένη τῶν γουνάτων τοῦ ἀνδρὸς ἐχρήιζε μηδεμιῇ τέχνῃ ἐκθεῖναί μιν.",
+        "translations": [
+          "And as he said this the cowherd uncovered it and showed it. But when the woman saw how fine and fair the child was, she began to cry and laid hold of the man's knees and begged him by no means to expose him. But the husband said he could not do otherwise; for, he said, spies would be coming from Harpagus to see what was done, and he would have to die a terrible death if he did not obey."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὁ δὲ οὐκ ἔφη οἷός τʼ εἶναι ἄλλως αὐτὰ ποιέειν· ἐπιφοιτήσειν γὰρ κατασκόπους ἐξ Ἁρπάγου ἐποψομένους, ἀπολέεσθαί τε κάκιστα ἢν μὴ σφεα ποιήσῃ. ὡς δὲ οὐκ ἔπειθε ἄρα τὸν ἄνδρα, δευτέρα λέγει ἡ γυνὴ τάδε. ἐπεὶ τοίνυν οὐ δύναμαί σε πείθειν μὴ ἐκθεῖναι, σὺ δὲ ὧδε ποίησον, εἰ δὴ πᾶσα ἀνάγκη ὀφθῆναι ἐκκείμενον. τέτοκα γὰρ καὶ ἐγώ, τέτοκα δὲ τεθνεός.",
+        "translations": [
+          "Being unable to move her husband, the woman then said: “Since I cannot convince you not to expose it, then, if a child has to be seen exposed, do this: I too have borne a child, but I bore it dead."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "τοῦτο μὲν φέρων πρόθες, τὸν δὲ τῆς Ἀστυάγεος θυγατρὸς παῖδα ὡς ἐξ ἡμέων ἐόντα τρέφωμεν. καὶ οὕτω οὔτε σὺ ἁλώσεαι ἀδικέων τοὺς δεσπότας οὔτε ἡμῖν κακῶς βεβουλευμένα ἔσται· ὅ τε γὰρ τεθνεὼς βασιληίης ταφῆς κυρήσει καὶ ὁ περιεὼν οὐκ ἀπολέει τὴν ψυχήν.",
+        "translations": [
+          "Take this one and put it out, but the child of the daughter of Astyages let us raise as if it were our own; this way, you won't be caught disobeying our masters, and we will not have plotted badly. For the dead child will have royal burial, and the living will not lose his life.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

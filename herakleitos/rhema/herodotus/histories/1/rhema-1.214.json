@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.214",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.214/",
+    "rhemai": [
+      {
+        "greek": "καὶ δὴ οὗτος μὲν τρόπῳ τοιούτῳ τελευτᾷ· Τόμυρις δέ, ὥς οἱ Κῦρος οὐκ ἐσήκουσε, συλλέξασα πᾶσαν τὴν ἑωυτῆς δύναμιν συνέβαλε Κύρῳ. ταύτην τὴν μάχην, ὅσαι δὴ βαρβάρων ἀνδρῶν μάχαι ἐγένοντο, κρίνω ἰσχυροτάτην γενέσθαι, καὶ δὴ καὶ πυνθάνομαι οὕτω τοῦτο γενόμενον.",
+        "translations": [
+          "Such was the end of Spargapises. Tomyris, when Cyrus would not listen to her, collected all her forces and engaged him. This fight I judge to have been the fiercest ever fought by men that were not Greek; and indeed I have learned that this was so."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "πρῶτα μὲν γὰρ λέγεται αὐτοὺς διαστάντας ἐς ἀλλήλους τοξεύειν, μετὰ δὲ ὥς σφι τὰ βέλεα ἐξετετόξευτο, συμπεσόντας τῇσι αἰχμῇσί τε καὶ τοῖσι ἐγχειριδίοισι συνέχεσθαι. χρόνον τε δὴ ἐπὶ πολλὸν συνεστάναι μαχομένους καὶ οὐδετέρους ἐθέλειν φεύγειν. τέλος δὲ οἱ Μασσαγέται περιεγένοντο,",
+        "translations": [
+          "For first (it is said) they shot arrows at each other from a distance; then, when their arrows were all spent, they rushed at each other and fought with their spears and swords; and for a long time they stood fighting and neither would give ground; but at last the Massagetae got the upper hand."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἥ τε δὴ πολλὴ τῆς Περσικῆς στρατιῆς αὐτοῦ ταύτῃ διεφθάρη καὶ δὴ καὶ αὐτὸς Κῦρος τελευτᾷ, βασιλεύσας τὰ πάντα ἑνὸς δέοντα τριήκοντα ἔτεα.",
+        "translations": [
+          "The greater part of the Persian army was destroyed there on the spot, and Cyrus himself fell there, after having reigned for one year short of thirty years."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἀσκὸν δὲ πλήσασα αἵματος ἀνθρωπηίου Τόμυρις ἐδίζητο ἐν τοῖσι τεθνεῶσι τῶν Περσέων τὸν Κύρου νέκυν, ὡς δὲ εὗρε, ἐναπῆκε αὐτοῦ τὴν κεφαλὴν ἐς τὸν ἀσκόν, λυμαινομένη δὲ τῷ νεκρῷ ἐπέλεγε τάδε·",
+        "translations": [
+          "Tomyris filled a skin with human blood, and searched among the Persian dead for Cyrus ' body; and when she found it, she pushed his head into the skin, and insulted the dead man in these words:"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "σὺ μὲν ἐμὲ ζῶσάν τε καὶ νικῶσάν σε μάχῃ ἀπώλεσας, παῖδα τὸν ἐμὸν ἑλὼν δόλῳ· σὲ δʼ ἐγώ, κατά περ ἠπείλησα, αἵματος κορέσω. τὰ μὲν δὴ κατὰ τὴν Κύρου τελευτὴν τοῦ βίου, πολλῶν λόγων λεγομένων, ὅδε μοι ὁ πιθανώτατος εἴρηται.",
+        "translations": [
+          "“Though I am alive and have defeated you in battle, you have destroyed me, taking my son by guile; but just as I threatened, I give you your fill of blood.” Many stories are told of Cyrus ' death; this, that I have told, is the most credible."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

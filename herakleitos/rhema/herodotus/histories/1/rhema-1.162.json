@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.162",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.162/",
+    "rhemai": [
+      {
+        "greek": "ἀποθανόντος δὲ τούτου, Ἅρπαγος κατέβη διάδοχος τῆς στρατηγίης, γένος καὶ αὐτὸς ἐὼν Μῆδος, τὸν ὁ Μήδων βασιλεὺς Ἀστυάγης ἀνόμῳ τραπέζῃ ἔδαισε, ὁ τῷ Κύρῳ τὴν βασιληίην συγκατεργασάμενος.",
+        "translations": [
+          "After his death, Harpagus, a Mede like Mazares, came down to succeed him in his command; this is the Harpagus who was entertained by Astyages the king of the Medes at that unnatural feast, and who helped win the kingship for Cyrus."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὗτος ὡνὴρ τότε ὑπὸ Κύρου στρατηγὸς ἀποδεχθεὶς ὡς ἀπίκετο ἐς τὴν Ἰωνίην, αἵρεε τὰς πόλιας χώμασι· ὅκως γὰρ τειχήρεας ποιήσειε, τὸ ἐνθεῦτεν χώματα χῶν πρὸς τὰ τείχεα ἐπόρθεε.",
+        "translations": [
+          "This man was now made general by Cyrus. When he came to Ionia, he took the cities by means of earthworks; he would drive the men within their walls and then build earthworks against the walls and so take the cities."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

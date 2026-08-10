@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.9",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.9/",
+    "rhemai": [
+      {
+        "greek": "ὃ μὲν δὴ λέγων τοιαῦτα ἀπεμάχετο, ἀρρωδέων μὴ τί οἱ ἐξ αὐτῶν γένηται κακόν, ὃ δʼ ἀμείβετο τοῖσιδε. θάρσεε, Γύγη, καὶ μὴ φοβεῦ μήτε ἐμέ, ὡς σέο πειρώμενος λέγω λόγον τόνδε, μήτε γυναῖκα τὴν ἐμήν, μὴ τὶ τοι ἐξ αὐτῆς γένηται βλάβος. ἀρχήν γὰρ ἐγὼ μηχανήσομαι οὕτω ὥστε μηδέ μαθεῖν μιν ὀφθεῖσαν ὑπὸ σεῦ.",
+        "translations": [
+          "Speaking thus, Gyges resisted: for he was afraid that some evil would come of it for him. But this was Candaules ' answer: “Courage, Gyges! Do not be afraid of me, that I say this to test you, or of my wife, that you will have any harm from her. I will arrange it so that she shall never know that you have seen her."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐγὼ γάρ σε ἐς τὸ οἴκημα ἐν τῷ κοιμώμεθα ὄπισθε τῆς ἀνοιγομένης θύρης στήσω. μετὰ δʼ ἐμὲ ἐσελθόντα παρέσται καὶ ἡ γυνὴ ἡ ἐμὴ ἐς κοῖτον. κεῖται δὲ ἀγχοῦ τῆς ἐσόδου θρόνος· ἐπὶ τοῦτον τῶν ἱματίων κατὰ ἕν ἕκαστον ἐκδύνουσα θήσει, καὶ κατʼ ἡσυχίην πολλὴν παρέξει τοι θεήσασθαι.",
+        "translations": [
+          "I will bring you into the chamber where she and I lie and conceal you behind the open door; and after I have entered, my wife too will come to bed. There is a chair standing near the entrance of the room: on this she will lay each article of her clothing as she takes it off, and you will be able to look upon her at your leisure."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐπεὰν δέ ἀπὸ τοῦ θρόνου στείχῃ ἐπὶ τὴν εὐνήν κατὰ νώτου τε αὐτῆς γένῃ, σοὶ μελέτω τὸ ἐνθεῦτεν ὅκως μὴ σε ὄψεται ἰόντα διὰ θυρέων.",
+        "translations": [
+          "Then, when she moves from the chair to the bed, turning her back on you, be careful she does not see you going out through the doorway.”"
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

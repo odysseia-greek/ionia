@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.15",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.15/",
+    "rhemai": [
+      {
+        "greek": "ἐσέβαλε μέν νυν στρατιὴν καὶ οὗτος ἐπείτε ἦρξε ἔς τε Μίλητον καὶ ἐς Σμύρνην, καὶ Κολοφῶνος τὸ ἄστυ εἷλε· ἀλλʼ οὐδὲν γὰρ μέγα ἀπʼ αὐτοῦ ἄλλο ἔργον ἐγένετο βασιλεύσαντος δυῶν δέοντα τεσσεράκοντα ἔτεα, τοῦτον μὲν παρήσομεν τοσαῦτα ἐπιμνησθέντες, Ἄρδυος δὲ τοῦ Γύγεω μετὰ Γύγην βασιλεύσαντος μνήμην ποιήσομαι. οὗτος δὲ Πριηνέας τε εἷλε ἐς Μίλητόν τε ἐσέβαλε, ἐπὶ τούτου τε τυραννεύοντος Σαρδίων Κιμμέριοι ἐξ ἠθέων ὑπὸ Σκυθέων τῶν νομάδων ἐξαναστάντες ἀπίκοντο ἐς τὴν Ἀσίην καὶ Σάρδις πλὴν τῆς ἀκροπόλιος εἷλον.",
+        "translations": [
+          "As soon as Gyges came to the throne, he too, like others, led an army into the lands of Miletus and Smyrna; and he took the city of Colophon. But as he did nothing else great in his reign of thirty-eight years, I shall say no more of him, and shall speak instead of Ardys son of Gyges, who succeeded him. He took Priene and invaded the country of Miletus; and it was while he was monarch of Sardis that the Cimmerians, driven from their homes by the nomad Scythians, came into Asia, and took Sardis, all but the acropolis."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

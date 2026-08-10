@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.38",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.38/",
+    "rhemai": [
+      {
+        "greek": "ἀμείβεται Κροῖσος τοῖσιδε. ὦ παῖ, οὔτε δειλίην οὔτε ἄλλο οὐδὲν ἄχαρι παριδών, τοι ποιέω ταῦτα, ἀλλά μοι ὄψις ὀνείρου ἐν τῷ ὕπνῳ ἐπιστᾶσα ἔφη σε ὀλιγοχρόνιον ἔσεσθαι· ὑπὸ γὰρ αἰχμῆς σιδηρέης ἀπολέεσθαι.",
+        "translations": [
+          "“My son,” answered Croesus, “I do this not because I have seen cowardice or anything unseemly in you, but the vision of a dream stood over me in my sleep, and told me that you would be short-lived, for you would be killed by a spear of iron."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "πρὸς ὧν τὴν ὄψιν ταύτην τόν τε γάμον τοι τοῦτον ἔσπευσα καὶ ἐπὶ τὰ παραλαμβανόμενα οὐκ ἀποπέμπω, φυλακὴν ἔχων, εἴ κως δυναίμην ἐπὶ τῆς ἐμῆς σε ζόης διακλέψαι. εἷς γὰρ μοι μοῦνος τυγχάνεις ἐὼν παῖς· τὸν γὰρ δὴ ἕτερον διεφθαρμένον τὴν ἀκοὴν οὐκ εἶναί μοι λογίζομαι.",
+        "translations": [
+          "It is because of that vision that I hurried your marriage and do not send you on any enterprise that I have in hand, but keep guard over you, so that perhaps I may rob death of you during my lifetime. You are my only son: for that other, since he is ruined, he doesn't exist for me.”"
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

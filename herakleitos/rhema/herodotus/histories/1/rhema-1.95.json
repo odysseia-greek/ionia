@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.95",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.95/",
+    "rhemai": [
+      {
+        "greek": "ἐπιδίζηται δὲ δὴ τὸ ἐνθεῦτεν ἡμῖν ὁ λόγος τόν τε Κῦρον ὅστις ἐὼν τὴν Κροίσου ἀρχὴν κατεῖλε, καὶ τοὺς Πέρσας ὅτεῳ τρόπῳ ἡγήσαντο τῆς Ἀσίης. ὡς ὦν Περσέων μετεξέτεροι λέγουσι, οἱ μὴ βουλόμενοι σεμνοῦν τὰ περὶ Κῦρον ἀλλὰ τὸν ἐόντα λέγειν λόγον, κατὰ ταῦτα γράψω, ἐπιστάμενος περὶ Κύρου καὶ τριφασίας ἄλλας λόγων ὁδοὺς φῆναι.",
+        "translations": [
+          "But the next business of my history is to inquire who this Cyrus was who took down the power of Croesus, and how the Persians came to be the rulers of Asia. I mean then to be guided in what I write by some of the Persians who desire not to magnify the story of Cyrus but to tell the truth, though there are no less than three other accounts of Cyrus which I could give."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Ἀσσυρίων ἀρχόντων τῆς ἄνω Ἀσίης ἐπʼ ἔτεα εἴκοσι καὶ πεντακόσια, πρῶτοι ἀπʼ αὐτῶν Μῆδοι ἤρξαντο ἀπίστασθαι, καὶ κως οὗτοι περὶ τῆς ἐλευθερίης μαχεσάμενοι τοῖσι Ἀσσυρίοισι ἐγένοντο ἄνδρες ἀγαθοί, καὶ ἀπωσάμενοι τὴν δουλοσύνην ἐλευθερώθησαν. μετὰ δὲ τούτους καὶ τὰ ἄλλα ἔθνεα ἐποίεε τὠυτὸ τοῖσι Μήδοισι.",
+        "translations": [
+          "After the Assyrians had ruled Upper Asia for five hundred and twenty years, the Medes were the first who began to revolt from them. These, it would seem, proved their bravery in fighting for freedom against the Assyrians; they cast off their slavery and won freedom. Afterwards, the other subject nations, too, did the same as the Medes."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.49",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.49/",
+    "rhemai": [
+      {
+        "greek": "τὰ μὲν δὴ ἐκ Δελφῶν οὕτω τῷ, Κροίσῳ ἐχρήσθη· κατὰ δὲ τὴν Ἀμφιάρεω τοῦ μαντηίου ὑπόκρισιν, οὐκ ἔχω εἰπεῖν ὅ τι τοῖσι Λυδοῖσι ἔχρησε ποιήσασι περὶ τὸ ἱρὸν τὰ νομιζόμενα (οὐ γὰρ ὦν οὐδὲ τοῦτο λέγεται), ἄλλο γε ἢ ὅτι καὶ τοῦτο ἐνόμισε μαντήιον ἀψευδὲς ἐκτῆσθαι.",
+        "translations": [
+          "Such, then, was the answer from Delphi delivered to Croesus. As to the reply which the Lydians received from the oracle of Amphiaraus when they had followed the due custom of the temple, I cannot say what it was, for nothing is recorded of it, except that Croesus believed that from this oracle too he had obtained a true answer."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.145",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.145/",
+    "rhemai": [
+      {
+        "greek": "δυώδεκα δὲ μοι δοκέουσι πόλιας ποιήσασθαι οἱ Ἴωνες καὶ οὐκ ἐθελῆσαι πλεῦνας ἐσδέξασθαι τοῦδε εἵνεκα, ὅτι καὶ ὅτε ἐν Πελοποννήσῳ οἴκεον, δυώδεκα ἦν αὐτῶν μέρεα, κατά περ νῦν Ἀχαιῶν τῶν ἐξελασάντων Ἴωνας δυώδεκα ἐστὶ μέρεα, Πελλήνη μέν γε πρώτη πρὸς Σικυῶνος, μετὰ δὲ Αἴγειρα καὶ Αἰγαί, ἐν τῇ Κρᾶθις ποταμὸς ἀείναος ἐστί, ἀπʼ ὅτευ ὁ ἐν Ἰταλίῃ ποταμὸς τὸ οὔνομα ἔσχε, καὶ Βοῦρα καὶ Ἑλίκη, ἐς τὴν κατέφυγον Ἴωνες ὑπὸ Ἀχαιῶν μάχῃ ἑσσωθέντες, καὶ Αἴγίον καὶ Ῥύπες καὶ Πατρέες καὶ Φαρέες καὶ Ὤλενος, ἐν τῷ Πεῖρος ποταμὸς μέγας ἐστί, καὶ Δύμη καὶ Τριταιέες, οἳ μοῦνοι τούτων μεσόγαιοι οἰκέουσι. ταῦτα δυώδεκα μέρεα νῦν Ἀχαιῶν ἐστὶ καὶ τότε γε Ἰώνων ἦν.",
+        "translations": [
+          "As for the Ionians, the reason why they made twelve cities and would admit no more was in my judgment this: there were twelve divisions of them when they dwelt in the Peloponnese, just as there are twelve divisions of the Achaeans who drove the Ionians out— Pellene nearest to Sicyon; then Aegira and Aegae, where is the never-failing river Crathis, from which the river in Italy took its name; Bura and Helice, where the Ionians fled when they were worsted in battle by the Achaeans; Aegion; Rhype; Patrae; Phareae; and Olenus, where is the great river Pirus; Dyme and Tritaeae, the only inland city of all these—these were the twelve divisions of the Ionians, as they are now of the Achaeans."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

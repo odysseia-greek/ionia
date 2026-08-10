@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.199",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.199/",
+    "rhemai": [
+      {
+        "greek": "ὁ δὲ δὴ αἴσχιστος τῶν νόμων ἐστὶ τοῖσι Βαβυλωνίοισι ὅδε· δεῖ πᾶσαν γυναῖκα ἐπιχωρίην ἱζομένην ἐς ἱρὸν Ἀφροδίτης ἅπαξ ἐν τῇ ζόῃ μιχθῆναι ἀνδρὶ ξείνῳ. πολλαὶ δὲ καὶ οὐκ ἀξιούμεναι ἀναμίσγεσθαι τῇσι ἄλλῃσι, οἷα πλούτῳ ὑπερφρονέουσαι, ἐπὶ ζευγέων ἐν καμάρῃσι ἐλάσασαι πρὸς τὸ ἱρὸν ἑστᾶσι· θεραπηίη δέ σφι ὄπισθε ἕπεται πολλή.",
+        "translations": [
+          "The foulest Babylonian custom is that which compels every woman of the land to sit in the temple of Aphrodite and have intercourse with some stranger once in her life. Many women who are rich and proud and disdain to mingle with the rest, drive to the temple in covered carriages drawn by teams, and stand there with a great retinue of attendants."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "αἱ δὲ πλεῦνες ποιεῦσι ὧδε· ἐν τεμένεϊ Ἀφροδίτης κατέαται στέφανον περὶ τῇσι κεφαλῇσι ἔχουσαι θώμιγγος πολλαὶ γυναῖκες· αἳ μὲν γὰρ προσέρχονται, αἳ δὲ ἀπέρχονται. σχοινοτενέες δὲ διέξοδοι πάντα τρόπον ὁδῶν ἔχουσι διὰ τῶν γυναικῶν, διʼ ὧν οἱ ξεῖνοι διεξιόντες ἐκλέγονται·",
+        "translations": [
+          "But most sit down in the sacred plot of Aphrodite, with crowns of cord on their heads; there is a great multitude of women coming and going; passages marked by line run every way through the crowd, by which the men pass and make their choice."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἔνθα ἐπεὰν ἵζηται γυνή, οὐ πρότερον ἀπαλλάσσεται ἐς τὰ οἰκία ἤ τίς οἱ ξείνων ἀργύριον ἐμβαλὼν ἐς τὰ γούνατα μιχθῇ ἔξω τοῦ ἱροῦ· ἐμβαλόντα δὲ δεῖ εἰπεῖν τοσόνδε· ἐπικαλέω τοι τὴν θεὸν Μύλιττα. Μύλιττα δὲ καλέουσι τὴν Ἀφροδίτην Ἀσσύριοι.",
+        "translations": [
+          "Once a woman has taken her place there, she does not go away to her home before some stranger has cast money into her lap, and had intercourse with her outside the temple; but while he casts the money, he must say, “I invite you in the name of Mylitta ” (that is the Assyrian name for Aphrodite )."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τὸ δὲ ἀργύριον μέγαθος ἐστὶ ὅσον ὦν· οὐ γὰρ μὴ ἀπώσηται· οὐ γάρ οἱ θέμις ἐστί· γίνεται γὰρ ἱρὸν τοῦτο τὸ ἀργύριον. τῷ δὲ πρώτῳ ἐμβαλόντι ἕπεται οὐδὲ ἀποδοκιμᾷ οὐδένα. ἐπεὰν δὲ μιχθῇ, ἀποσιωσαμένη τῇ θεῷ ἀπαλλάσσεται ἐς τὰ οἰκία, καὶ τὠπὸ τούτου οὐκ οὕτω μέγα τί οἱ δώσεις ὥς μιν λάμψεαι.",
+        "translations": [
+          "It does not matter what sum the money is; the woman will never refuse, for that would be a sin, the money being by this act made sacred. So she follows the first man who casts it and rejects no one. After their intercourse, having discharged her sacred duty to the goddess, she goes away to her home; and thereafter there is no bribe however great that will get her."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ὅσσαι μέν νυν εἴδεός τε ἐπαμμέναι εἰσὶ καὶ μεγάθεος, ταχὺ ἀπαλλάσσονται, ὅσαι δὲ ἄμορφοι αὐτέων εἰσί, χρόνον πολλὸν προσμένουσι οὐ δυνάμεναι τὸν νόμον ἐκπλῆσαι· καὶ γὰρ τριέτεα καὶ τετραέτεα μετεξέτεραι χρόνον μένουσι. ἐνιαχῇ δὲ καὶ τῆς Κύπρου ἐστὶ παραπλήσιος τούτῳ νόμος.",
+        "translations": [
+          "So then the women that are fair and tall are soon free to depart, but the uncomely have long to wait because they cannot fulfill the law; for some of them remain for three years, or four. There is a custom like this in some parts of Cyprus."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

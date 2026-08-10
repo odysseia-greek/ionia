@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+package thoukydides.v1;
+option go_package = "github.com/odysseia-greek/ionia/thoukydides/gen/go/v1;thoukydidesv1";
+
+import "google/protobuf/empty.proto";
+
+service ThoukydidesService {
+  rpc Health(google.protobuf.Empty) returns (HealthResponse);
+  rpc ListForms(ListFormsRequest) returns (ListFormsResponse);
+  rpc GetForm(GetFormRequest) returns (Form);
+  rpc StartReading(StartReadingRequest) returns (ReadingSession);
+  rpc GetReading(GetReadingRequest) returns (ReadingSession);
+}
+
+message HealthResponse { bool healthy = 1; string time = 2; string version = 3; }
+message Form { string id = 1; string blob = 2; }
+message ListFormsRequest { int32 size = 1; }
+message ListFormsResponse { repeated Form forms = 1; }
+message GetFormRequest { string id = 1; }
+message StartReadingRequest {
+  string user_id = 1;
+  string author = 2;
+  string book = 3;
+  string reference = 4;
+  string section = 5;
+}
+message GetReadingRequest { string id = 1; }
+message ReadingSession {
+  string id = 1;
+  string user_id = 2;
+  string author = 3;
+  string book = 4;
+  string reference = 5;
+  string section = 6;
+  string created_at = 7;
+}

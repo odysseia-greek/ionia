@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.30",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.30/",
+    "rhemai": [
+      {
+        "greek": "αὐτῶν δὴ ὦν τούτων καὶ τῆς θεωρίης ἐκδημήσας ὁ Σόλων εἵνεκεν ἐς Αἴγυπτον ἀπίκετο παρὰ Ἄμασιν καὶ δὴ καὶ ἐς Σάρδις παρὰ Κροῖσον. ἀπικόμενος δὲ ἐξεινίζετο ἐν τοῖσι βασιληίοισι ὑπὸ τοῦ Κροίσου· μετὰ δὲ ἡμέρῃ τρίτῃ ἢ τετάρτῃ κελεύσαντος Κροίσου τὸν Σόλωνα θεράποντες περιῆγον κατὰ τοὺς θησαυρούς, καὶ ἐπεδείκνυσαν πάντα ἐόντα μεγάλα τε καὶ ὄλβια.",
+        "translations": [
+          "So for that reason, and to see the world, Solon went to visit Amasis in Egypt and then to Croesus in Sardis. When he got there, Croesus entertained him in the palace, and on the third or fourth day Croesus told his attendants to show Solon around his treasures, and they pointed out all those things that were great and blest."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "θεησάμενον δέ μιν τὰ πάντα καὶ σκεψάμενον ὥς οἱ κατὰ καιρὸν ἦν, εἴρετο ὁ Κροῖσος τάδε. ξεῖνε Ἀθηναῖε, παρʼ ἡμέας γὰρ περὶ σέο λόγος ἀπῖκται πολλὸς καὶ σοφίης εἵνεκεν τῆς σῆς καὶ πλάνης, ὡς φιλοσοφέων γῆν πολλὴν θεωρίης εἵνεκεν ἐπελήλυθας· νῦν ὦν ἐπειρέσθαι με ἵμερος ἐπῆλθέ σε εἴ τινα ἤδη πάντων εἶδες ὀλβιώτατον.",
+        "translations": [
+          "After Solon had seen everything and had thought about it, Croesus found the opportunity to say, “My Athenian guest, we have heard a lot about you because of your wisdom and of your wanderings, how as one who loves learning you have traveled much of the world for the sake of seeing it, so now I desire to ask you who is the most fortunate man you have seen.”"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὃ μὲν ἐλπίζων εἶναι ἀνθρώπων ὀλβιώτατος ταῦτα ἐπειρώτα· Σόλων δὲ οὐδὲν ὑποθωπεύσας ἀλλὰ τῷ ἐόντι χρησάμενος λέγει ὦ βασιλεῦ, Τέλλον Ἀθηναῖον.",
+        "translations": [
+          "Croesus asked this question believing that he was the most fortunate of men, but Solon, offering no flattery but keeping to the truth, said, “O King, it is Tellus the Athenian.”"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἀποθωμάσας δὲ Κροῖσος τὸ λεχθὲν εἴρετο ἐπιστρεφέως· κοίῃ δὴ κρίνεις Τέλλον εἶναι ὀλβιώτατον; ὁ δὲ εἶπε Τέλλῳ τοῦτο μὲν τῆς πόλιος εὖ ἡκούσης παῖδες ἦσαν καλοί τε κἀγαθοί, καί σφι εἶδε ἅπασι τέκνα ἐκγενόμενα καὶ πάντα παραμείναντα· τοῦτο δὲ τοῦ βίου εὖ ἥκοντι, ὡς τὰ παρʼ ἡμῖν, τελευτὴ τοῦ βίου λαμπροτάτη ἐπεγένετο·",
+        "translations": [
+          "Croesus was amazed at what he had said and replied sharply, “In what way do you judge Tellus to be the most fortunate?” Solon said, “ Tellus was from a prosperous city, and his children were good and noble. He saw children born to them all, and all of these survived. His life was prosperous by our standards, and his death was most glorious:"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "γενομένης γὰρ Ἀθηναίοισι μάχης πρὸς τοὺς ἀστυγείτονας ἐν Ἐλευσῖνι, βοηθήσας καὶ τροπὴν ποιήσας τῶν πολεμίων ἀπέθανε κάλλιστα, καί μιν Ἀθηναῖοι δημοσίῃ τε ἔθαψαν αὐτοῦ τῇ περ ἔπεσε καὶ ἐτίμησαν μεγάλως.",
+        "translations": [
+          "when the Athenians were fighting their neighbors in Eleusis, he came to help, routed the enemy, and died very finely. The Athenians buried him at public expense on the spot where he fell and gave him much honor.”"
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

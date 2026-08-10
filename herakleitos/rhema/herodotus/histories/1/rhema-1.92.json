@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.92",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.92/",
+    "rhemai": [
+      {
+        "greek": "Κροίσῳ δὲ ἐστὶ ἄλλα ἀναθήματα ἐν τῇ Ἑλλάδι πολλὰ καὶ οὐ τὰ εἰρημένα μοῦνα. ἐν μὲν γὰρ Θήβῃσι τῇσι Βοιωτῶν τρίπους χρύσεος, τὸν ἀνέθηκέ τῷ Ἀπόλλωνι τῷ Ἰσμηνίῳ, ἐν δὲ Ἐφέσῳ αἵ τε βόες αἱ χρύσεαι καὶ τῶν κιόνων αἱ πολλαί, ἐν δὲ Προνηίης τῆς ἐν Δελφοῖσι ἀσπὶς χρυσέη μεγάλη. ταῦτα μὲν καὶ ἔτι ἐς ἐμὲ ἦν περιεόντα, τὰ δʼ ἐξαπόλωλε τῶν ἀναθημάτων·",
+        "translations": [
+          "There are many offerings of Croesus ' in Hellas, and not only those of which I have spoken. There is a golden tripod at Thebes in Boeotia, which he dedicated to Apollo of Ismenus; at Ephesus there are the oxen of gold and the greater part of the pillars; and in the temple of Proneia at Delphi, a golden shield. All these survived to my lifetime; but other of the offerings were destroyed."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τὰ δʼ ἐν Βραγχίδῃσι τῇσι Μιλησίων ἀναθήματα Κροίσῳ, ὡς ἐγὼ πυνθάνομαι, ἴσα τε σταθμὸν καὶ ὅμοια τοῖσι ἐν Δελφοῖσι τὰ μέν νυν ἔς τε Δελφοὺς καὶ ἐς τοῦ Ἀμφιάρεω ἀνέθηκε οἰκήιά τε ἐόντα καὶ τῶν πατρωίων χρημάτων ἀπαρχήν· τὰ δὲ ἄλλα ἀναθήματα ἐξ ἀνδρὸς ἐγένετο οὐσίης ἐχθροῦ, ὅς οἱ πρὶν ἢ βασιλεῦσαι ἀντιστασιώτης κατεστήκεε, συσπεύδων Πανταλέοντι γενέσθαι τὴν Λυδῶν ἀρχήν.",
+        "translations": [
+          "And the offerings of Croesus at Branchidae of the Milesians, as I learn by inquiry, are equal in weight and like those at Delphi. Those which he dedicated at Delphi and the shrine of Amphiaraus were his own, the first-fruits of the wealth inherited from his father; the rest came from the estate of an enemy who had headed a faction against Croesus before he became king, and conspired to win the throne of Lydia for Pantaleon."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὁ δὲ Πανταλέων ἦν Ἀλυάττεω μὲν παῖς, Κροίσου δὲ ἀδελφεὸς οὐκ ὁμομήτριος· Κροῖσος μὲν γὰρ ἐκ Καείρης ἦν γυναικὸς Ἀλυάττῃ, Πανταλέων δὲ ἐξ Ἰάδος.",
+        "translations": [
+          "This Pantaleon was a son of Alyattes, and half-brother of Croesus: Croesus was Alyattes ' son by a Carian and Pantaleon by an Ionian mother."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἐπείτε δὲ δόντος τοῦ πατρὸς ἐκράτησε τῆς ἀρχῆς ὁ Κροῖσος, τὸν ἄνθρωπον τὸν ἀντιπρήσσοντα ἐπὶ κνάφου ἕλκων διέφθειρε, τὴν δὲ οὐσίην αὐτοῦ ἔτι πρότερον κατιρώσας τότε τρόπῳ τῷ εἰρημένῳ ἀνέθηκε ἐς τὰ εἴρηται. καὶ περὶ μὲν ἀναθημάτων τοσαῦτα εἰρήσθω.",
+        "translations": [
+          "So when Croesus gained the sovereignty by his father's gift, he put the man who had conspired against him to death by drawing him across a carding-comb, and first confiscated his estate, then dedicated it as and where I have said. This is all that I shall say of Croesus ' offerings."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.164",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.164/",
+    "rhemai": [
+      {
+        "greek": "τὸ μὲν δὴ τεῖχος τοῖσι Φωκαιεῦσι τρόπῳ τοιῷδε ἐξεποιήθη. ὁ δὲ Ἅρπαγος ὡς ἐπήλασε τὴν στρατιήν, ἐπολιόρκεε αὐτούς, προισχόμενος ἔπεα ὥς οἱ καταχρᾷ εἰ βούλονται Φωκαιέες προμαχεῶνα ἕνα μοῦνον τοῦ τείχεος ἐρεῖψαι καὶ οἴκημα ἓν κατιρῶσαι.",
+        "translations": [
+          "In such a manner the Phocaeans ' wall was built. Harpagus marched against the city and besieged it, but he made overtures, and said that it would suffice him if the Phocaeans would demolish one rampart of the wall and dedicate one house."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οἱ δὲ Φωκαιέες περιημεκτέοντες τῇ δουλοσύνη ἔφασαν θέλειν βουλεύσασθαι ἡμέρην μίαν καὶ ἔπειτα ὑποκρινέεσθαι·",
+        "translations": [
+          "But the Phocaeans, very indignant at the thought of slavery, said they wanted to deliberate for a day, and then they would answer; but while they were deliberating, Harpagus must withdraw his army from the walls, they said. Harpagus said that he well knew what they intended to do, but that nevertheless he would allow them to deliberate."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐν ᾧ δὲ βουλεύονται αὐτοί, ἀπαγαγεῖν ἐκεῖνον ἐκέλευον τὴν στρατιὴν ἀπὸ τοῦ τείχεος. ὁ δʼ Ἅρπαγος ἔφη εἰδέναι μὲν εὖ τὰ ἐκεῖνοι μέλλοιεν ποιέειν, ὅμως δὲ σφι παριέναι βουλεύσασθαι. ἐν ᾧ ὦν ὁ Ἅρπαγος ἀπὸ τοῦ τείχεος ἀπήγαγε τὴν στρατιήν, οἱ Φωκαιέες ἐν τούτῳ κατασπάσαντες τὰς πεντηκοντέρους, ἐσθέμενοι τέκνα καὶ γυναῖκας καὶ ἔπιπλα πάντα, πρὸς δὲ καὶ τὰ ἀγάλματα τὰ ἐν τῶν ἱρῶν καὶ τὰ ἄλλα ἀναθήματα, χωρὶς ὅ τι χαλκὸς ἢ λίθος ἢ γραφὴ ἦν, τὰ δὲ ἄλλα πάντα ἐσθέντες καὶ αὐτοὶ εἰσβάντες ἔπλεον ἐπὶ Χίου. τὴν δὲ Φωκαίην ἐρημωθεῖσαν ἀνδρῶν ἔσχον οἱ Πέρσαι.",
+        "translations": [
+          "So when Harpagus withdrew his army from the walls, the Phocaeans launched their fifty-oared ships, embarked their children and women and all their movable goods, besides the statues from the temples and everything dedicated in them except bronze or stonework or painting, and then embarked themselves and set sail for Chios; and the Persians took Phocaea, left thus uninhabited."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

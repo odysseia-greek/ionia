@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.123",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.123/",
+    "rhemai": [
+      {
+        "greek": "ἐνθεῦτεν μὲν ἡ φάτις αὕτη κεχώρηκε. Κύρῳ δὲ ἀνδρευμένῳ καὶ ἐόντι τῶν ἡλίκων ἀνδρηιοτάτῳ καὶ προσφιλεστάτῳ προσέκειτο ὁ Ἅρπαγος δῶρα πέμπων, τίσασθαι Ἀστυάγεα ἐπιθυμέων· ἀπʼ ἑωυτοῦ γὰρ ἐόντος ἰδιώτεω οὐκ ἐνώρα τιμωρίην ἐσομένην ἐς Ἀστυάγεα, Κῦρον δὲ ὁρέων ἐπιτρεφόμενον ἐποιέετο σύμμαχον, τὰς πάθας τὰς Κύρου τῇσι ἑωυτοῦ ὁμοιούμενος.",
+        "translations": [
+          "This then was the beginning of that legend. But as Cyrus grew up to be the manliest and best loved of his peers, Harpagus courted him and sent him gifts, wishing to be avenged on Astyages; for he saw no hope for a private man like himself of punishing Astyages, but as he saw Cyrus growing up, he tried to make him an ally, for he likened Cyrus ' misfortune to his own."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "πρὸ δʼ ἔτι τούτου τάδε οἱ κατέργαστο· ἐόντος τοῦ Ἀστυάγεος πικροῦ ἐς τοὺς Μήδους, συμμίσγων ἑνὶ ἑκάστῳ ὁ Ἅρπαγος τῶν πρώτων Μήδων ἀνέπειθε ὡς χρὴ Κῦρον προστησαμένους Ἀστυάγεα παῦσαι τῆς βασιληίης.",
+        "translations": [
+          "Even before this the following had been done by him: since Astyages was harsh toward the Medes, he associated with each of the chief Medes and persuaded them to make Cyrus their leader and depose Astyages."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "κατεργασμένου δέ οἱ τούτου καὶ ἐόντος ἑτοίμου, οὕτω δὴ τῷ Κύρῳ διαιτωμένῳ ἐν Πέρσῃσι βουλόμενος Ἅρπαγος δηλῶσαι τὴν ἑωυτοῦ γνώμην ἄλλως μὲν οὐδαμῶς εἶχε ἅτε τῶν ὁδῶν φυλασσομενέων, ὁ δὲ ἐπιτεχνᾶται τοιόνδε·",
+        "translations": [
+          "So much being ready and done, Harpagus wanted to reveal his intent to Cyrus, who then lived among the Persians. But the roads were guarded, and he had no plan for sending a message but this:"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "λαγὸν μηχανησάμενος, καὶ ἀνασχίσας τούτου τὴν γαστέρα καὶ οὐδὲν ἀποτίλας, ὡς δὲ εἶχε οὕτω ἐσέθηκε βυβλίον, γράψας τά οἱ ἐδόκεε· ἀπορράψας δὲ τοῦ λαγοῦ τὴν γαστέρα, καὶ δίκτυα δοὺς ἅτε θηρευτῇ τῶν οἰκετέων τῷ πιστοτάτῳ, ἀπέστελλε ἐς τοὺς Πέρσας, ἐντειλάμενὸς οἱ ἀπὸ γλώσσης διδόντα τὸν λαγὸν Κύρῳ ἐπειπεῖν αὐτοχειρίῃ μιν διελεῖν καὶ μηδένα οἱ ταῦτα ποιεῦντι παρεῖναι.",
+        "translations": [
+          "he carefully slit the belly of a hare, and then leaving it as it was without further harm he put into it a paper on which he wrote what he thought best. Then he sewed up the hare's belly, and sent it to Persia by the most trusted of his servants, giving him nets to carry as if he were a huntsman. The messenger was instructed to give Cyrus the hare and tell him by word of mouth to cut it open with his own hands, with no one else present."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

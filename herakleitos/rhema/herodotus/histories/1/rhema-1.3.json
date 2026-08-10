@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.3",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.3/",
+    "rhemai": [
+      {
+        "greek": "δευτέρῃ δὲ λέγουσι γενεῇ μετὰ ταῦτα Ἀλέξανδρον τὸν Πριάμου, ἀκηκοότα ταῦτα, ἐθελῆσαί οἱ ἐκ τῆς Ἑλλάδος διʼ ἁρπαγῆς γενέσθαι γυναῖκα, ἐπιστάμενον πάντως ὅτι οὐ δώσει δίκας. οὐδὲ γὰρ ἐκείνους διδόναι.",
+        "translations": [
+          "Then (they say), in the second generation after this, Alexandrus, son of Priam, who had heard this tale, decided to get himself a wife from Hellas by capture; for he was confident that he would not suffer punishment."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὕτω δὴ ἁρπάσαντος αὐτοῦ Ἑλένην, τοῖσι Ἕλλησι δόξαι πρῶτὸν πέμψαντας ἀγγέλους ἀπαιτέειν τε Ἑλένην καὶ δίκας τῆς ἁρπαγῆς αἰτέειν. τοὺς δέ, προϊσχομένων ταῦτα, προφέρειν σφι Μηδείης τὴν ἁρπαγήν, ὡς οὐ δόντες αὐτοὶ δίκας οὐδὲ ἐκδόντες ἀπαιτεόντων βουλοίατό σφι παρʼ ἄλλων δίκας γίνεσθαι.",
+        "translations": [
+          "So he carried off Helen. The Greeks first resolved to send messengers demanding that Helen be restored and atonement made for the seizure; but when this proposal was made, the Trojans pleaded the seizure of Medea, and reminded the Greeks that they asked reparation from others, yet made none themselves, nor gave up the booty when asked."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.169",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.169/",
+    "rhemai": [
+      {
+        "greek": "οὗτοὶ μέν νυν Ἰώνων μοῦνοι τὴν δουλοσύνην οὐκ ἀνεχόμενοι ἐξέλιπον τὰς πατρίδας· οἱ δʼ ἄλλοι Ἴωνες πλὴν Μιλησίων διὰ μάχης μὲν ἀπίκοντο Ἁρπάγῳ κατά περ οἱ ἐκλιπόντες, καὶ ἄνδρες ἐγένοντο ἀγαθοὶ περὶ τῆς ἑωυτοῦ ἕκαστος μαχόμενοι, ἑσσωθέντες δὲ καὶ ἁλόντες ἔμενον κατὰ χώρην ἕκαστοι καὶ τὰ ἐπιτασσόμενα ἐπετέλεον.",
+        "translations": [
+          "These were the only Ionians who left their native lands, unable to endure slavery. The rest of the Ionians, except the Milesians, though they faced Harpagus in battle as did the exiles, and conducted themselves well, each fighting for his own country, yet, when they were defeated and their cities taken, they remained where they were and did as they were told."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Μιλήσιοι δέ, ὡς καὶ πρότερόν μοι ἔρηται, αὐτῷ Κύρῳ ὅρκιον ποιησάμενοι ἡσυχίην ἦγον. οὕτω δὴ τὸ δεύτερον Ἰωνίη ἐδεδούλωτο. ὡς δὲ τοὺς ἐν τῇ ἠπείρῳ Ἴωνας ἐχειρώσατο Ἅρπαγος, οἱ τὰς νήσους ἔχοντες Ἴωνες καταρρωδήσαντες ταῦτα σφέας αὐτοὺς ἔδοσαν Κύρῳ.",
+        "translations": [
+          "The Milesians, as I have already said, made a treaty with Cyrus himself and struck no blow. Thus Ionia was enslaved for the second time: and when Harpagus had conquered the Ionians of the mainland, the Ionians of the islands, fearing the same fate, surrendered to Cyrus."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

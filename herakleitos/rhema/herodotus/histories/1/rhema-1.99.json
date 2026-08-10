@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.99",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.99/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα μὲν δὴ ὁ Δηιόκης ἑωυτῷ τε ἐτείχεε καὶ περὶ τὰ ἑωυτοῦ οἰκία, τὸν δὲ ἄλλον δῆμον πέριξ ἐκέλευε τὸ τεῖχος οἰκέειν. οἰκοδομηθέντων δὲ πάντων κόσμον τόνδε Δηιόκης πρῶτος ἐστὶ ὁ καταστησάμενος, μήτε ἐσιέναι παρὰ βασιλέα μηδένα, διʼ ἀγγέλων δὲ πάντα χρᾶσθαι, ὁρᾶσθαι τε βασιλέα ὑπὸ μηδενός, πρός τε τούτοισι ἔτι γελᾶν τε καὶ ἀντίον πτύειν καὶ ἅπασι εἶναι τοῦτό γε αἰσχρόν.",
+        "translations": [
+          "Deioces built these walls for himself and around his own quarters, and he ordered the people to dwell outside the wall. And when it was all built, Deioces was first to establish the rule that no one should come into the presence of the king, but everything should be done by means of messengers; that the king should be seen by no one; and moreover that it should be a disgrace for anyone to laugh or to spit in his presence."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ταῦτα δὲ περὶ ἑωυτὸν ἐσέμνυνε τῶνδε εἵνεκεν, ὅκως ἂν μὴ ὁρῶντες οἱ ὁμήλικες, ἐόντες σύντροφοί τε ἐκείνῳ καὶ οἰκίης οὐ φλαυροτέρης οὐδὲ ἐς ἀνδραγαθίην λειπόμενοι, λυπεοίατο καὶ ἐπιβουλεύοιεν, ἀλλʼ ἑτεροῖός σφι δοκέοι εἶναι μὴ ὁρῶσι.",
+        "translations": [
+          "He was careful to hedge himself with all this so that the men of his own age (who had been brought up with him and were as nobly born as he and his equals in courage), instead of seeing him and being upset and perhaps moved to plot against him, might by reason of not seeing him believe him to be different."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

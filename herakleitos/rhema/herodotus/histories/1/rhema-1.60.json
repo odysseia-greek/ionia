@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.60",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.60/",
+    "rhemai": [
+      {
+        "greek": "μετὰ δὲ οὐ πολλὸν χρόνον τὠυτὸ φρονήσαντες οἵ τε τοῦ Μεγακλέος στασιῶται καὶ οἱ τοῦ Λυκούργου ἐξελαύνουσί μιν. οὕτω μὲν Πεισίστρατος ἔσχε τὸ πρῶτον Ἀθήνας, καὶ τὴν τυραννίδα οὔκω κάρτα ἐρριζωμένην ἔχων ἀπέβαλε. οἳ δὲ ἐξελάσαντες Πεισίστρατον αὖτις ἐκ νέης ἐπʼ ἀλλήλοισι ἐστασίασαν.",
+        "translations": [
+          "But after a short time the partisans of Megacles and of Lycurgus made common cause and drove him out. In this way Pisistratus first got Athens and, as he had a sovereignty that was not yet firmly rooted, lost it. Presently his enemies who together had driven him out began to feud once more."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "περιελαυνόμενος δὲ τῇ στάσι ὁ Μεγακλέης ἐπεκηρυκεύετο Πεισιστράτῳ, εἰ βούλοιτό οἱ τὴν θυγατέρα ἔχειν γυναῖκα ἐπὶ τῇ τυραννίδι.",
+        "translations": [
+          "Then Megacles, harassed by factional strife, sent a message to Pisistratus offering him his daughter to marry and the sovereign power besides."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐνδεξαμένου δὲ τὸν λόγον καὶ ὁμολογήσαντος ἐπὶ τούτοισι Πεισιστράτου, μηχανῶνται δὴ ἐπὶ τῇ κατόδῳ πρῆγμα εὐηθέστατον, ὡς ἐγὼ εὑρίσκω, μακρῷ, ἐπεί γε ἀπεκρίθη ἐκ παλαιτέρου τοῦ βαρβάρου ἔθνεος τὸ Ἑλληνικὸν ἐὸν καὶ δεξιώτερον καὶ εὐηθείης ἠλιθίου ἀπηλλαγμένον μᾶλλον, εἰ καὶ τότε γε οὗτοι ἐν Ἀθηναίοισι τοῖσι πρώτοισι λεγομένοισι εἶναι Ἑλλήνων σοφίην μηχανῶνται τοιάδε.",
+        "translations": [
+          "When this offer was accepted by Pisistratus, who agreed on these terms with Megacles, they devised a plan to bring Pisistratus back which, to my mind, was so exceptionally foolish that it is strange (since from old times the Hellenic stock has always been distinguished from foreign by its greater cleverness and its freedom from silly foolishness) that these men should devise such a plan to deceive Athenians, said to be the subtlest of the Greeks."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἐν τῷ δήμῳ τῷ Παιανιέι ἦν γυνὴ τῇ οὔνομα ἦν Φύη, μέγαθος ἀπὸ τεσσέρων πηχέων ἀπολείπουσα τρεῖς δακτύλους καὶ ἄλλως εὐειδής· ταύτην τὴν γυναῖκα σκευάσαντες πανοπλίῃ, ἐς ἅρμα ἐσβιβάσαντες καὶ προδέξαντες σχῆμα οἷόν τι ἔμελλε εὐπρεπέστατον φανέεσθαι ἔχουσα, ἤλαυνον ἐς τὸ ἄστυ, προδρόμους κήρυκας προπέμψαντες· οἳ τὰ ἐντεταλμένα ἠγόρευον ἀπικόμενοι ἐς τὸ ἄστυ, λέγοντες τοιάδε·",
+        "translations": [
+          "There was in the Paeanian deme a woman called Phya, three fingers short of six feet, four inches in height, and otherwise, too, well-formed. This woman they equipped in full armor and put in a chariot, giving her all the paraphernalia to make the most impressive spectacle, and so drove into the city; heralds ran before them, and when they came into town proclaimed as they were instructed:"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ὦ Ἀθηναῖοι, δέκεσθε ἀγαθῷ νόῳ Πεισίστρατον, τὸν αὐτὴ ἡ Ἀηθναίη τιμήσασα ἀνθρώπων μάλιστα κατάγει ἐς τὴν ἑωυτῆς ἀκρόπολιν. οἳ μὲν δὴ ταῦτα διαφοιτέοντες ἔλεγον· αὐτίκα δὲ ἔς τε τοὺς δήμους φάτις ἀπίκετο ὡς Ἀθηναίη Πεισίστρατον κατάγει, καὶ οἱ ἐν τῷ ἄστεϊ πειθόμενοι τὴν γυναῖκα εἶναι αὐτὴν τὴν θεὸν προσεύχοντό τε τὴν ἄνθρωπον καὶ ἐδέκοντο Πεισίστρατον.",
+        "translations": [
+          "“ Athenians, give a hearty welcome to Pisistratus, whom Athena herself honors above all men and is bringing back to her own acropolis.” So the heralds went about proclaiming this; and immediately the report spread in the demes that Athena was bringing Pisistratus back, and the townsfolk, believing that the woman was the goddess herself, worshipped this human creature and welcomed Pisistratus."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

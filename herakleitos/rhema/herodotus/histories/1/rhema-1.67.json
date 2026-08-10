@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.67",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.67/",
+    "rhemai": [
+      {
+        "greek": "κατὰ μὲν δὴ τὸν πρότερον πόλεμον συνεχέως αἰεὶ κακῶς ἀέθλεον πρὸς τοὺς Τεγεήτας, κατὰ δὲ τὸν κατὰ Κροῖσον χρόνον καὶ τὴν Ἀναξανδρίδεώ τε καὶ Ἀρίστωνος βασιληίην ἐν Λακεδαίμονι ἤδη οἱ Σπαρτιῆται κατυπέρτεροι τῷ πολέμῳ ἐγεγόνεσαν, τρόπῳ τοιῷδε γενόμενοι.",
+        "translations": [
+          "In the previous war the Lacedaemonians continually fought unsuccessfully against the Tegeans, but in the time of Croesus and the kingship of Anaxandrides and Ariston in Lacedaemon the Spartans had gained the upper hand. This is how:"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐπειδὴ αἰεὶ τῷ πολέμῳ ἑσσοῦντο ὑπὸ Τεγεητέων, πέμψαντες θεοπρόπους ἐς Δελφοὺς ἐπειρώτων τίνα ἂν θεῶν ἱλασάμενοι κατύπερθε τῷ πολέμῳ Τεγεητέων γενοίατο. ἡ δὲ Πυθίη σφι ἔχρησε τὰ Ὀρέστεω τοῦ Ἀγαμέμνονος ὀστέα ἐπαγαγομένους.",
+        "translations": [
+          "when they kept being defeated by the Tegeans, they sent ambassadors to Delphi to ask which god they should propitiate to prevail against the Tegeans in war. The Pythia responded that they should bring back the bones of Orestes, son of Agamemnon."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὡς δὲ ἀνευρεῖν οὐκ οἷοί τε ἐγίνοντο τὴν θήκην τοῦ Ὀρέστεω ἔπεμπον αὖτις τὴν ἐς θεὸν ἐπειρησομένους τὸν χῶρον ἐν τῷ κέοιτο Ὀρέστης. εἰρωτῶσι δὲ ταῦτα τοῖσι θεοπρόποισι λέγει ἡ Πυθίη τάδε.",
+        "translations": [
+          "When they were unable to discover Orestes ' tomb, they sent once more to the god to ask where he was buried. The Pythia responded in hexameter to the messengers:"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἔστι τις Ἀρκαδίης Τεγέη λευρῷ ἐνὶ χώρῳ, ἔνθʼ ἄνεμοι πνείουσι δύω κρατερῆς ὑπʼ ἀνάγκης, καὶ τύπος ἀντίτυπος, καὶ πῆμʼ ἐπὶ πήματι κεῖται. ἔνθʼ Ἀγαμεμνονίδην κατέχει φυσίζοος αἶα, τὸν σὺ κομισσάμενος Τεγέης ἐπιτάρροθος ἔσσῃ.",
+        "translations": [
+          "There is a place Tegea in the smooth plain of Arcadia, Where two winds blow under strong compulsion. Blow lies upon blow, woe upon woe. There the life-giving earth covers the son of Agamemnon. Bring him back, and you shall be lord of Tegea."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ὡς δὲ καὶ ταῦτα ἤκουσαν οἱ Λακεδαιμόνιοι, ἀπεῖχον τῆς ἐξευρέσιος οὐδὲν ἔλασσον, πάντα διζήμενοι, ἐς οὗ δὴ Λίχης τῶν ἀγαθοεργῶν καλεομένων Σπαρτιητέων ἀνεῦρε, οἱ δὲ ἀγαθοεργοὶ εἰσὶ τῶν ἀστῶν, ἐξιόντες ἐκ τῶν ἱππέων αἰεὶ οἱ πρεσβύτατοι, πέντε ἔτεος ἑκάστου· τοὺς δεῖ τοῦτὸν τὸν ἐνιαυτόν, τὸν ἂν ἐξίωσι ἐκ τῶν ἱππέων, Σπαρτιητέων τῷ κοινῷ διαπεμπομένους μὴ ἐλινύειν ἄλλους ἄλλῃ.",
+        "translations": [
+          "When the Lacedaemonians heard this, they were no closer to discovery, though they looked everywhere. Finally it was found by Lichas, who was one of the Spartans who are called “doers of good deeds.”. These men are those citizens who retire from the knights, the five oldest each year. They have to spend the year in which they retire from the knights being sent here and there by the Spartan state, never resting in their efforts."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

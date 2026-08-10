@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.170",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.170/",
+    "rhemai": [
+      {
+        "greek": "κεκακωμένων δὲ Ἰώνων καὶ συλλεγομένων οὐδὲν ἧσσον ἐς τὸ Πανιώνιον, πυνθάνομαι γνώμην Βίαντα ἄνδρα Πριηνέα ἀποδέξασθαι Ἴωσι χρησιμωτάτην, τῇ εἰ ἐπείθοντο, παρεῖχε ἂν σφι εὐδαιμονέειν Ἑλλήνων μάλιστα·",
+        "translations": [
+          "When the Ionians, despite their evil plight, nonetheless assembled at the Panionion, Bias of Priene, I have learned, gave them very useful advice, and had they followed it they might have been the most prosperous of all Greeks:"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὃς ἐκέλευε κοινῷ στόλῳ Ἴωνας ἀερθέντας πλέειν ἐς Σαρδὼ καὶ ἔπειτα πόλιν μίαν κτίζειν πάντων Ἰώνων, καὶ οὕτω ἀπαλλαχθέντας σφέας δουλοσύνης εὐδαιμονήσειν, νήσων τε ἁπασέων μεγίστην νεμομένους καὶ ἄρχοντας ἄλλων· μένουσι δέ σφι ἐν τῇ Ἰωνίῃ οὐκ ἔφη ἐνορᾶν ἐλευθερίην ἔτι ἐσομένην.",
+        "translations": [
+          "for he advised them to put out to sea and sail all together to Sardo and then found one city for all Ionians: thus, possessing the greatest island in the world and ruling others, they would be rid of slavery and have prosperity; but if they stayed in Ionia he could see (he said) no hope of freedom for them."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "αὕτη μὲν Βίαντος τοῦ Πριηνέος γνώμη ἐπὶ διεφθαρμένοισι Ἴωσι γενομένη, χρηστὴ δὲ καὶ πρὶν ἢ διαφθαρῆναι Ἰωνίην Θάλεω ἀνδρὸς Μιλησίου ἐγένετο, τὸ ἀνέκαθεν γένος ἐόντος Φοίνικος, ὃς ἐκέλευε ἓν βουλευτήριον Ἴωνας ἐκτῆσθαι, τὸ δὲ εἶναι ἐν Τέῳ (Τέων γὰρ μέσον εἶναι Ἰωνίης), τὰς δὲ ἄλλας πόλιας οἰκεομένας μηδὲν ἧσσον νομίζεσθαι κατά περ ἐς δῆμοι εἶεν· οὗτοι μὲν δή σφι γνώμας τοιάσδε ἀπεδέξαντο.",
+        "translations": [
+          "This was the advice which Bias of Priene gave after the destruction of the Ionians; and that given before the destruction by Thales of Miletus, a Phoenician by descent, was good too; he advised that the Ionians have one place of deliberation, and that it be in Teos (for that was the center of Ionia ), and that the other cities be considered no more than demes. Thus Bias and Thales advised."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

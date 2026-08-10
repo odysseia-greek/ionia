@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.14",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.14/",
+    "rhemai": [
+      {
+        "greek": "τὴν μὲν δὴ τυραννίδα οὕτω ἔσχον οἱ Μερμνάδαι τοὺς Ἡρακλείδας ἀπελόμενοι, Γύγης δὲ τυραννεύσας ἀπέπεμψε ἀναθήματα ἐς Δελφοὺς οὐκ ὀλίγα, ἀλλʼ ὅσα μὲν ἀργύρου ἀναθήματα, ἔστι οἱ πλεῖστα ἐν Δελφοῖσι, πάρεξ δὲ τοῦ ἀργύρου χρυσὸν ἄπλετον ἀνέθηκε ἄλλον τε καὶ τοῦ μάλιστα μνήμην ἄξιον ἔχειν ἐστί, κρητῆρες οἱ ἀριθμὸν ἓξ χρύσεοι ἀνακέαται.",
+        "translations": [
+          "Thus the Mermnadae robbed the Heraclidae of the sovereignty and took it for themselves. Having gotten it, Gyges sent many offerings to Delphi: there are very many silver offerings of his there; and besides the silver, he dedicated a hoard of gold, among which six golden bowls are the offerings especially worthy of mention."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἑστᾶσι δὲ οὗτοι ἐν τῷ Κορινθίων θησαυρῷ, σταθμὸν ἔχοντες τριήκοντα τάλαντα· ἀληθέι δὲ λόγῳ χρεωμένῳ οὐ Κορινθίων τοῦ δημοσίου ἐστὶ ὁ θησαυρός, ἀλλὰ Κυψέλου τοῦ Ἠετίωνος. οὗτος δὲ ὁ Γύγης πρῶτος βαρβάρων τῶν ἡμεῖς ἴδμεν ἐς Δελφοὺς ἀνέθηκε ἀναθήματα μετὰ Μίδην τὸν Γορδίεω Φρυγίης βασιλέα.",
+        "translations": [
+          "These weigh thirty talents and stand in the treasury of the Corinthians; although in truth it is not the treasury of the Corinthian people but of Cypselus son of Eetion. This Gyges then was the first foreigner whom we know who placed offerings at Delphi after the king of Phrygia, Midas son of Gordias."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἀνέθηκε γὰρ δὴ καὶ Μίδης τὸν βασιλήιον θρόνον ἐς τὸν προκατίζων ἐδίκαζε, ἐόντα ἀξιοθέητον· κεῖται δὲ ὁ θρόνος οὗτος ἔνθα περ οἱ τοῦ Γύγεω κρητῆρες. ὁ δὲ χρυσός οὗτος καὶ ὁ ἄργυρος τὸν ὁ Γύγης ἀνέθηκε, ὑπὸ Δελφῶν καλέεται Γυγάδας ἐπὶ τοῦ ἀναθέντος ἐπωνυμίην.",
+        "translations": [
+          "For Midas too made an offering: namely, the royal seat on which he sat to give judgment, and a marvellous seat it is. It is set in the same place as the bowls of Gyges. This gold and the silver offered by Gyges is called by the Delphians “ Gygian ” after its dedicator."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.79",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.79/",
+    "rhemai": [
+      {
+        "greek": "Κῦρος δὲ αὐτίκα ἀπελαύνοντος Κροίσου μετὰ τὴν μάχην τὴν γενομένην ἐν τῇ Πτερίῃ, μαθὼν ὡς ἀπελάσας μέλλοι Κροῖσος διασκεδᾶν τὸν στρατόν, βουλευόμενος εὕρισκε πρῆγμά οἷ εἶναι ἐλαύνειν ὡς δύναιτο τάχιστα ἐπὶ τὰς Σάρδις, πρὶν ἢ τὸ δεύτερον ἁλισθῆναι τῶν Λυδῶν τὴν δύναμιν.",
+        "translations": [
+          "When Croesus marched away after the battle in the Pterian country, Cyrus, learning that Croesus had gone intending to disband his army, deliberated and perceived that it would be opportune for him to march quickly against Sardis, before the power of the Lydians could be assembled again."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὡς δέ οἱ ταῦτα ἔδοξε, καὶ ἐποίεε κατὰ τάχος· ἐλάσας γὰρ τὸν στρατὸν ἐς τὴν Λυδίην αὐτὸς ἄγγελος Κροίσῳ ἐληλύθεε. ἐνθαῦτα Κροῖσος ἐς ἀπορίην πολλὴν ἀπιγμένος, ὥς οἱ παρὰ δόξαν ἔσχε τὰ πρήγματα ἢ ὡς αὐτὸς κατεδόκεε, ὅμως τοὺς Λυδοὺς ἐξῆγε ἐς μάχην.",
+        "translations": [
+          "This he decided, and this he did immediately; he marched his army into Lydia and so came himself to bring the news of it to Croesus. All had turned out contrary to Croesus ' expectation, and he was in a great quandary; nevertheless, he led out the Lydians to battle."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἦν δὲ τοῦτον τὸν χρόνον ἔθνος οὐδὲν ἐν τῇ Ἀσίῃ οὔτε ἀνδρηιότερον οὔτε ἀλκιμώτερον τοῦ Λυδίου. ἡ δὲ μάχη σφέων ἦν ἀπʼ ἵππων, δόρατά τε ἐφόρεον μεγάλα, καὶ αὐτοὶ ἦσαν ἱππεύεσθαι ἀγαθοί.",
+        "translations": [
+          "Now at this time there was no nation in Asia more valiant or warlike than the Lydian. It was their custom to fight on horseback, carrying long spears, and they were skillful at managing horses."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

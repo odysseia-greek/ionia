@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.7",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.7/",
+    "rhemai": [
+      {
+        "greek": "ἡ δὲ ἡγεμονίη οὕτω περιῆλθε, ἐοῦσα Ἡρακλειδέων ἐς τὸ γένος τὸ Κροίσου, καλεομένους δὲ Μερμνάδας.",
+        "translations": [
+          "Now the sovereign power that belonged to the descendants of Heracles fell to the family of Croesus, called the Mermnadae, in the following way."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἦν Κανδαύλης, τὸν οἱ Ἕλληνές Μυρσίλον ὀνομάζουσι, τύραννος Σαρδίων, ἀπόγονος δὲ Ἀλκαίου τοῦ Ἡρακλέος. Ἄγρων μὲν γὰρ ὁ Νίνου τοῦ Βήλου τοῦ Ἀλκαίου πρῶτος Ἡρακλειδέων βασιλεὺς ἐγένετο Σαρδίων, Κανδαύλης δὲ ὁ Μύρσου ὕστατος.",
+        "translations": [
+          "Candaules, whom the Greeks call Myrsilus, was the ruler of Sardis; he was descended from Alcaeus, son of Heracles; Agron son of Ninus, son of Belus, son of Alcaeus, was the first Heraclid king of Sardis and Candaules son of Myrsus was the last."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οἱ δὲ πρότερον Ἄγρωνος βασιλεύσαντες ταύτης τῆς χώρης ἦσαν ἀπόγονοὶ Λυδοῦ τοῦ Ἄτυος, ἀπʼ ὅτευ ὁ δῆμος Λύδιος ἐκλήθη ὁ πᾶς οὗτος, πρότερον Μηίων καλεόμενος.",
+        "translations": [
+          "The kings of this country before Agron were descendants of Lydus, son of Atys, from whom this whole Lydian district got its name; before that it was called the land of the Meii."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "παρὰ τούτων Ἡρακλεῖδαι ἐπιτραφθέντες ἔσχον τὴν ἀρχήν ἐκ θεοπροπίου, ἐκ δούλης τε τῆς Ἰαρδάνου γεγονότες καὶ Ἡρακλέος, ἄρξαντες μὲν ἐπὶ δύο τε καὶ εἴκοσι γενεᾶς ἀνδρῶν ἔτεα πέντε τε καὶ πεντακόσια, παῖς παρὰ πατρὸς ἐκδεκόμενος τὴν ἀρχήν, μέχρι Κανδαύλεω τοῦ Μύρσου.",
+        "translations": [
+          "The Heraclidae, descendants of Heracles and a female slave of Iardanus, received the sovereignty from these and held it, because of an oracle; and they ruled for twenty-two generations, or five hundred and five years, son succeeding father, down to Candaules son of Myrsus."
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

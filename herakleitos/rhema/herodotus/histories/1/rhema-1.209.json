@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.209",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.209/",
+    "rhemai": [
+      {
+        "greek": "ἐπείτε δὲ ἐπεραιώθη τὸν Ἀράξεα, νυκτὸς ἐπελθούσης εἶδε ὄψιν εὕδων ἐν τῶν Μασσαγετέων τῇ χωρῇ τοιήνδε· ἐδόκεε ὁ Κῦρος ἐν τῷ ὕπνῳ ὁρᾶν τῶν Ὑστάσπεος παίδων τὸν πρεσβύτατον ἔχοντα ἐπὶ τῶν ὤμων πτέρυγας καὶ τουτέων τῇ μὲν τὴν Ἀσίην τῇ δὲ τὴν Εὐρώπην ἐπισκιάζειν.",
+        "translations": [
+          "After he had crossed the Araxes, he dreamed that night while sleeping in the country of the Massagetae that he saw the eldest of Hystapes ' sons with wings on his shoulders, the one wing overshadowing Asia and the other Europe."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "Ὑστάσπεϊ δὲ τῷ Ἀρσάμεος ἐόντι ἀνδρὶ Ἀχαιμενίδῃ ἦν τῶν παίδων Δαρεῖος πρεσβύτατος, ἐὼν τότε ἡλικίην ἐς εἴκοσί κου μάλιστα ἔτεα, καὶ οὗτος κατελέλειπτο ἐν Πέρσῃσι· οὐ γὰρ εἶχέ κω ἡλικίην στρατεύεσθαι.",
+        "translations": [
+          "Hystaspes son of Arsames was an Achaemenid, and Darius was the eldest of his sons, then about twenty years old; this Darius had been left behind in Persia, not yet being of an age to go on campaign."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐπεὶ ὦν δὴ ἐξηγέρθη ὁ Κῦρος, ἐδίδου λόγον ἑωυτῷ περὶ τῆς ὄψιος. ὡς δέ οἱ ἐδόκεε μεγάλη εἶναι ἡ ὄψις, καλέσας Ὑστάσπεα καὶ ἀπολαβὼν μοῦνον εἶπε Ὕστασπες, παῖς σὸς ἐπιβουλεύων ἐμοί τε καὶ τῇ ἐμῇ ἀρχῇ ἑάλωκε. ὡς δὲ ταῦτα ἀτρεκέως οἶδα, ἐγὼ σημανέω·",
+        "translations": [
+          "So when Cyrus awoke he considered his vision, and because it seemed to him to be of great importance, he sent for Hystaspes and said to him privately, “ Hystaspes, I have caught your son plotting against me and my sovereignty; and I will tell you how I know this for certain."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἐμεῦ θεοὶ κήδονται καί μοι πάντα προδεικνύουσι τὰ ἐπιφερόμενα. ἤδη ὦν ἐν τῇ παροιχομένῃ νυκτὶ εὕδων εἶδον τῶν σῶν παίδων τὸν πρεσβύτατον ἔχοντα ἐπὶ τῶν ὤμων πτέρυγας καὶ τουτέων τῇ μὲν τὴν Ἀσίην τῇ δὲ τὴν Εὐρώπην ἐπισκιάζειν.",
+        "translations": [
+          "The gods care for me and show me beforehand all that is coming. Now then, I have seen in a dream in the past night your eldest son with wings on his shoulders, overshadowing Asia with the one and Europe with the other."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "οὔκων ἐστὶ μηχανὴ ἀπὸ τῆς ὄψιος ταύτης οὐδεμία τὸ μὴ ἐκεῖνον ἐπιβουλεύειν ἐμοί· σύ νυν τὴν ταχίστην πορεύεο ὀπίσω ἐς Πέρσας καὶ ποίεε ὅκως, ἐπεὰν ἐγὼ τάδε καταστρεψάμενος ἔλθω ἐκεῖ, ὥς μοι καταστήσεις τὸν παῖδα ἐς ἔλεγχον.",
+        "translations": [
+          "From this vision, there is no way that he is not plotting against me. Therefore hurry back to Persia, and see that when I come back after subjecting this country you bring your son before me to be questioned about this.”"
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.87",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.87/",
+    "rhemai": [
+      {
+        "greek": "ἐνθαῦτα λέγεται ὑπὸ Λυδῶν Κροῖσον μαθόντα τὴν Κύρου μετάγνωσιν, ὡς ὥρα πάντα μὲν ἄνδρα σβεννύντα τὸ πῦρ, δυναμένους δὲ οὐκέτι καταλαβεῖν, ἐπιβώσασθαι τὸν Ἀπόλλωνα ἐπικαλεόμενον, εἴ τί οἱ κεχαρισμένον ἐξ αὐτοῦ ἐδωρήθη, παραστῆναι καὶ ῥύσασθαι αὐτὸν ἐκ τοῦ παρεόντος κακοῦ.",
+        "translations": [
+          "Then the Lydians say that Croesus understood Cyrus ' change of heart, and when he saw everyone trying to extinguish the fire but unable to check it, he invoked Apollo, crying out that if Apollo had ever been given any pleasing gift by him, let him offer help and deliver him from the present evil."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τὸν μὲν δακρύοντα ἐπικαλέεσθαι τὸν θεόν, ἐκ δὲ αἰθρίης τε καὶ νηνεμίης συνδραμεῖν ἐξαπίνης νέφεα καὶ χειμῶνά τε καταρραγῆναι καὶ ὗσαι ὕδατι λαβροτάτῳ, κατασβεσθῆναί τε τὴν πυρήν. οὕτω δὴ μαθόντα τὸν Κῦρον ὡς εἴη ὁ Κροῖσος καὶ θεοφιλὴς καὶ ἀνὴρ ἀγαθός, καταβιβάσαντα αὐτὸν ἀπὸ τῆς πυρῆς εἰρέσθαι τάδε.",
+        "translations": [
+          "Thus he in tears invoked the god, and suddenly out of a clear and windless sky clouds gathered, a storm broke, and it rained violently, extinguishing the pyre. Thus Cyrus perceived that Croesus was dear to god and a good man. He had him brought down from the pyre and asked,"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "Κροῖσε, τίς σε ἀνθρώπων ἀνέγνωσε ἐπὶ γῆν τὴν ἐμὴν στρατευσάμενον πολέμιον ἀντὶ φίλου ἐμοὶ καταστῆναι; ὁ δὲ εἶπε ὦ βασιλεῦ, ἐγὼ ταῦτα ἔπρηξα τῇ σῇ μὲν εὐδαιμονίῃ, τῇ ἐμεωυτοῦ δὲ κακοδαιμονίῃ, αἴτιος δὲ τούτων ἐγένετο ὁ Ἑλλήνων θεὸς ἐπαείρας ἐμὲ στρατεύεσθαι.",
+        "translations": [
+          "“ Croesus, what man persuaded you to wage war against my land and become my enemy instead of my friend?” He replied, “O King, I acted thus for your good fortune, but for my own ill fortune. The god of the Hellenes is responsible for these things, inciting me to wage war."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "οὐδεὶς γὰρ οὕτω ἀνόητος ἐστὶ ὅστις πόλεμον πρὸ εἰρήνης αἱρέεται· ἐν μὲν γὰρ τῇ οἱ παῖδες τοὺς πατέρας θάπτουσι, ἐν δὲ τῷ οἱ πατέρες τοὺς παῖδας. ἀλλὰ ταῦτα δαίμοσί κου φίλον ἦν οὕτω γενέσθαι.",
+        "translations": [
+          "No one is so foolish as to choose war over peace. In peace sons bury their fathers, in war fathers bury their sons. But I suppose it was dear to the divinity that this be so.”"
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

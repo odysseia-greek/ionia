@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.43",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.43/",
+    "rhemai": [
+      {
+        "greek": "τοιούτοισι ἐπείτε οὗτος ἀμείψατο Κροῖσον, ἤισαν μετὰ ταῦτα ἐξηρτυμένοι λογάσι τε νεηνίῃσι καὶ κυσί. ἀπικόμενοι δὲ ἐς τὸν Ὄλυμπον τὸ ὄρος ἐζήτεον τὸ θηρίον, εὑρόντες δὲ καὶ περιστάντες αὐτὸ κύκλῳ ἐσηκόντιζον.",
+        "translations": [
+          "So when Adrastus had answered Croesus thus, they went out provided with chosen young men and dogs. When they came to Mount Olympus, they hunted for the beast and, finding him, formed a circle and threw their spears at him:"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἔνθα δὴ ὁ ξεῖνος, οὗτος δὴ ὁ καθαρθεὶς τὸν φόνον, καλεόμενος δὲ Ἄδρηστος, ἀκοντίζων τὸν ὗν τοῦ μὲν ἁμαρτάνει, τυγχάνει δὲ τοῦ Κροίσου παιδός.",
+        "translations": [
+          "then the guest called Adrastus, the man who had been cleansed of the deed of blood, missed the boar with his spear and hit the son of Croesus."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὃ μὲν δὴ βληθεὶς τῇ αἰχμῇ ἐξέπλησε τοῦ ὀνείρου τὴν φήμην, ἔθεε δέ τις ἀγγελέων τῷ Κροίσῳ τὸ γεγονός, ἀπικόμενος δὲ ἐς τὰς Σάρδις τὴν τε μάχην καὶ τὸν τοῦ παιδὸς μόρον ἐσήμηνέ οἱ.",
+        "translations": [
+          "So Atys was struck by the spear and fulfilled the prophecy of the dream. One ran to tell Croesus what had happened, and coming to Sardis told the king of the fight and the fate of his son."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

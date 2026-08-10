@@ -1,0 +1,60 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.94",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.94/",
+    "rhemai": [
+      {
+        "greek": "Λυδοὶ δὲ νόμοισι μὲν παραπλησίοισι χρέωνται καὶ Ἕλληνές, χωρὶς ἢ ὅτι τὰ θήλεα τέκνα καταπορνεύουσι, πρῶτοι δὲ ἀνθρώπων τῶν ἡμεῖς ἴδμεν νόμισμα χρυσοῦ καὶ ἀργύρου κοψάμενοι ἐχρήσαντο, πρῶτοι δὲ καὶ κάπηλοι ἐγένοντο.",
+        "translations": [
+          "The customs of the Lydians are like those of the Greeks, except that they make prostitutes of their female children. They were the first men whom we know who coined and used gold and silver currency; and they were the first to sell by retail."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "φασὶ δὲ αὐτοὶ Λυδοὶ καὶ τὰς παιγνίας τὰς νῦν σφίσι τε καὶ Ἕλλησι κατεστεώσας ἑωυτῶν ἐξεύρημα γενέσθαι· ἅμα δὲ ταύτας τε ἐξευρεθῆναι παρὰ σφίσι λέγουσι καὶ Τυρσηνίην ἀποικίσαι, ὧδε περὶ αὐτῶν λέγοντες.",
+        "translations": [
+          "And, according to what they themselves say, the games now in use among them and the Greeks were invented by the Lydians: these, they say, were invented among them at the time when they colonized Tyrrhenia. This is their story:"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐπὶ Ἄτυος τοῦ Μάνεω βασιλέος σιτοδείην ἰσχυρὴν ἀνὰ τὴν Λυδίην πᾶσαν γενέσθαι, καὶ τοὺς Λυδοὺς τέως μὲν διάγειν λιπαρέοντας, μετὰ δὲ ὡς οὐ παύεσθαι, ἄκεα δίζησθαι, ἄλλον δὲ ἄλλο ἐπιμηχανᾶσθαι αὐτῶν. ἐξευρεθῆναι δὴ ὦν τότε καὶ τῶν κύβων καὶ τῶν ἀστραγάλων καὶ τῆς σφαίρης καὶ τῶν ἀλλέων πασέων παιγνιέων τὰ εἴδεα, πλὴν πεσσῶν τούτων γὰρ ὦν τὴν ἐξεύρεσιν οὐκ οἰκηιοῦνται Λυδοί.",
+        "translations": [
+          "In the reign of Atys son of Manes there was great scarcity of food in all Lydia. For a while the Lydians bore this with what patience they could; presently, when the famine did not abate, they looked for remedies, and different plans were devised by different men. Then it was that they invented the games of dice and knuckle-bones and ball and all other forms of game except dice, which the Lydians do not claim to have discovered."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ποιέειν δὲ ὧδε πρὸς τὸν λιμὸν ἐξευρόντας, τὴν μὲν ἑτέρην τῶν ἡμερέων παίζειν πᾶσαν, ἵνα δὴ μὴ ζητέοιεν σιτία, τὴν δὲ ἑτέρην σιτέεσθαι παυομένους τῶν παιγνιέων. τοιούτῳ τρόπῳ διάγειν ἐπʼ ἔτεα δυῶν δέοντα εἴκοσι.",
+        "translations": [
+          "Then, using their discovery to lighten the famine, every other day they would play for the whole day, so that they would not have to look for food, and the next day they quit their play and ate. This was their way of life for eighteen years."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἐπείτε δὲ οὐκ ἀνιέναι τὸ κακὸν ἀλλʼ ἔτι ἐπὶ μᾶλλον βιάζεσθαι οὕτω δὴ τὸν βασιλέα αὐτῶν δύο μοίρας διελόντα Λυδῶν πάντων κληρῶσαι τὴν μὲν ἐπὶ μόνῃ τὴν δὲ ἐπὶ ἐξόδῳ ἐκ τῆς χώρης, καὶ ἐπὶ μὲν τῇ μένειν αὐτοῦ λαγχανούσῃ τῶν μοιρέων ἑωυτὸν τὸν βασιλέα προστάσσειν, ἐπὶ δὲ τῇ ἀπαλλασσομένῃ τὸν ἑωυτοῦ παῖδα, τῷ οὔνομα εἶναι Τυρσηνόν.",
+        "translations": [
+          "But the famine did not cease to trouble them, and instead afflicted them even more. At last their king divided the people into two groups, and made them draw lots, so that the one group should remain and the other leave the country; he himself was to be the head of those who drew the lot to remain there, and his son, whose name was Tyrrhenus, of those who departed."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "λαχόντας δὲ αὐτῶν τοὺς ἑτέρους ἐξιέναι ἐκ τῆς χώρης καταβῆναι ἐς Σμύρνην καὶ μηχανήσασθαι πλοῖα, ἐς τὰ ἐσθεμένους τὰ πάντα ὅσα σφι ἦν χρηστὰ ἐπίπλοα, ἀποπλέειν κατὰ βίου τε καὶ γῆς ζήτησιν, ἐς ὃ ἔθνεα πολλὰ παραμειψαμένους ἀπικέσθαι ἐς Ὀμβρικούς, ἔνθα σφέας ἐνιδρύσασθαι πόλιας καὶ οἰκέειν τὸ μέχρι τοῦδε.",
+        "translations": [
+          "Then the one group, having drawn the lot, left the country and came down to Smyrna and built ships, in which they loaded all their goods that could be transported aboard ship, and sailed away to seek a livelihood and a country; until at last, after sojourning with one people after another, they came to the Ombrici, where they founded cities and have lived ever since."
+        ],
+        "section": "6"
+      },
+      {
+        "greek": "ἀντὶ δὲ Λυδῶν μετονομασθῆναι αὐτοὺς ἐπὶ τοῦ βασιλέος τοῦ παιδός, ὅς σφεας ἀνήγαγε, ἐπὶ τούτου τὴν ἐπωνυμίην ποιευμένους ὀνομασθῆναι Τυρσηνούς. Λυδοὶ μὲν δὴ ὑπὸ Πέρσῃσι ἐδεδούλωντο.",
+        "translations": [
+          "They no longer called themselves Lydians, but Tyrrhenians, after the name of the king's son who had led them there. The Lydians, then, were enslaved by the Persians."
+        ],
+        "section": "7"
+      }
+    ]
+  }
+]

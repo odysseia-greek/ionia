@@ -1,0 +1,53 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.120",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.120/",
+    "rhemai": [
+      {
+        "greek": "Ἁρπάγῳ μὲν Ἀστυάγης δίκην ταύτην ἐπέθηκε, Κύρου δὲ πέρι βουλεύων ἐκάλεε τοὺς αὐτοὺς τῶν Μάγων οἳ τὸ ἐνύπνιὸν οἱ ταύτῃ ἔκριναν. ἀπικομένους δὲ εἴρετο ὁ Ἁστυάγης τῇ ἔκρινάν οἱ τὴν ὄψιν. οἳ δὲ κατὰ ταὐτὰ εἶπαν λέγοντες ὡς βασιλεῦσαι χρῆν τὸν παῖδα, εἰ ἐπέζωσε καὶ μὴ ἀπέθανε πρότερον.",
+        "translations": [
+          "Thus Astyages punished Harpagus. But, to help him to decide about Cyrus, he summoned the same Magi who had interpreted his dream as I have said: and when they came, Astyages asked them how they had interpreted his dream. They answered as before, and said that the boy must have been made king had he lived and not died first."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ὁ δὲ ἀμείβεται αὐτοὺς τοῖσιδε. ἔστι τε ὁ παῖς καὶ περίεστι, καί μιν ἐπʼ ἀγροῦ διαιτώμενον οἱ ἐκ τῆς κώμης παῖδες ἐστήσαντο βασιλέα. ὁ δὲ πάντα ὅσα περ οἱ ἀληθέι λόγῳ βασιλέες ἐτελέωσε ποιήσας· καὶ γὰρ δορυφόρους καὶ θυρωροὺς καὶ ἀγγελιηφόρους καὶ τὰ λοιπὰ πάντα διατάξας ἦρχε.",
+        "translations": [
+          "Then Astyages said, “The boy is safe and alive, and when he was living in the country the boys of his village made him king, and he duly did all that is done by true kings: for he assigned to each individually the roles of bodyguards and sentinels and messengers and everything else, and so ruled. And what do you think is the significance of this?”"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "καὶ νῦν ἐς τί ὑμῖν ταῦτα φαίνεται φέρειν; εἶπαν οἱ Μάγοι εἰ μὲν περίεστί τε καὶ ἐβασίλευσε ὁ παῖς μὴ ἐκ προνοίης τινός, θάρσεέ τε τούτου εἵνεκα καὶ θυμὸν ἔχε ἀγαθόν· οὐ γὰρ ἔτι τὸ δεύτερον ἄρχει. παρὰ σμικρὰ γὰρ καὶ τῶν λογίων ἡμῖν ἔνια κεχώρηκε, καὶ τά γε τῶν ὀνειράτων ἐχόμενα τελέως ἐς ἀσθενὲς ἔρχεται.",
+        "translations": [
+          "“If the boy is alive,” said the Magi, “and has been made king without premeditation, then be confident on this score and keep an untroubled heart: he will not be made king a second time. Even in our prophecies, it is often but a small thing that has been foretold and the consequences of dreams come to nothing in the end.”"
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "ἀμείβεται ὁ Ἀστυάγης τοῖσιδε. καὶ αὐτὸς ὦ Μάγοι ταύτῃ πλεῖστος γνώμην εἰμί, βασιλέος ὀνομασθέντος τοῦ παιδὸς ἐξήκειν τε τὸν ὄνειρον καί μοι τὸν παῖδα τοῦτον εἶναι δεινὸν ἔτι οὐδέν. ὅμως μέν γέ τοι συμβουλεύσατέ μοι εὖ περισκεψάμενοι τὰ μέλλει ἀσφαλέστατα εἶναι οἴκῳ τε τῷ ἐμῷ καὶ ὑμῖν.",
+        "translations": [
+          "“I too, Magi,” said Astyages, “am very much of your opinion: that the dream came true when the boy was called king, and that I have no more to fear from him. Nevertheless consider well and advise me what will be safest both for my house and for you.”"
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "εἶπαν πρὸς ταῦτα οἱ Μάγοι ὦ βασιλεῦ, καὶ αὐτοῖσι ἡμῖν περὶ πολλοῦ ἐστι κατορθοῦσθαι ἀρχὴν τὴν σήν. κείνως μὲν γὰρ ἀλλοτριοῦται ἐς τὸν παῖδα τοῦτον περιιοῦσα ἐόντα Πέρσην, καὶ ἡμεῖς ἐόντες Μῆδοι δουλούμεθά τε καὶ λόγου οὐδενὸς γινόμεθα πρὸς Περσέων, ἐόντες ξεῖνοι· σέο δʼ ἐνεστεῶτος βασιλέος, ἐόντος πολιήτεω, καὶ ἄρχομεν τὸ μέρος καὶ τιμὰς πρὸς σέο μεγάλας ἔχομεν.",
+        "translations": [
+          "The Magi said, “O King, we too are very anxious that your sovereignty prosper: for otherwise, it passes from your nation to this boy who is a Persian, and so we Medes are enslaved and held of no account by the Persians, as we are of another blood, but while you, our countryman, are established king, we have our share of power, and great honor is shown us by you."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "οὕτω ὦν πάντως ἡμῖν σέο καὶ τῆς σῆς ἀρχῆς προοπτέον ἐστί. καὶ νῦν εἰ φοβερόν τι ἐνωρῶμεν, πᾶν ἂν σοὶ προεφράζομεν. νῦν δὲ ἀποσκήψαντος τοῦ ἐνυπνίου ἐς φαῦλον, αὐτοί τε θαρσέομεν καὶ σοὶ ἕτερα τοιαῦτα παρακελευόμεθα. τὸν δὲ παῖδα τοῦτον ἐξ ὀφθαλμῶν ἀπόπεμψαι ἐς Πέρσας τε καὶ τοὺς γειναμένους.",
+        "translations": [
+          "Thus, then, we ought by all means to watch out for you and for your sovereignty. And if at the present time we saw any danger we would declare everything to you: but now the dream has had a trifling conclusion, and we ourselves are confident and advise you to be so also. As for this boy, send him out of your sight to the Persians and to his parents.”"
+        ],
+        "section": "6"
+      }
+    ]
+  }
+]

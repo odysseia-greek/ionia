@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.149",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.149/",
+    "rhemai": [
+      {
+        "greek": "αὗται μὲν αἱ Ἰάδες πόλιες εἰσί, αἵδε δὲ αἱ Αἰολίδες, Κύμη ἡ Φρικωνὶς καλεομένη, Λήρισαι, Νέον τεῖχος, Τῆμνος, Κίλλα, Νότιον, Αἰγιρόεσσα, Πιτάνη, Αἰγαῖαι, Μύρινα, Γρύνεια. αὗται ἕνδεκα Αἰολέων πόλιες αἱ ἀρχαῖαι· μία γὰρ σφέων παρελύθη Σμύρνη ὑπὸ Ἰώνων· ἦσαν γὰρ καὶ αὗται δυώδεκα αἱ ἐν τῆ ἠπείρῳ.",
+        "translations": [
+          "Those are the Ionian cities, and these are the Aeolian: Cyme (called “ Phriconian ”), Lerisae, Neon Teichos, Temnos, Cilla, Notion, Aegiroessa, Pitane, Aegaeae, Myrina, Gryneia. These are the ancient Aeolian cities, eleven in number; but one of them, Smyrna, was taken away by the Ionians; for these too were once twelve, on the mainland."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὗτοι δὲ οἱ Αἰολέες χώρην μὲν ἔτυχον κτίσαντες ἀμείνω Ἰώνων, ὡρέων δὲ ἥκουσαν οὐκ ὁμοίως.",
+        "translations": [
+          "These Aeolians had settled where the land was better than the Ionian territory, but the climate was not so good."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

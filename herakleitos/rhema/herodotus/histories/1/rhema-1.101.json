@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.101",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.101/",
+    "rhemai": [
+      {
+        "greek": "Δηιόκης μέν νυν τὸ Μηδικὸν ἔθνος συνέστρεψε μοῦνον καὶ τοῦτον ἦρξε· ἔστι δὲ Μήδων τοσάδε γένεα, Βοῦσαι Παρητακηνοὶ Στρούχατες Ἀριζαντοὶ Βούδιοι Μάγοι. γένεα μὲν δὴ Μήδων ἐστὶ τοσάδε.",
+        "translations": [
+          "Deioces, then, united the Median nation by itself and ruled it. The Median tribes are these: the Busae, the Paretaceni, the Struchates, the Arizanti, the Budii, the Magi. Their tribes are this many."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

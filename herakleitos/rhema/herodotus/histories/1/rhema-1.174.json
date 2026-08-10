@@ -1,0 +1,53 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.174",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.174/",
+    "rhemai": [
+      {
+        "greek": "οἱ μέν νυν Κᾶρες οὐδὲν λαμπρὸν ἔργον ἀποδεξάμενοι ἐδουλώθησαν ὑπὸ Ἁρπάγου, οὔτε αὐτοὶ οἱ Κᾶρες ἀποδεξάμενοι οὐδέν, οὔτε ὅσοι Ἑλλήνων ταύτην τὴν χώρην οἰκέουσι·",
+        "translations": [
+          "Neither the Carians nor any Greeks who dwell in this country did any thing notable before they were all enslaved by Harpagus."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οἰκέουσι δὲ καὶ ἄλλοι καὶ Λακεδαιμονίων ἄποικοι Κνίδιοι. οἳ τῆς χώρης τῆς σφετέρης τετραμμένης ἐς πόντον, τὸ δὴ Τριόπιον καλέεται, ἀργμένης δὲ ἐκ τῆς Χερσονήσου τῆς Βυβασσίης, ἐούσης τε πάσης τῆς Κνιδίης πλὴν ὀλίγης περιρρόου",
+        "translations": [
+          "Among those who inhabit it are certain Cnidians, colonists from Lacedaemon. Their country (it is called the Triopion ) lies between the sea and that part of the peninsula which belongs to Bubassus, and all but a small part of the Cnidian territory is washed by the sea"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "(τὰ μὲν γὰρ αὐτῆς πρὸς βορέην ἄνεμον ὁ Κεραμεικὸς κόλπος ἀπέργει, τὰ δὲ πρὸς νότον ἡ κατὰ Σύμην τε καὶ Ῥόδον θάλασσα), τὸ ὦν δὴ ὀλίγον τοῦτο, ἐὸν ὅσον τε ἐπὶ πέντε στάδια, ὤρυσσον οἱ Κνίδιοι ἐν ὅσῳ Ἅρπαγος τὴν Ἰωνίην κατεστρέφετο, βουλόμενοι νῆσον τὴν χώρην ποιῆσαι. ἐντὸς δὲ πᾶσά σφι ἐγίνετο· τῇ γὰρ ἡ Κνιδίη χώρη ἐς τὴν ἤπειρον τελευτᾷ, ταύτῃ ὁ ἰσθμός ἐστι τὸν ὤρυσσον.",
+        "translations": [
+          "(for it is bounded on the north by the gulf of Ceramicus, and on the south by the sea off Syme and Rhodes ). Now while Harpagus was conquering Ionia, the Cnidians dug a trench across this little space, which is about two-thirds of a mile wide, in order that their country might be an island. So they brought it all within the entrenchment; for the frontier between the Cnidian country and the mainland is on the isthmus across which they dug."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "καὶ δὴ πολλῇ χειρὶ ἐργαζομένων τῶν Κνιδίων, μᾶλλον γάρ τι καὶ θειότερον ἐφαίνοντο τιτρώσκεσθαι οἱ ἐργαζόμενοι τοῦ οἰκότος τά τε ἄλλα τοῦ σώματος καὶ μάλιστα τὰ περὶ τοὺς ὀφθαλμοὺς θραυομένης τῆς πέτρης, ἔπεμπον ἐς Δελφοὺς θεοπρόπους ἐπειρησομένους τὸ ἀντίξοον.",
+        "translations": [
+          "Many of them were at this work; and seeing that the workers were injured when breaking stones more often and less naturally than usual, some in other ways, but most in the eyes, the Cnidians sent envoys to Delphi to inquire what it was that opposed them."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἡ δὲ Πυθίη σφι, ὡς αὐτοὶ Κνίδιοι λέγουσι, χρᾷ ἐν τριμέτρῳ τόνῳ τάδε. Ἰσθμὸν δὲ μὴ πυργοῦτε μηδʼ ὀρύσσετε· Ζεὺς γάρ κʼ ἔθηκε νῆσον, εἴ κʼ ἐβούλετο.",
+        "translations": [
+          "Then, as they themselves say, the priestess gave them this answer in iambic verse: “Do not wall or trench the isthmus: Zeus would have given you an island, if he had wanted to.”"
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "Κνίδιοι μὲν ταῦτα τῆς Πυθίης χρησάσης τοῦ τε ὀρύγματος ἐπαύσαντο καὶ Ἁρπάγῳ ἐπιόντι σὺν τῷ στρατῷ ἀμαχητὶ σφέας αὐτοὺς παρέδοσαν.",
+        "translations": [
+          "At this answer from the priestess, the Cnidians stopped their digging, and when Harpagus came against them with his army they surrendered to him without resistance."
+        ],
+        "section": "6"
+      }
+    ]
+  }
+]

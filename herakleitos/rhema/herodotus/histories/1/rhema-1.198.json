@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.198",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.198/",
+    "rhemai": [
+      {
+        "greek": "ταφαὶ δέ σφι ἐν μέλιτι, θρῆνοι δὲ παραπλήσιοι τοῖσι ἐν Αἰγύπτῳ. ὁσάκις δʼ ἂν μιχθῇ γυναικὶ τῇ ἑωυτοῦ ἀνὴρ Βαβυλώνιος, περὶ θυμίημα καταγιζόμενον ἵζει, ἑτέρωθι δὲ ἡ γυνὴ τὠυτὸ τοῦτο ποιέει, ὄρθρου δὲ γενομένου λοῦνται καὶ ἀμφότεροι· ἄγγεος γὰρ οὐδενὸς ἅψονται πρὶν ἂν λούσωνται. ταὐτὰ δὲ ταῦτα καὶ Ἀράβιοι ποιεῦσι.",
+        "translations": [
+          "The dead are embalmed in honey for burial, and their dirges are like the dirges of Egypt. Whenever a Babylonian has had intercourse with his wife, they both sit before a burnt offering of incense, and at dawn they wash themselves; they will touch no vessel before this is done. This is the custom in Arabia also."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

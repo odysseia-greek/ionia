@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.118",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.118/",
+    "rhemai": [
+      {
+        "greek": "Ἅρπαγος μὲν δὴ τὸν ἰθὺν ἔφαινε λόγον· Ἀστυάγης δὲ κρύπτων τὸν οἱ ἐνεῖχε χόλον διὰ τὸ γεγονός, πρῶτα μέν, κατά περ ἤκουσε αὐτὸς πρὸς τοῦ βουκόλου τὸ πρῆγμα, πάλιν ἀπηγέετο τῷ Ἁρπάγῳ, μετὰ δὲ ὣς οἱ ἐπαλιλλόγητο, κατέβαινε λέγων ὡς περίεστί τε ὁ παῖς καὶ τὸ γεγονὸς ἔχει καλῶς·",
+        "translations": [
+          "Harpagus told the story straight, while Astyages, hiding the anger that he felt against him for what had been done, first repeated the story again to Harpagus exactly as he had heard it from the cowherd, then, after repeating it, ended by saying that the boy was alive and that the matter had turned out well."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "τῷ τε γὰρ πεποιημένῳ ἔφη λέγων ἐς τὸν παῖδα τοῦτον ἔκαμνον μεγάλως, καὶ θυγατρὶ τῇ ἐμῇ διαβεβλημένος οὐκ ἐν ἐλαφρῷ ἐποιεύμην. ὡς ὦν τῆς τύχης εὖ μετεστεώσης, τοῦτο μὲν τὸν σεωυτοῦ παῖδα ἀπόπεμψον παρὰ τὸν παῖδα τὸν νεήλυδα, τοῦτο δὲ (σῶστρα γὰρ τοῦ παιδὸς μέλλω θύειν τοῖσι θεῶν τιμὴ αὕτη προσκέεται) πάρισθί μοι ἐπὶ δεῖπνον.",
+        "translations": [
+          "“For,” he said, “I was greatly afflicted by what had been done to this boy, and it weighed heavily on me that I was estranged from my daughter. Now, then, in this good turn of fortune, send your own son to this boy newly come, and (since I am about to sacrifice for the boy's safety to the gods to whom this honor is due) come here to dine with me.”"
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

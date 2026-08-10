@@ -1,0 +1,53 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.68",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.68/",
+    "rhemai": [
+      {
+        "greek": "τούτων ὦν τῶν ἀνδρῶν Λίχης ἀνεῦρε ἐν Τεγέῃ καὶ συντυχίῃ χρησάμενος καὶ σοφίῃ. ἐούσης γὰρ τοῦτον τὸν χρόνον ἐπιμιξίης πρὸς τοὺς Τεγεήτας, ἐλθὼν ἐς χαλκήιον ἐθηεῖτο σίδηρον ἐξελαυνόμενον, καὶ ἐν θώματι ἦν ὀρέων τὸ ποιεόμενον.",
+        "translations": [
+          "It was Lichas, one of these men, who found the tomb in Tegea by a combination of luck and skill. At that time there was free access to Tegea, so he went into a blacksmith's shop and watched iron being forged, standing there in amazement at what he saw done."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "μαθὼν, δέ μιν ὁ χαλκεὺς ἀποθωμάζοντα εἶπε παυσάμενος τοῦ ἔργου ἦ κου ἄν, ὦ ξεῖνε Λάκων εἴ περ εἶδες τό περ ἐγώ, κάρτα ἂν ἐθώμαζες, ὅκου νῦν οὕτω τυγχάνεις θῶμα ποιεύμενος τὴν ἐργασίην τοῦ σιδήρου.",
+        "translations": [
+          "The smith perceived that he was amazed, so he stopped what he was doing and said, “My Laconian guest, if you had seen what I saw, then you would really be amazed, since you marvel so at ironworking."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ἐγὼ γὰρ ἐν τῇδε θέλων τῇ αὐλῇ φρέαρ ποιήσασθαι, ὀρύσσων ἐπέτυχον σορῷ ἑπταπήχεϊ· ὑπὸ δὲ ἀπιστίης μὴ μὲν γενέσθαι μηδαμὰ μέζονας ἀνθρώπους τῶν νῦν ἄνοιξα αὐτὴν καὶ εἶδον τὸν νεκρὸν μήκεϊ ἴσον ἐόντα τῇ σορῷ· μετρήσας δὲ συνέχωσα ὀπίσω. ὃ μὲν δή οἱ ἔλεγε τά περ ὀπώπεε, ὁ δὲ ἐννώσας τὰ λεγόμενα συνεβάλλετο τὸν Ὀρέστεα κατὰ τὸ θεοπρόπιον τοῦτον εἶναι, τῇδε συμβαλλόμενος·",
+        "translations": [
+          "I wanted to dig a well in the courtyard here, and in my digging I hit upon a coffin twelve feet long. I could not believe that there had ever been men taller than now, so I opened it and saw that the corpse was just as long as the coffin. I measured it and then reburied it.” So the smith told what he had seen, and Lichas thought about what was said and reckoned that this was Orestes, according to the oracle."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τοῦ χαλκέος δύο ὁρέων φύσας τοὺς ἀνέμους εὕρισκε ἐόντας, τὸν δὲ ἄκμονα καὶ τὴν σφῦραν τόν τε τύπον καὶ τὸν ἀντίτυπον, τὸν δὲ ἐξελαυνόμενον σίδηρον τὸ πῆμα ἐπὶ πήματι κείμενον, κατὰ τοιόνδε τι εἰκάζων, ὡς ἐπὶ κακῷ ἀνθρώπου σίδηρος ἀνεύρηται.",
+        "translations": [
+          "In the smith's two bellows he found the winds, hammer and anvil were blow upon blow, and the forging of iron was woe upon woe, since he figured that iron was discovered as an evil for the human race."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "συμβαλόμενος δὲ ταῦτα καὶ ἀπελθὼν ἐς Σπάρτην ἔφραζε Λακεδαιμονίοσσι πᾶν τὸ πρῆγμα. οἳ δὲ ἐκ λόγου πλαστοῦ ἐπενείκαντὲς οἱ αἰτίην ἐδίωξαν. ὁ δὲ ἀπικόμενος ἐς Τεγέην καὶ φράζων τὴν ἑωυτοῦ συμφορὴν πρὸς τὸν χαλκέα ἐμισθοῦτο παρʼ οὐκ ἐκδιδόντος τὴν αὐλήν·",
+        "translations": [
+          "After reasoning this out, he went back to Sparta and told the Lacedaemonians everything. They made a pretence of bringing a charge against him and banishing him. Coming to Tegea, he explained his misfortune to the smith and tried to rent the courtyard, but the smith did not want to lease it."
+        ],
+        "section": "5"
+      },
+      {
+        "greek": "χρόνῳ δὲ ὡς ἀνέγνωσε, ἐνοικίσθη, ἀνορύξας δὲ τὸν τάφον καὶ τὰ ὀστέα συλλέξας οἴχετο φέρων ἐς Σπάρτην. καὶ ἀπὸ τούτου τοῦ χρόνου, ὅκως πειρῴατο ἀλλήλων, πολλῷ κατυπέρτεροι τῷ πολέμῳ ἐγίνοντο οἱ Λακεδαιμόνιοι· ἤδη δέ σφι καὶ ἡ πολλὴ τῆς Πελοποννήσου ἦν κατεστραμμένη.",
+        "translations": [
+          "Finally he persuaded him and set up residence there. He dug up the grave and collected the bones, then hurried off to Sparta with them. Ever since then the Spartans were far superior to the Tegeans whenever they met each other in battle. By the time of Croesus ' inquiry, the Spartans had subdued most of the Peloponnese."
+        ],
+        "section": "6"
+      }
+    ]
+  }
+]

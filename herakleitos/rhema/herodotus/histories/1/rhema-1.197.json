@@ -1,0 +1,18 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.197",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.197/",
+    "rhemai": [
+      {
+        "greek": "δεύτερος δὲ σοφίῃ ὅδε ἄλλος σφι νόμος κατέστηκε· τοὺς κάμνοντας ἐς τὴν ἀγορὴν ἐκφορέουσι· οὐ γὰρ δὴ χρέωνται ἰητροῖσι. προσιόντες ὦν πρὸς τὸν κάμνοντα συμβουλεύουσι περὶ τῆς νούσου, εἴ τις καὶ αὐτὸς τοιοῦτο ἔπαθε ὁκοῖον ἂν ἔχῃ ὁ κάμνων ἢ ἄλλον εἶδε παθόντα, ταῦτα προσιόντες συμβουλεύουσι καὶ παραινέουσι ἅσσα αὐτὸς ποιήσας ἐξέφυγε ὁμοίην νοῦσον ἢ ἄλλον εἶδε ἐκφυγόντα. σιγῇ δὲ παρεξελθεῖν τὸν κάμνοντα οὔ σφι ἔξεστι, πρὶν ἂν ἐπείρηται ἥντινα νοῦσον ἔχει.",
+        "translations": [
+          "I come now to the next wisest of their customs: having no use for physicians, they carry the sick into the market-place; then those who have been afflicted themselves by the same illness as the sick man's, or seen others in like case, come near and advise him about his disease and comfort him, telling him by what means they have themselves recovered from it or seen others recover. No one may pass by the sick man without speaking and asking after his sickness."
+        ],
+        "section": "1"
+      }
+    ]
+  }
+]

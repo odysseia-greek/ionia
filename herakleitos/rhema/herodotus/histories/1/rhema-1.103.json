@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.103",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.103/",
+    "rhemai": [
+      {
+        "greek": "Φραόρτεω δὲ τελευτήσαντος ἐξεδέξατο Κυαξάρης ὁ Φραόρτεω τοῦ Δηιόκεω παῖς. οὗτος λέγεται πολλὸν ἔτι γενέσθαι ἀλκιμώτερος τῶν προγόνων, καὶ πρῶτός τε ἐλόχισε κατὰ τέλεα τοὺς ἐν τῇ Ἀσίῃ καὶ πρῶτος διέταξε χωρὶς ἑκάστους εἶναι, τούς τε αἰχμοφόρους καὶ τοὺς τοξοφόρους καὶ τοὺς ἱππέας· πρὸ τοῦ δὲ ἀναμὶξ ἦν πάντα ὁμοίως ἀναπεφυρμένα.",
+        "translations": [
+          "At his death he was succeeded by his son Cyaxares. He is said to have been a much greater soldier than his ancestors: it was he who first organized the men of Asia in companies and posted each arm apart, the spearmen and archers and cavalry: before this they were all mingled together in confusion."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οὗτος ὁ τοῖσι Λυδοῖσι ἐστὶ μαχεσάμενος ὅτε νὺξ ἡ ἡμέρη ἐγένετό σφι μαχομένοισι, καὶ ὁ τὴν Ἅλυος ποταμοῦ ἄνω Ἀσίην πᾶσαν συστήσας ἑωυτῷ. συλλέξας δὲ τοὺς ὑπʼ ἑωυτῷ ἀρχομένους πάντας ἐστρατεύετο ἐπὶ τὴν Νίνον, τιμωρέων τε τῷ πατρὶ καὶ τὴν πόλιν ταύτην θέλων ἐξελεῖν.",
+        "translations": [
+          "This was the king who fought against the Lydians when the day was turned to night in the battle, and who united under his dominion all of Asia that is beyond the river Halys. Collecting all his subjects, he marched against Ninus, wanting to avenge his father and to destroy the city."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "καί οἱ, ὡς συμβαλὼν ἐνίκησε τοὺς Ἀσσυρίους, περικατημένῳ τὴν Νίνον ἐπῆλθε Σκυθέων στρατὸς μέγας, ἦγε δὲ αὐτοὺς βασιλεὺς ὁ Σκυθέων Μαδύης Προτοθύεω παῖς· οἳ ἐσέβαλον μὲν ἐς τὴν Ἀσίην Κιμμερίους ἐκβαλόντες ἐκ τῆς Εὐρώπης, τούτοισι δὲ ἐπισπόμενοι φεύγουσι οὕτω ἐς τὴν Μηδικὴν χώρην ἀπίκοντο.",
+        "translations": [
+          "He defeated the Assyrians in battle; but while he was besieging their city, a great army of Scythians came down upon him, led by their king Madyes son of Protothyes. They had invaded Asia after they had driven the Cimmerians out of Europe: pursuing them in their flight, the Scythians came to the Median country."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

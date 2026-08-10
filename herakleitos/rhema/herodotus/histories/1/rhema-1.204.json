@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.204",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.204/",
+    "rhemai": [
+      {
+        "greek": "τὰ μὲν δὴ πρὸς ἑσπέρην τῆς θαλάσσης ταύτης τῆς Κασπίης καλεομένης ὁ Καύκασος ἀπέργει, τὰ δὲ πρὸς ἠῶ τε καὶ ἥλιον ἀνατέλλοντα πεδίον ἐκδέκεται πλῆθος ἄπειρον ἐς ἄποψιν. τοῦ ὦν δὴ πεδίου τούτου τοῦ μεγάλου οὐκ ἐλαχίστην μοῖραν μετέχουσι οἱ Μασσαγέται, ἐπʼ οὓς ὁ Κῦρος ἔσχε προθυμίην στρατεύσασθαι.",
+        "translations": [
+          "This sea called Caspian is hemmed in to the west by the Caucasus: towards the east and the sunrise there stretches from its shores a boundless plain as far as the eye can see. The greater part of this wide plain is the country of the Massagetae, against whom Cyrus was eager to lead his army."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "πολλά τε γάρ μιν καὶ μεγάλα τὰ ἐπαείροντα καὶ ἐποτρύνοντα ἦν, πρῶτον μὲν ἡ γένεσις, τὸ δοκέειν πλέον τι εἶναι ἀνθρώπου, δευτέρα δὲ ἡ εὐτυχίη ἡ κατὰ τοὺς πολέμους γενομένη· ὅκῃ γὰρ ἰθύσειε στρατεύεσθαι Κῦρος, ἀμήχανον ἦν ἐκεῖνο τὸ ἔθνος διαφυγεῖν.",
+        "translations": [
+          "For there were many weighty reasons that impelled and encouraged him to do so: first, his birth, because of which he seemed to be something more than mortal; and next, his victories in his wars: for no nation that Cyrus undertook to attack could escape from him."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]

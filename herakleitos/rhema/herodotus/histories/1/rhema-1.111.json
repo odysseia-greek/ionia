@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.111",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.111/",
+    "rhemai": [
+      {
+        "greek": "ταῦτα ἀκούσας ὁ βουκόλος καὶ ἀναλαβὼν τὸ παιδίον ἤιε τὴν αὐτὴν ὀπίσω ὁδὸν καὶ ἀπικνέεται ἐς τὴν ἔπαυλιν. τῷ δʼ ἄρα καὶ αὐτῷ ἡ γυνή, ἐπίτεξ ἐοῦσα πᾶσαν ἡμέρην, τότε κως κατὰ δαίμονα τίκτει οἰχομένου τοῦ βουκόλου ἐς πόλιν. ἦσαν δὲ ἐν φροντίδι ἀμφότεροι ἀλλήλων πέρι, ὃ μὲν τοῦ τόκου τῆς γυναικὸς ἀρρωδέων, ἡ δὲ γυνὴ ὅ τι οὐκ ἐωθὼς ὁ Ἅρπαγος μεταπέμψαιτο αὐτῆς τὸν ἄνδρα.",
+        "translations": [
+          "Hearing this, the cowherd took the child and went back the same way and came to his dwelling. Now as it happened his wife too had been on the verge of delivering every day, and as the divinity would have it, she did in fact give birth while the cowherd was away in the city. Each of them was anxious for the other, the husband being afraid about his wife's labor, and the wife because she did not know why Harpagus had so unexpectedly sent for her husband."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἐπείτε δὲ ἀπονοστήσας ἐπέστη, οἷα ἐξ ἀέλπτου ἰδοῦσα ἡ γυνὴ εἴρετο προτέρη ὅ τι μιν οὕτω προθύμως Ἅρπαγος μετεπέμψατο. ὁ δὲ εἶπε ὤ γύναι, εἶδόν τε ἐς πόλιν ἐλθὼν καὶ ἤκουσα τὸ μήτε ἰδεῖν ὄφελον μήτε κοτὲ γενέσθαι ἐς δεσπότας τοὺς ἡμετέρους. οἶκος μὲν πᾶς Ἁρπάγου κλαυθμῷ κατείχετο, ἐγὼ δὲ ἐκπλαγεὶς ἤια ἔσω.",
+        "translations": [
+          "So when he returned and stood before her, she was startled by the unexpected sight and asked him before he could speak why Harpagus had so insistently summoned him. “Wife,” he said, “when I came to the city, I saw and heard what I ought never to have seen, and what ought never to have happened to our masters. Harpagus ' whole house was full of weeping; astonished, I went in;"
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὡς δὲ τάχιστα ἐσῆλθον, ὁρέω παιδίον προκείμενον ἀσπαῖρόν τε καὶ κραυγανόμενον, κεκοσμημένον χρυσῷ τε καὶ ἐσθῆτι ποικίλῃ. Ἅρπαγος δὲ ὡς εἶδέ με, ἐκέλευε τὴν ταχίστην ἀναλαβόντα τὸ παιδίον οἴχεσθαι φέροντα καὶ θεῖναι ἔνθα θηριωδέστατον εἴη τῶν ὀρέων, φὰς Ἀστυάγεα εἶναι τὸν ταῦτα ἐπιθέμενόν μοι, πόλλʼ ἀπειλήσας εἰ μή σφεα ποιήσαιμι.",
+        "translations": [
+          "and immediately I saw a child lying there struggling and crying, adorned in gold and embroidered clothing. And when Harpagus saw me, he told me to take the child in haste and bring it away and leave it where the mountains are the most infested with wild beasts. It was Astyages, he said, who enjoined this on me, and Harpagus threatened me grievously if I did not do it."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "καὶ ἐγὼ ἀναλαβὼν ἔφερον, δοκέων τῶν τινος οἰκετέων εἶναι· οὐ γὰρ ἂν κοτὲ κατέδοξα ἔνθεν γε ἦν. ἐθάμβεον δὲ ὁρέων χρυσῷ τε καὶ εἵμασι κεκοσμημένον, πρὸς δὲ καὶ κλαυθμὸν κατεστεῶτα ἐμφανέα ἐν Ἁρπάγου.",
+        "translations": [
+          "So I took him and brought him away, supposing him to be the child of one of the servants; for I could never have guessed whose he was. But I was amazed at seeing him adorned with gold and clothing, and at hearing, too, the evident sound of weeping in the house of Harpagus."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "καὶ πρόκατε δὴ κατʼ ὁδὸν πυνθάνομαι τὸν πάντα λόγον θεράποντος, ὃς ἐμὲ προπέμπων ἔξω πόλιος ἐνεχείρισε τὸ βρέφος, ὡς ἄρα Μανδάνης τε εἴη παῖς τῆς Ἀστυάγεος θυγατρὸς καὶ Καμβύσεω τοῦ Κύρου, καί μιν Ἀστυάγης ἐντέλλεται ἀποκτεῖναι. νῦν τε ὅδε ἐστί.",
+        "translations": [
+          "Very soon on the way I learned the whole story from the servant who brought me out of the city and gave the child into my custody: namely, that it was the son of Mandane the king's daughter and Cambyses the son of Cyrus, and that Astyages gave the command to kill him. And now, here he is.”"
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

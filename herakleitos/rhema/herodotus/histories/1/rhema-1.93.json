@@ -1,0 +1,46 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.93",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.93/",
+    "rhemai": [
+      {
+        "greek": "θώματα δὲ γῆ ἡ Λυδίη ἐς συγγραφὴν οὐ μάλα ἔχει, οἷά τε καὶ ἄλλη χώρη, πάρεξ τοῦ ἐκ τοῦ Τμώλου καταφερομένου ψήγματος.",
+        "translations": [
+          "There are not many marvellous things in Lydia to record, in comparison with other countries, except the gold dust that comes down from Tmolus."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἓν δὲ ἔργον πολλὸν μέγιστον παρέχεται χωρὶς τῶν τε Αἰγυπτίων ἔργων καὶ τῶν Βαβυλωνίων· ἔστι αὐτόθι Ἀλυάττεω τοῦ Κροίσου πατρὸς σῆμα, τοῦ ἡ κρηπὶς μὲν ἐστὶ λίθων μεγάλων, τὸ δὲ ἄλλο σῆμα χῶμα γῆς. ἐξεργάσαντο δέ μιν οἱ ἀγοραῖοι ἄνθρωποι καὶ οἱ χειρώνακτες καὶ αἱ ἐνεργαζόμεναι παιδίσκαι.",
+        "translations": [
+          "But there is one building to be seen there which is much the greatest of all, except those of Egypt and Babylon. In Lydia is the tomb of Alyattes, the father of Croesus, the base of which is made of great stones and the rest of it of mounded earth. It was built by the men of the market and the craftsmen and the prostitutes."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "οὖροι δὲ πέντε ἐόντες ἔτι καὶ ἐς ἐμὲ ἦσαν ἐπὶ τοῦ σήματος ἄνω, καί σφι γράμματα ἐνεκεκόλαπτο τὰ ἕκαστοι ἐξεργάσαντο, καὶ ἐφαίνετο μετρεόμενον τὸ τῶν παιδισκέων ἔργον ἐὸν μέγιστον.",
+        "translations": [
+          "There survived until my time five corner-stones set on the top of the tomb, and in these was cut the record of the work done by each group: and measurement showed that the prostitutes' share of the work was the greatest."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "τοῦ γὰρ δὴ Λυδῶν δήμου αἱ θυγατέρες πορνεύονται πᾶσαι, συλλέγουσαι σφίσι φερνάς, ἐς ὃ ἂν συνοικήσωσι τοῦτο ποιέουσαι· ἐκδιδοῦσι δὲ αὐταὶ ἑωυτάς.",
+        "translations": [
+          "All the daughters of the common people of Lydia ply the trade of prostitutes, to collect dowries, until they can get themselves husbands; and they themselves offer themselves in marriage."
+        ],
+        "section": "4"
+      },
+      {
+        "greek": "ἡ μὲν δὴ περίοδος τοῦ σήματός εἰσὶ στάδιοι ἓξ καὶ δύο πλέθρα, τὸ δὲ εὖρος ἐστὶ πλέθρα τρία καὶ δέκα. λίμνη δὲ ἔχεται τοῦ σήματος μεγάλη, τὴν λέγουσι Λυδοὶ ἀείναον εἶναι· καλέεται δὲ αὕτη Γυγαίη. τοῦτο μὲν δὴ τοιοῦτο ἐστί.",
+        "translations": [
+          "Now this tomb has a circumference of thirteen hundred and ninety yards, and its breadth is above four hundred and forty yards; and there is a great lake hard by the tomb, which, the Lydians say, is fed by ever-flowing springs; it is called the Gygaean lake. Such then is this tomb."
+        ],
+        "section": "5"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.8",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.8/",
+    "rhemai": [
+      {
+        "greek": "οὗτος δὴ ὦν ὁ Κανδαύλης ἠράσθη τῆς ἑωυτοῦ γυναικός, ἐρασθεὶς δὲ ἐνόμιζέ οἱ εἶναι γυναῖκα πολλὸν πασέων καλλίστην. ὥστε δὲ ταῦτα νομίζων, ἦν γάρ οἱ τῶν αἰχμοφόρων Γύγης ὁ Δασκύλου ἀρεσκόμενος μάλιστα, τούτῳ τῷ Γύγῃ καὶ τὰ σπουδαιέστερα τῶν πρηγμάτων ὑπερετίθετο ὁ Κανδαύλης καὶ δὴ καὶ τὸ εἶδος τῆς γυναικὸς ὑπερεπαινέων.",
+        "translations": [
+          "This Candaules, then, fell in love with his own wife, so much so that he believed her to be by far the most beautiful woman in the world; and believing this, he praised her beauty beyond measure to Gyges son of Dascylus, who was his favorite among his bodyguard; for it was to Gyges that he entrusted all his most important secrets."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "χρόνου δὲ οὐ πολλοῦ διελθόντος (χρῆν γὰρ Κανδαύλῃ γενέσθαι κακῶς) ἔλεγε πρὸς τὸν Γύγην τοιάδε. Γύγη, οὐ γὰρ σε δοκέω πείθεσθαι μοι λέγοντι περὶ τοῦ εἴδεος τῆς γυναικός (ὦτα γὰρ τυγχάνει ἀνθρώποισι ἐόντα ἀπιστότερα ὀφθαλμῶν), ποίεε ὅκως ἐκείνην θεήσεαι γυμνήν.",
+        "translations": [
+          "After a little while, Candaules, doomed to misfortune, spoke to Gyges thus: “ Gyges, I do not think that you believe what I say about the beauty of my wife; men trust their ears less than their eyes: so you must see her naked.” Gyges protested loudly at this."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "ὃ δʼ ἀμβώσας εἶπε δέσποτα, τίνα λέγεις λόγον οὐκ ὑγιέα, κελεύων με δέσποιναν τὴν ἐμὴν θεήσασθαι γυμνήν; ἅμα δὲ κιθῶνι ἐκδυομένῳ συνεκδύεται καὶ τὴν αἰδῶ γυνή.",
+        "translations": [
+          "“Master,” he said, “what an unsound suggestion, that I should see my mistress naked! When a woman's clothes come off, she dispenses with her modesty, too."
+        ],
+        "section": "3"
+      },
+      {
+        "greek": "πάλαι δὲ τὰ καλὰ ἀνθρώποισι ἐξεύρηται, ἐκ τῶν μανθάνειν δεῖ· ἐν τοῖσι ἓν τόδε ἐστί, σκοπέειν τινὰ τὰ ἑωυτοῦ. ἐγὼ δὲ πείθομαι ἐκείνην εἶναι πασέων γυναικῶν καλλίστην, καὶ σέο δέομαι μὴ δέεσθαι ἀνόμων.",
+        "translations": [
+          "Men have long ago made wise rules from which one ought to learn; one of these is that one should mind one's own business. As for me, I believe that your queen is the most beautiful of all women, and I ask you not to ask of me what is lawless.”"
+        ],
+        "section": "4"
+      }
+    ]
+  }
+]

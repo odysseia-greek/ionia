@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.146",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.146/",
+    "rhemai": [
+      {
+        "greek": "τούτων δὴ εἵνεκα καὶ οἱ Ἴωνες δυώδεκα πόλιας ἐποιήσαντο· ἐπεὶ ὥς γέ τι μᾶλλον οὗτοι Ἴωνες εἰσὶ τῶν ἄλλων Ἰώνων ἢ κάλλιόν τι γεγόνασι, μωρίη πολλὴ λέγειν· τῶν Ἄβαντες μὲν ἐξ Εὐβοίες εἰσὶ οὐκ ἐλαχίστη μοῖρα, τοῖσι Ἰωνίης μέτα οὐδὲ τοῦ οὐνόματος οὐδέν, Μινύαι δὲ Ὀρχομένιοί σφι ἀναμεμίχαται καὶ Καδμεῖοι καὶ Δρύοπες καὶ Φωκέες ἀποδάσμιοι καὶ Μολοσσοὶ καὶ Ἀρκάδες Πελασγοὶ καὶ Δωριέες Ἐπιδαύριοι, ἄλλα τε ἔθνεα πολλὰ ἀναμεμίχαται·",
+        "translations": [
+          "For this reason, and for no other, the Ionians too made twelve cities; for it would be foolishness to say that these are more truly Ionian or better born than the other Ionians; since not the least part of them are Abantes from Euboea, who are not Ionians even in name, and there are mingled with them Minyans of Orchomenus, Cadmeans, Dryopians, Phocian renegades from their nation, Molossians, Pelasgian Arcadians, Dorians of Epidaurus, and many other tribes;"
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "οἱ δὲ αὐτῶν ἀπὸ τοῦ πρυτανηίου τοῦ Ἀθηναίων ὁρμηθέντες καὶ νομίζοντες γενναιότατοι εἶναι Ἰώνων, οὗτοι δὲ οὐ γυναῖκας ἠγάγοντο ἐς τὴν ἀποικίην ἀλλὰ Καείρας ἔσχον, τῶν ἐφόνευσαν τοὺς γονέας.",
+        "translations": [
+          "and as for those who came from the very town-hall of Athens and think they are the best born of the Ionians, these did not bring wives with them to their settlements, but married Carian women whose parents they had put to death."
+        ],
+        "section": "2"
+      },
+      {
+        "greek": "διὰ τοῦτὸν δὲ τὸν φόνον αἱ γυναῖκες αὗται νόμον θέμεναι σφίσι αὐτῇσι ὅρκους ἐπήλασαν καὶ παρέδοσαν τῇσι θυγατράσι, μή κοτε ὁμοσιτῆσαι τοῖσι ἀνδράσι μηδὲ οὐνόματι βῶσαι τὸν ἑωυτῆς ἄνδρα, τοῦδε εἵνεκα ὅτι ἐφόνευσαν σφέων τοὺς πατέρας καὶ ἄνδρας καὶ παῖδας καὶ ἔπειτα ταῦτα ποιήσαντες αὐτῇσι συνοίκεον.",
+        "translations": [
+          "For this slaughter, these women made a custom and bound themselves by oath (and enjoined it on their daughters) that no one would sit at table with her husband or call him by his name, because the men had married them after slaying their fathers and husbands and sons. This happened at Miletus."
+        ],
+        "section": "3"
+      }
+    ]
+  }
+]

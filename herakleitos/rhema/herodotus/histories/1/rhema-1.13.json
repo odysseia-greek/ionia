@@ -1,0 +1,25 @@
+[
+  {
+    "author": "Herodotus",
+    "book": "Histories",
+    "type": "work",
+    "reference": "1.13",
+    "perseusTextLink": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.13/",
+    "rhemai": [
+      {
+        "greek": "ἔσχε δὲ τὴν βασιληίην καὶ ἐκρατύνθη ἐκ τοῦ ἐν Δελφοῖσι χρηστηρίου. ὡς γὰρ δὴ οἱ Λυδοὶ δεινόν ἐποιεῦντο τὸ Κανδαύλεω πάθος καὶ ἐν ὅπλοισι ἦσαν, συνέβησαν ἐς τὠυτὸ οἳ τε τοῦ Γύγεω στασιῶται καί οἱ λοιποὶ Λυδοί, ἤν μὲν τὸ χρηστήριον ἀνέλῃ μιν βασιλέα εἶναι Λυδῶν, τόν δὲ βασιλεύειν, ἤν δὲ μή, ἀποδοῦναι ὀπίσω ἐς Ἡρακλείδας τὴν ἀρχήν.",
+        "translations": [
+          "So he took possession of the sovereign power and was confirmed in it by the Delphic oracle. For when the Lydians took exception to what was done to Candaules, and took up arms, the faction of Gyges came to an agreement with the rest of the people that if the oracle should ordain him king of the Lydians, then he would reign; but if not, then he would return the kingship to the Heraclidae."
+        ],
+        "section": "1"
+      },
+      {
+        "greek": "ἀνεῖλέ τε δὴ τὸ χρηστήριον καὶ ἐβασίλευσε οὕτω Γύγης. τοσόνδε μέντοι εἶπε ἡ Πυθίη, ὡς Ἡρακλείδῃσι τίσις ἥξει ἐς τὸν πέμπτον ἀπόγονον Γύγεω. τούτου τοῦ ἔπεος Λυδοί τε καί οἱ βασιλέες αὐτῶν λόγον οὐδένα ἐποιεῦντο, πρὶν δὴ ἐπετελέσθη.",
+        "translations": [
+          "The oracle did so ordain, and Gyges thus became king. However, the Pythian priestess declared that the Heraclidae would have vengeance on Gyges ' posterity in the fifth generation; an utterance to which the Lydians and their kings paid no regard until it was fulfilled."
+        ],
+        "section": "2"
+      }
+    ]
+  }
+]
