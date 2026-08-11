@@ -11,25 +11,23 @@ import (
 	diodorosv1 "github.com/odysseia-greek/ionia/diodoros/gen/go/v1"
 	"github.com/odysseia-greek/ionia/herodotos/graph/model"
 	thoukydidesv1 "github.com/odysseia-greek/ionia/thoukydides/gen/go/v1"
-	"google.golang.org/protobuf/types/known/emptypb"
 )
 
-// StartReading is the resolver for the startReading field.
-func (r *mutationResolver) StartReading(ctx context.Context, input model.StartReadingInput) (*model.ReadingSession, error) {
-	response, err := r.Core.StartReading(ctx, &thoukydidesv1.StartReadingRequest{UserId: input.UserID, FormId: input.FormID})
+// CheckChapter is the resolver for the checkChapter field.
+func (r *mutationResolver) CheckChapter(ctx context.Context, input model.CheckChapterInput) (*model.CheckChapterResult, error) {
+	answers := make([]*thoukydidesv1.ChapterAnswer, 0, len(input.Answers))
+	for _, answer := range input.Answers {
+		answers = append(answers, &thoukydidesv1.ChapterAnswer{Text: answer.Text, LearnerText: answer.LearnerText})
+	}
+	response, err := r.Handler.CheckChapter(ctx, &thoukydidesv1.CheckChapterRequest{Chapter: input.Chapter, Answers: answers})
 	if err != nil {
 		return nil, err
 	}
-	return reading(response), nil
-}
-
-// SaveProgress is the resolver for the saveProgress field.
-func (r *mutationResolver) SaveProgress(ctx context.Context, input model.SaveProgressInput) (*model.ReadingSession, error) {
-	response, err := r.Core.SaveProgress(ctx, &thoukydidesv1.SaveProgressRequest{Id: input.ID, ProgressBlob: input.ProgressBlob})
-	if err != nil {
-		return nil, err
+	result := &model.CheckChapterResult{Chapter: response.Chapter}
+	for _, text := range response.Texts {
+		result.Texts = append(result.Texts, &model.CheckedChapterText{Text: text.Text, SourceText: text.SourceText, ActualText: text.ActualText, LearnerText: text.LearnerText})
 	}
-	return reading(response), nil
+	return result, nil
 }
 
 // CheckText is the resolver for the checkText field.
@@ -38,7 +36,7 @@ func (r *mutationResolver) CheckText(ctx context.Context, input model.CheckTextI
 	for _, answer := range input.Translations {
 		answers = append(answers, &diodorosv1.TranslationAnswer{Section: answer.Section, Translation: answer.Translation})
 	}
-	response, err := r.Corpus.CheckText(ctx, &diodorosv1.CheckTextRequest{Author: input.Author, Book: input.Book, Reference: input.Reference, Translations: answers})
+	response, err := r.Handler.CheckText(ctx, &diodorosv1.CheckTextRequest{Author: input.Author, Book: input.Book, Reference: input.Reference, Translations: answers})
 	if err != nil {
 		return nil, err
 	}
@@ -54,7 +52,7 @@ func (r *mutationResolver) CheckText(ctx context.Context, input model.CheckTextI
 
 // Health is the resolver for the health field.
 func (r *queryResolver) Health(ctx context.Context) (*model.Health, error) {
-	response, err := r.Core.Health(ctx, &emptypb.Empty{})
+	response, err := r.Handler.CoreHealth(ctx)
 	if err != nil {
 		return nil, err
 	}
@@ -63,7 +61,7 @@ func (r *queryResolver) Health(ctx context.Context) (*model.Health, error) {
 
 // CorpusHealth is the resolver for the corpusHealth field.
 func (r *queryResolver) CorpusHealth(ctx context.Context) (*model.Health, error) {
-	response, err := r.Corpus.Health(ctx, &emptypb.Empty{})
+	response, err := r.Handler.CorpusHealth(ctx)
 	if err != nil {
 		return nil, err
 	}
@@ -72,7 +70,7 @@ func (r *queryResolver) CorpusHealth(ctx context.Context) (*model.Health, error)
 
 // CorpusOptions is the resolver for the corpusOptions field.
 func (r *queryResolver) CorpusOptions(ctx context.Context) (*model.CorpusOptions, error) {
-	response, err := r.Corpus.Options(ctx, &emptypb.Empty{})
+	response, err := r.Handler.CorpusOptions(ctx)
 	if err != nil {
 		return nil, err
 	}
@@ -91,35 +89,54 @@ func (r *queryResolver) CorpusOptions(ctx context.Context) (*model.CorpusOptions
 	return result, nil
 }
 
-// Forms is the resolver for the forms field.
-func (r *queryResolver) Forms(ctx context.Context, size *int) ([]*model.Form, error) {
-	amount := int32(20)
-	if size != nil {
-		amount = int32(*size)
-	}
-	response, err := r.Core.ListForms(ctx, &thoukydidesv1.ListFormsRequest{Size: amount})
+// ChapterOptions is the resolver for the chapterOptions field.
+func (r *queryResolver) ChapterOptions(ctx context.Context) (*model.ChapterOptions, error) {
+	response, err := r.Handler.ChapterOptions(ctx)
 	if err != nil {
 		return nil, err
 	}
-	forms := make([]*model.Form, 0, len(response.Forms))
-	for _, form := range response.Forms {
-		forms = append(forms, &model.Form{ID: form.Id, Blob: form.Blob})
+	result := &model.ChapterOptions{}
+	for _, chapter := range response.Chapters {
+		result.Chapters = append(result.Chapters, &model.ChapterOption{Chapter: chapter.Chapter, Title: chapter.Title, Order: int(chapter.Order), Level: int(chapter.Level)})
 	}
-	return forms, nil
+	return result, nil
 }
 
-// Form is the resolver for the form field.
-func (r *queryResolver) Form(ctx context.Context, id string) (*model.Form, error) {
-	form, err := r.Core.GetForm(ctx, &thoukydidesv1.GetFormRequest{Id: id})
+// Chapter is the resolver for the chapter field.
+func (r *queryResolver) Chapter(ctx context.Context, chapter string) (*model.Chapter, error) {
+	response, err := r.Handler.GetChapter(ctx, &thoukydidesv1.GetChapterRequest{Chapter: chapter})
 	if err != nil {
 		return nil, err
 	}
-	return &model.Form{ID: form.Id, Blob: form.Blob}, nil
+	result := &model.Chapter{
+		Chapter: response.Chapter, Title: response.Title, Order: int(response.Order), Level: int(response.Level), Blob: response.Blob,
+		Grammar:    make([]*model.Grammar, 0, len(response.Grammar)),
+		Vocabulary: make([]*model.Vocabulary, 0, len(response.Vocabulary)),
+		Texts:      make([]*model.ChapterText, 0, len(response.Texts)),
+	}
+	for _, grammar := range response.Grammar {
+		item := &model.Grammar{Grammar: grammar.Grammar, Title: grammar.Title, Explanation: grammar.Explanation}
+		if grammar.Example != nil {
+			item.Example = &model.GrammarExample{Greek: grammar.Example.Greek, Translation: grammar.Example.Translation, Note: grammar.Example.Note}
+		}
+		result.Grammar = append(result.Grammar, item)
+	}
+	for _, vocabulary := range response.Vocabulary {
+		result.Vocabulary = append(result.Vocabulary, &model.Vocabulary{Greek: vocabulary.Greek, Translation: vocabulary.Translation})
+	}
+	for _, text := range response.Texts {
+		source := &model.ChapterTextSource{}
+		if text.Source != nil {
+			source = &model.ChapterTextSource{Author: text.Source.Author, Work: text.Source.Work, Reference: text.Source.Reference, Dialect: text.Source.Dialect}
+		}
+		result.Texts = append(result.Texts, &model.ChapterText{Text: text.Text, Title: text.Title, Type: text.Type, Source: source, Greek: text.Greek, ReadingHints: append([]string{}, text.ReadingHints...)})
+	}
+	return result, nil
 }
 
 // Text is the resolver for the text field.
 func (r *queryResolver) Text(ctx context.Context, input model.TextInput) (*model.Text, error) {
-	response, err := r.Corpus.CreateText(ctx, &diodorosv1.CreateTextRequest{Author: input.Author, Book: input.Book, Reference: value(input.Reference), Section: value(input.Section)})
+	response, err := r.Handler.CreateText(ctx, &diodorosv1.CreateTextRequest{Author: input.Author, Book: input.Book, Reference: value(input.Reference), Section: value(input.Section)})
 	if err != nil {
 		return nil, err
 	}
@@ -128,15 +145,6 @@ func (r *queryResolver) Text(ctx context.Context, input model.TextInput) (*model
 		passages = append(passages, &model.Passage{Greek: passage.Greek, Translations: passage.Translations, Section: passage.Section})
 	}
 	return &model.Text{Author: response.Author, Book: response.Book, Type: response.Type, Reference: response.Reference, PerseusTextLink: response.PerseusTextLink, Passages: passages}, nil
-}
-
-// Reading is the resolver for the reading field.
-func (r *queryResolver) Reading(ctx context.Context, id string) (*model.ReadingSession, error) {
-	response, err := r.Core.GetReading(ctx, &thoukydidesv1.GetReadingRequest{Id: id})
-	if err != nil {
-		return nil, err
-	}
-	return reading(response), nil
 }
 
 // Mutation returns MutationResolver implementation.

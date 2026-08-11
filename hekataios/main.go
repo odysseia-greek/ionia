@@ -3,11 +3,16 @@ package main
 import (
 	"context"
 	"embed"
-	"github.com/odysseia-greek/agora/plato/logging"
-	"github.com/odysseia-greek/ionia/hekataios/periodos"
+	"fmt"
 	"log"
 	"strconv"
 	"strings"
+	"time"
+
+	"github.com/google/uuid"
+	"github.com/odysseia-greek/agora/plato/logging"
+	pb "github.com/odysseia-greek/delphi/aristides/proto"
+	"github.com/odysseia-greek/ionia/hekataios/periodos"
 )
 
 //go:embed rhema
@@ -32,12 +37,29 @@ func main() {
 		logging.Error(err.Error())
 		log.Fatal("death has found me")
 	}
-	if err := handler.Reset(context.Background()); err != nil {
+	logging.Debug("deleting forms index before seeding")
+	if err := handler.DeleteIndexAtStartUp(context.Background()); err != nil {
 		log.Fatal(err)
 	}
+	logging.Debug("creating forms index")
+	if err := handler.CreateIndexAtStartup(context.Background()); err != nil {
+		log.Fatal(err)
+	}
+
+	logging.Debug("loading embedded forms")
 	count, err := periodos.Load(context.Background(), data, "rhema", handler)
 	if err != nil {
 		log.Fatal(err)
 	}
 	logging.Info("seeded forms: " + strconv.Itoa(count))
+
+	logging.Debug("closing Ambassador because the seed job is done")
+	shutdownCtx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+	shutdownCode := uuid.NewString()
+	if _, err := handler.Ambassador.ShutDown(shutdownCtx, &pb.ShutDownRequest{Code: shutdownCode}); err != nil {
+		logging.Error(fmt.Sprintf("failed to shut down Ambassador: %v", err))
+		return
+	}
+	logging.Info("Ambassador shut down successfully")
 }

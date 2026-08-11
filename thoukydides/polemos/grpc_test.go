@@ -9,13 +9,13 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 	"google.golang.org/grpc/test/bufconn"
+	"google.golang.org/protobuf/types/known/emptypb"
 )
 
 func TestGRPCEndpoints(t *testing.T) {
-	form := &v1.Form{Id: "chapter-02", Blob: `{"id":"chapter-02"}`}
 	listener := bufconn.Listen(1024 * 1024)
 	server := grpc.NewServer()
-	v1.RegisterThoukydidesServiceServer(server, NewService("test", memoryForms{forms: []*v1.Form{form}}))
+	v1.RegisterThoukydidesServiceServer(server, NewService("test", memoryForms{chapters: []*chapterDocument{fixtureChapter()}}))
 	go server.Serve(listener)
 	defer server.Stop()
 	conn, err := grpc.NewClient("passthrough:///bufnet", grpc.WithContextDialer(func(context.Context, string) (net.Conn, error) { return listener.Dial() }), grpc.WithTransportCredentials(insecure.NewCredentials()))
@@ -25,24 +25,16 @@ func TestGRPCEndpoints(t *testing.T) {
 	defer conn.Close()
 	client := v1.NewThoukydidesServiceClient(conn)
 	ctx := context.Background()
-	listed, err := client.ListForms(ctx, &v1.ListFormsRequest{Size: 10})
-	if err != nil || len(listed.Forms) != 1 {
-		t.Fatalf("ListForms: response=%v err=%v", listed, err)
+	options, err := client.Options(ctx, &emptypb.Empty{})
+	if err != nil || len(options.Chapters) != 1 || options.Chapters[0].Chapter != "chapter-02" {
+		t.Fatalf("Options: response=%v err=%v", options, err)
 	}
-	got, err := client.GetForm(ctx, &v1.GetFormRequest{Id: form.Id})
-	if err != nil || got.Blob != form.Blob {
-		t.Fatalf("GetForm: response=%v err=%v", got, err)
+	chapter, err := client.GetChapter(ctx, &v1.GetChapterRequest{Chapter: "chapter-02"})
+	if err != nil || chapter.Chapter != "chapter-02" {
+		t.Fatalf("GetChapter: response=%v err=%v", chapter, err)
 	}
-	session, err := client.StartReading(ctx, &v1.StartReadingRequest{UserId: "reader", FormId: form.Id})
-	if err != nil || session.Form.Id != form.Id {
-		t.Fatalf("StartReading: response=%v err=%v", session, err)
-	}
-	progress, err := client.SaveProgress(ctx, &v1.SaveProgressRequest{Id: session.Id, ProgressBlob: `{"step":2}`})
-	if err != nil || progress.ProgressBlob != `{"step":2}` {
-		t.Fatalf("SaveProgress: response=%v err=%v", progress, err)
-	}
-	loaded, err := client.GetReading(ctx, &v1.GetReadingRequest{Id: session.Id})
-	if err != nil || loaded.ProgressBlob != progress.ProgressBlob {
-		t.Fatalf("GetReading: response=%v err=%v", loaded, err)
+	checked, err := client.CheckChapter(ctx, &v1.CheckChapterRequest{Chapter: "chapter-02", Answers: []*v1.ChapterAnswer{{Text: "john-1-1", LearnerText: "At the start"}}})
+	if err != nil || len(checked.Texts) != 1 || checked.Texts[0].ActualText != "In the beginning" {
+		t.Fatalf("CheckChapter: response=%v err=%v", checked, err)
 	}
 }

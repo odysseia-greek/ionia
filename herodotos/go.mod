@@ -7,9 +7,10 @@ require (
 	github.com/odysseia-greek/agora/hesiodos v0.1.2
 	github.com/odysseia-greek/agora/plato v0.2.17
 	github.com/odysseia-greek/attike/aristophanes v0.8.0
-	github.com/odysseia-greek/ionia/diodoros v0.0.0
-	github.com/odysseia-greek/ionia/thoukydides v0.0.0
+	github.com/odysseia-greek/ionia/diodoros v0.0.1-rho1
+	github.com/odysseia-greek/ionia/thoukydides v0.0.1-rho1
 	github.com/vektah/gqlparser/v2 v2.5.36
+	google.golang.org/grpc v1.83.0
 	google.golang.org/protobuf v1.36.11
 )
 
@@ -63,12 +64,7 @@ require (
 	golang.org/x/time v0.12.0 // indirect
 	golang.org/x/tools v0.48.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260526163538-3dc84a4a5aaa // indirect
-	google.golang.org/grpc v1.83.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
 tool github.com/99designs/gqlgen
-
-replace github.com/odysseia-greek/ionia/diodoros => ../diodoros
-
-replace github.com/odysseia-greek/ionia/thoukydides => ../thoukydides

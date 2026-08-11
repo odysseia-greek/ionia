@@ -3,23 +3,18 @@ package gateway
 import (
 	"context"
 	"fmt"
-	"os"
+	"time"
 
 	"github.com/odysseia-greek/agora/hesiodos"
 	"github.com/odysseia-greek/agora/plato/config"
+	"github.com/odysseia-greek/agora/plato/logging"
 	"github.com/odysseia-greek/attike/aristophanes/comedy"
-	arv1 "github.com/odysseia-greek/attike/aristophanes/gen/go/v1"
 	"github.com/odysseia-greek/ionia/diodoros/bibliotheke"
 	"github.com/odysseia-greek/ionia/thoukydides/polemos"
 )
 
-type Config struct {
-	Core     *hesiodos.GenericGrpcClient[*polemos.Client]
-	Corpus   *hesiodos.GenericGrpcClient[*bibliotheke.Client]
-	Streamer arv1.TraceService_ChorusClient
-}
-
-func CreateNewConfig(ctx context.Context) (*Config, error) {
+func CreateNewConfig(ctx context.Context) (*HerodotosHandler, error) {
+	start := time.Now()
 	tracer, err := comedy.NewClientTracer(comedy.DefaultAddress)
 	if err != nil {
 		return nil, err
@@ -42,6 +37,15 @@ func CreateNewConfig(ctx context.Context) (*Config, error) {
 		_ = core.Client.Close()
 		return nil, err
 	}
-	_ = os.Getenv(config.EnvVersion)
-	return &Config{Core: core, Corpus: corpus, Streamer: streamer}, nil
+
+	coreHealthy := core.Client.WaitForHealthyState()
+	corpusHealthy := corpus.Client.WaitForHealthyState()
+
+	logging.System(fmt.Sprintf(`Herodotos Configuration Overview:
+- Initialization Time: %s
+- Tracer Service:      %v (Address: %s)
+- Thoukydides Service: %v (Address: %s)
+- Diodoros Service:    %v (Address: %s)
+`, time.Since(start), true, comedy.DefaultAddress, coreHealthy, coreAddress, corpusHealthy, corpusAddress))
+	return &HerodotosHandler{Core: core, Corpus: corpus, Streamer: streamer}, nil
 }

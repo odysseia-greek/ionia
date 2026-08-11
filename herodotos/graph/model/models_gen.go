@@ -9,6 +9,59 @@ type AnswerSection struct {
 	AnswerSentence        string `json:"answerSentence"`
 }
 
+type Chapter struct {
+	Chapter    string         `json:"chapter"`
+	Title      string         `json:"title"`
+	Order      int            `json:"order"`
+	Level      int            `json:"level"`
+	Blob       string         `json:"blob"`
+	Grammar    []*Grammar     `json:"grammar"`
+	Vocabulary []*Vocabulary  `json:"vocabulary"`
+	Texts      []*ChapterText `json:"texts"`
+}
+
+type ChapterAnswerInput struct {
+	Text        string `json:"text"`
+	LearnerText string `json:"learnerText"`
+}
+
+type ChapterOption struct {
+	Chapter string `json:"chapter"`
+	Title   string `json:"title"`
+	Order   int    `json:"order"`
+	Level   int    `json:"level"`
+}
+
+type ChapterOptions struct {
+	Chapters []*ChapterOption `json:"chapters"`
+}
+
+type ChapterText struct {
+	Text         string             `json:"text"`
+	Title        string             `json:"title"`
+	Type         string             `json:"type"`
+	Source       *ChapterTextSource `json:"source"`
+	Greek        string             `json:"greek"`
+	ReadingHints []string           `json:"readingHints"`
+}
+
+type ChapterTextSource struct {
+	Author    string `json:"author"`
+	Work      string `json:"work"`
+	Reference string `json:"reference"`
+	Dialect   string `json:"dialect"`
+}
+
+type CheckChapterInput struct {
+	Chapter string                `json:"chapter"`
+	Answers []*ChapterAnswerInput `json:"answers"`
+}
+
+type CheckChapterResult struct {
+	Chapter string                `json:"chapter"`
+	Texts   []*CheckedChapterText `json:"texts"`
+}
+
 type CheckTextInput struct {
 	Author       string                    `json:"author"`
 	Book         string                    `json:"book"`
@@ -20,6 +73,13 @@ type CheckTextResult struct {
 	AverageLevenshteinPercentage string           `json:"averageLevenshteinPercentage"`
 	Sections                     []*AnswerSection `json:"sections"`
 	PossibleTypos                []*Typo          `json:"possibleTypos"`
+}
+
+type CheckedChapterText struct {
+	Text        string `json:"text"`
+	SourceText  string `json:"sourceText"`
+	ActualText  string `json:"actualText"`
+	LearnerText string `json:"learnerText"`
 }
 
 type CorpusAuthor struct {
@@ -41,9 +101,17 @@ type CorpusReference struct {
 	Sections []string `json:"sections"`
 }
 
-type Form struct {
-	ID   string `json:"id"`
-	Blob string `json:"blob"`
+type Grammar struct {
+	Grammar     string          `json:"grammar"`
+	Title       string          `json:"title"`
+	Explanation string          `json:"explanation"`
+	Example     *GrammarExample `json:"example,omitempty"`
+}
+
+type GrammarExample struct {
+	Greek       string `json:"greek"`
+	Translation string `json:"translation"`
+	Note        string `json:"note"`
 }
 
 type Health struct {
@@ -62,26 +130,6 @@ type Passage struct {
 }
 
 type Query struct {
-}
-
-type ReadingSession struct {
-	ID           string `json:"id"`
-	UserID       string `json:"userId"`
-	FormID       string `json:"formId"`
-	Form         *Form  `json:"form"`
-	ProgressBlob string `json:"progressBlob"`
-	CreatedAt    string `json:"createdAt"`
-	UpdatedAt    string `json:"updatedAt"`
-}
-
-type SaveProgressInput struct {
-	ID           string `json:"id"`
-	ProgressBlob string `json:"progressBlob"`
-}
-
-type StartReadingInput struct {
-	UserID string `json:"userId"`
-	FormID string `json:"formId"`
 }
 
 type Text struct {
@@ -108,4 +156,9 @@ type TranslationAnswerInput struct {
 type Typo struct {
 	Source   string `json:"source"`
 	Provided string `json:"provided"`
+}
+
+type Vocabulary struct {
+	Greek       string `json:"greek"`
+	Translation string `json:"translation"`
 }

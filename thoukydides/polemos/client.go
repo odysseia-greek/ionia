@@ -42,18 +42,12 @@ func (c *Client) WaitForHealthyState() bool {
 func (c *Client) Health(ctx context.Context, req *emptypb.Empty, opts ...grpc.CallOption) (*v1.HealthResponse, error) {
 	return c.service.Health(ctx, req, opts...)
 }
-func (c *Client) ListForms(ctx context.Context, req *v1.ListFormsRequest, opts ...grpc.CallOption) (*v1.ListFormsResponse, error) {
-	return c.service.ListForms(ctx, req, opts...)
+func (c *Client) Options(ctx context.Context, req *emptypb.Empty, opts ...grpc.CallOption) (*v1.ChapterOptions, error) {
+	return c.service.Options(ctx, req, opts...)
 }
-func (c *Client) GetForm(ctx context.Context, req *v1.GetFormRequest, opts ...grpc.CallOption) (*v1.Form, error) {
-	return c.service.GetForm(ctx, req, opts...)
+func (c *Client) GetChapter(ctx context.Context, req *v1.GetChapterRequest, opts ...grpc.CallOption) (*v1.Chapter, error) {
+	return c.service.GetChapter(ctx, req, opts...)
 }
-func (c *Client) StartReading(ctx context.Context, req *v1.StartReadingRequest, opts ...grpc.CallOption) (*v1.ReadingSession, error) {
-	return c.service.StartReading(ctx, req, opts...)
-}
-func (c *Client) GetReading(ctx context.Context, req *v1.GetReadingRequest, opts ...grpc.CallOption) (*v1.ReadingSession, error) {
-	return c.service.GetReading(ctx, req, opts...)
-}
-func (c *Client) SaveProgress(ctx context.Context, req *v1.SaveProgressRequest, opts ...grpc.CallOption) (*v1.ReadingSession, error) {
-	return c.service.SaveProgress(ctx, req, opts...)
+func (c *Client) CheckChapter(ctx context.Context, req *v1.CheckChapterRequest, opts ...grpc.CallOption) (*v1.CheckChapterResponse, error) {
+	return c.service.CheckChapter(ctx, req, opts...)
 }

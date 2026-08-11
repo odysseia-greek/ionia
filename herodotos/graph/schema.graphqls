@@ -26,28 +26,81 @@ input TextInput {
   section: String
 }
 
-type ReadingSession {
-  id: ID!
-  userId: String!
-  formId: ID!
-  form: Form!
-  progressBlob: String!
-  createdAt: String!
-  updatedAt: String!
+type ChapterOption {
+  chapter: String!
+  title: String!
+  order: Int!
+  level: Int!
 }
 
-# Opaque form payload while the learning-form design is still evolving.
-type Form {
-  id: ID!
+type ChapterOptions { chapters: [ChapterOption!]! }
+
+type Chapter {
+  chapter: String!
+  title: String!
+  order: Int!
+  level: Int!
   blob: String!
+  grammar: [Grammar!]!
+  vocabulary: [Vocabulary!]!
+  texts: [ChapterText!]!
 }
 
-input StartReadingInput {
-  userId: String!
-  formId: ID!
+type GrammarExample {
+  greek: String!
+  translation: String!
+  note: String!
 }
 
-input SaveProgressInput { id: ID!, progressBlob: String! }
+type Grammar {
+  grammar: String!
+  title: String!
+  explanation: String!
+  example: GrammarExample
+}
+
+type Vocabulary {
+  greek: String!
+  translation: String!
+}
+
+type ChapterTextSource {
+  author: String!
+  work: String!
+  reference: String!
+  dialect: String!
+}
+
+type ChapterText {
+  text: String!
+  title: String!
+  type: String!
+  source: ChapterTextSource!
+  greek: String!
+  readingHints: [String!]!
+}
+
+input ChapterAnswerInput {
+  text: String!
+  learnerText: String!
+}
+
+input CheckChapterInput {
+  chapter: String!
+  answers: [ChapterAnswerInput!]!
+}
+
+type CheckedChapterText {
+  text: String!
+  sourceText: String!
+  actualText: String!
+  learnerText: String!
+}
+
+type CheckChapterResult {
+  chapter: String!
+  texts: [CheckedChapterText!]!
+}
 
 type CorpusReference { name: String!, sections: [String!]! }
 type CorpusBook { name: String!, references: [CorpusReference!]! }
@@ -64,14 +117,12 @@ type Query {
   health: Health!
   corpusHealth: Health!
   corpusOptions: CorpusOptions!
-  forms(size: Int = 20): [Form!]!
-  form(id: ID!): Form!
+  chapterOptions: ChapterOptions!
+  chapter(chapter: String!): Chapter!
   text(input: TextInput!): Text!
-  reading(id: ID!): ReadingSession!
 }
 
 type Mutation {
-  startReading(input: StartReadingInput!): ReadingSession!
-  saveProgress(input: SaveProgressInput!): ReadingSession!
+  checkChapter(input: CheckChapterInput!): CheckChapterResult!
   checkText(input: CheckTextInput!): CheckTextResult!
 }

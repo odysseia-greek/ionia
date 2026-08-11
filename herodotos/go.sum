@@ -93,6 +93,10 @@ github.com/odysseia-greek/attike/aristophanes v0.8.0 h1:PsLWTLWXXxUbKP/uB4ysaQnx
 github.com/odysseia-greek/attike/aristophanes v0.8.0/go.mod h1:vTOK5FnkKpD9qRUiX8i2O8DqlbwLZJwmtHKfwzY+9sg=
 github.com/odysseia-greek/delphi/aristides v0.1.0 h1:igVjtDoN1ADPDI96w/gdSrm9AKee8khxK2Zz4bfkpyc=
 github.com/odysseia-greek/delphi/aristides v0.1.0/go.mod h1:ZIIQf85nTa4uIeFJL2ciF9SAh/789Nupj1CeFjVseS8=
+github.com/odysseia-greek/ionia/diodoros v0.0.1-rho1 h1:eQW5wZXO5q+8USGa3EZ80+612LaUZeAn3eRPAFsRTZU=
+github.com/odysseia-greek/ionia/diodoros v0.0.1-rho1/go.mod h1:QG82X92ERie96IUUSwWhzyVq7MXNX19m+xWIdnwanGk=
+github.com/odysseia-greek/ionia/thoukydides v0.0.1-rho1 h1:L1cSPEkTjbrw1zm7bJjhqAVxEcJ+MDex4pW2liNjnq0=
+github.com/odysseia-greek/ionia/thoukydides v0.0.1-rho1/go.mod h1:qvbjApoIiLKdVXWcg1BUTv0Jdus3cO89DwA7yLF6X7U=
 github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 h1:Jamvg5psRIccs7FGNTlIRMkT8wgtp5eCXdBlqhYGL6U=
 github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rogpeppe/go-internal v1.14.1 h1:UQB4HGPB6osV0SQTLymcB4TgvyWu6ZyliaW0tI/otEQ=
