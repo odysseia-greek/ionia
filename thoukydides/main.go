@@ -1,34 +1,48 @@
 package main
 
 import (
-	"log"
-	"net"
-	"os"
-
+	"context"
+	"fmt"
+	"github.com/odysseia-greek/agora/plato/config"
+	"github.com/odysseia-greek/agora/plato/logging"
+	"github.com/odysseia-greek/attike/aristophanes/comedy"
 	v1 "github.com/odysseia-greek/ionia/thoukydides/gen/go/v1"
 	"github.com/odysseia-greek/ionia/thoukydides/polemos"
 	"google.golang.org/grpc"
+	"log"
+	"net"
+	"os"
 )
+
+const standardPort = ":50060"
 
 func main() {
 	port := os.Getenv("PORT")
 	if port == "" {
-		port = ":50051"
+		port = standardPort
+	}
+	logging.System(`
+ ______  __ __   ___   __ __  __  _  __ __  ___    ____   ___   _____
+|      ||  |  | /   \ |  |  ||  |/ ]|  |  ||   \  |    | /   \ / ___/
+|      ||  |  ||     ||  |  ||  ' / |  |  ||    \  |  | |     (   \_
+|_|  |_||  _  ||  O  ||  |  ||    \ |  ~  ||  D  | |  | |  O  |\__  |
+  |  |  |  |  ||     ||  :  ||     ||___, ||     | |  | |     |/  \ |
+  |  |  |  |  ||     ||     ||  .  ||     ||     | |  | |     |\    |
+  |__|  |__|__| \___/  \__,_||__|\_||____/ |_____||____| \___/  \___|
+`)
+	logging.System("Thoukydides — πόλεμος")
+	logging.System("starting up and getting env variables")
+	cfg, err := polemos.CreateNewConfig(context.Background())
+	if err != nil {
+		logging.Error(err.Error())
+		log.Fatal("death has found me")
 	}
 	listener, err := net.Listen("tcp", port)
 	if err != nil {
 		log.Fatal(err)
 	}
-	server := grpc.NewServer()
-	forms := &polemos.ElasticFormStore{Address: env("ELASTIC_ADDRESS", "http://localhost:9200"), Index: env("ELASTIC_INDEX", "forms"), Username: os.Getenv("ELASTIC_USERNAME"), Password: os.Getenv("ELASTIC_PASSWORD")}
-	v1.RegisterThoukydidesServiceServer(server, polemos.NewService("dev", forms))
-	log.Printf("Thoukydides listening on %s", port)
+	server := grpc.NewServer(grpc.UnaryInterceptor(comedy.UnaryServerInterceptor(cfg.Streamer, comedy.WithHeaderKey(config.HeaderKey), comedy.WithContextKeyName(config.DefaultTracingName), comedy.WithCloseHop())))
+	v1.RegisterThoukydidesServiceServer(server, cfg)
+	logging.Info(fmt.Sprintf("Server listening on %s", port))
 	log.Fatal(server.Serve(listener))
-}
-
-func env(key, fallback string) string {
-	if value := os.Getenv(key); value != "" {
-		return value
-	}
-	return fallback
 }

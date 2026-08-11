@@ -20,7 +20,8 @@ type Sink interface {
 }
 
 func Load(ctx context.Context, source fs.FS, root string, sink Sink) (int, error) {
-	count := 0
+	forms := make(map[string]Form)
+	order := make([]string, 0)
 	err := fs.WalkDir(source, root, func(path string, entry fs.DirEntry, walkErr error) error {
 		if walkErr != nil {
 			return walkErr
@@ -46,12 +47,20 @@ func Load(ctx context.Context, source fs.FS, root string, sink Sink) (int, error
 			if identity.ID == "" {
 				return fmt.Errorf("form in %s has no id", path)
 			}
-			if err := sink.Put(ctx, Form{ID: identity.ID, Blob: blob}); err != nil {
-				return fmt.Errorf("seed %s: %w", path, err)
+			if _, exists := forms[identity.ID]; !exists {
+				order = append(order, identity.ID)
 			}
-			count++
+			forms[identity.ID] = Form{ID: identity.ID, Blob: blob}
 		}
 		return nil
 	})
-	return count, err
+	if err != nil {
+		return 0, err
+	}
+	for _, id := range order {
+		if err := sink.Put(ctx, forms[id]); err != nil {
+			return 0, fmt.Errorf("seed %s: %w", id, err)
+		}
+	}
+	return len(forms), nil
 }

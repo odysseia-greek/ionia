@@ -44,6 +44,6 @@ make build    # build all services
 make test-system # run Artafernes against a live gateway
 ```
 
-Default ports are `8080` for Herodotos, `50051` for Thoukydides, and
-`50052` for Diodoros. Service addresses and ports can be overridden with
+Default ports are `8080` for Herodotos and `50060` for both gRPC services.
+Service addresses and ports can be overridden with
 environment variables documented in each service's config package.

@@ -8,6 +8,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/odysseia-greek/agora/aristoteles"
+	arv1 "github.com/odysseia-greek/attike/aristophanes/gen/go/v1"
 	v1 "github.com/odysseia-greek/ionia/diodoros/gen/go/v1"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
@@ -15,6 +17,7 @@ import (
 )
 
 var ErrNotFound = errors.New("text not found")
+var ErrMultipleTexts = errors.New("multiple texts found")
 
 // Store captures the persistence required by the three migrated legacy
 // operations. An Elasticsearch implementation can replace MemoryStore without
@@ -26,8 +29,11 @@ type Store interface {
 
 type Service struct {
 	v1.UnimplementedDiodorosServiceServer
-	store   Store
-	version string
+	store    Store
+	version  string
+	Elastic  aristoteles.Client
+	Index    string
+	Streamer arv1.TraceService_ChorusClient
 }
 
 func NewService(store Store, version string) *Service {
@@ -45,6 +51,9 @@ func (s *Service) CreateText(ctx context.Context, req *v1.CreateTextRequest) (*v
 	text, err := s.store.CreateText(ctx, req)
 	if errors.Is(err, ErrNotFound) {
 		return nil, status.Errorf(codes.NotFound, "no text for author %q, book %q and reference %q", req.Author, req.Book, req.Reference)
+	}
+	if errors.Is(err, ErrMultipleTexts) {
+		return nil, status.Errorf(codes.FailedPrecondition, "more than one text for author %q, book %q and reference %q", req.Author, req.Book, req.Reference)
 	}
 	return text, err
 }

@@ -1,52 +1,48 @@
 package main
 
 import (
+	"context"
+	"fmt"
 	"log"
 	"net/http"
 	"os"
 
-	"github.com/99designs/gqlgen/graphql/handler"
-	"github.com/99designs/gqlgen/graphql/handler/extension"
-	"github.com/99designs/gqlgen/graphql/handler/lru"
-	"github.com/99designs/gqlgen/graphql/handler/transport"
-	"github.com/99designs/gqlgen/graphql/playground"
-	diodorosv1 "github.com/odysseia-greek/ionia/diodoros/gen/go/v1"
-	"github.com/odysseia-greek/ionia/herodotos/graph"
-	thoukydidesv1 "github.com/odysseia-greek/ionia/thoukydides/gen/go/v1"
-	"github.com/vektah/gqlparser/v2/ast"
-	"google.golang.org/grpc"
-	"google.golang.org/grpc/credentials/insecure"
+	"github.com/odysseia-greek/agora/plato/logging"
+	"github.com/odysseia-greek/ionia/herodotos/gateway"
+	"github.com/odysseia-greek/ionia/herodotos/routing"
 )
 
-func main() {
-	coreConn := dial(env("THOUKYDIDES_ADDRESS", "localhost:50051"))
-	defer coreConn.Close()
-	corpusConn := dial(env("DIODOROS_ADDRESS", "localhost:50052"))
-	defer corpusConn.Close()
-	resolver := &graph.Resolver{Core: thoukydidesv1.NewThoukydidesServiceClient(coreConn), Corpus: diodorosv1.NewDiodorosServiceClient(corpusConn)}
-	server := handler.New(graph.NewExecutableSchema(graph.Config{Resolvers: resolver}))
-	server.AddTransport(transport.Options{})
-	server.AddTransport(transport.GET{})
-	server.AddTransport(transport.POST{})
-	server.SetQueryCache(lru.New[*ast.QueryDocument](1000))
-	server.Use(extension.Introspection{})
-	http.Handle("/", playground.Handler("Herodotos", "/query"))
-	http.Handle("/query", server)
-	port := env("PORT", "8080")
-	log.Printf("Herodotos listening on :%s", port)
-	log.Fatal(http.ListenAndServe(":"+port, nil))
-}
+const standardPort = ":8080"
 
-func dial(address string) *grpc.ClientConn {
-	conn, err := grpc.NewClient(address, grpc.WithTransportCredentials(insecure.NewCredentials()))
+func main() {
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = standardPort
+	} else if port[0] != ':' {
+		port = ":" + port
+	}
+	logging.System(`
+ __ __    ___  ____    ___   ___     ___   ______   ___   _____
+|  |  |  /  _]|    \  /   \ |   \   /   \ |      | /   \ / ___/
+|  |  | /  [_ |  D  )|     ||    \ |     ||      ||     (   \_
+|  _  ||    _]|    / |  O  ||  D  ||  O  ||_|  |_||  O  |\__  |
+|  |  ||   [_ |    \ |     ||     ||     |  |  |  |     |/  \ |
+|  |  ||     ||  .  \|     ||     ||     |  |  |  |     |\    |
+|__|__||_____||__|\_| \___/ |_____| \___/   |__|   \___/  \___|
+`)
+	logging.System("Herodotos — GraphQL gateway")
+	logging.System("Ἡροδότου Ἁλικαρνησσέος ἱστορίης ἀπόδεξις ἥδε")
+	logging.System("This is the display of the inquiry of Herodotos of Halikarnassos")
+	logging.System("starting up and getting env variables")
+	cfg, err := gateway.CreateNewConfig(context.Background())
 	if err != nil {
-		log.Fatal(err)
+		logging.Error(err.Error())
+		log.Fatal("death has found me")
 	}
-	return conn
-}
-func env(key, fallback string) string {
-	if value := os.Getenv(key); value != "" {
-		return value
+	defer cfg.Close()
+	server := routing.InitRoutes(cfg)
+	logging.System(fmt.Sprintf("Server running on port %s", port))
+	if err := http.ListenAndServe(port, server); err != nil {
+		log.Fatal("Server failed to start: ", err)
 	}
-	return fallback
 }

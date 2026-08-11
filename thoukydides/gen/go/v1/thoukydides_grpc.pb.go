@@ -21,10 +21,9 @@ const _ = grpc.SupportPackageIsVersion9
 
 const (
 	ThoukydidesService_Health_FullMethodName       = "/thoukydides.v1.ThoukydidesService/Health"
-	ThoukydidesService_ListForms_FullMethodName    = "/thoukydides.v1.ThoukydidesService/ListForms"
-	ThoukydidesService_GetForm_FullMethodName      = "/thoukydides.v1.ThoukydidesService/GetForm"
-	ThoukydidesService_StartReading_FullMethodName = "/thoukydides.v1.ThoukydidesService/StartReading"
-	ThoukydidesService_GetReading_FullMethodName   = "/thoukydides.v1.ThoukydidesService/GetReading"
+	ThoukydidesService_Options_FullMethodName      = "/thoukydides.v1.ThoukydidesService/Options"
+	ThoukydidesService_GetChapter_FullMethodName   = "/thoukydides.v1.ThoukydidesService/GetChapter"
+	ThoukydidesService_CheckChapter_FullMethodName = "/thoukydides.v1.ThoukydidesService/CheckChapter"
 )
 
 // ThoukydidesServiceClient is the client API for ThoukydidesService service.
@@ -32,10 +31,9 @@ const (
 // For semantics around ctx use and closing/ending streaming RPCs, please refer to https://pkg.go.dev/google.golang.org/grpc/?tab=doc#ClientConn.NewStream.
 type ThoukydidesServiceClient interface {
 	Health(ctx context.Context, in *emptypb.Empty, opts ...grpc.CallOption) (*HealthResponse, error)
-	ListForms(ctx context.Context, in *ListFormsRequest, opts ...grpc.CallOption) (*ListFormsResponse, error)
-	GetForm(ctx context.Context, in *GetFormRequest, opts ...grpc.CallOption) (*Form, error)
-	StartReading(ctx context.Context, in *StartReadingRequest, opts ...grpc.CallOption) (*ReadingSession, error)
-	GetReading(ctx context.Context, in *GetReadingRequest, opts ...grpc.CallOption) (*ReadingSession, error)
+	Options(ctx context.Context, in *emptypb.Empty, opts ...grpc.CallOption) (*ChapterOptions, error)
+	GetChapter(ctx context.Context, in *GetChapterRequest, opts ...grpc.CallOption) (*Chapter, error)
+	CheckChapter(ctx context.Context, in *CheckChapterRequest, opts ...grpc.CallOption) (*CheckChapterResponse, error)
 }
 
 type thoukydidesServiceClient struct {
@@ -56,40 +54,30 @@ func (c *thoukydidesServiceClient) Health(ctx context.Context, in *emptypb.Empty
 	return out, nil
 }
 
-func (c *thoukydidesServiceClient) ListForms(ctx context.Context, in *ListFormsRequest, opts ...grpc.CallOption) (*ListFormsResponse, error) {
+func (c *thoukydidesServiceClient) Options(ctx context.Context, in *emptypb.Empty, opts ...grpc.CallOption) (*ChapterOptions, error) {
 	cOpts := append([]grpc.CallOption{grpc.StaticMethod()}, opts...)
-	out := new(ListFormsResponse)
-	err := c.cc.Invoke(ctx, ThoukydidesService_ListForms_FullMethodName, in, out, cOpts...)
+	out := new(ChapterOptions)
+	err := c.cc.Invoke(ctx, ThoukydidesService_Options_FullMethodName, in, out, cOpts...)
 	if err != nil {
 		return nil, err
 	}
 	return out, nil
 }
 
-func (c *thoukydidesServiceClient) GetForm(ctx context.Context, in *GetFormRequest, opts ...grpc.CallOption) (*Form, error) {
+func (c *thoukydidesServiceClient) GetChapter(ctx context.Context, in *GetChapterRequest, opts ...grpc.CallOption) (*Chapter, error) {
 	cOpts := append([]grpc.CallOption{grpc.StaticMethod()}, opts...)
-	out := new(Form)
-	err := c.cc.Invoke(ctx, ThoukydidesService_GetForm_FullMethodName, in, out, cOpts...)
+	out := new(Chapter)
+	err := c.cc.Invoke(ctx, ThoukydidesService_GetChapter_FullMethodName, in, out, cOpts...)
 	if err != nil {
 		return nil, err
 	}
 	return out, nil
 }
 
-func (c *thoukydidesServiceClient) StartReading(ctx context.Context, in *StartReadingRequest, opts ...grpc.CallOption) (*ReadingSession, error) {
+func (c *thoukydidesServiceClient) CheckChapter(ctx context.Context, in *CheckChapterRequest, opts ...grpc.CallOption) (*CheckChapterResponse, error) {
 	cOpts := append([]grpc.CallOption{grpc.StaticMethod()}, opts...)
-	out := new(ReadingSession)
-	err := c.cc.Invoke(ctx, ThoukydidesService_StartReading_FullMethodName, in, out, cOpts...)
-	if err != nil {
-		return nil, err
-	}
-	return out, nil
-}
-
-func (c *thoukydidesServiceClient) GetReading(ctx context.Context, in *GetReadingRequest, opts ...grpc.CallOption) (*ReadingSession, error) {
-	cOpts := append([]grpc.CallOption{grpc.StaticMethod()}, opts...)
-	out := new(ReadingSession)
-	err := c.cc.Invoke(ctx, ThoukydidesService_GetReading_FullMethodName, in, out, cOpts...)
+	out := new(CheckChapterResponse)
+	err := c.cc.Invoke(ctx, ThoukydidesService_CheckChapter_FullMethodName, in, out, cOpts...)
 	if err != nil {
 		return nil, err
 	}
@@ -101,10 +89,9 @@ func (c *thoukydidesServiceClient) GetReading(ctx context.Context, in *GetReadin
 // for forward compatibility.
 type ThoukydidesServiceServer interface {
 	Health(context.Context, *emptypb.Empty) (*HealthResponse, error)
-	ListForms(context.Context, *ListFormsRequest) (*ListFormsResponse, error)
-	GetForm(context.Context, *GetFormRequest) (*Form, error)
-	StartReading(context.Context, *StartReadingRequest) (*ReadingSession, error)
-	GetReading(context.Context, *GetReadingRequest) (*ReadingSession, error)
+	Options(context.Context, *emptypb.Empty) (*ChapterOptions, error)
+	GetChapter(context.Context, *GetChapterRequest) (*Chapter, error)
+	CheckChapter(context.Context, *CheckChapterRequest) (*CheckChapterResponse, error)
 	mustEmbedUnimplementedThoukydidesServiceServer()
 }
 
@@ -118,17 +105,14 @@ type UnimplementedThoukydidesServiceServer struct{}
 func (UnimplementedThoukydidesServiceServer) Health(context.Context, *emptypb.Empty) (*HealthResponse, error) {
 	return nil, status.Error(codes.Unimplemented, "method Health not implemented")
 }
-func (UnimplementedThoukydidesServiceServer) ListForms(context.Context, *ListFormsRequest) (*ListFormsResponse, error) {
-	return nil, status.Error(codes.Unimplemented, "method ListForms not implemented")
+func (UnimplementedThoukydidesServiceServer) Options(context.Context, *emptypb.Empty) (*ChapterOptions, error) {
+	return nil, status.Error(codes.Unimplemented, "method Options not implemented")
 }
-func (UnimplementedThoukydidesServiceServer) GetForm(context.Context, *GetFormRequest) (*Form, error) {
-	return nil, status.Error(codes.Unimplemented, "method GetForm not implemented")
+func (UnimplementedThoukydidesServiceServer) GetChapter(context.Context, *GetChapterRequest) (*Chapter, error) {
+	return nil, status.Error(codes.Unimplemented, "method GetChapter not implemented")
 }
-func (UnimplementedThoukydidesServiceServer) StartReading(context.Context, *StartReadingRequest) (*ReadingSession, error) {
-	return nil, status.Error(codes.Unimplemented, "method StartReading not implemented")
-}
-func (UnimplementedThoukydidesServiceServer) GetReading(context.Context, *GetReadingRequest) (*ReadingSession, error) {
-	return nil, status.Error(codes.Unimplemented, "method GetReading not implemented")
+func (UnimplementedThoukydidesServiceServer) CheckChapter(context.Context, *CheckChapterRequest) (*CheckChapterResponse, error) {
+	return nil, status.Error(codes.Unimplemented, "method CheckChapter not implemented")
 }
 func (UnimplementedThoukydidesServiceServer) mustEmbedUnimplementedThoukydidesServiceServer() {}
 func (UnimplementedThoukydidesServiceServer) testEmbeddedByValue()                            {}
@@ -169,74 +153,56 @@ func _ThoukydidesService_Health_Handler(srv interface{}, ctx context.Context, de
 	return interceptor(ctx, in, info, handler)
 }
 
-func _ThoukydidesService_ListForms_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
-	in := new(ListFormsRequest)
+func _ThoukydidesService_Options_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
+	in := new(emptypb.Empty)
 	if err := dec(in); err != nil {
 		return nil, err
 	}
 	if interceptor == nil {
-		return srv.(ThoukydidesServiceServer).ListForms(ctx, in)
+		return srv.(ThoukydidesServiceServer).Options(ctx, in)
 	}
 	info := &grpc.UnaryServerInfo{
 		Server:     srv,
-		FullMethod: ThoukydidesService_ListForms_FullMethodName,
+		FullMethod: ThoukydidesService_Options_FullMethodName,
 	}
 	handler := func(ctx context.Context, req interface{}) (interface{}, error) {
-		return srv.(ThoukydidesServiceServer).ListForms(ctx, req.(*ListFormsRequest))
+		return srv.(ThoukydidesServiceServer).Options(ctx, req.(*emptypb.Empty))
 	}
 	return interceptor(ctx, in, info, handler)
 }
 
-func _ThoukydidesService_GetForm_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
-	in := new(GetFormRequest)
+func _ThoukydidesService_GetChapter_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
+	in := new(GetChapterRequest)
 	if err := dec(in); err != nil {
 		return nil, err
 	}
 	if interceptor == nil {
-		return srv.(ThoukydidesServiceServer).GetForm(ctx, in)
+		return srv.(ThoukydidesServiceServer).GetChapter(ctx, in)
 	}
 	info := &grpc.UnaryServerInfo{
 		Server:     srv,
-		FullMethod: ThoukydidesService_GetForm_FullMethodName,
+		FullMethod: ThoukydidesService_GetChapter_FullMethodName,
 	}
 	handler := func(ctx context.Context, req interface{}) (interface{}, error) {
-		return srv.(ThoukydidesServiceServer).GetForm(ctx, req.(*GetFormRequest))
+		return srv.(ThoukydidesServiceServer).GetChapter(ctx, req.(*GetChapterRequest))
 	}
 	return interceptor(ctx, in, info, handler)
 }
 
-func _ThoukydidesService_StartReading_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
-	in := new(StartReadingRequest)
+func _ThoukydidesService_CheckChapter_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
+	in := new(CheckChapterRequest)
 	if err := dec(in); err != nil {
 		return nil, err
 	}
 	if interceptor == nil {
-		return srv.(ThoukydidesServiceServer).StartReading(ctx, in)
+		return srv.(ThoukydidesServiceServer).CheckChapter(ctx, in)
 	}
 	info := &grpc.UnaryServerInfo{
 		Server:     srv,
-		FullMethod: ThoukydidesService_StartReading_FullMethodName,
+		FullMethod: ThoukydidesService_CheckChapter_FullMethodName,
 	}
 	handler := func(ctx context.Context, req interface{}) (interface{}, error) {
-		return srv.(ThoukydidesServiceServer).StartReading(ctx, req.(*StartReadingRequest))
-	}
-	return interceptor(ctx, in, info, handler)
-}
-
-func _ThoukydidesService_GetReading_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
-	in := new(GetReadingRequest)
-	if err := dec(in); err != nil {
-		return nil, err
-	}
-	if interceptor == nil {
-		return srv.(ThoukydidesServiceServer).GetReading(ctx, in)
-	}
-	info := &grpc.UnaryServerInfo{
-		Server:     srv,
-		FullMethod: ThoukydidesService_GetReading_FullMethodName,
-	}
-	handler := func(ctx context.Context, req interface{}) (interface{}, error) {
-		return srv.(ThoukydidesServiceServer).GetReading(ctx, req.(*GetReadingRequest))
+		return srv.(ThoukydidesServiceServer).CheckChapter(ctx, req.(*CheckChapterRequest))
 	}
 	return interceptor(ctx, in, info, handler)
 }
@@ -253,20 +219,16 @@ var ThoukydidesService_ServiceDesc = grpc.ServiceDesc{
 			Handler:    _ThoukydidesService_Health_Handler,
 		},
 		{
-			MethodName: "ListForms",
-			Handler:    _ThoukydidesService_ListForms_Handler,
+			MethodName: "Options",
+			Handler:    _ThoukydidesService_Options_Handler,
 		},
 		{
-			MethodName: "GetForm",
-			Handler:    _ThoukydidesService_GetForm_Handler,
+			MethodName: "GetChapter",
+			Handler:    _ThoukydidesService_GetChapter_Handler,
 		},
 		{
-			MethodName: "StartReading",
-			Handler:    _ThoukydidesService_StartReading_Handler,
-		},
-		{
-			MethodName: "GetReading",
-			Handler:    _ThoukydidesService_GetReading_Handler,
+			MethodName: "CheckChapter",
+			Handler:    _ThoukydidesService_CheckChapter_Handler,
 		},
 	},
 	Streams:  []grpc.StreamDesc{},

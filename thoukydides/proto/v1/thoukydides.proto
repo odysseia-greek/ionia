@@ -7,31 +7,95 @@ import "google/protobuf/empty.proto";
 
 service ThoukydidesService {
   rpc Health(google.protobuf.Empty) returns (HealthResponse);
-  rpc ListForms(ListFormsRequest) returns (ListFormsResponse);
-  rpc GetForm(GetFormRequest) returns (Form);
-  rpc StartReading(StartReadingRequest) returns (ReadingSession);
-  rpc GetReading(GetReadingRequest) returns (ReadingSession);
+  rpc Options(google.protobuf.Empty) returns (ChapterOptions);
+  rpc GetChapter(GetChapterRequest) returns (Chapter);
+  rpc CheckChapter(CheckChapterRequest) returns (CheckChapterResponse);
 }
 
-message HealthResponse { bool healthy = 1; string time = 2; string version = 3; }
-message Form { string id = 1; string blob = 2; }
-message ListFormsRequest { int32 size = 1; }
-message ListFormsResponse { repeated Form forms = 1; }
-message GetFormRequest { string id = 1; }
-message StartReadingRequest {
-  string user_id = 1;
-  string author = 2;
-  string book = 3;
-  string reference = 4;
-  string section = 5;
+message HealthResponse {
+  bool healthy = 1;
+  string time = 2;
+  string version = 3;
 }
-message GetReadingRequest { string id = 1; }
-message ReadingSession {
-  string id = 1;
-  string user_id = 2;
-  string author = 3;
-  string book = 4;
-  string reference = 5;
-  string section = 6;
-  string created_at = 7;
+
+message ChapterOption {
+  string chapter = 1;
+  string title = 2;
+  int32 order = 3;
+  int32 level = 4;
+}
+
+message ChapterOptions { repeated ChapterOption chapters = 1; }
+
+message GetChapterRequest { string chapter = 1; }
+
+message Chapter {
+  reserved 5;
+  reserved "blob";
+
+  string chapter = 1;
+  string title = 2;
+  int32 order = 3;
+  int32 level = 4;
+  repeated Grammar grammar = 6;
+  repeated Vocabulary vocabulary = 7;
+  repeated ChapterText texts = 8;
+  string description = 9;
+  string context = 10;
+}
+
+message GrammarExample {
+  string greek = 1;
+  string translation = 2;
+  string note = 3;
+}
+
+message Grammar {
+  string grammar = 1;
+  string title = 2;
+  string explanation = 3;
+  GrammarExample example = 4;
+}
+
+message Vocabulary {
+  string greek = 1;
+  string translation = 2;
+}
+
+message TextSource {
+  string author = 1;
+  string work = 2;
+  string reference = 3;
+  string dialect = 4;
+}
+
+message ChapterText {
+  string text = 1;
+  string title = 2;
+  string type = 3;
+  TextSource source = 4;
+  string greek = 5;
+  repeated string reading_hints = 6;
+}
+
+message ChapterAnswer {
+  string text = 1;
+  string learner_text = 2;
+}
+
+message CheckChapterRequest {
+  string chapter = 1;
+  repeated ChapterAnswer answers = 2;
+}
+
+message CheckedText {
+  string text = 1;
+  string source_text = 2;
+  string actual_text = 3;
+  string learner_text = 4;
+}
+
+message CheckChapterResponse {
+  string chapter = 1;
+  repeated CheckedText texts = 2;
 }

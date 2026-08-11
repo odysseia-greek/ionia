@@ -2,18 +2,123 @@
 
 package model
 
-type Form struct {
-	ID   string `json:"id"`
-	Blob string `json:"blob"`
+type AnswerSection struct {
+	Section               string `json:"section"`
+	LevenshteinPercentage string `json:"levenshteinPercentage"`
+	QuizSentence          string `json:"quizSentence"`
+	AnswerSentence        string `json:"answerSentence"`
+}
+
+type Chapter struct {
+	Chapter     string         `json:"chapter"`
+	Title       string         `json:"title"`
+	Description string         `json:"description"`
+	Context     string         `json:"context"`
+	Order       int            `json:"order"`
+	Level       int            `json:"level"`
+	Grammar     []*Grammar     `json:"grammar"`
+	Vocabulary  []*Vocabulary  `json:"vocabulary"`
+	Texts       []*ChapterText `json:"texts"`
+}
+
+type ChapterAnswerInput struct {
+	Text        string `json:"text"`
+	LearnerText string `json:"learnerText"`
+}
+
+type ChapterOption struct {
+	Chapter string `json:"chapter"`
+	Title   string `json:"title"`
+	Order   int    `json:"order"`
+	Level   int    `json:"level"`
+}
+
+type ChapterOptions struct {
+	Chapters []*ChapterOption `json:"chapters"`
+}
+
+type ChapterText struct {
+	Text         string             `json:"text"`
+	Title        string             `json:"title"`
+	Type         string             `json:"type"`
+	Source       *ChapterTextSource `json:"source"`
+	Greek        string             `json:"greek"`
+	ReadingHints []string           `json:"readingHints"`
+}
+
+type ChapterTextSource struct {
+	Author    string `json:"author"`
+	Work      string `json:"work"`
+	Reference string `json:"reference"`
+	Dialect   string `json:"dialect"`
+}
+
+type CheckChapterInput struct {
+	Chapter string                `json:"chapter"`
+	Answers []*ChapterAnswerInput `json:"answers"`
+}
+
+type CheckChapterResult struct {
+	Chapter string                `json:"chapter"`
+	Texts   []*CheckedChapterText `json:"texts"`
+}
+
+type CheckTextInput struct {
+	Author       string                    `json:"author"`
+	Book         string                    `json:"book"`
+	Reference    string                    `json:"reference"`
+	Translations []*TranslationAnswerInput `json:"translations"`
+}
+
+type CheckTextResult struct {
+	AverageLevenshteinPercentage string           `json:"averageLevenshteinPercentage"`
+	Sections                     []*AnswerSection `json:"sections"`
+	PossibleTypos                []*Typo          `json:"possibleTypos"`
+}
+
+type CheckedChapterText struct {
+	Text        string `json:"text"`
+	SourceText  string `json:"sourceText"`
+	ActualText  string `json:"actualText"`
+	LearnerText string `json:"learnerText"`
+}
+
+type CorpusAuthor struct {
+	Name  string        `json:"name"`
+	Books []*CorpusBook `json:"books"`
+}
+
+type CorpusBook struct {
+	Name       string             `json:"name"`
+	References []*CorpusReference `json:"references"`
+}
+
+type CorpusOptions struct {
+	Authors []*CorpusAuthor `json:"authors"`
+}
+
+type CorpusReference struct {
+	Name     string   `json:"name"`
+	Sections []string `json:"sections"`
+}
+
+type Grammar struct {
+	Grammar     string          `json:"grammar"`
+	Title       string          `json:"title"`
+	Explanation string          `json:"explanation"`
+	Example     *GrammarExample `json:"example,omitempty"`
+}
+
+type GrammarExample struct {
+	Greek       string `json:"greek"`
+	Translation string `json:"translation"`
+	Note        string `json:"note"`
 }
 
 type Health struct {
 	Healthy bool   `json:"healthy"`
 	Time    string `json:"time"`
 	Version string `json:"version"`
-}
-
-type Mutation struct {
 }
 
 type Passage struct {
@@ -23,24 +128,6 @@ type Passage struct {
 }
 
 type Query struct {
-}
-
-type ReadingSession struct {
-	ID        string `json:"id"`
-	UserID    string `json:"userId"`
-	Author    string `json:"author"`
-	Book      string `json:"book"`
-	Reference string `json:"reference"`
-	Section   string `json:"section"`
-	CreatedAt string `json:"createdAt"`
-}
-
-type StartReadingInput struct {
-	UserID    string  `json:"userId"`
-	Author    string  `json:"author"`
-	Book      string  `json:"book"`
-	Reference *string `json:"reference,omitempty"`
-	Section   *string `json:"section,omitempty"`
 }
 
 type Text struct {
@@ -57,4 +144,19 @@ type TextInput struct {
 	Book      string  `json:"book"`
 	Reference *string `json:"reference,omitempty"`
 	Section   *string `json:"section,omitempty"`
+}
+
+type TranslationAnswerInput struct {
+	Section     string `json:"section"`
+	Translation string `json:"translation"`
+}
+
+type Typo struct {
+	Source   string `json:"source"`
+	Provided string `json:"provided"`
+}
+
+type Vocabulary struct {
+	Greek       string `json:"greek"`
+	Translation string `json:"translation"`
 }

@@ -11,21 +11,11 @@ import (
 	diodorosv1 "github.com/odysseia-greek/ionia/diodoros/gen/go/v1"
 	"github.com/odysseia-greek/ionia/herodotos/graph/model"
 	thoukydidesv1 "github.com/odysseia-greek/ionia/thoukydides/gen/go/v1"
-	"google.golang.org/protobuf/types/known/emptypb"
 )
-
-// StartReading is the resolver for the startReading field.
-func (r *mutationResolver) StartReading(ctx context.Context, input model.StartReadingInput) (*model.ReadingSession, error) {
-	response, err := r.Core.StartReading(ctx, &thoukydidesv1.StartReadingRequest{UserId: input.UserID, Author: input.Author, Book: input.Book, Reference: value(input.Reference), Section: value(input.Section)})
-	if err != nil {
-		return nil, err
-	}
-	return reading(response), nil
-}
 
 // Health is the resolver for the health field.
 func (r *queryResolver) Health(ctx context.Context) (*model.Health, error) {
-	response, err := r.Core.Health(ctx, &emptypb.Empty{})
+	response, err := r.Handler.CoreHealth(ctx)
 	if err != nil {
 		return nil, err
 	}
@@ -34,42 +24,82 @@ func (r *queryResolver) Health(ctx context.Context) (*model.Health, error) {
 
 // CorpusHealth is the resolver for the corpusHealth field.
 func (r *queryResolver) CorpusHealth(ctx context.Context) (*model.Health, error) {
-	response, err := r.Corpus.Health(ctx, &emptypb.Empty{})
+	response, err := r.Handler.CorpusHealth(ctx)
 	if err != nil {
 		return nil, err
 	}
 	return &model.Health{Healthy: response.Healthy, Time: response.Time, Version: response.Version}, nil
 }
 
-// Forms is the resolver for the forms field.
-func (r *queryResolver) Forms(ctx context.Context, size *int) ([]*model.Form, error) {
-	amount := int32(20)
-	if size != nil {
-		amount = int32(*size)
-	}
-	response, err := r.Core.ListForms(ctx, &thoukydidesv1.ListFormsRequest{Size: amount})
+// CorpusOptions is the resolver for the corpusOptions field.
+func (r *queryResolver) CorpusOptions(ctx context.Context) (*model.CorpusOptions, error) {
+	response, err := r.Handler.CorpusOptions(ctx)
 	if err != nil {
 		return nil, err
 	}
-	forms := make([]*model.Form, 0, len(response.Forms))
-	for _, form := range response.Forms {
-		forms = append(forms, &model.Form{ID: form.Id, Blob: form.Blob})
+	result := &model.CorpusOptions{}
+	for _, author := range response.Authors {
+		mappedAuthor := &model.CorpusAuthor{Name: author.Name}
+		for _, book := range author.Books {
+			mappedBook := &model.CorpusBook{Name: book.Name}
+			for _, reference := range book.References {
+				mappedBook.References = append(mappedBook.References, &model.CorpusReference{Name: reference.Name, Sections: reference.Sections})
+			}
+			mappedAuthor.Books = append(mappedAuthor.Books, mappedBook)
+		}
+		result.Authors = append(result.Authors, mappedAuthor)
 	}
-	return forms, nil
+	return result, nil
 }
 
-// Form is the resolver for the form field.
-func (r *queryResolver) Form(ctx context.Context, id string) (*model.Form, error) {
-	form, err := r.Core.GetForm(ctx, &thoukydidesv1.GetFormRequest{Id: id})
+// ChapterOptions is the resolver for the chapterOptions field.
+func (r *queryResolver) ChapterOptions(ctx context.Context) (*model.ChapterOptions, error) {
+	response, err := r.Handler.ChapterOptions(ctx)
 	if err != nil {
 		return nil, err
 	}
-	return &model.Form{ID: form.Id, Blob: form.Blob}, nil
+	result := &model.ChapterOptions{}
+	for _, chapter := range response.Chapters {
+		result.Chapters = append(result.Chapters, &model.ChapterOption{Chapter: chapter.Chapter, Title: chapter.Title, Order: int(chapter.Order), Level: int(chapter.Level)})
+	}
+	return result, nil
+}
+
+// Chapter is the resolver for the chapter field.
+func (r *queryResolver) Chapter(ctx context.Context, chapter string) (*model.Chapter, error) {
+	response, err := r.Handler.GetChapter(ctx, &thoukydidesv1.GetChapterRequest{Chapter: chapter})
+	if err != nil {
+		return nil, err
+	}
+	result := &model.Chapter{
+		Chapter: response.Chapter, Title: response.Title, Description: response.Description, Context: response.Context, Order: int(response.Order), Level: int(response.Level),
+		Grammar:    make([]*model.Grammar, 0, len(response.Grammar)),
+		Vocabulary: make([]*model.Vocabulary, 0, len(response.Vocabulary)),
+		Texts:      make([]*model.ChapterText, 0, len(response.Texts)),
+	}
+	for _, grammar := range response.Grammar {
+		item := &model.Grammar{Grammar: grammar.Grammar, Title: grammar.Title, Explanation: grammar.Explanation}
+		if grammar.Example != nil {
+			item.Example = &model.GrammarExample{Greek: grammar.Example.Greek, Translation: grammar.Example.Translation, Note: grammar.Example.Note}
+		}
+		result.Grammar = append(result.Grammar, item)
+	}
+	for _, vocabulary := range response.Vocabulary {
+		result.Vocabulary = append(result.Vocabulary, &model.Vocabulary{Greek: vocabulary.Greek, Translation: vocabulary.Translation})
+	}
+	for _, text := range response.Texts {
+		source := &model.ChapterTextSource{}
+		if text.Source != nil {
+			source = &model.ChapterTextSource{Author: text.Source.Author, Work: text.Source.Work, Reference: text.Source.Reference, Dialect: text.Source.Dialect}
+		}
+		result.Texts = append(result.Texts, &model.ChapterText{Text: text.Text, Title: text.Title, Type: text.Type, Source: source, Greek: text.Greek, ReadingHints: append([]string{}, text.ReadingHints...)})
+	}
+	return result, nil
 }
 
 // Text is the resolver for the text field.
 func (r *queryResolver) Text(ctx context.Context, input model.TextInput) (*model.Text, error) {
-	response, err := r.Corpus.CreateText(ctx, &diodorosv1.CreateTextRequest{Author: input.Author, Book: input.Book, Reference: value(input.Reference), Section: value(input.Section)})
+	response, err := r.Handler.CreateText(ctx, &diodorosv1.CreateTextRequest{Author: input.Author, Book: input.Book, Reference: value(input.Reference), Section: value(input.Section)})
 	if err != nil {
 		return nil, err
 	}
@@ -80,22 +110,48 @@ func (r *queryResolver) Text(ctx context.Context, input model.TextInput) (*model
 	return &model.Text{Author: response.Author, Book: response.Book, Type: response.Type, Reference: response.Reference, PerseusTextLink: response.PerseusTextLink, Passages: passages}, nil
 }
 
-// Reading is the resolver for the reading field.
-func (r *queryResolver) Reading(ctx context.Context, id string) (*model.ReadingSession, error) {
-	response, err := r.Core.GetReading(ctx, &thoukydidesv1.GetReadingRequest{Id: id})
+// CheckChapter is the resolver for the checkChapter field.
+func (r *queryResolver) CheckChapter(ctx context.Context, input model.CheckChapterInput) (*model.CheckChapterResult, error) {
+	answers := make([]*thoukydidesv1.ChapterAnswer, 0, len(input.Answers))
+	for _, answer := range input.Answers {
+		answers = append(answers, &thoukydidesv1.ChapterAnswer{Text: answer.Text, LearnerText: answer.LearnerText})
+	}
+	response, err := r.Handler.CheckChapter(ctx, &thoukydidesv1.CheckChapterRequest{Chapter: input.Chapter, Answers: answers})
 	if err != nil {
 		return nil, err
 	}
-	return reading(response), nil
+	result := &model.CheckChapterResult{Chapter: response.Chapter, Texts: make([]*model.CheckedChapterText, 0, len(response.Texts))}
+	for _, text := range response.Texts {
+		result.Texts = append(result.Texts, &model.CheckedChapterText{Text: text.Text, SourceText: text.SourceText, ActualText: text.ActualText, LearnerText: text.LearnerText})
+	}
+	return result, nil
 }
 
-// Mutation returns MutationResolver implementation.
-func (r *Resolver) Mutation() MutationResolver { return &mutationResolver{r} }
+// CheckText is the resolver for the checkText field.
+func (r *queryResolver) CheckText(ctx context.Context, input model.CheckTextInput) (*model.CheckTextResult, error) {
+	answers := make([]*diodorosv1.TranslationAnswer, 0, len(input.Translations))
+	for _, answer := range input.Translations {
+		answers = append(answers, &diodorosv1.TranslationAnswer{Section: answer.Section, Translation: answer.Translation})
+	}
+	response, err := r.Handler.CheckText(ctx, &diodorosv1.CheckTextRequest{Author: input.Author, Book: input.Book, Reference: input.Reference, Translations: answers})
+	if err != nil {
+		return nil, err
+	}
+	result := &model.CheckTextResult{
+		AverageLevenshteinPercentage: response.AverageLevenshteinPercentage,
+		Sections:                     make([]*model.AnswerSection, 0, len(response.Sections)),
+		PossibleTypos:                make([]*model.Typo, 0, len(response.PossibleTypos)),
+	}
+	for _, section := range response.Sections {
+		result.Sections = append(result.Sections, &model.AnswerSection{Section: section.Section, LevenshteinPercentage: section.LevenshteinPercentage, QuizSentence: section.QuizSentence, AnswerSentence: section.AnswerSentence})
+	}
+	for _, typo := range response.PossibleTypos {
+		result.PossibleTypos = append(result.PossibleTypos, &model.Typo{Source: typo.Source, Provided: typo.Provided})
+	}
+	return result, nil
+}
 
 // Query returns QueryResolver implementation.
 func (r *Resolver) Query() QueryResolver { return &queryResolver{r} }
 
-type (
-	mutationResolver struct{ *Resolver }
-	queryResolver    struct{ *Resolver }
-)
+type queryResolver struct{ *Resolver }
