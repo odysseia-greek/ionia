@@ -29,11 +29,11 @@ input TextInput {
 type ReadingSession {
   id: ID!
   userId: String!
-  author: String!
-  book: String!
-  reference: String!
-  section: String!
+  formId: ID!
+  form: Form!
+  progressBlob: String!
   createdAt: String!
+  updatedAt: String!
 }
 
 # Opaque form payload while the learning-form design is still evolving.
@@ -44,15 +44,26 @@ type Form {
 
 input StartReadingInput {
   userId: String!
-  author: String!
-  book: String!
-  reference: String
-  section: String
+  formId: ID!
 }
+
+input SaveProgressInput { id: ID!, progressBlob: String! }
+
+type CorpusReference { name: String!, sections: [String!]! }
+type CorpusBook { name: String!, references: [CorpusReference!]! }
+type CorpusAuthor { name: String!, books: [CorpusBook!]! }
+type CorpusOptions { authors: [CorpusAuthor!]! }
+
+input TranslationAnswerInput { section: String!, translation: String! }
+input CheckTextInput { author: String!, book: String!, reference: String!, translations: [TranslationAnswerInput!]! }
+type Typo { source: String!, provided: String! }
+type AnswerSection { section: String!, levenshteinPercentage: String!, quizSentence: String!, answerSentence: String! }
+type CheckTextResult { averageLevenshteinPercentage: String!, sections: [AnswerSection!]!, possibleTypos: [Typo!]! }
 
 type Query {
   health: Health!
   corpusHealth: Health!
+  corpusOptions: CorpusOptions!
   forms(size: Int = 20): [Form!]!
   form(id: ID!): Form!
   text(input: TextInput!): Text!
@@ -61,4 +72,6 @@ type Query {
 
 type Mutation {
   startReading(input: StartReadingInput!): ReadingSession!
+  saveProgress(input: SaveProgressInput!): ReadingSession!
+  checkText(input: CheckTextInput!): CheckTextResult!
 }

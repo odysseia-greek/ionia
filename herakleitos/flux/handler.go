@@ -26,7 +26,7 @@ func (h *HerakleitosHandler) DeleteIndexAtStartUp() error {
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
-	deleted, err := h.Elastic.Index().DeleteWithContext(ctx, h.Index)
+	deleted, err := h.Elastic.Index().Delete(ctx, h.Index)
 	logging.Info(fmt.Sprintf("deleted index: %s success: %v", h.Index, deleted))
 	if err != nil {
 		if deleted {
@@ -47,7 +47,7 @@ func (h *HerakleitosHandler) CreateIndexAtStartup() error {
 	defer cancel()
 
 	indexMapping := textIndex(h.PolicyName)
-	created, err := h.Elastic.Index().CreateWithContext(ctx, h.Index, indexMapping)
+	created, err := h.Elastic.Index().Create(ctx, h.Index, indexMapping)
 	if err != nil {
 		return err
 	}
@@ -76,7 +76,7 @@ func (h *HerakleitosHandler) Add(rhemai []Text, wg *sync.WaitGroup) error {
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
-	res, err := h.Elastic.Document().BulkWithContext(ctx, buf, h.Index)
+	res, err := h.Elastic.Document().Bulk(ctx, buf, h.Index)
 	if err != nil {
 		return err
 	}

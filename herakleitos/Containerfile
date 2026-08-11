@@ -13,18 +13,32 @@ WORKDIR /app
 COPY go.mod go.sum ./
 RUN go mod download
 COPY . .
-
 # Build binary with Go
-FROM base as builder
+FROM base AS builder
 ENV CGO_ENABLED=0
 
 ARG project_name
 ENV project_name=${project_name}
 
 RUN GOOS=${TARGETOS} GOARCH=${TARGETARCH} go build -ldflags="-s -w" -o /app/${project_name}
+# Dev image
+FROM debian:trixie-slim AS dev
+WORKDIR /app
+
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    ca-certificates curl dnsutils iproute2 netcat-traditional procps \
+  && rm -rf /var/lib/apt/lists/*
+
+COPY --from=builder /app/dionysios /app/dionysios
+
+ENV SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
+
+USER 65532:65532
+ENTRYPOINT ["/app/dionysios"]
 
 # Production build
-FROM alpine:3.24.0 as prod
+FROM alpine:3.24.0 AS prod
 WORKDIR /app
 
 ARG project_name
@@ -32,4 +46,4 @@ ENV project_name=${project_name}
 
 COPY --from=builder /app/${project_name} .
 ENV TMPDIR=/tmp
-ENTRYPOINT [ "sh", "-c", "/app/${project_name}" ]
+ENTRYPOINT ["sh", "-c", "/app/${project_name}"]

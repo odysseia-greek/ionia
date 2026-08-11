@@ -16,11 +16,40 @@ import (
 
 // StartReading is the resolver for the startReading field.
 func (r *mutationResolver) StartReading(ctx context.Context, input model.StartReadingInput) (*model.ReadingSession, error) {
-	response, err := r.Core.StartReading(ctx, &thoukydidesv1.StartReadingRequest{UserId: input.UserID, Author: input.Author, Book: input.Book, Reference: value(input.Reference), Section: value(input.Section)})
+	response, err := r.Core.StartReading(ctx, &thoukydidesv1.StartReadingRequest{UserId: input.UserID, FormId: input.FormID})
 	if err != nil {
 		return nil, err
 	}
 	return reading(response), nil
+}
+
+// SaveProgress is the resolver for the saveProgress field.
+func (r *mutationResolver) SaveProgress(ctx context.Context, input model.SaveProgressInput) (*model.ReadingSession, error) {
+	response, err := r.Core.SaveProgress(ctx, &thoukydidesv1.SaveProgressRequest{Id: input.ID, ProgressBlob: input.ProgressBlob})
+	if err != nil {
+		return nil, err
+	}
+	return reading(response), nil
+}
+
+// CheckText is the resolver for the checkText field.
+func (r *mutationResolver) CheckText(ctx context.Context, input model.CheckTextInput) (*model.CheckTextResult, error) {
+	answers := make([]*diodorosv1.TranslationAnswer, 0, len(input.Translations))
+	for _, answer := range input.Translations {
+		answers = append(answers, &diodorosv1.TranslationAnswer{Section: answer.Section, Translation: answer.Translation})
+	}
+	response, err := r.Corpus.CheckText(ctx, &diodorosv1.CheckTextRequest{Author: input.Author, Book: input.Book, Reference: input.Reference, Translations: answers})
+	if err != nil {
+		return nil, err
+	}
+	result := &model.CheckTextResult{AverageLevenshteinPercentage: response.AverageLevenshteinPercentage}
+	for _, section := range response.Sections {
+		result.Sections = append(result.Sections, &model.AnswerSection{Section: section.Section, LevenshteinPercentage: section.LevenshteinPercentage, QuizSentence: section.QuizSentence, AnswerSentence: section.AnswerSentence})
+	}
+	for _, typo := range response.PossibleTypos {
+		result.PossibleTypos = append(result.PossibleTypos, &model.Typo{Source: typo.Source, Provided: typo.Provided})
+	}
+	return result, nil
 }
 
 // Health is the resolver for the health field.
@@ -39,6 +68,27 @@ func (r *queryResolver) CorpusHealth(ctx context.Context) (*model.Health, error)
 		return nil, err
 	}
 	return &model.Health{Healthy: response.Healthy, Time: response.Time, Version: response.Version}, nil
+}
+
+// CorpusOptions is the resolver for the corpusOptions field.
+func (r *queryResolver) CorpusOptions(ctx context.Context) (*model.CorpusOptions, error) {
+	response, err := r.Corpus.Options(ctx, &emptypb.Empty{})
+	if err != nil {
+		return nil, err
+	}
+	result := &model.CorpusOptions{}
+	for _, author := range response.Authors {
+		mappedAuthor := &model.CorpusAuthor{Name: author.Name}
+		for _, book := range author.Books {
+			mappedBook := &model.CorpusBook{Name: book.Name}
+			for _, reference := range book.References {
+				mappedBook.References = append(mappedBook.References, &model.CorpusReference{Name: reference.Name, Sections: reference.Sections})
+			}
+			mappedAuthor.Books = append(mappedAuthor.Books, mappedBook)
+		}
+		result.Authors = append(result.Authors, mappedAuthor)
+	}
+	return result, nil
 }
 
 // Forms is the resolver for the forms field.

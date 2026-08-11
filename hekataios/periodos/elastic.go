@@ -1,42 +1,33 @@
 package periodos
 
 import (
-	"bytes"
 	"context"
-	"fmt"
-	"io"
-	"net/http"
-	"net/url"
 	"strings"
+
+	"github.com/odysseia-greek/agora/aristoteles"
+	"github.com/odysseia-greek/delphi/aristides/diplomat"
 )
 
-type ElasticSink struct {
-	Address, Index, Username, Password string
-	Client                             *http.Client
+type Handler struct {
+	Elastic    aristoteles.Client
+	Index      string
+	Ambassador *diplomat.ClientAmbassador
+	Created    int
 }
 
-func (s *ElasticSink) Put(ctx context.Context, form Form) error {
-	client := s.Client
-	if client == nil {
-		client = http.DefaultClient
-	}
-	endpoint := strings.TrimRight(s.Address, "/") + "/" + url.PathEscape(s.Index) + "/_doc/" + url.PathEscape(form.ID)
-	req, err := http.NewRequestWithContext(ctx, http.MethodPut, endpoint, bytes.NewReader(form.Blob))
-	if err != nil {
+func (h *Handler) Put(ctx context.Context, form Form) error {
+	if _, err := h.Elastic.Document().CreateWithId(ctx, h.Index, form.ID, form.Blob); err != nil {
 		return err
 	}
-	req.Header.Set("Content-Type", "application/json")
-	if s.Username != "" {
-		req.SetBasicAuth(s.Username, s.Password)
-	}
-	resp, err := client.Do(req)
-	if err != nil {
-		return err
-	}
-	defer resp.Body.Close()
-	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		body, _ := io.ReadAll(resp.Body)
-		return fmt.Errorf("elasticsearch status %d: %s", resp.StatusCode, body)
-	}
+	h.Created++
 	return nil
+}
+
+func (h *Handler) Reset(ctx context.Context) error {
+	deleted, err := h.Elastic.Index().Delete(ctx, h.Index)
+	if err != nil && !deleted && !strings.Contains(err.Error(), "index_not_found_exception") {
+		return err
+	}
+	_, err = h.Elastic.Index().Create(ctx, h.Index, map[string]any{"mappings": map[string]any{"properties": map[string]any{"id": map[string]any{"type": "keyword"}, "order": map[string]any{"type": "integer"}, "level": map[string]any{"type": "integer"}, "title": map[string]any{"type": "text"}}}})
+	return err
 }

@@ -10,31 +10,38 @@ import (
 )
 
 type reading struct {
-	ID        string `json:"id"`
-	UserID    string `json:"userId"`
-	Author    string `json:"author"`
-	Book      string `json:"book"`
-	Reference string `json:"reference"`
-	CreatedAt string `json:"createdAt"`
+	ID           string `json:"id"`
+	UserID       string `json:"userId"`
+	FormID       string `json:"formId"`
+	ProgressBlob string `json:"progressBlob"`
+	CreatedAt    string `json:"createdAt"`
+	UpdatedAt    string `json:"updatedAt"`
 }
 
 var _ = Describe("guided reading", func() {
 	It("starts and retrieves a reading session", func(ctx context.Context) {
 		request, cancel := context.WithTimeout(ctx, 10*time.Second)
 		defer cancel()
-		variables := map[string]any{"input": map[string]any{"userId": "artafernes", "author": "Herodotos", "book": "Histories", "reference": "1.1"}}
+		variables := map[string]any{"input": map[string]any{"userId": "artafernes", "formId": "chapter-02"}}
 		var started struct {
 			StartReading reading `json:"startReading"`
 		}
-		err := gq.Execute(request, baseURL, `mutation($input: StartReadingInput!) { startReading(input: $input) { id userId author book reference createdAt } }`, variables, &started)
+		err := gq.Execute(request, baseURL, `mutation($input: StartReadingInput!) { startReading(input: $input) { id userId formId progressBlob createdAt updatedAt } }`, variables, &started)
 		Expect(err).NotTo(HaveOccurred())
 		Expect(started.StartReading.ID).NotTo(BeEmpty())
+
+		var saved struct {
+			SaveProgress reading `json:"saveProgress"`
+		}
+		err = gq.Execute(request, baseURL, `mutation($input: SaveProgressInput!) { saveProgress(input: $input) { id userId formId progressBlob createdAt updatedAt } }`, map[string]any{"input": map[string]any{"id": started.StartReading.ID, "progressBlob": `{"step":1}`}}, &saved)
+		Expect(err).NotTo(HaveOccurred())
+		Expect(saved.SaveProgress.ProgressBlob).To(Equal(`{"step":1}`))
 
 		var retrieved struct {
 			Reading reading `json:"reading"`
 		}
-		err = gq.Execute(request, baseURL, `query($id: ID!) { reading(id: $id) { id userId author book reference createdAt } }`, map[string]any{"id": started.StartReading.ID}, &retrieved)
+		err = gq.Execute(request, baseURL, `query($id: ID!) { reading(id: $id) { id userId formId progressBlob createdAt updatedAt } }`, map[string]any{"id": started.StartReading.ID}, &retrieved)
 		Expect(err).NotTo(HaveOccurred())
-		Expect(retrieved.Reading).To(Equal(started.StartReading))
+		Expect(retrieved.Reading).To(Equal(saved.SaveProgress))
 	}, SpecTimeout(15*time.Second))
 })

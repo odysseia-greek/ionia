@@ -269,10 +269,7 @@ func (x *GetFormRequest) GetId() string {
 type StartReadingRequest struct {
 	state         protoimpl.MessageState `protogen:"open.v1"`
 	UserId        string                 `protobuf:"bytes,1,opt,name=user_id,json=userId,proto3" json:"user_id,omitempty"`
-	Author        string                 `protobuf:"bytes,2,opt,name=author,proto3" json:"author,omitempty"`
-	Book          string                 `protobuf:"bytes,3,opt,name=book,proto3" json:"book,omitempty"`
-	Reference     string                 `protobuf:"bytes,4,opt,name=reference,proto3" json:"reference,omitempty"`
-	Section       string                 `protobuf:"bytes,5,opt,name=section,proto3" json:"section,omitempty"`
+	FormId        string                 `protobuf:"bytes,2,opt,name=form_id,json=formId,proto3" json:"form_id,omitempty"`
 	unknownFields protoimpl.UnknownFields
 	sizeCache     protoimpl.SizeCache
 }
@@ -314,30 +311,9 @@ func (x *StartReadingRequest) GetUserId() string {
 	return ""
 }
 
-func (x *StartReadingRequest) GetAuthor() string {
+func (x *StartReadingRequest) GetFormId() string {
 	if x != nil {
-		return x.Author
-	}
-	return ""
-}
-
-func (x *StartReadingRequest) GetBook() string {
-	if x != nil {
-		return x.Book
-	}
-	return ""
-}
-
-func (x *StartReadingRequest) GetReference() string {
-	if x != nil {
-		return x.Reference
-	}
-	return ""
-}
-
-func (x *StartReadingRequest) GetSection() string {
-	if x != nil {
-		return x.Section
+		return x.FormId
 	}
 	return ""
 }
@@ -386,22 +362,74 @@ func (x *GetReadingRequest) GetId() string {
 	return ""
 }
 
+type SaveProgressRequest struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Id            string                 `protobuf:"bytes,1,opt,name=id,proto3" json:"id,omitempty"`
+	ProgressBlob  string                 `protobuf:"bytes,2,opt,name=progress_blob,json=progressBlob,proto3" json:"progress_blob,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *SaveProgressRequest) Reset() {
+	*x = SaveProgressRequest{}
+	mi := &file_v1_thoukydides_proto_msgTypes[7]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *SaveProgressRequest) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*SaveProgressRequest) ProtoMessage() {}
+
+func (x *SaveProgressRequest) ProtoReflect() protoreflect.Message {
+	mi := &file_v1_thoukydides_proto_msgTypes[7]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use SaveProgressRequest.ProtoReflect.Descriptor instead.
+func (*SaveProgressRequest) Descriptor() ([]byte, []int) {
+	return file_v1_thoukydides_proto_rawDescGZIP(), []int{7}
+}
+
+func (x *SaveProgressRequest) GetId() string {
+	if x != nil {
+		return x.Id
+	}
+	return ""
+}
+
+func (x *SaveProgressRequest) GetProgressBlob() string {
+	if x != nil {
+		return x.ProgressBlob
+	}
+	return ""
+}
+
 type ReadingSession struct {
 	state         protoimpl.MessageState `protogen:"open.v1"`
 	Id            string                 `protobuf:"bytes,1,opt,name=id,proto3" json:"id,omitempty"`
 	UserId        string                 `protobuf:"bytes,2,opt,name=user_id,json=userId,proto3" json:"user_id,omitempty"`
-	Author        string                 `protobuf:"bytes,3,opt,name=author,proto3" json:"author,omitempty"`
-	Book          string                 `protobuf:"bytes,4,opt,name=book,proto3" json:"book,omitempty"`
-	Reference     string                 `protobuf:"bytes,5,opt,name=reference,proto3" json:"reference,omitempty"`
-	Section       string                 `protobuf:"bytes,6,opt,name=section,proto3" json:"section,omitempty"`
-	CreatedAt     string                 `protobuf:"bytes,7,opt,name=created_at,json=createdAt,proto3" json:"created_at,omitempty"`
+	FormId        string                 `protobuf:"bytes,3,opt,name=form_id,json=formId,proto3" json:"form_id,omitempty"`
+	Form          *Form                  `protobuf:"bytes,4,opt,name=form,proto3" json:"form,omitempty"`
+	ProgressBlob  string                 `protobuf:"bytes,5,opt,name=progress_blob,json=progressBlob,proto3" json:"progress_blob,omitempty"`
+	CreatedAt     string                 `protobuf:"bytes,6,opt,name=created_at,json=createdAt,proto3" json:"created_at,omitempty"`
+	UpdatedAt     string                 `protobuf:"bytes,7,opt,name=updated_at,json=updatedAt,proto3" json:"updated_at,omitempty"`
 	unknownFields protoimpl.UnknownFields
 	sizeCache     protoimpl.SizeCache
 }
 
 func (x *ReadingSession) Reset() {
 	*x = ReadingSession{}
-	mi := &file_v1_thoukydides_proto_msgTypes[7]
+	mi := &file_v1_thoukydides_proto_msgTypes[8]
 	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 	ms.StoreMessageInfo(mi)
 }
@@ -413,7 +441,7 @@ func (x *ReadingSession) String() string {
 func (*ReadingSession) ProtoMessage() {}
 
 func (x *ReadingSession) ProtoReflect() protoreflect.Message {
-	mi := &file_v1_thoukydides_proto_msgTypes[7]
+	mi := &file_v1_thoukydides_proto_msgTypes[8]
 	if x != nil {
 		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
 		if ms.LoadMessageInfo() == nil {
@@ -426,7 +454,7 @@ func (x *ReadingSession) ProtoReflect() protoreflect.Message {
 
 // Deprecated: Use ReadingSession.ProtoReflect.Descriptor instead.
 func (*ReadingSession) Descriptor() ([]byte, []int) {
-	return file_v1_thoukydides_proto_rawDescGZIP(), []int{7}
+	return file_v1_thoukydides_proto_rawDescGZIP(), []int{8}
 }
 
 func (x *ReadingSession) GetId() string {
@@ -443,30 +471,23 @@ func (x *ReadingSession) GetUserId() string {
 	return ""
 }
 
-func (x *ReadingSession) GetAuthor() string {
+func (x *ReadingSession) GetFormId() string {
 	if x != nil {
-		return x.Author
+		return x.FormId
 	}
 	return ""
 }
 
-func (x *ReadingSession) GetBook() string {
+func (x *ReadingSession) GetForm() *Form {
 	if x != nil {
-		return x.Book
+		return x.Form
 	}
-	return ""
+	return nil
 }
 
-func (x *ReadingSession) GetReference() string {
+func (x *ReadingSession) GetProgressBlob() string {
 	if x != nil {
-		return x.Reference
-	}
-	return ""
-}
-
-func (x *ReadingSession) GetSection() string {
-	if x != nil {
-		return x.Section
+		return x.ProgressBlob
 	}
 	return ""
 }
@@ -474,6 +495,13 @@ func (x *ReadingSession) GetSection() string {
 func (x *ReadingSession) GetCreatedAt() string {
 	if x != nil {
 		return x.CreatedAt
+	}
+	return ""
+}
+
+func (x *ReadingSession) GetUpdatedAt() string {
+	if x != nil {
+		return x.UpdatedAt
 	}
 	return ""
 }
@@ -495,31 +523,33 @@ const file_v1_thoukydides_proto_rawDesc = "" +
 	"\x11ListFormsResponse\x12*\n" +
 	"\x05forms\x18\x01 \x03(\v2\x14.thoukydides.v1.FormR\x05forms\" \n" +
 	"\x0eGetFormRequest\x12\x0e\n" +
-	"\x02id\x18\x01 \x01(\tR\x02id\"\x92\x01\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\"G\n" +
 	"\x13StartReadingRequest\x12\x17\n" +
-	"\auser_id\x18\x01 \x01(\tR\x06userId\x12\x16\n" +
-	"\x06author\x18\x02 \x01(\tR\x06author\x12\x12\n" +
-	"\x04book\x18\x03 \x01(\tR\x04book\x12\x1c\n" +
-	"\treference\x18\x04 \x01(\tR\treference\x12\x18\n" +
-	"\asection\x18\x05 \x01(\tR\asection\"#\n" +
+	"\auser_id\x18\x01 \x01(\tR\x06userId\x12\x17\n" +
+	"\aform_id\x18\x02 \x01(\tR\x06formId\"#\n" +
 	"\x11GetReadingRequest\x12\x0e\n" +
-	"\x02id\x18\x01 \x01(\tR\x02id\"\xbc\x01\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\"J\n" +
+	"\x13SaveProgressRequest\x12\x0e\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\x12#\n" +
+	"\rprogress_blob\x18\x02 \x01(\tR\fprogressBlob\"\xdf\x01\n" +
 	"\x0eReadingSession\x12\x0e\n" +
 	"\x02id\x18\x01 \x01(\tR\x02id\x12\x17\n" +
-	"\auser_id\x18\x02 \x01(\tR\x06userId\x12\x16\n" +
-	"\x06author\x18\x03 \x01(\tR\x06author\x12\x12\n" +
-	"\x04book\x18\x04 \x01(\tR\x04book\x12\x1c\n" +
-	"\treference\x18\x05 \x01(\tR\treference\x12\x18\n" +
-	"\asection\x18\x06 \x01(\tR\asection\x12\x1d\n" +
+	"\auser_id\x18\x02 \x01(\tR\x06userId\x12\x17\n" +
+	"\aform_id\x18\x03 \x01(\tR\x06formId\x12(\n" +
+	"\x04form\x18\x04 \x01(\v2\x14.thoukydides.v1.FormR\x04form\x12#\n" +
+	"\rprogress_blob\x18\x05 \x01(\tR\fprogressBlob\x12\x1d\n" +
 	"\n" +
-	"created_at\x18\a \x01(\tR\tcreatedAt2\x8f\x03\n" +
+	"created_at\x18\x06 \x01(\tR\tcreatedAt\x12\x1d\n" +
+	"\n" +
+	"updated_at\x18\a \x01(\tR\tupdatedAt2\xe4\x03\n" +
 	"\x12ThoukydidesService\x12@\n" +
 	"\x06Health\x12\x16.google.protobuf.Empty\x1a\x1e.thoukydides.v1.HealthResponse\x12P\n" +
 	"\tListForms\x12 .thoukydides.v1.ListFormsRequest\x1a!.thoukydides.v1.ListFormsResponse\x12?\n" +
 	"\aGetForm\x12\x1e.thoukydides.v1.GetFormRequest\x1a\x14.thoukydides.v1.Form\x12S\n" +
 	"\fStartReading\x12#.thoukydides.v1.StartReadingRequest\x1a\x1e.thoukydides.v1.ReadingSession\x12O\n" +
 	"\n" +
-	"GetReading\x12!.thoukydides.v1.GetReadingRequest\x1a\x1e.thoukydides.v1.ReadingSessionB\xc4\x01\n" +
+	"GetReading\x12!.thoukydides.v1.GetReadingRequest\x1a\x1e.thoukydides.v1.ReadingSession\x12S\n" +
+	"\fSaveProgress\x12#.thoukydides.v1.SaveProgressRequest\x1a\x1e.thoukydides.v1.ReadingSessionB\xc4\x01\n" +
 	"\x12com.thoukydides.v1B\x10ThoukydidesProtoP\x01ZCgithub.com/odysseia-greek/ionia/thoukydides/gen/go/v1;thoukydidesv1\xa2\x02\x03TXX\xaa\x02\x0eThoukydides.V1\xca\x02\x0eThoukydides\\V1\xe2\x02\x1aThoukydides\\V1\\GPBMetadata\xea\x02\x0fThoukydides::V1b\x06proto3"
 
 var (
@@ -534,7 +564,7 @@ func file_v1_thoukydides_proto_rawDescGZIP() []byte {
 	return file_v1_thoukydides_proto_rawDescData
 }
 
-var file_v1_thoukydides_proto_msgTypes = make([]protoimpl.MessageInfo, 8)
+var file_v1_thoukydides_proto_msgTypes = make([]protoimpl.MessageInfo, 9)
 var file_v1_thoukydides_proto_goTypes = []any{
 	(*HealthResponse)(nil),      // 0: thoukydides.v1.HealthResponse
 	(*Form)(nil),                // 1: thoukydides.v1.Form
@@ -543,26 +573,30 @@ var file_v1_thoukydides_proto_goTypes = []any{
 	(*GetFormRequest)(nil),      // 4: thoukydides.v1.GetFormRequest
 	(*StartReadingRequest)(nil), // 5: thoukydides.v1.StartReadingRequest
 	(*GetReadingRequest)(nil),   // 6: thoukydides.v1.GetReadingRequest
-	(*ReadingSession)(nil),      // 7: thoukydides.v1.ReadingSession
-	(*emptypb.Empty)(nil),       // 8: google.protobuf.Empty
+	(*SaveProgressRequest)(nil), // 7: thoukydides.v1.SaveProgressRequest
+	(*ReadingSession)(nil),      // 8: thoukydides.v1.ReadingSession
+	(*emptypb.Empty)(nil),       // 9: google.protobuf.Empty
 }
 var file_v1_thoukydides_proto_depIdxs = []int32{
 	1, // 0: thoukydides.v1.ListFormsResponse.forms:type_name -> thoukydides.v1.Form
-	8, // 1: thoukydides.v1.ThoukydidesService.Health:input_type -> google.protobuf.Empty
-	2, // 2: thoukydides.v1.ThoukydidesService.ListForms:input_type -> thoukydides.v1.ListFormsRequest
-	4, // 3: thoukydides.v1.ThoukydidesService.GetForm:input_type -> thoukydides.v1.GetFormRequest
-	5, // 4: thoukydides.v1.ThoukydidesService.StartReading:input_type -> thoukydides.v1.StartReadingRequest
-	6, // 5: thoukydides.v1.ThoukydidesService.GetReading:input_type -> thoukydides.v1.GetReadingRequest
-	0, // 6: thoukydides.v1.ThoukydidesService.Health:output_type -> thoukydides.v1.HealthResponse
-	3, // 7: thoukydides.v1.ThoukydidesService.ListForms:output_type -> thoukydides.v1.ListFormsResponse
-	1, // 8: thoukydides.v1.ThoukydidesService.GetForm:output_type -> thoukydides.v1.Form
-	7, // 9: thoukydides.v1.ThoukydidesService.StartReading:output_type -> thoukydides.v1.ReadingSession
-	7, // 10: thoukydides.v1.ThoukydidesService.GetReading:output_type -> thoukydides.v1.ReadingSession
-	6, // [6:11] is the sub-list for method output_type
-	1, // [1:6] is the sub-list for method input_type
-	1, // [1:1] is the sub-list for extension type_name
-	1, // [1:1] is the sub-list for extension extendee
-	0, // [0:1] is the sub-list for field type_name
+	1, // 1: thoukydides.v1.ReadingSession.form:type_name -> thoukydides.v1.Form
+	9, // 2: thoukydides.v1.ThoukydidesService.Health:input_type -> google.protobuf.Empty
+	2, // 3: thoukydides.v1.ThoukydidesService.ListForms:input_type -> thoukydides.v1.ListFormsRequest
+	4, // 4: thoukydides.v1.ThoukydidesService.GetForm:input_type -> thoukydides.v1.GetFormRequest
+	5, // 5: thoukydides.v1.ThoukydidesService.StartReading:input_type -> thoukydides.v1.StartReadingRequest
+	6, // 6: thoukydides.v1.ThoukydidesService.GetReading:input_type -> thoukydides.v1.GetReadingRequest
+	7, // 7: thoukydides.v1.ThoukydidesService.SaveProgress:input_type -> thoukydides.v1.SaveProgressRequest
+	0, // 8: thoukydides.v1.ThoukydidesService.Health:output_type -> thoukydides.v1.HealthResponse
+	3, // 9: thoukydides.v1.ThoukydidesService.ListForms:output_type -> thoukydides.v1.ListFormsResponse
+	1, // 10: thoukydides.v1.ThoukydidesService.GetForm:output_type -> thoukydides.v1.Form
+	8, // 11: thoukydides.v1.ThoukydidesService.StartReading:output_type -> thoukydides.v1.ReadingSession
+	8, // 12: thoukydides.v1.ThoukydidesService.GetReading:output_type -> thoukydides.v1.ReadingSession
+	8, // 13: thoukydides.v1.ThoukydidesService.SaveProgress:output_type -> thoukydides.v1.ReadingSession
+	8, // [8:14] is the sub-list for method output_type
+	2, // [2:8] is the sub-list for method input_type
+	2, // [2:2] is the sub-list for extension type_name
+	2, // [2:2] is the sub-list for extension extendee
+	0, // [0:2] is the sub-list for field type_name
 }
 
 func init() { file_v1_thoukydides_proto_init() }
@@ -576,7 +610,7 @@ func file_v1_thoukydides_proto_init() {
 			GoPackagePath: reflect.TypeOf(x{}).PkgPath(),
 			RawDescriptor: unsafe.Slice(unsafe.StringData(file_v1_thoukydides_proto_rawDesc), len(file_v1_thoukydides_proto_rawDesc)),
 			NumEnums:      0,
-			NumMessages:   8,
+			NumMessages:   9,
 			NumExtensions: 0,
 			NumServices:   1,
 		},

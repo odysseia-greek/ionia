@@ -25,6 +25,7 @@ const (
 	ThoukydidesService_GetForm_FullMethodName      = "/thoukydides.v1.ThoukydidesService/GetForm"
 	ThoukydidesService_StartReading_FullMethodName = "/thoukydides.v1.ThoukydidesService/StartReading"
 	ThoukydidesService_GetReading_FullMethodName   = "/thoukydides.v1.ThoukydidesService/GetReading"
+	ThoukydidesService_SaveProgress_FullMethodName = "/thoukydides.v1.ThoukydidesService/SaveProgress"
 )
 
 // ThoukydidesServiceClient is the client API for ThoukydidesService service.
@@ -36,6 +37,7 @@ type ThoukydidesServiceClient interface {
 	GetForm(ctx context.Context, in *GetFormRequest, opts ...grpc.CallOption) (*Form, error)
 	StartReading(ctx context.Context, in *StartReadingRequest, opts ...grpc.CallOption) (*ReadingSession, error)
 	GetReading(ctx context.Context, in *GetReadingRequest, opts ...grpc.CallOption) (*ReadingSession, error)
+	SaveProgress(ctx context.Context, in *SaveProgressRequest, opts ...grpc.CallOption) (*ReadingSession, error)
 }
 
 type thoukydidesServiceClient struct {
@@ -96,6 +98,16 @@ func (c *thoukydidesServiceClient) GetReading(ctx context.Context, in *GetReadin
 	return out, nil
 }
 
+func (c *thoukydidesServiceClient) SaveProgress(ctx context.Context, in *SaveProgressRequest, opts ...grpc.CallOption) (*ReadingSession, error) {
+	cOpts := append([]grpc.CallOption{grpc.StaticMethod()}, opts...)
+	out := new(ReadingSession)
+	err := c.cc.Invoke(ctx, ThoukydidesService_SaveProgress_FullMethodName, in, out, cOpts...)
+	if err != nil {
+		return nil, err
+	}
+	return out, nil
+}
+
 // ThoukydidesServiceServer is the server API for ThoukydidesService service.
 // All implementations must embed UnimplementedThoukydidesServiceServer
 // for forward compatibility.
@@ -105,6 +117,7 @@ type ThoukydidesServiceServer interface {
 	GetForm(context.Context, *GetFormRequest) (*Form, error)
 	StartReading(context.Context, *StartReadingRequest) (*ReadingSession, error)
 	GetReading(context.Context, *GetReadingRequest) (*ReadingSession, error)
+	SaveProgress(context.Context, *SaveProgressRequest) (*ReadingSession, error)
 	mustEmbedUnimplementedThoukydidesServiceServer()
 }
 
@@ -129,6 +142,9 @@ func (UnimplementedThoukydidesServiceServer) StartReading(context.Context, *Star
 }
 func (UnimplementedThoukydidesServiceServer) GetReading(context.Context, *GetReadingRequest) (*ReadingSession, error) {
 	return nil, status.Error(codes.Unimplemented, "method GetReading not implemented")
+}
+func (UnimplementedThoukydidesServiceServer) SaveProgress(context.Context, *SaveProgressRequest) (*ReadingSession, error) {
+	return nil, status.Error(codes.Unimplemented, "method SaveProgress not implemented")
 }
 func (UnimplementedThoukydidesServiceServer) mustEmbedUnimplementedThoukydidesServiceServer() {}
 func (UnimplementedThoukydidesServiceServer) testEmbeddedByValue()                            {}
@@ -241,6 +257,24 @@ func _ThoukydidesService_GetReading_Handler(srv interface{}, ctx context.Context
 	return interceptor(ctx, in, info, handler)
 }
 
+func _ThoukydidesService_SaveProgress_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
+	in := new(SaveProgressRequest)
+	if err := dec(in); err != nil {
+		return nil, err
+	}
+	if interceptor == nil {
+		return srv.(ThoukydidesServiceServer).SaveProgress(ctx, in)
+	}
+	info := &grpc.UnaryServerInfo{
+		Server:     srv,
+		FullMethod: ThoukydidesService_SaveProgress_FullMethodName,
+	}
+	handler := func(ctx context.Context, req interface{}) (interface{}, error) {
+		return srv.(ThoukydidesServiceServer).SaveProgress(ctx, req.(*SaveProgressRequest))
+	}
+	return interceptor(ctx, in, info, handler)
+}
+
 // ThoukydidesService_ServiceDesc is the grpc.ServiceDesc for ThoukydidesService service.
 // It's only intended for direct use with grpc.RegisterService,
 // and not to be introspected or modified (even as a copy)
@@ -267,6 +301,10 @@ var ThoukydidesService_ServiceDesc = grpc.ServiceDesc{
 		{
 			MethodName: "GetReading",
 			Handler:    _ThoukydidesService_GetReading_Handler,
+		},
+		{
+			MethodName: "SaveProgress",
+			Handler:    _ThoukydidesService_SaveProgress_Handler,
 		},
 	},
 	Streams:  []grpc.StreamDesc{},

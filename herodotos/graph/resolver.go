@@ -19,5 +19,9 @@ func value(v *string) string {
 }
 
 func reading(v *thoukydidesv1.ReadingSession) *model.ReadingSession {
-	return &model.ReadingSession{ID: v.Id, UserID: v.UserId, Author: v.Author, Book: v.Book, Reference: v.Reference, Section: v.Section, CreatedAt: v.CreatedAt}
+	form := &model.Form{}
+	if v.Form != nil {
+		form = &model.Form{ID: v.Form.Id, Blob: v.Form.Blob}
+	}
+	return &model.ReadingSession{ID: v.Id, UserID: v.UserId, FormID: v.FormId, Form: form, ProgressBlob: v.ProgressBlob, CreatedAt: v.CreatedAt, UpdatedAt: v.UpdatedAt}
 }

@@ -8,6 +8,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/odysseia-greek/agora/aristoteles"
+	arv1 "github.com/odysseia-greek/attike/aristophanes/gen/go/v1"
 	v1 "github.com/odysseia-greek/ionia/thoukydides/gen/go/v1"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
@@ -20,6 +22,9 @@ type Service struct {
 	sessions map[string]*v1.ReadingSession
 	version  string
 	forms    FormStore
+	Elastic  aristoteles.Client
+	Index    string
+	Streamer arv1.TraceService_ChorusClient
 }
 
 func NewService(version string, stores ...FormStore) *Service {
@@ -62,18 +67,38 @@ func (s *Service) Health(context.Context, *emptypb.Empty) (*v1.HealthResponse, e
 	return &v1.HealthResponse{Healthy: true, Time: time.Now().UTC().Format(time.RFC3339), Version: s.version}, nil
 }
 
-func (s *Service) StartReading(_ context.Context, req *v1.StartReadingRequest) (*v1.ReadingSession, error) {
-	if req.GetUserId() == "" || req.GetAuthor() == "" || req.GetBook() == "" {
-		return nil, status.Error(codes.InvalidArgument, "user_id, author and book are required")
+func (s *Service) StartReading(ctx context.Context, req *v1.StartReadingRequest) (*v1.ReadingSession, error) {
+	if req.GetUserId() == "" || req.GetFormId() == "" {
+		return nil, status.Error(codes.InvalidArgument, "user_id and form_id are required")
+	}
+	form, err := s.GetForm(ctx, &v1.GetFormRequest{Id: req.FormId})
+	if err != nil {
+		return nil, err
 	}
 	id, err := newID()
 	if err != nil {
 		return nil, status.Error(codes.Internal, "could not create session id")
 	}
-	session := &v1.ReadingSession{Id: id, UserId: req.UserId, Author: req.Author, Book: req.Book, Reference: req.Reference, Section: req.Section, CreatedAt: time.Now().UTC().Format(time.RFC3339)}
+	now := time.Now().UTC().Format(time.RFC3339)
+	session := &v1.ReadingSession{Id: id, UserId: req.UserId, FormId: req.FormId, Form: form, ProgressBlob: "{}", CreatedAt: now, UpdatedAt: now}
 	s.mu.Lock()
 	s.sessions[id] = session
 	s.mu.Unlock()
+	return session, nil
+}
+
+func (s *Service) SaveProgress(_ context.Context, req *v1.SaveProgressRequest) (*v1.ReadingSession, error) {
+	if req.GetId() == "" {
+		return nil, status.Error(codes.InvalidArgument, "id is required")
+	}
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	session, ok := s.sessions[req.Id]
+	if !ok {
+		return nil, status.Errorf(codes.NotFound, "reading session %q not found", req.Id)
+	}
+	session.ProgressBlob = req.ProgressBlob
+	session.UpdatedAt = time.Now().UTC().Format(time.RFC3339)
 	return session, nil
 }
 
