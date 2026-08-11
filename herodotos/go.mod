@@ -8,7 +8,7 @@ require (
 	github.com/odysseia-greek/agora/plato v0.2.17
 	github.com/odysseia-greek/attike/aristophanes v0.8.0
 	github.com/odysseia-greek/ionia/diodoros v0.0.1-rho1
-	github.com/odysseia-greek/ionia/thoukydides v0.0.1-rho1
+	github.com/odysseia-greek/ionia/thoukydides v0.0.1-rho2
 	github.com/vektah/gqlparser/v2 v2.5.36
 	google.golang.org/grpc v1.83.0
 	google.golang.org/protobuf v1.36.11

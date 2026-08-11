@@ -10,14 +10,15 @@ type AnswerSection struct {
 }
 
 type Chapter struct {
-	Chapter    string         `json:"chapter"`
-	Title      string         `json:"title"`
-	Order      int            `json:"order"`
-	Level      int            `json:"level"`
-	Blob       string         `json:"blob"`
-	Grammar    []*Grammar     `json:"grammar"`
-	Vocabulary []*Vocabulary  `json:"vocabulary"`
-	Texts      []*ChapterText `json:"texts"`
+	Chapter     string         `json:"chapter"`
+	Title       string         `json:"title"`
+	Description string         `json:"description"`
+	Context     string         `json:"context"`
+	Order       int            `json:"order"`
+	Level       int            `json:"level"`
+	Grammar     []*Grammar     `json:"grammar"`
+	Vocabulary  []*Vocabulary  `json:"vocabulary"`
+	Texts       []*ChapterText `json:"texts"`
 }
 
 type ChapterAnswerInput struct {
@@ -118,9 +119,6 @@ type Health struct {
 	Healthy bool   `json:"healthy"`
 	Time    string `json:"time"`
 	Version string `json:"version"`
-}
-
-type Mutation struct {
 }
 
 type Passage struct {

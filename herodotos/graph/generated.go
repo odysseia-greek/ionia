@@ -29,7 +29,6 @@ func NewExecutableSchema(cfg Config) graphql.ExecutableSchema {
 type Config = graphql.Config[ResolverRoot, DirectiveRoot, ComplexityRoot]
 
 type ResolverRoot interface {
-	Mutation() MutationResolver
 	Query() QueryResolver
 }
 
@@ -45,14 +44,15 @@ type ComplexityRoot struct {
 	}
 
 	Chapter struct {
-		Blob       func(childComplexity int) int
-		Chapter    func(childComplexity int) int
-		Grammar    func(childComplexity int) int
-		Level      func(childComplexity int) int
-		Order      func(childComplexity int) int
-		Texts      func(childComplexity int) int
-		Title      func(childComplexity int) int
-		Vocabulary func(childComplexity int) int
+		Chapter     func(childComplexity int) int
+		Context     func(childComplexity int) int
+		Description func(childComplexity int) int
+		Grammar     func(childComplexity int) int
+		Level       func(childComplexity int) int
+		Order       func(childComplexity int) int
+		Texts       func(childComplexity int) int
+		Title       func(childComplexity int) int
+		Vocabulary  func(childComplexity int) int
 	}
 
 	ChapterOption struct {
@@ -138,11 +138,6 @@ type ComplexityRoot struct {
 		Version func(childComplexity int) int
 	}
 
-	Mutation struct {
-		CheckChapter func(childComplexity int, input model.CheckChapterInput) int
-		CheckText    func(childComplexity int, input model.CheckTextInput) int
-	}
-
 	Passage struct {
 		Greek        func(childComplexity int) int
 		Section      func(childComplexity int) int
@@ -152,6 +147,8 @@ type ComplexityRoot struct {
 	Query struct {
 		Chapter        func(childComplexity int, chapter string) int
 		ChapterOptions func(childComplexity int) int
+		CheckChapter   func(childComplexity int, input model.CheckChapterInput) int
+		CheckText      func(childComplexity int, input model.CheckTextInput) int
 		CorpusHealth   func(childComplexity int) int
 		CorpusOptions  func(childComplexity int) int
 		Health         func(childComplexity int) int
@@ -182,10 +179,6 @@ type ComplexityRoot struct {
 
 // region    ************************** generated!.gotpl **************************
 
-type MutationResolver interface {
-	CheckChapter(ctx context.Context, input model.CheckChapterInput) (*model.CheckChapterResult, error)
-	CheckText(ctx context.Context, input model.CheckTextInput) (*model.CheckTextResult, error)
-}
 type QueryResolver interface {
 	Health(ctx context.Context) (*model.Health, error)
 	CorpusHealth(ctx context.Context) (*model.Health, error)
@@ -193,6 +186,8 @@ type QueryResolver interface {
 	ChapterOptions(ctx context.Context) (*model.ChapterOptions, error)
 	Chapter(ctx context.Context, chapter string) (*model.Chapter, error)
 	Text(ctx context.Context, input model.TextInput) (*model.Text, error)
+	CheckChapter(ctx context.Context, input model.CheckChapterInput) (*model.CheckChapterResult, error)
+	CheckText(ctx context.Context, input model.CheckTextInput) (*model.CheckTextResult, error)
 }
 
 // endregion ************************** generated!.gotpl **************************
@@ -238,18 +233,24 @@ func (e *executableSchema) Complexity(ctx context.Context, typeName, field strin
 
 		return e.ComplexityRoot.AnswerSection.Section(childComplexity), true
 
-	case "Chapter.blob":
-		if e.ComplexityRoot.Chapter.Blob == nil {
-			break
-		}
-
-		return e.ComplexityRoot.Chapter.Blob(childComplexity), true
 	case "Chapter.chapter":
 		if e.ComplexityRoot.Chapter.Chapter == nil {
 			break
 		}
 
 		return e.ComplexityRoot.Chapter.Chapter(childComplexity), true
+	case "Chapter.context":
+		if e.ComplexityRoot.Chapter.Context == nil {
+			break
+		}
+
+		return e.ComplexityRoot.Chapter.Context(childComplexity), true
+	case "Chapter.description":
+		if e.ComplexityRoot.Chapter.Description == nil {
+			break
+		}
+
+		return e.ComplexityRoot.Chapter.Description(childComplexity), true
 	case "Chapter.grammar":
 		if e.ComplexityRoot.Chapter.Grammar == nil {
 			break
@@ -547,29 +548,6 @@ func (e *executableSchema) Complexity(ctx context.Context, typeName, field strin
 
 		return e.ComplexityRoot.Health.Version(childComplexity), true
 
-	case "Mutation.checkChapter":
-		if e.ComplexityRoot.Mutation.CheckChapter == nil {
-			break
-		}
-
-		args, err := ec.field_Mutation_checkChapter_args(ctx, rawArgs)
-		if err != nil {
-			return 0, false
-		}
-
-		return e.ComplexityRoot.Mutation.CheckChapter(childComplexity, args["input"].(model.CheckChapterInput)), true
-	case "Mutation.checkText":
-		if e.ComplexityRoot.Mutation.CheckText == nil {
-			break
-		}
-
-		args, err := ec.field_Mutation_checkText_args(ctx, rawArgs)
-		if err != nil {
-			return 0, false
-		}
-
-		return e.ComplexityRoot.Mutation.CheckText(childComplexity, args["input"].(model.CheckTextInput)), true
-
 	case "Passage.greek":
 		if e.ComplexityRoot.Passage.Greek == nil {
 			break
@@ -606,6 +584,28 @@ func (e *executableSchema) Complexity(ctx context.Context, typeName, field strin
 		}
 
 		return e.ComplexityRoot.Query.ChapterOptions(childComplexity), true
+	case "Query.checkChapter":
+		if e.ComplexityRoot.Query.CheckChapter == nil {
+			break
+		}
+
+		args, err := ec.field_Query_checkChapter_args(ctx, rawArgs)
+		if err != nil {
+			return 0, false
+		}
+
+		return e.ComplexityRoot.Query.CheckChapter(childComplexity, args["input"].(model.CheckChapterInput)), true
+	case "Query.checkText":
+		if e.ComplexityRoot.Query.CheckText == nil {
+			break
+		}
+
+		args, err := ec.field_Query_checkText_args(ctx, rawArgs)
+		if err != nil {
+			return 0, false
+		}
+
+		return e.ComplexityRoot.Query.CheckText(childComplexity, args["input"].(model.CheckTextInput)), true
 	case "Query.corpusHealth":
 		if e.ComplexityRoot.Query.CorpusHealth == nil {
 			break
@@ -747,21 +747,6 @@ func (e *executableSchema) Exec(ctx context.Context) graphql.ResponseHandler {
 
 			return &response
 		}
-	case ast.Mutation:
-		return func(ctx context.Context) *graphql.Response {
-			if !first {
-				return nil
-			}
-			first = false
-			ctx = graphql.WithUnmarshalerMap(ctx, inputUnmarshalMap)
-			data := ec._Mutation(ctx, opCtx.Operation.SelectionSet)
-			var buf bytes.Buffer
-			data.MarshalGQL(&buf)
-
-			return &graphql.Response{
-				Data: buf.Bytes(),
-			}
-		}
 
 	default:
 		return graphql.OneShot(graphql.ErrorResponse(ctx, "unsupported GraphQL operation"))
@@ -827,12 +812,14 @@ func (ec *executionContext) childFields_Chapter(ctx context.Context, field graph
 		return ec.fieldContext_Chapter_chapter(ctx, field)
 	case "title":
 		return ec.fieldContext_Chapter_title(ctx, field)
+	case "description":
+		return ec.fieldContext_Chapter_description(ctx, field)
+	case "context":
+		return ec.fieldContext_Chapter_context(ctx, field)
 	case "order":
 		return ec.fieldContext_Chapter_order(ctx, field)
 	case "level":
 		return ec.fieldContext_Chapter_level(ctx, field)
-	case "blob":
-		return ec.fieldContext_Chapter_blob(ctx, field)
 	case "grammar":
 		return ec.fieldContext_Chapter_grammar(ctx, field)
 	case "vocabulary":
@@ -1175,34 +1162,6 @@ func (ec *executionContext) childFields___Type(ctx context.Context, field graphq
 
 // region    ***************************** args.gotpl *****************************
 
-func (ec *executionContext) field_Mutation_checkChapter_args(ctx context.Context, rawArgs map[string]any) (map[string]any, error) {
-	var err error
-	args := map[string]any{}
-	arg0, err := graphql.ProcessArgField(ctx, rawArgs, "input",
-		func(ctx context.Context, v any) (model.CheckChapterInput, error) {
-			return ec.unmarshalNCheckChapterInput2githubᚗcomᚋodysseiaᚑgreekᚋioniaᚋherodotosᚋgraphᚋmodelᚐCheckChapterInput(ctx, v)
-		})
-	if err != nil {
-		return nil, err
-	}
-	args["input"] = arg0
-	return args, nil
-}
-
-func (ec *executionContext) field_Mutation_checkText_args(ctx context.Context, rawArgs map[string]any) (map[string]any, error) {
-	var err error
-	args := map[string]any{}
-	arg0, err := graphql.ProcessArgField(ctx, rawArgs, "input",
-		func(ctx context.Context, v any) (model.CheckTextInput, error) {
-			return ec.unmarshalNCheckTextInput2githubᚗcomᚋodysseiaᚑgreekᚋioniaᚋherodotosᚋgraphᚋmodelᚐCheckTextInput(ctx, v)
-		})
-	if err != nil {
-		return nil, err
-	}
-	args["input"] = arg0
-	return args, nil
-}
-
 func (ec *executionContext) field_Query___type_args(ctx context.Context, rawArgs map[string]any) (map[string]any, error) {
 	var err error
 	args := map[string]any{}
@@ -1228,6 +1187,34 @@ func (ec *executionContext) field_Query_chapter_args(ctx context.Context, rawArg
 		return nil, err
 	}
 	args["chapter"] = arg0
+	return args, nil
+}
+
+func (ec *executionContext) field_Query_checkChapter_args(ctx context.Context, rawArgs map[string]any) (map[string]any, error) {
+	var err error
+	args := map[string]any{}
+	arg0, err := graphql.ProcessArgField(ctx, rawArgs, "input",
+		func(ctx context.Context, v any) (model.CheckChapterInput, error) {
+			return ec.unmarshalNCheckChapterInput2githubᚗcomᚋodysseiaᚑgreekᚋioniaᚋherodotosᚋgraphᚋmodelᚐCheckChapterInput(ctx, v)
+		})
+	if err != nil {
+		return nil, err
+	}
+	args["input"] = arg0
+	return args, nil
+}
+
+func (ec *executionContext) field_Query_checkText_args(ctx context.Context, rawArgs map[string]any) (map[string]any, error) {
+	var err error
+	args := map[string]any{}
+	arg0, err := graphql.ProcessArgField(ctx, rawArgs, "input",
+		func(ctx context.Context, v any) (model.CheckTextInput, error) {
+			return ec.unmarshalNCheckTextInput2githubᚗcomᚋodysseiaᚑgreekᚋioniaᚋherodotosᚋgraphᚋmodelᚐCheckTextInput(ctx, v)
+		})
+	if err != nil {
+		return nil, err
+	}
+	args["input"] = arg0
 	return args, nil
 }
 
@@ -1443,6 +1430,52 @@ func (ec *executionContext) fieldContext_Chapter_title(_ context.Context, field 
 	return graphql.NewScalarFieldContext("Chapter", field, false, false, errors.New("field of type String does not have child fields"))
 }
 
+func (ec *executionContext) _Chapter_description(ctx context.Context, field graphql.CollectedField, obj *model.Chapter) (ret graphql.Marshaler) {
+	return graphql.ResolveField(
+		ctx,
+		ec.OperationContext,
+		field,
+		func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
+			return ec.fieldContext_Chapter_description(ctx, field)
+		},
+		func(ctx context.Context) (any, error) {
+			return obj.Description, nil
+		},
+		nil,
+		func(ctx context.Context, selections ast.SelectionSet, v string) graphql.Marshaler {
+			return ec.marshalNString2string(ctx, selections, v)
+		},
+		true,
+		true,
+	)
+}
+func (ec *executionContext) fieldContext_Chapter_description(_ context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
+	return graphql.NewScalarFieldContext("Chapter", field, false, false, errors.New("field of type String does not have child fields"))
+}
+
+func (ec *executionContext) _Chapter_context(ctx context.Context, field graphql.CollectedField, obj *model.Chapter) (ret graphql.Marshaler) {
+	return graphql.ResolveField(
+		ctx,
+		ec.OperationContext,
+		field,
+		func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
+			return ec.fieldContext_Chapter_context(ctx, field)
+		},
+		func(ctx context.Context) (any, error) {
+			return obj.Context, nil
+		},
+		nil,
+		func(ctx context.Context, selections ast.SelectionSet, v string) graphql.Marshaler {
+			return ec.marshalNString2string(ctx, selections, v)
+		},
+		true,
+		true,
+	)
+}
+func (ec *executionContext) fieldContext_Chapter_context(_ context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
+	return graphql.NewScalarFieldContext("Chapter", field, false, false, errors.New("field of type String does not have child fields"))
+}
+
 func (ec *executionContext) _Chapter_order(ctx context.Context, field graphql.CollectedField, obj *model.Chapter) (ret graphql.Marshaler) {
 	return graphql.ResolveField(
 		ctx,
@@ -1487,29 +1520,6 @@ func (ec *executionContext) _Chapter_level(ctx context.Context, field graphql.Co
 }
 func (ec *executionContext) fieldContext_Chapter_level(_ context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
 	return graphql.NewScalarFieldContext("Chapter", field, false, false, errors.New("field of type Int does not have child fields"))
-}
-
-func (ec *executionContext) _Chapter_blob(ctx context.Context, field graphql.CollectedField, obj *model.Chapter) (ret graphql.Marshaler) {
-	return graphql.ResolveField(
-		ctx,
-		ec.OperationContext,
-		field,
-		func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
-			return ec.fieldContext_Chapter_blob(ctx, field)
-		},
-		func(ctx context.Context) (any, error) {
-			return obj.Blob, nil
-		},
-		nil,
-		func(ctx context.Context, selections ast.SelectionSet, v string) graphql.Marshaler {
-			return ec.marshalNString2string(ctx, selections, v)
-		},
-		true,
-		true,
-	)
-}
-func (ec *executionContext) fieldContext_Chapter_blob(_ context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
-	return graphql.NewScalarFieldContext("Chapter", field, false, false, errors.New("field of type String does not have child fields"))
 }
 
 func (ec *executionContext) _Chapter_grammar(ctx context.Context, field graphql.CollectedField, obj *model.Chapter) (ret graphql.Marshaler) {
@@ -2632,94 +2642,6 @@ func (ec *executionContext) fieldContext_Health_version(_ context.Context, field
 	return graphql.NewScalarFieldContext("Health", field, false, false, errors.New("field of type String does not have child fields"))
 }
 
-func (ec *executionContext) _Mutation_checkChapter(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
-	return graphql.ResolveField(
-		ctx,
-		ec.OperationContext,
-		field,
-		func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
-			return ec.fieldContext_Mutation_checkChapter(ctx, field)
-		},
-		func(ctx context.Context) (any, error) {
-			fc := graphql.GetFieldContext(ctx)
-			return ec.Resolvers.Mutation().CheckChapter(ctx, fc.Args["input"].(model.CheckChapterInput))
-		},
-		nil,
-		func(ctx context.Context, selections ast.SelectionSet, v *model.CheckChapterResult) graphql.Marshaler {
-			return ec.marshalNCheckChapterResult2ᚖgithubᚗcomᚋodysseiaᚑgreekᚋioniaᚋherodotosᚋgraphᚋmodelᚐCheckChapterResult(ctx, selections, v)
-		},
-		true,
-		true,
-	)
-}
-func (ec *executionContext) fieldContext_Mutation_checkChapter(ctx context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
-	fc = &graphql.FieldContext{
-		Object:     "Mutation",
-		Field:      field,
-		IsMethod:   true,
-		IsResolver: true,
-		Child: func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
-			return ec.childFields_CheckChapterResult(ctx, field)
-		},
-	}
-	defer func() {
-		if r := recover(); r != nil {
-			err = ec.Recover(ctx, r)
-			ec.Error(ctx, err)
-		}
-	}()
-	ctx = graphql.WithFieldContext(ctx, fc)
-	if fc.Args, err = ec.field_Mutation_checkChapter_args(ctx, field.ArgumentMap(ec.Variables)); err != nil {
-		ec.Error(ctx, err)
-		return fc, err
-	}
-	return fc, nil
-}
-
-func (ec *executionContext) _Mutation_checkText(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
-	return graphql.ResolveField(
-		ctx,
-		ec.OperationContext,
-		field,
-		func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
-			return ec.fieldContext_Mutation_checkText(ctx, field)
-		},
-		func(ctx context.Context) (any, error) {
-			fc := graphql.GetFieldContext(ctx)
-			return ec.Resolvers.Mutation().CheckText(ctx, fc.Args["input"].(model.CheckTextInput))
-		},
-		nil,
-		func(ctx context.Context, selections ast.SelectionSet, v *model.CheckTextResult) graphql.Marshaler {
-			return ec.marshalNCheckTextResult2ᚖgithubᚗcomᚋodysseiaᚑgreekᚋioniaᚋherodotosᚋgraphᚋmodelᚐCheckTextResult(ctx, selections, v)
-		},
-		true,
-		true,
-	)
-}
-func (ec *executionContext) fieldContext_Mutation_checkText(ctx context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
-	fc = &graphql.FieldContext{
-		Object:     "Mutation",
-		Field:      field,
-		IsMethod:   true,
-		IsResolver: true,
-		Child: func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
-			return ec.childFields_CheckTextResult(ctx, field)
-		},
-	}
-	defer func() {
-		if r := recover(); r != nil {
-			err = ec.Recover(ctx, r)
-			ec.Error(ctx, err)
-		}
-	}()
-	ctx = graphql.WithFieldContext(ctx, fc)
-	if fc.Args, err = ec.field_Mutation_checkText_args(ctx, field.ArgumentMap(ec.Variables)); err != nil {
-		ec.Error(ctx, err)
-		return fc, err
-	}
-	return fc, nil
-}
-
 func (ec *executionContext) _Passage_greek(ctx context.Context, field graphql.CollectedField, obj *model.Passage) (ret graphql.Marshaler) {
 	return graphql.ResolveField(
 		ctx,
@@ -2999,6 +2921,94 @@ func (ec *executionContext) fieldContext_Query_text(ctx context.Context, field g
 	}()
 	ctx = graphql.WithFieldContext(ctx, fc)
 	if fc.Args, err = ec.field_Query_text_args(ctx, field.ArgumentMap(ec.Variables)); err != nil {
+		ec.Error(ctx, err)
+		return fc, err
+	}
+	return fc, nil
+}
+
+func (ec *executionContext) _Query_checkChapter(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
+	return graphql.ResolveField(
+		ctx,
+		ec.OperationContext,
+		field,
+		func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
+			return ec.fieldContext_Query_checkChapter(ctx, field)
+		},
+		func(ctx context.Context) (any, error) {
+			fc := graphql.GetFieldContext(ctx)
+			return ec.Resolvers.Query().CheckChapter(ctx, fc.Args["input"].(model.CheckChapterInput))
+		},
+		nil,
+		func(ctx context.Context, selections ast.SelectionSet, v *model.CheckChapterResult) graphql.Marshaler {
+			return ec.marshalNCheckChapterResult2ᚖgithubᚗcomᚋodysseiaᚑgreekᚋioniaᚋherodotosᚋgraphᚋmodelᚐCheckChapterResult(ctx, selections, v)
+		},
+		true,
+		true,
+	)
+}
+func (ec *executionContext) fieldContext_Query_checkChapter(ctx context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
+	fc = &graphql.FieldContext{
+		Object:     "Query",
+		Field:      field,
+		IsMethod:   true,
+		IsResolver: true,
+		Child: func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
+			return ec.childFields_CheckChapterResult(ctx, field)
+		},
+	}
+	defer func() {
+		if r := recover(); r != nil {
+			err = ec.Recover(ctx, r)
+			ec.Error(ctx, err)
+		}
+	}()
+	ctx = graphql.WithFieldContext(ctx, fc)
+	if fc.Args, err = ec.field_Query_checkChapter_args(ctx, field.ArgumentMap(ec.Variables)); err != nil {
+		ec.Error(ctx, err)
+		return fc, err
+	}
+	return fc, nil
+}
+
+func (ec *executionContext) _Query_checkText(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
+	return graphql.ResolveField(
+		ctx,
+		ec.OperationContext,
+		field,
+		func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
+			return ec.fieldContext_Query_checkText(ctx, field)
+		},
+		func(ctx context.Context) (any, error) {
+			fc := graphql.GetFieldContext(ctx)
+			return ec.Resolvers.Query().CheckText(ctx, fc.Args["input"].(model.CheckTextInput))
+		},
+		nil,
+		func(ctx context.Context, selections ast.SelectionSet, v *model.CheckTextResult) graphql.Marshaler {
+			return ec.marshalNCheckTextResult2ᚖgithubᚗcomᚋodysseiaᚑgreekᚋioniaᚋherodotosᚋgraphᚋmodelᚐCheckTextResult(ctx, selections, v)
+		},
+		true,
+		true,
+	)
+}
+func (ec *executionContext) fieldContext_Query_checkText(ctx context.Context, field graphql.CollectedField) (fc *graphql.FieldContext, err error) {
+	fc = &graphql.FieldContext{
+		Object:     "Query",
+		Field:      field,
+		IsMethod:   true,
+		IsResolver: true,
+		Child: func(ctx context.Context, field graphql.CollectedField) (*graphql.FieldContext, error) {
+			return ec.childFields_CheckTextResult(ctx, field)
+		},
+	}
+	defer func() {
+		if r := recover(); r != nil {
+			err = ec.Recover(ctx, r)
+			ec.Error(ctx, err)
+		}
+	}()
+	ctx = graphql.WithFieldContext(ctx, fc)
+	if fc.Args, err = ec.field_Query_checkText_args(ctx, field.ArgumentMap(ec.Variables)); err != nil {
 		ec.Error(ctx, err)
 		return fc, err
 	}
@@ -4675,6 +4685,16 @@ func (ec *executionContext) _Chapter(ctx context.Context, sel ast.SelectionSet, 
 			if out.Values[i] == graphql.Null {
 				out.Invalids++
 			}
+		case "description":
+			out.Values[i] = ec._Chapter_description(ctx, field, obj)
+			if out.Values[i] == graphql.Null {
+				out.Invalids++
+			}
+		case "context":
+			out.Values[i] = ec._Chapter_context(ctx, field, obj)
+			if out.Values[i] == graphql.Null {
+				out.Invalids++
+			}
 		case "order":
 			out.Values[i] = ec._Chapter_order(ctx, field, obj)
 			if out.Values[i] == graphql.Null {
@@ -4682,11 +4702,6 @@ func (ec *executionContext) _Chapter(ctx context.Context, sel ast.SelectionSet, 
 			}
 		case "level":
 			out.Values[i] = ec._Chapter_level(ctx, field, obj)
-			if out.Values[i] == graphql.Null {
-				out.Invalids++
-			}
-		case "blob":
-			out.Values[i] = ec._Chapter_blob(ctx, field, obj)
 			if out.Values[i] == graphql.Null {
 				out.Invalids++
 			}
@@ -5393,61 +5408,6 @@ func (ec *executionContext) _Health(ctx context.Context, sel ast.SelectionSet, o
 	return out
 }
 
-var mutationImplementors = []string{"Mutation"}
-
-func (ec *executionContext) _Mutation(ctx context.Context, sel ast.SelectionSet) graphql.Marshaler {
-	fields := graphql.CollectFields(ec.OperationContext, sel, mutationImplementors)
-	ctx = graphql.WithFieldContext(ctx, &graphql.FieldContext{
-		Object: "Mutation",
-	})
-
-	out := graphql.NewFieldSet(fields)
-	deferredFieldSet := graphql.NewFieldSet(nil)
-	deferLabelToView := make(map[string]*graphql.FieldSetView)
-	for i, field := range fields {
-		innerCtx := graphql.WithRootFieldContext(ctx, &graphql.RootFieldContext{
-			Object: field.Name,
-			Field:  field,
-		})
-
-		switch field.Name {
-		case "__typename":
-			out.Values[i] = graphql.MarshalString("Mutation")
-		case "checkChapter":
-			out.Values[i] = ec.OperationContext.RootResolverMiddleware(innerCtx, func(ctx context.Context) (res graphql.Marshaler) {
-				return ec._Mutation_checkChapter(ctx, field)
-			})
-			if out.Values[i] == graphql.Null {
-				out.Invalids++
-			}
-		case "checkText":
-			out.Values[i] = ec.OperationContext.RootResolverMiddleware(innerCtx, func(ctx context.Context) (res graphql.Marshaler) {
-				return ec._Mutation_checkText(ctx, field)
-			})
-			if out.Values[i] == graphql.Null {
-				out.Invalids++
-			}
-		default:
-			panic("unknown field " + strconv.Quote(field.Name))
-		}
-	}
-	out.Dispatch(ctx)
-	if out.Invalids > 0 {
-		return graphql.Null
-	}
-
-	atomic.AddInt32(&ec.Deferred, int32(min(len(deferLabelToView), math.MaxInt32)))
-
-	ec.ProcessDeferredGroup(graphql.DeferredGroup{
-		Defers:   deferLabelToView,
-		Path:     graphql.GetPath(ctx),
-		FieldSet: deferredFieldSet,
-		Context:  ctx,
-	})
-
-	return out
-}
-
 var passageImplementors = []string{"Passage"}
 
 func (ec *executionContext) _Passage(ctx context.Context, sel ast.SelectionSet, obj *model.Passage) graphql.Marshaler {
@@ -5636,6 +5596,50 @@ func (ec *executionContext) _Query(ctx context.Context, sel ast.SelectionSet) gr
 					}
 				}()
 				res = ec._Query_text(ctx, field)
+				if res == graphql.Null {
+					atomic.AddUint32(&fs.Invalids, 1)
+				}
+				return res
+			}
+
+			rrm := func(ctx context.Context) graphql.Marshaler {
+				return ec.OperationContext.RootResolverMiddleware(ctx,
+					func(ctx context.Context) graphql.Marshaler { return innerFunc(ctx, out) })
+			}
+
+			out.Concurrently(i, func(ctx context.Context) graphql.Marshaler { return rrm(innerCtx) })
+		case "checkChapter":
+			field := field
+
+			innerFunc := func(ctx context.Context, fs *graphql.FieldSet) (res graphql.Marshaler) {
+				defer func() {
+					if r := recover(); r != nil {
+						ec.Error(ctx, ec.Recover(ctx, r))
+					}
+				}()
+				res = ec._Query_checkChapter(ctx, field)
+				if res == graphql.Null {
+					atomic.AddUint32(&fs.Invalids, 1)
+				}
+				return res
+			}
+
+			rrm := func(ctx context.Context) graphql.Marshaler {
+				return ec.OperationContext.RootResolverMiddleware(ctx,
+					func(ctx context.Context) graphql.Marshaler { return innerFunc(ctx, out) })
+			}
+
+			out.Concurrently(i, func(ctx context.Context) graphql.Marshaler { return rrm(innerCtx) })
+		case "checkText":
+			field := field
+
+			innerFunc := func(ctx context.Context, fs *graphql.FieldSet) (res graphql.Marshaler) {
+				defer func() {
+					if r := recover(); r != nil {
+						ec.Error(ctx, ec.Recover(ctx, r))
+					}
+				}()
+				res = ec._Query_checkText(ctx, field)
 				if res == graphql.Null {
 					atomic.AddUint32(&fs.Invalids, 1)
 				}

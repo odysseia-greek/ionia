@@ -244,10 +244,11 @@ type Chapter struct {
 	Title         string                 `protobuf:"bytes,2,opt,name=title,proto3" json:"title,omitempty"`
 	Order         int32                  `protobuf:"varint,3,opt,name=order,proto3" json:"order,omitempty"`
 	Level         int32                  `protobuf:"varint,4,opt,name=level,proto3" json:"level,omitempty"`
-	Blob          string                 `protobuf:"bytes,5,opt,name=blob,proto3" json:"blob,omitempty"`
 	Grammar       []*Grammar             `protobuf:"bytes,6,rep,name=grammar,proto3" json:"grammar,omitempty"`
 	Vocabulary    []*Vocabulary          `protobuf:"bytes,7,rep,name=vocabulary,proto3" json:"vocabulary,omitempty"`
 	Texts         []*ChapterText         `protobuf:"bytes,8,rep,name=texts,proto3" json:"texts,omitempty"`
+	Description   string                 `protobuf:"bytes,9,opt,name=description,proto3" json:"description,omitempty"`
+	Context       string                 `protobuf:"bytes,10,opt,name=context,proto3" json:"context,omitempty"`
 	unknownFields protoimpl.UnknownFields
 	sizeCache     protoimpl.SizeCache
 }
@@ -310,13 +311,6 @@ func (x *Chapter) GetLevel() int32 {
 	return 0
 }
 
-func (x *Chapter) GetBlob() string {
-	if x != nil {
-		return x.Blob
-	}
-	return ""
-}
-
 func (x *Chapter) GetGrammar() []*Grammar {
 	if x != nil {
 		return x.Grammar
@@ -336,6 +330,20 @@ func (x *Chapter) GetTexts() []*ChapterText {
 		return x.Texts
 	}
 	return nil
+}
+
+func (x *Chapter) GetDescription() string {
+	if x != nil {
+		return x.Description
+	}
+	return ""
+}
+
+func (x *Chapter) GetContext() string {
+	if x != nil {
+		return x.Context
+	}
+	return ""
 }
 
 type GrammarExample struct {
@@ -911,18 +919,20 @@ const file_v1_thoukydides_proto_rawDesc = "" +
 	"\x0eChapterOptions\x129\n" +
 	"\bchapters\x18\x01 \x03(\v2\x1d.thoukydides.v1.ChapterOptionR\bchapters\"-\n" +
 	"\x11GetChapterRequest\x12\x18\n" +
-	"\achapter\x18\x01 \x01(\tR\achapter\"\x9b\x02\n" +
+	"\achapter\x18\x01 \x01(\tR\achapter\"\xcf\x02\n" +
 	"\aChapter\x12\x18\n" +
 	"\achapter\x18\x01 \x01(\tR\achapter\x12\x14\n" +
 	"\x05title\x18\x02 \x01(\tR\x05title\x12\x14\n" +
 	"\x05order\x18\x03 \x01(\x05R\x05order\x12\x14\n" +
-	"\x05level\x18\x04 \x01(\x05R\x05level\x12\x12\n" +
-	"\x04blob\x18\x05 \x01(\tR\x04blob\x121\n" +
+	"\x05level\x18\x04 \x01(\x05R\x05level\x121\n" +
 	"\agrammar\x18\x06 \x03(\v2\x17.thoukydides.v1.GrammarR\agrammar\x12:\n" +
 	"\n" +
 	"vocabulary\x18\a \x03(\v2\x1a.thoukydides.v1.VocabularyR\n" +
 	"vocabulary\x121\n" +
-	"\x05texts\x18\b \x03(\v2\x1b.thoukydides.v1.ChapterTextR\x05texts\"\\\n" +
+	"\x05texts\x18\b \x03(\v2\x1b.thoukydides.v1.ChapterTextR\x05texts\x12 \n" +
+	"\vdescription\x18\t \x01(\tR\vdescription\x12\x18\n" +
+	"\acontext\x18\n" +
+	" \x01(\tR\acontextJ\x04\b\x05\x10\x06R\x04blob\"\\\n" +
 	"\x0eGrammarExample\x12\x14\n" +
 	"\x05greek\x18\x01 \x01(\tR\x05greek\x12 \n" +
 	"\vtranslation\x18\x02 \x01(\tR\vtranslation\x12\x12\n" +

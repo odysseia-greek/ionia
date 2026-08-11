@@ -30,14 +30,18 @@ message ChapterOptions { repeated ChapterOption chapters = 1; }
 message GetChapterRequest { string chapter = 1; }
 
 message Chapter {
+  reserved 5;
+  reserved "blob";
+
   string chapter = 1;
   string title = 2;
   int32 order = 3;
   int32 level = 4;
-  string blob = 5;
   repeated Grammar grammar = 6;
   repeated Vocabulary vocabulary = 7;
   repeated ChapterText texts = 8;
+  string description = 9;
+  string context = 10;
 }
 
 message GrammarExample {

@@ -2,7 +2,6 @@ package polemos
 
 import (
 	"context"
-	"strings"
 	"testing"
 
 	v1 "github.com/odysseia-greek/ionia/thoukydides/gen/go/v1"
@@ -29,8 +28,7 @@ func (m memoryForms) GetChapter(_ context.Context, name string) (*chapterDocumen
 
 func fixtureChapter() *chapterDocument {
 	return &chapterDocument{
-		Chapter: "chapter-02", Title: "In the Beginning", Order: 2, Level: 2,
-		Source:  map[string]any{"id": "chapter-02", "title": "In the Beginning", "texts": []any{map[string]any{"id": "john-1-1", "greek": "Ἐν ἀρχῇ", "readingHints": []any{"Find the verb"}, "translation": "In the beginning"}}},
+		Chapter: "chapter-02", Title: "In the Beginning", Description: "Read your first text", Context: "The Gospel of John", Order: 2, Level: 2,
 		Grammar: []grammarDocument{{ID: "nominative", Title: "The nominative"}},
 		Vocab:   []vocabularyDocument{{Greek: "ἡ ἀρχή", Translation: "beginning"}},
 		Texts:   []chapterText{{ID: "john-1-1", Greek: "Ἐν ἀρχῇ", ReadingHints: []string{"Find the verb"}, Translation: "In the beginning"}},
@@ -43,8 +41,8 @@ func TestGetChapterDoesNotExposeAnswer(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if strings.Contains(chapter.Blob, `"translation"`) || strings.Contains(chapter.Blob, "In the beginning") {
-		t.Fatalf("chapter leaked its answer: %s", chapter.Blob)
+	if chapter.Description != "Read your first text" || chapter.Context != "The Gospel of John" {
+		t.Fatalf("chapter context is incomplete: %#v", chapter)
 	}
 	if len(chapter.Grammar) != 1 || len(chapter.Vocabulary) != 1 || len(chapter.Texts) != 1 || len(chapter.Texts[0].ReadingHints) != 1 {
 		t.Fatalf("chapter learning material is incomplete: %#v", chapter)
@@ -52,7 +50,7 @@ func TestGetChapterDoesNotExposeAnswer(t *testing.T) {
 }
 
 func TestGetChapterReturnsEmptyLearningSlices(t *testing.T) {
-	empty := &chapterDocument{Chapter: "chapter-01", Source: map[string]any{"id": "chapter-01"}}
+	empty := &chapterDocument{Chapter: "chapter-01"}
 	service := NewService("test", memoryForms{chapters: []*chapterDocument{empty}})
 	chapter, err := service.GetChapter(context.Background(), &v1.GetChapterRequest{Chapter: "chapter-01"})
 	if err != nil {

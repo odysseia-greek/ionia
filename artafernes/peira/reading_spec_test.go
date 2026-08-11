@@ -28,7 +28,7 @@ var _ = Describe("checking a chapter", func() {
 				} `json:"texts"`
 			} `json:"checkChapter"`
 		}
-		err := gq.Execute(request, baseURL, `mutation($input: CheckChapterInput!) { checkChapter(input: $input) { chapter texts { text sourceText actualText learnerText } } }`, variables, &response)
+		err := gq.Execute(request, baseURL, `query($input: CheckChapterInput!) { checkChapter(input: $input) { chapter texts { text sourceText actualText learnerText } } }`, variables, &response)
 		Expect(err).NotTo(HaveOccurred())
 		Expect(response.CheckChapter.Chapter).To(Equal("chapter-02"))
 		Expect(response.CheckChapter.Texts).To(HaveLen(1))

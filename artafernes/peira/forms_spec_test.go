@@ -2,7 +2,6 @@ package peira
 
 import (
 	"context"
-	"encoding/json"
 	"time"
 
 	gq "github.com/odysseia-greek/ionia/artafernes/internal/graphql"
@@ -27,9 +26,10 @@ var _ = Describe("learning chapters", func() {
 
 		var response struct {
 			Chapter struct {
-				Chapter string `json:"chapter"`
-				Blob    string `json:"blob"`
-				Grammar []struct {
+				Chapter     string `json:"chapter"`
+				Description string `json:"description"`
+				Context     string `json:"context"`
+				Grammar     []struct {
 					Grammar string `json:"grammar"`
 				} `json:"grammar"`
 				Vocabulary []struct {
@@ -42,20 +42,9 @@ var _ = Describe("learning chapters", func() {
 			} `json:"chapter"`
 		}
 		chapter := options.ChapterOptions.Chapters[0].Chapter
-		err = gq.Execute(request, baseURL, `query($chapter: String!) { chapter(chapter: $chapter) { chapter blob grammar { grammar } vocabulary { greek } texts { text readingHints } } }`, map[string]any{"chapter": chapter}, &response)
+		err = gq.Execute(request, baseURL, `query($chapter: String!) { chapter(chapter: $chapter) { chapter description context grammar { grammar } vocabulary { greek } texts { text readingHints } } }`, map[string]any{"chapter": chapter}, &response)
 		Expect(err).NotTo(HaveOccurred())
 		Expect(response.Chapter.Chapter).To(Equal(chapter))
-		var blob struct {
-			ID    string `json:"id"`
-			Texts []struct {
-				ID          string `json:"id"`
-				Translation string `json:"translation"`
-			} `json:"texts"`
-		}
-		Expect(json.Unmarshal([]byte(response.Chapter.Blob), &blob)).To(Succeed())
-		Expect(blob.ID).To(Equal(chapter))
-		for _, text := range blob.Texts {
-			Expect(text.Translation).To(BeEmpty())
-		}
+		Expect(response.Chapter.Description).NotTo(BeEmpty())
 	}, SpecTimeout(15*time.Second))
 })

@@ -49,14 +49,15 @@ type vocabularyDocument struct {
 }
 
 type chapterDocument struct {
-	Chapter string
-	Title   string
-	Order   int32
-	Level   int32
-	Source  map[string]any
-	Grammar []grammarDocument
-	Vocab   []vocabularyDocument
-	Texts   []chapterText
+	Chapter     string
+	Title       string
+	Description string
+	Context     string
+	Order       int32
+	Level       int32
+	Grammar     []grammarDocument
+	Vocab       []vocabularyDocument
+	Texts       []chapterText
 }
 
 type FormStore interface {
@@ -112,13 +113,15 @@ func decodeChapter(source map[string]any) (*chapterDocument, error) {
 		return nil, err
 	}
 	var value struct {
-		ID      string               `json:"id"`
-		Title   string               `json:"title"`
-		Order   int32                `json:"order"`
-		Level   int32                `json:"level"`
-		Grammar []grammarDocument    `json:"grammar"`
-		Vocab   []vocabularyDocument `json:"vocabulary"`
-		Texts   []chapterText        `json:"texts"`
+		ID          string               `json:"id"`
+		Title       string               `json:"title"`
+		Description string               `json:"description"`
+		Context     string               `json:"context"`
+		Order       int32                `json:"order"`
+		Level       int32                `json:"level"`
+		Grammar     []grammarDocument    `json:"grammar"`
+		Vocab       []vocabularyDocument `json:"vocabulary"`
+		Texts       []chapterText        `json:"texts"`
 	}
 	if err := json.Unmarshal(body, &value); err != nil {
 		return nil, err
@@ -126,35 +129,13 @@ func decodeChapter(source map[string]any) (*chapterDocument, error) {
 	if value.ID == "" {
 		return nil, fmt.Errorf("chapter has no domain id")
 	}
-	return &chapterDocument{Chapter: value.ID, Title: value.Title, Order: value.Order, Level: value.Level, Source: source, Grammar: value.Grammar, Vocab: value.Vocab, Texts: value.Texts}, nil
+	return &chapterDocument{Chapter: value.ID, Title: value.Title, Description: value.Description, Context: value.Context, Order: value.Order, Level: value.Level, Grammar: value.Grammar, Vocab: value.Vocab, Texts: value.Texts}, nil
 }
 
 func publicChapter(chapter *chapterDocument) (*v1.Chapter, error) {
-	body, err := json.Marshal(chapter.Source)
-	if err != nil {
-		return nil, err
-	}
-	var source map[string]any
-	if err := json.Unmarshal(body, &source); err != nil {
-		return nil, err
-	}
-	if texts, ok := source["texts"].([]any); ok {
-		for _, raw := range texts {
-			if text, ok := raw.(map[string]any); ok {
-				delete(text, "translation")
-			}
-		}
-	}
-	body, err = json.Marshal(source)
-	if err != nil {
-		return nil, err
-	}
 	result := &v1.Chapter{
-		Chapter:    chapter.Chapter,
-		Title:      chapter.Title,
-		Order:      chapter.Order,
-		Level:      chapter.Level,
-		Blob:       string(body),
+		Chapter: chapter.Chapter, Title: chapter.Title, Description: chapter.Description, Context: chapter.Context,
+		Order: chapter.Order, Level: chapter.Level,
 		Grammar:    make([]*v1.Grammar, 0, len(chapter.Grammar)),
 		Vocabulary: make([]*v1.Vocabulary, 0, len(chapter.Vocab)),
 		Texts:      make([]*v1.ChapterText, 0, len(chapter.Texts)),

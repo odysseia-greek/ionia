@@ -38,9 +38,10 @@ type ChapterOptions { chapters: [ChapterOption!]! }
 type Chapter {
   chapter: String!
   title: String!
+  description: String!
+  context: String!
   order: Int!
   level: Int!
-  blob: String!
   grammar: [Grammar!]!
   vocabulary: [Vocabulary!]!
   texts: [ChapterText!]!
@@ -120,9 +121,6 @@ type Query {
   chapterOptions: ChapterOptions!
   chapter(chapter: String!): Chapter!
   text(input: TextInput!): Text!
-}
-
-type Mutation {
   checkChapter(input: CheckChapterInput!): CheckChapterResult!
   checkText(input: CheckTextInput!): CheckTextResult!
 }

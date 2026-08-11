@@ -13,43 +13,6 @@ import (
 	thoukydidesv1 "github.com/odysseia-greek/ionia/thoukydides/gen/go/v1"
 )
 
-// CheckChapter is the resolver for the checkChapter field.
-func (r *mutationResolver) CheckChapter(ctx context.Context, input model.CheckChapterInput) (*model.CheckChapterResult, error) {
-	answers := make([]*thoukydidesv1.ChapterAnswer, 0, len(input.Answers))
-	for _, answer := range input.Answers {
-		answers = append(answers, &thoukydidesv1.ChapterAnswer{Text: answer.Text, LearnerText: answer.LearnerText})
-	}
-	response, err := r.Handler.CheckChapter(ctx, &thoukydidesv1.CheckChapterRequest{Chapter: input.Chapter, Answers: answers})
-	if err != nil {
-		return nil, err
-	}
-	result := &model.CheckChapterResult{Chapter: response.Chapter}
-	for _, text := range response.Texts {
-		result.Texts = append(result.Texts, &model.CheckedChapterText{Text: text.Text, SourceText: text.SourceText, ActualText: text.ActualText, LearnerText: text.LearnerText})
-	}
-	return result, nil
-}
-
-// CheckText is the resolver for the checkText field.
-func (r *mutationResolver) CheckText(ctx context.Context, input model.CheckTextInput) (*model.CheckTextResult, error) {
-	answers := make([]*diodorosv1.TranslationAnswer, 0, len(input.Translations))
-	for _, answer := range input.Translations {
-		answers = append(answers, &diodorosv1.TranslationAnswer{Section: answer.Section, Translation: answer.Translation})
-	}
-	response, err := r.Handler.CheckText(ctx, &diodorosv1.CheckTextRequest{Author: input.Author, Book: input.Book, Reference: input.Reference, Translations: answers})
-	if err != nil {
-		return nil, err
-	}
-	result := &model.CheckTextResult{AverageLevenshteinPercentage: response.AverageLevenshteinPercentage}
-	for _, section := range response.Sections {
-		result.Sections = append(result.Sections, &model.AnswerSection{Section: section.Section, LevenshteinPercentage: section.LevenshteinPercentage, QuizSentence: section.QuizSentence, AnswerSentence: section.AnswerSentence})
-	}
-	for _, typo := range response.PossibleTypos {
-		result.PossibleTypos = append(result.PossibleTypos, &model.Typo{Source: typo.Source, Provided: typo.Provided})
-	}
-	return result, nil
-}
-
 // Health is the resolver for the health field.
 func (r *queryResolver) Health(ctx context.Context) (*model.Health, error) {
 	response, err := r.Handler.CoreHealth(ctx)
@@ -109,7 +72,7 @@ func (r *queryResolver) Chapter(ctx context.Context, chapter string) (*model.Cha
 		return nil, err
 	}
 	result := &model.Chapter{
-		Chapter: response.Chapter, Title: response.Title, Order: int(response.Order), Level: int(response.Level), Blob: response.Blob,
+		Chapter: response.Chapter, Title: response.Title, Description: response.Description, Context: response.Context, Order: int(response.Order), Level: int(response.Level),
 		Grammar:    make([]*model.Grammar, 0, len(response.Grammar)),
 		Vocabulary: make([]*model.Vocabulary, 0, len(response.Vocabulary)),
 		Texts:      make([]*model.ChapterText, 0, len(response.Texts)),
@@ -147,13 +110,48 @@ func (r *queryResolver) Text(ctx context.Context, input model.TextInput) (*model
 	return &model.Text{Author: response.Author, Book: response.Book, Type: response.Type, Reference: response.Reference, PerseusTextLink: response.PerseusTextLink, Passages: passages}, nil
 }
 
-// Mutation returns MutationResolver implementation.
-func (r *Resolver) Mutation() MutationResolver { return &mutationResolver{r} }
+// CheckChapter is the resolver for the checkChapter field.
+func (r *queryResolver) CheckChapter(ctx context.Context, input model.CheckChapterInput) (*model.CheckChapterResult, error) {
+	answers := make([]*thoukydidesv1.ChapterAnswer, 0, len(input.Answers))
+	for _, answer := range input.Answers {
+		answers = append(answers, &thoukydidesv1.ChapterAnswer{Text: answer.Text, LearnerText: answer.LearnerText})
+	}
+	response, err := r.Handler.CheckChapter(ctx, &thoukydidesv1.CheckChapterRequest{Chapter: input.Chapter, Answers: answers})
+	if err != nil {
+		return nil, err
+	}
+	result := &model.CheckChapterResult{Chapter: response.Chapter, Texts: make([]*model.CheckedChapterText, 0, len(response.Texts))}
+	for _, text := range response.Texts {
+		result.Texts = append(result.Texts, &model.CheckedChapterText{Text: text.Text, SourceText: text.SourceText, ActualText: text.ActualText, LearnerText: text.LearnerText})
+	}
+	return result, nil
+}
+
+// CheckText is the resolver for the checkText field.
+func (r *queryResolver) CheckText(ctx context.Context, input model.CheckTextInput) (*model.CheckTextResult, error) {
+	answers := make([]*diodorosv1.TranslationAnswer, 0, len(input.Translations))
+	for _, answer := range input.Translations {
+		answers = append(answers, &diodorosv1.TranslationAnswer{Section: answer.Section, Translation: answer.Translation})
+	}
+	response, err := r.Handler.CheckText(ctx, &diodorosv1.CheckTextRequest{Author: input.Author, Book: input.Book, Reference: input.Reference, Translations: answers})
+	if err != nil {
+		return nil, err
+	}
+	result := &model.CheckTextResult{
+		AverageLevenshteinPercentage: response.AverageLevenshteinPercentage,
+		Sections:                     make([]*model.AnswerSection, 0, len(response.Sections)),
+		PossibleTypos:                make([]*model.Typo, 0, len(response.PossibleTypos)),
+	}
+	for _, section := range response.Sections {
+		result.Sections = append(result.Sections, &model.AnswerSection{Section: section.Section, LevenshteinPercentage: section.LevenshteinPercentage, QuizSentence: section.QuizSentence, AnswerSentence: section.AnswerSentence})
+	}
+	for _, typo := range response.PossibleTypos {
+		result.PossibleTypos = append(result.PossibleTypos, &model.Typo{Source: typo.Source, Provided: typo.Provided})
+	}
+	return result, nil
+}
 
 // Query returns QueryResolver implementation.
 func (r *Resolver) Query() QueryResolver { return &queryResolver{r} }
 
-type (
-	mutationResolver struct{ *Resolver }
-	queryResolver    struct{ *Resolver }
-)
+type queryResolver struct{ *Resolver }
