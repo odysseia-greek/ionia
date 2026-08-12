@@ -1,0 +1,101 @@
+[
+  {
+    "id": "chapter-04",
+    "order": 4,
+    "title": "Socrates Speaks",
+    "difficulty": 4,
+    "description": "Take a first step into Classical Attic Greek through a line of Platonic dialogue.",
+    "context": "In Plato's Euthyphro, Socrates meets Euthyphro near the court in Athens. Socrates is facing the charge brought against him by Meletus. The conversational form gives us short pieces of genuine Attic Greek.",
+    "grammar": [
+      {
+        "id": "present-third-plural",
+        "title": "The present plural",
+        "explanation": "A Greek verb ending can identify its subject even before you have found the corresponding noun.",
+        "example": {
+          "greek": "Ἀθηναῖοι καλοῦσιν",
+          "translation": "the Athenians call",
+          "note": "καλοῦσιν is third-person plural present active."
+        }
+      },
+      {
+        "id": "vocative",
+        "title": "Addressing someone",
+        "explanation": "The vocative is used when directly addressing someone. It frequently appears with ὦ.",
+        "example": {
+          "greek": "ὦ Εὐθύφρων",
+          "translation": "O Euthyphro / Euthyphro",
+          "note": "English normally omits 'O' in ordinary translation."
+        }
+      },
+      {
+        "id": "contrast",
+        "title": "Not this, but that",
+        "explanation": "Greek frequently builds contrast with a negative expression followed by ἀλλά.",
+        "example": {
+          "greek": "οὔ ... ἀλλὰ",
+          "translation": "not ... but ...",
+          "note": "Look for the contrast before trying to translate every particle individually."
+        }
+      },
+      {
+        "id": "particles",
+        "title": "Small Greek particles",
+        "explanation": "Words such as δή and γε add emphasis, connection or nuance. They do not always need an individual English word.",
+        "example": {
+          "greek": "οὔτοι δὴ Ἀθηναῖοί γε",
+          "translation": "the Athenians certainly do not",
+          "note": "Read the phrase as a whole rather than forcing a separate English equivalent for every particle."
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "greek": "ὁ Ἀθηναῖος",
+        "translation": "Athenian"
+      },
+      {
+        "greek": "καλέω",
+        "translation": "call, name"
+      },
+      {
+        "greek": "ἡ δίκη",
+        "translation": "lawsuit, legal action"
+      },
+      {
+        "greek": "ἡ γραφή",
+        "translation": "writing; indictment, public charge"
+      },
+      {
+        "greek": "ἀλλά",
+        "translation": "but"
+      },
+      {
+        "greek": "ὦ",
+        "translation": "O",
+        "note": "used with direct address"
+      }
+    ],
+    "texts": [
+      {
+        "id": "plato-euthyphro-01",
+        "title": "Not an Action, but an Indictment",
+        "type": "original",
+        "source": {
+          "author": "Plato",
+          "work": "Euthyphro",
+          "reference": "2a",
+          "dialect": "attic"
+        },
+        "greek": "οὔτοι δὴ Ἀθηναῖοί γε, ὦ Εὐθύφρων, δίκην αὐτὴν καλοῦσιν ἀλλὰ γραφήν.",
+        "readingHints": [
+          "Find καλοῦσιν first: 'they call'.",
+          "Ἀθηναῖοι supplies the plural subject.",
+          "ὦ Εὐθύφρων is direct address and stands outside the main sentence.",
+          "Look at δίκην and γραφήν together: both are accusative.",
+          "Use οὔ ... ἀλλά to build the basic structure: 'they do not call it X, but Y'."
+        ],
+        "translation": "The Athenians, Euthyphro, do not call it an action, but an indictment."
+      }
+    ]
+  }
+]

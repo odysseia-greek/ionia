@@ -1,0 +1,104 @@
+[
+  {
+    "id": "chapter-03",
+    "order": 3,
+    "title": "A Man Named John",
+    "level": 3,
+    "description": "Move beyond simple forms and meet the aorist, the genitive and your first participle.",
+    "context": "The opening of John moves from the λόγος to John the Baptist. The sentence introduces several structures that appear constantly in later Greek prose.",
+    "grammar": [
+      {
+        "id": "aorist-gignomai",
+        "title": "ἐγένετο — something happened",
+        "explanation": "ἐγένετο is the aorist of γίγνομαι. Depending on context it can mean 'became', 'came to be', 'appeared' or simply 'there was'.",
+        "example": {
+          "greek": "ἐγένετο ἄνθρωπος",
+          "translation": "there was a man",
+          "note": "A word-for-word 'a man came into being' would usually be unnatural English."
+        }
+      },
+      {
+        "id": "genitive",
+        "title": "The genitive",
+        "explanation": "The genitive frequently expresses origin, possession or association.",
+        "example": {
+          "greek": "παρὰ θεοῦ",
+          "translation": "from God",
+          "note": "παρά with the genitive expresses movement or origin from someone."
+        }
+      },
+      {
+        "id": "participle",
+        "title": "The participle",
+        "explanation": "A participle is a verbal form that also behaves like an adjective. It describes a noun while retaining the meaning of a verb.",
+        "example": {
+          "greek": "ἄνθρωπος ἀπεσταλμένος",
+          "translation": "a man who had been sent / a man sent",
+          "note": "ἀπεσταλμένος describes ἄνθρωπος."
+        }
+      },
+      {
+        "id": "dative-possession",
+        "title": "The dative with εἰμί",
+        "explanation": "Greek can use the dative with 'to be' where English naturally uses 'have'.",
+        "example": {
+          "greek": "ὄνομα αὐτῷ Ἰωάννης",
+          "translation": "his name was John",
+          "note": "More literally: 'to him [was] the name John'."
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "greek": "ὁ ἄνθρωπος",
+        "translation": "human being, person, man"
+      },
+      {
+        "greek": "γίγνομαι",
+        "translation": "become, happen, come into being"
+      },
+      {
+        "greek": "ἀποστέλλω",
+        "translation": "send"
+      },
+      {
+        "greek": "παρά",
+        "translation": "from, beside, by"
+      },
+      {
+        "greek": "τὸ ὄνομα",
+        "translation": "name"
+      },
+      {
+        "greek": "αὐτός",
+        "translation": "he, she, it; self; same"
+      },
+      {
+        "greek": "Ἰωάννης",
+        "translation": "John"
+      }
+    ],
+    "texts": [
+      {
+        "id": "john-1-6",
+        "title": "John 1:6",
+        "type": "original",
+        "source": {
+          "author": "John",
+          "work": "Gospel of John",
+          "reference": "1:6",
+          "dialect": "koine"
+        },
+        "greek": "Ἐγένετο ἄνθρωπος ἀπεσταλμένος παρὰ θεοῦ, ὄνομα αὐτῷ Ἰωάννης.",
+        "readingHints": [
+          "Start with ἐγένετο. Do not insist on translating it literally.",
+          "ἄνθρωπος is nominative and gives you the person being introduced.",
+          "ἀπεσταλμένος agrees with ἄνθρωπος: the man is the one who was sent.",
+          "παρὰ θεοῦ tells you where the sending came from.",
+          "For ὄνομα αὐτῷ Ἰωάννης, resist English word order and reconstruct the idea: 'his name was John'."
+        ],
+        "translation": "There was a man sent from God, whose name was John."
+      }
+    ]
+  }
+]

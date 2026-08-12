@@ -1,0 +1,106 @@
+[
+  {
+    "id": "chapter-06",
+    "order": 6,
+    "title": "The Athenians at Marathon",
+    "difficulty": 6,
+    "description": "Read Herodotus' account of the Athenian counterattack at Marathon.",
+    "context": "In 490 BCE the Persian army landed at Marathon in Attica. Herodotus describes how the Athenian wings defeated their opponents and then turned inward against the Persians who had broken the Greek centre.",
+    "grammar": [
+      {
+        "id": "circumstantial-participles",
+        "title": "Following the action through participles",
+        "explanation": "Herodotus frequently uses participles to establish circumstances around the main action. Identify the finite verbs first, then fit the participles around them.",
+        "example": {
+          "greek": "συναγαγόντες τὰ κέρεα ἀμφότερα ἐμάχοντο",
+          "translation": "bringing both wings together, they fought",
+          "note": "ἐμάχοντο is the main verb. συναγαγόντες tells you what they did before or as they began fighting."
+        }
+      },
+      {
+        "id": "ionic-greek",
+        "title": "Ionic forms",
+        "explanation": "Herodotus writes in Ionic Greek. Some familiar Attic words and endings therefore appear in different forms.",
+        "example": {
+          "greek": "τοῖσι Πέρσῃσι",
+          "translation": "the Persians",
+          "note": "Herodotus frequently uses -οισι/-ῃσι where Attic prose would normally have -οις/-αις."
+        }
+      },
+      {
+        "id": "narrative-aorist",
+        "title": "Aorists drive the narrative",
+        "explanation": "Historical narrative frequently uses aorists for successive completed events.",
+        "example": {
+          "greek": "ἐνίκων Ἀθηναῖοι",
+          "translation": "the Athenians prevailed",
+          "note": "When reading narrative, establish the sequence of main verbs before untangling every subordinate element."
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "greek": "νικάω",
+        "translation": "conquer, prevail"
+      },
+      {
+        "greek": "ὁ βάρβαρος",
+        "translation": "foreigner, non-Greek"
+      },
+      {
+        "greek": "φεύγω",
+        "translation": "flee"
+      },
+      {
+        "greek": "τὸ κέρας",
+        "translation": "horn; wing of an army"
+      },
+      {
+        "greek": "μάχομαι",
+        "translation": "fight"
+      },
+      {
+        "greek": "ἕπομαι",
+        "translation": "follow"
+      },
+      {
+        "greek": "κόπτω",
+        "translation": "strike, cut"
+      },
+      {
+        "greek": "ἡ θάλασσα",
+        "translation": "sea"
+      },
+      {
+        "greek": "τὸ πῦρ",
+        "translation": "fire"
+      },
+      {
+        "greek": "ἡ ναῦς",
+        "translation": "ship"
+      }
+    ],
+    "texts": [
+      {
+        "id": "herodotus-6-113",
+        "title": "Victory at Marathon",
+        "type": "original",
+        "source": {
+          "author": "Herodotus",
+          "work": "Histories",
+          "reference": "6.113",
+          "dialect": "ionic"
+        },
+        "greek": "νικῶντες δὲ τὸ μὲν τετραμμένον τῶν βαρβάρων φεύγειν ἔων, τοῖσι δὲ τὸ μέσον ῥήξασι αὐτῶν συναγαγόντες τὰ κέρεα ἀμφότερα ἐμάχοντο, καὶ ἐνίκων Ἀθηναῖοι. φεύγουσι δὲ τοῖσι Πέρσῃσι εἵποντο κόπτοντες, ἐς ὃ ἐς τὴν θάλασσαν ἀπικόμενοι πῦρ τε αἴτεον καὶ ἐπελαμβάνοντο τῶν νεῶν.",
+        "readingHints": [
+          "Do not begin by translating from left to right. First locate the main finite verbs.",
+          "νικῶντες and συναγαγόντες establish circumstances around the main action.",
+          "τὰ κέρεα means the wings of the Athenian battle line.",
+          "Herodotus' τοῖσι is an Ionic form. Do not mistake unfamiliar Ionic endings for completely new grammar.",
+          "In the second sentence, follow the movement: fleeing Persians → pursuing Athenians → sea → ships."
+        ],
+        "translation": "In victory they let the routed foreigners flee, and brought the wings together to fight those who had broken through the center. The Athenians prevailed, then followed the fleeing Persians and struck them down. When they reached the sea they demanded fire and laid hold of the Persian ships."
+      }
+    ]
+  }
+]
