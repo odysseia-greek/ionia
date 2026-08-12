@@ -4,245 +4,76 @@
     "order": 1,
     "title": "The Greek Alphabet",
     "level": 1,
-    "description": "Learn the letters needed to begin reading Ancient Greek.",
-    "context": "",
-    "grammar": [],
-    "vocabulary": [],
-    "texts": [
-      {
-        "id": "alphabet",
-        "title": "The Greek Alphabet",
-        "type": "alphabet",
-        "content": [
-          { "upper": "Α", "lower": "α", "name": "alpha" },
-          { "upper": "Β", "lower": "β", "name": "beta" },
-          { "upper": "Γ", "lower": "γ", "name": "gamma" },
-          { "upper": "Δ", "lower": "δ", "name": "delta" },
-          { "upper": "Ε", "lower": "ε", "name": "epsilon" },
-          { "upper": "Ζ", "lower": "ζ", "name": "zeta" },
-          { "upper": "Η", "lower": "η", "name": "eta" },
-          { "upper": "Θ", "lower": "θ", "name": "theta" },
-          { "upper": "Ι", "lower": "ι", "name": "iota" },
-          { "upper": "Κ", "lower": "κ", "name": "kappa" },
-          { "upper": "Λ", "lower": "λ", "name": "lambda" },
-          { "upper": "Μ", "lower": "μ", "name": "mu" },
-          { "upper": "Ν", "lower": "ν", "name": "nu" },
-          { "upper": "Ξ", "lower": "ξ", "name": "xi" },
-          { "upper": "Ο", "lower": "ο", "name": "omicron" },
-          { "upper": "Π", "lower": "π", "name": "pi" },
-          { "upper": "Ρ", "lower": "ρ", "name": "rho" },
-          { "upper": "Σ", "lower": "σ/ς", "name": "sigma" },
-          { "upper": "Τ", "lower": "τ", "name": "tau" },
-          { "upper": "Υ", "lower": "υ", "name": "upsilon" },
-          { "upper": "Φ", "lower": "φ", "name": "phi" },
-          { "upper": "Χ", "lower": "χ", "name": "chi" },
-          { "upper": "Ψ", "lower": "ψ", "name": "psi" },
-          { "upper": "Ω", "lower": "ω", "name": "omega" }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "chapter-02",
-    "order": 2,
-    "title": "In the Beginning",
-    "level": 2,
-    "description": "Read your first original Greek sentence and learn how cases reveal the structure of a sentence.",
-    "context": "The Gospel of John opens with a deliberate reflection on the λόγος, the Word. The Greek is repetitive and structurally clear, making it useful for beginning readers.",
+    "description": "Learn the Greek letters and begin recognizing words in their original script.",
+    "context": "Ancient Greek is written with an alphabet of 24 letters. Before worrying about grammar, the first goal is simply to recognize the letters and read words aloud.",
     "grammar": [
       {
-        "id": "nominative",
-        "title": "The nominative",
-        "explanation": "The nominative commonly marks the subject: the person or thing the sentence is about.",
+        "id": "alphabet",
+        "title": "The alphabet",
+        "explanation": "Greek has 24 letters. Most have distinct uppercase and lowercase forms.",
         "example": {
-          "greek": "ὁ λόγος ἦν",
-          "translation": "the Word was",
-          "note": "ὁ λόγος is nominative because λόγος is the subject."
+          "greek": "Α α — Β β — Γ γ",
+          "translation": "alpha — beta — gamma",
+          "note": "Learn to recognize the shapes before worrying about perfect pronunciation."
         }
       },
       {
-        "id": "accusative",
-        "title": "The accusative",
-        "explanation": "The accusative often marks the direct object, but it is also used after certain prepositions.",
+        "id": "final-sigma",
+        "title": "Two forms of sigma",
+        "explanation": "Sigma is written σ inside a word and ς at the end of a word.",
         "example": {
-          "greek": "πρὸς τὸν θεόν",
-          "translation": "with / toward God",
-          "note": "πρός takes the accusative here, so θεός appears as τὸν θεόν."
+          "greek": "λόγος",
+          "translation": "word",
+          "note": "The first sigma is σ; the final sigma is ς."
         }
       },
       {
-        "id": "dative",
-        "title": "The dative",
-        "explanation": "The dative can express location, means, possession and several other relationships.",
+        "id": "breathings-accents",
+        "title": "Marks above letters",
+        "explanation": "Greek texts contain accents and breathing marks. At first, learn to recognize the underlying word without trying to master every mark.",
         "example": {
-          "greek": "ἐν ἀρχῇ",
-          "translation": "in the beginning",
-          "note": "ἐν normally takes the dative when describing location or position."
-        }
-      },
-      {
-        "id": "imperfect-eimi",
-        "title": "ἦν — he, she or it was",
-        "explanation": "ἦν is an imperfect form of εἰμί, 'to be'. It means 'was' and is third-person singular.",
-        "example": {
-          "greek": "ἦν ὁ λόγος",
-          "translation": "the Word was"
+          "greek": "ἄνθρωπος",
+          "translation": "human being, person",
+          "note": "The marks are part of normal printed Greek, but they should not prevent you from beginning to read."
         }
       }
     ],
     "vocabulary": [
       {
-        "greek": "ἡ ἀρχή",
-        "translation": "beginning, origin"
-      },
-      {
-        "greek": "ὁ λόγος",
+        "greek": "λόγος",
         "translation": "word, speech, reason"
       },
       {
-        "greek": "ὁ θεός",
-        "translation": "god, God"
+        "greek": "θεός",
+        "translation": "god"
       },
       {
-        "greek": "ἐν",
-        "translation": "in",
-        "note": "takes the dative"
+        "greek": "ἄνθρωπος",
+        "translation": "human being, person"
       },
       {
-        "greek": "πρός",
-        "translation": "toward, with",
-        "note": "takes the accusative here"
-      },
-      {
-        "greek": "καί",
-        "translation": "and, also"
-      },
-      {
-        "greek": "εἰμί",
-        "translation": "to be"
+        "greek": "ἀρχή",
+        "translation": "beginning"
       }
     ],
     "texts": [
       {
-        "id": "john-1-1",
-        "title": "John 1:1",
-        "type": "original",
+        "id": "alphabet-01",
+        "title": "The Greek Alphabet",
+        "type": "learning",
         "source": {
-          "author": "John",
-          "work": "Gospel of John",
-          "reference": "1:1",
-          "dialect": "koine"
+          "author": "",
+          "work": "",
+          "reference": "",
+          "dialect": "general"
         },
-        "greek": "Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.",
+        "greek": "Α α  Β β  Γ γ  Δ δ  Ε ε  Ζ ζ  Η η  Θ θ  Ι ι  Κ κ  Λ λ  Μ μ  Ν ν  Ξ ξ  Ο ο  Π π  Ρ ρ  Σ σ/ς  Τ τ  Υ υ  Φ φ  Χ χ  Ψ ψ  Ω ω",
         "readingHints": [
-          "Start by finding the repeated verb: ἦν.",
-          "Look for the nominative forms that tell you what each clause is about.",
-          "Notice that ἀρχή becomes ἀρχῇ after ἐν.",
-          "Notice that θεός becomes θεόν after πρός."
+          "Read slowly from left to right and learn the uppercase and lowercase forms together.",
+          "Notice that sigma has two lowercase forms: σ and final ς.",
+          "Try recognizing λόγος, θεός, ἄνθρωπος and ἀρχή before moving on."
         ],
-        "translation": "In the beginning was the Word, and the Word was with God, and the Word was God."
-      }
-    ]
-  },
-  {
-    "id": "chapter-03",
-    "order": 3,
-    "title": "A Man Named John",
-    "level": 3,
-    "description": "Move beyond simple forms and meet the aorist, the genitive and your first participle.",
-    "context": "The opening of John moves from the λόγος to John the Baptist. The sentence introduces several structures that appear constantly in later Greek prose.",
-    "grammar": [
-      {
-        "id": "aorist-gignomai",
-        "title": "ἐγένετο — something happened",
-        "explanation": "ἐγένετο is the aorist of γίγνομαι. Depending on context it can mean 'became', 'came to be', 'appeared' or simply 'there was'.",
-        "example": {
-          "greek": "ἐγένετο ἄνθρωπος",
-          "translation": "there was a man",
-          "note": "A word-for-word 'a man came into being' would usually be unnatural English."
-        }
-      },
-      {
-        "id": "genitive",
-        "title": "The genitive",
-        "explanation": "The genitive frequently expresses origin, possession or association.",
-        "example": {
-          "greek": "παρὰ θεοῦ",
-          "translation": "from God",
-          "note": "παρά with the genitive expresses movement or origin from someone."
-        }
-      },
-      {
-        "id": "participle",
-        "title": "The participle",
-        "explanation": "A participle is a verbal form that also behaves like an adjective. It describes a noun while retaining the meaning of a verb.",
-        "example": {
-          "greek": "ἄνθρωπος ἀπεσταλμένος",
-          "translation": "a man who had been sent / a man sent",
-          "note": "ἀπεσταλμένος describes ἄνθρωπος."
-        }
-      },
-      {
-        "id": "dative-possession",
-        "title": "The dative with εἰμί",
-        "explanation": "Greek can use the dative with 'to be' where English naturally uses 'have'.",
-        "example": {
-          "greek": "ὄνομα αὐτῷ Ἰωάννης",
-          "translation": "his name was John",
-          "note": "More literally: 'to him [was] the name John'."
-        }
-      }
-    ],
-    "vocabulary": [
-      {
-        "greek": "ὁ ἄνθρωπος",
-        "translation": "human being, person, man"
-      },
-      {
-        "greek": "γίγνομαι",
-        "translation": "become, happen, come into being"
-      },
-      {
-        "greek": "ἀποστέλλω",
-        "translation": "send"
-      },
-      {
-        "greek": "παρά",
-        "translation": "from, beside, by"
-      },
-      {
-        "greek": "τὸ ὄνομα",
-        "translation": "name"
-      },
-      {
-        "greek": "αὐτός",
-        "translation": "he, she, it; self; same"
-      },
-      {
-        "greek": "Ἰωάννης",
-        "translation": "John"
-      }
-    ],
-    "texts": [
-      {
-        "id": "john-1-6",
-        "title": "John 1:6",
-        "type": "original",
-        "source": {
-          "author": "John",
-          "work": "Gospel of John",
-          "reference": "1:6",
-          "dialect": "koine"
-        },
-        "greek": "Ἐγένετο ἄνθρωπος ἀπεσταλμένος παρὰ θεοῦ, ὄνομα αὐτῷ Ἰωάννης.",
-        "readingHints": [
-          "Start with ἐγένετο. Do not insist on translating it literally.",
-          "ἄνθρωπος is nominative and gives you the person being introduced.",
-          "ἀπεσταλμένος agrees with ἄνθρωπος: the man is the one who was sent.",
-          "παρὰ θεοῦ tells you where the sending came from.",
-          "For ὄνομα αὐτῷ Ἰωάννης, resist English word order and reconstruct the idea: 'his name was John'."
-        ],
-        "translation": "There was a man sent from God, whose name was John."
+        "translation": "alpha, beta, gamma, delta, epsilon, zeta, eta, theta, iota, kappa, lambda, mu, nu, xi, omicron, pi, rho, sigma, tau, upsilon, phi, chi, psi, omega"
       }
     ]
   }

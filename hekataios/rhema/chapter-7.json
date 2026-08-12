@@ -1,0 +1,150 @@
+[
+  {
+    "id": "chapter-07",
+    "order": 7,
+    "title": "Democracy at Athens",
+    "level": 7,
+    "description": "Enter advanced Classical prose through Thucydides' version of Pericles' Funeral Oration.",
+    "context": "In Book 2 of the History of the Peloponnesian War, Thucydides presents the funeral speech delivered by Pericles for the Athenians who had died in the first year of the war. Pericles turns from the dead to the character of Athens itself.",
+    "grammar": [
+      {
+        "id": "dense-prose",
+        "title": "Reading the clause, not the word",
+        "explanation": "Advanced Greek prose cannot reliably be understood by translating one word after another. Find the principal clauses, identify contrasts and dependencies, and only then produce natural English.",
+        "example": {
+          "greek": "παράδειγμα δὲ μᾶλλον αὐτοὶ ὄντες τισὶν ἢ μιμούμενοι ἑτέρους",
+          "translation": "being ourselves rather an example to others than imitators of them",
+          "note": "The μᾶλλον ... ἤ structure establishes the comparison. Read the whole unit before trying to produce English."
+        }
+      },
+      {
+        "id": "men-de",
+        "title": "μέν and δέ",
+        "explanation": "μέν and δέ organize related or contrasting parts of an argument. Their structural role is often more important than finding separate English words for them.",
+        "example": {
+          "greek": "ὄνομα μὲν ... μέτεστι δὲ",
+          "translation": "in name ... while ...",
+          "note": "Use the particles to map the structure of the argument before translating the individual clauses."
+        }
+      },
+      {
+        "id": "substantive-infinitive",
+        "title": "The articular infinitive",
+        "explanation": "An infinitive preceded by the article can function much like a noun. With a preposition it can express relationships such as cause or reason.",
+        "example": {
+          "greek": "διὰ τὸ μὴ ἐς ὀλίγους ἀλλ’ ἐς πλείονας οἰκεῖν",
+          "translation": "because it is administered not for the few but for the many",
+          "note": "Do not try to translate τὸ and οἰκεῖν independently. Treat διὰ τὸ ... οἰκεῖν as a unit."
+        }
+      },
+      {
+        "id": "participles-advanced",
+        "title": "Participles inside an argument",
+        "explanation": "Participles in advanced prose can compress logical relationships and qualifications inside already complex clauses.",
+        "example": {
+          "greek": "αὐτοὶ ὄντες ... ἢ μιμούμενοι ἑτέρους",
+          "translation": "being ourselves ... rather than imitating others",
+          "note": "Ask what logical relationship the participles contribute rather than translating them mechanically."
+        }
+      },
+      {
+        "id": "conditional-participle",
+        "title": "A participle with conditional force",
+        "explanation": "A participle can sometimes express an idea that English more naturally renders as a conditional clause.",
+        "example": {
+          "greek": "ἔχων γέ τι ἀγαθὸν δρᾶσαι τὴν πόλιν",
+          "translation": "if he is able to do some good for the city",
+          "note": "The participle ἔχων is better understood through its role in the argument than by automatically translating it as 'having'."
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "greek": "ἡ πολιτεία",
+        "translation": "constitution, government, civic order"
+      },
+      {
+        "greek": "ζηλόω",
+        "translation": "emulate, imitate, admire"
+      },
+      {
+        "greek": "ὁ πέλας",
+        "translation": "neighbor, someone nearby"
+      },
+      {
+        "greek": "ὁ νόμος",
+        "translation": "law"
+      },
+      {
+        "greek": "τὸ παράδειγμα",
+        "translation": "example, pattern"
+      },
+      {
+        "greek": "μιμέομαι",
+        "translation": "imitate"
+      },
+      {
+        "greek": "ἡ δημοκρατία",
+        "translation": "democracy"
+      },
+      {
+        "greek": "μέτεστι",
+        "translation": "there is a share in, one has a share in"
+      },
+      {
+        "greek": "τὸ ἴσον",
+        "translation": "equality, what is equal"
+      },
+      {
+        "greek": "ἡ ἀξίωσις",
+        "translation": "estimation, reputation, standing"
+      },
+      {
+        "greek": "εὐδοκιμέω",
+        "translation": "be held in esteem, have a good reputation"
+      },
+      {
+        "greek": "τὰ κοινά",
+        "translation": "public affairs"
+      },
+      {
+        "greek": "ἡ ἀρετή",
+        "translation": "excellence, merit, virtue"
+      },
+      {
+        "greek": "ἡ πενία",
+        "translation": "poverty"
+      },
+      {
+        "greek": "τὸ ἀξίωμα",
+        "translation": "reputation, rank, standing"
+      },
+      {
+        "greek": "κωλύω",
+        "translation": "prevent, hinder"
+      }
+    ],
+    "texts": [
+      {
+        "id": "thucydides-2-37-1",
+        "title": "The Constitution of Athens",
+        "type": "original",
+        "source": {
+          "author": "Thucydides",
+          "work": "History of the Peloponnesian War",
+          "reference": "2.37.1",
+          "dialect": "attic"
+        },
+        "greek": "χρώμεθα γὰρ πολιτείᾳ οὐ ζηλούσῃ τοὺς τῶν πέλας νόμους, παράδειγμα δὲ μᾶλλον αὐτοὶ ὄντες τισὶν ἢ μιμούμενοι ἑτέρους. καὶ ὄνομα μὲν διὰ τὸ μὴ ἐς ὀλίγους ἀλλ’ ἐς πλείονας οἰκεῖν δημοκρατία κέκληται· μέτεστι δὲ κατὰ μὲν τοὺς νόμους πρὸς τὰ ἴδια διάφορα πᾶσι τὸ ἴσον, κατὰ δὲ τὴν ἀξίωσιν, ὡς ἕκαστος ἐν τῳ εὐδοκιμεῖ, οὐκ ἀπὸ μέρους τὸ πλέον ἐς τὰ κοινὰ ἢ ἀπ’ ἀρετῆς προτιμᾶται, οὐδ’ αὖ κατὰ πενίαν, ἔχων γέ τι ἀγαθὸν δρᾶσαι τὴν πόλιν, ἀξιώματος ἀφανείᾳ κεκώλυται.",
+        "readingHints": [
+          "Begin with the main verb χρώμεθα and take πολιτείᾳ with it: 'we live under a constitution'.",
+          "Read παράδειγμα ... ὄντες against μιμούμενοι: the Athenians are an example rather than imitators.",
+          "Treat διὰ τὸ ... οἰκεῖν as one causal unit explaining the name δημοκρατία.",
+          "Use μὲν ... δέ and κατὰ μὲν ... κατὰ δέ to map the successive contrasts.",
+          "Understand ἔχων conditionally: 'if he is able to do some good for the city'."
+        ],
+        "translation": "For we live under a constitution that does not emulate the laws of our neighbors, being ourselves rather an example to some than imitators of others. And it is called a democracy in name because it is administered not for the few but for the many. While in private disputes all have an equal share according to the laws, in public affairs a man is preferred according to his reputation for excellence in some field, not by rotation but by merit; nor again, if he is able to do some good for the city, is he prevented by the obscurity of his standing because of poverty."
+      }
+    ]
+  }
+]

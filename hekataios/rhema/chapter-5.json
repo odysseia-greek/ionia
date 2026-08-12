@@ -1,0 +1,164 @@
+[
+  {
+    "id": "chapter-05",
+    "order": 5,
+    "title": "The Farmer and the Snake",
+    "level": 5,
+    "description": "Read a complete Greek fable and learn how participles allow Greek to pack a sequence of actions into a sentence.",
+    "context": "The fables associated with Aesop use short narratives to lead to a moral. In this story, a farmer takes pity on a snake frozen by the winter cold.",
+    "grammar": [
+      {
+        "id": "aorist-participle",
+        "title": "The aorist participle",
+        "explanation": "An aorist participle often describes an action completed before the main verb. English frequently translates it with 'after', 'when' or by simply coordinating the actions.",
+        "example": {
+          "greek": "τοῦτον ἐλεήσας καὶ λαβὼν ... ἔθετο",
+          "translation": "taking pity on it and picking it up, he placed it...",
+          "note": "The main verb is ἔθετο. The participles explain what the farmer did before placing the snake in his clothing."
+        }
+      },
+      {
+        "id": "perfect-participle",
+        "title": "A resulting state",
+        "explanation": "The perfect can emphasize the state resulting from an earlier action.",
+        "example": {
+          "greek": "ὄφιν ... πεπηγότα",
+          "translation": "a snake stiff with cold",
+          "note": "The snake has become frozen or stiff and is found in that resulting condition."
+        }
+      },
+      {
+        "id": "present-participle",
+        "title": "Actions happening together",
+        "explanation": "A present participle can describe an action occurring at the same time as the main verb.",
+        "example": {
+          "greek": "θνήσκων δὲ ἔλεγε",
+          "translation": "as he was dying, he said",
+          "note": "The dying and speaking overlap."
+        }
+      }
+    ],
+    "vocabulary": [
+      {
+        "greek": "ὁ γεωργός",
+        "translation": "farmer"
+      },
+      {
+        "greek": "ὁ ὄφις",
+        "translation": "snake"
+      },
+      {
+        "greek": "τὸ κρύος",
+        "translation": "cold"
+      },
+      {
+        "greek": "εὑρίσκω",
+        "translation": "find"
+      },
+      {
+        "greek": "ἐλεέω",
+        "translation": "pity, have mercy on"
+      },
+      {
+        "greek": "λαμβάνω",
+        "translation": "take"
+      },
+      {
+        "greek": "τίθημι",
+        "translation": "put, place"
+      },
+      {
+        "greek": "πλήσσω",
+        "translation": "strike"
+      },
+      {
+        "greek": "ἀναιρέω",
+        "translation": "kill, destroy; take up"
+      },
+      {
+        "greek": "θνῄσκω",
+        "translation": "die"
+      },
+      {
+        "greek": "πάσχω",
+        "translation": "experience, suffer"
+      }
+    ],
+    "texts": [
+      {
+        "id": "aesop-farmer-snake-01",
+        "title": "The Farmer Finds the Snake",
+        "type": "original",
+        "source": {
+          "author": "Aesop",
+          "work": "Fables",
+          "reference": "Farmer and Snake",
+          "dialect": "attic"
+        },
+        "greek": "Γέρων τις γεωργὸς χειμῶνος ὥρᾳ ὄφιν εὑρὼν ὑπὸ κρύους πεπηγότα, τοῦτον ἐλεήσας καὶ λαβὼν ὑπὸ κόλπον ἔθετο.",
+        "readingHints": [
+          "Find the main verb first: ἔθετο.",
+          "The subject is γέρων τις γεωργός: 'a certain old farmer'.",
+          "εὑρών, ἐλεήσας and λαβών are participles describing actions leading up to ἔθετο.",
+          "Do not try to preserve the Greek participial structure mechanically in English."
+        ],
+        "translation": "An old farmer, finding during winter a snake stiff with cold, took pity on it, picked it up and placed it in his bosom."
+      },
+      {
+        "id": "aesop-farmer-snake-02",
+        "title": "The Snake Revives",
+        "type": "original",
+        "source": {
+          "author": "Aesop",
+          "work": "Fables",
+          "reference": "Farmer and Snake",
+          "dialect": "attic"
+        },
+        "greek": "Θερμανθεὶς δὲ ἐκεῖνος καὶ ἀναλαβὼν τὴν ἰδίαν φύσιν, ἔπληξε τὸν εὐεργέτην καὶ ἀνεῖλε.",
+        "readingHints": [
+          "The main verbs are ἔπληξε and ἀνεῖλε.",
+          "Θερμανθείς means that the snake has been warmed.",
+          "ἀναλαβών describes what happens before the main actions.",
+          "τὸν εὐεργέτην is the object of the snake's attack."
+        ],
+        "translation": "But when it had been warmed and recovered its natural character, it struck its benefactor and killed him."
+      },
+      {
+        "id": "aesop-farmer-snake-03",
+        "title": "The Farmer's Last Words",
+        "type": "original",
+        "source": {
+          "author": "Aesop",
+          "work": "Fables",
+          "reference": "Farmer and Snake",
+          "dialect": "attic"
+        },
+        "greek": "θνήσκων δὲ ἔλεγε· «δίκαια πάσχω, τὸν πονηρὸν οἰκτείρας.»",
+        "readingHints": [
+          "θνήσκων and ἔλεγε happen at the same time: 'as he was dying, he said'.",
+          "δίκαια πάσχω is literally something like 'I suffer just things'. Look for natural English.",
+          "οἰκτείρας gives the reason for his fate: he pitied a wicked creature."
+        ],
+        "translation": "As he was dying he said, 'I suffer justly for having pitied the wicked.'"
+      },
+      {
+        "id": "aesop-farmer-snake-04",
+        "title": "The Moral",
+        "type": "original",
+        "source": {
+          "author": "Aesop",
+          "work": "Fables",
+          "reference": "Farmer and Snake",
+          "dialect": "attic"
+        },
+        "greek": "Ὁ λόγος δηλοῖ, ὅτι ἀμετάθετοί εἰσιν αἱ πονηρίαι, κἂν τὰ μέγιστα φιλανθρωπεύωνται.",
+        "readingHints": [
+          "ὁ λόγος here refers to the fable or story.",
+          "δηλοῖ introduces what the story demonstrates.",
+          "ὅτι introduces the content of that lesson."
+        ],
+        "translation": "The story shows that wicked natures do not change, even when they are treated with the greatest kindness."
+      }
+    ]
+  }
+]
